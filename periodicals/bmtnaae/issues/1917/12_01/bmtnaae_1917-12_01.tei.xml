@@ -1,855 +1,937 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:mods="http://www.loc.gov/mods/v3">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>
-        Transcription of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          Transcription of
+          <biblStruct>
+            <monogr>
+              <title level="j">
+                <seg type="main">Dada (Zurich, Switzerland)Dada 2</seg>
+              </title>
+              <imprint>
+                <biblScope unit="issue">2</biblScope>
+                <date when="1917-12">Décembre 1917</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Princeton University</publisher>
+        <idno type="bmtnid">urn:PUL:bluemountain:bmtnaae_1917-12_01</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Blue Mountain Project</title>
+      </seriesStmt>
+      <sourceDesc>
+	<msDesc>
+          <msIdentifier>
+            <institution>Princeton University Library</institution>
+          </msIdentifier>
+
+          <physDesc>
+            <objectDesc form="codex">
+              <supportDesc material="paper">
+                <support>
+                  <material><!-- describe paper --></material>
+                </support>
+                <extent>
+                  <measure type="count" unit="page">
+                    <!-- the page count of the source document, not the digital edition -->
+                  </measure>
+                  <dimensions type="page" unit="cm">
+                    <height><!-- the height --></height>
+                    <width><!-- the width --></width>
+                  </dimensions>
+                </extent>
+                <foliation>
+                  <!-- Describe pagination: new pagination; continuous with previous issue; different schemes for ads and content, etc. -->
+                </foliation>
+              </supportDesc>
+
+              <layoutDesc>
+		<layout>
+		  <p>Like issue 1, Dada 2 does not yet use its
+		  characteristically experimental page design.
+		  Insides are black text on white paper. Text in one
+		  column.</p>
+		</layout>
+                <layout n="advertisements"></layout>
+                <layout/>
+              </layoutDesc>
+            </objectDesc>
+
+            <typeDesc>
+              <summary>
+                <p>Contains typographically experimental poem by
+                Pierre Albert-Birot, which repeats syllables for
+                onomatopoeic and visual effect, and uses unusual
+                spacing. </p>
+              </summary>
+              <typeNote><!-- Use this element to describe note-worthy typographical features in detail. --></typeNote>
+            </typeDesc>
+
+            <decoDesc>
+              <p><!-- Woodcuts; ornaments; etc.  --></p>
+            </decoDesc>
+
+            <bindingDesc>
+	      <p>Wrapper is dark orange with title and illustration.</p>
+            </bindingDesc>
+
+          </physDesc>
+
+          <history>
+            <summary>
+              <!-- Anything that didn't fit in the elements above.  In particular,
+                   if there is price information, uncomment the <p> element below and 
+                   capture the price following the model, adjusting units and quantities as 
+                   necessary. -->
+              <!--<p>Sold for
+                  <measureGrp type="salesprice">
+                  <measure unit="dollars" quantity=".5">50 cents</measure>
+                  <measure unit="lire" quantity="10">10 lire</measure>
+                  <measure unit="francs" quantity="6">6 francs</measure>
+                  <measure unit="shillings" quantity="3/6">3/6</measure>
+                  </measureGrp>.</p>-->
+            </summary>
+            <provenance>
+              <!--contains any descriptive or other information concerning a single
+                  identifiable episode during the history of the issue, 
+                  after its creation but before its acquisition  -->
+            </provenance>
+
+            <acquisition>
+              <!-- Descriptive information about how the issue came to be acquired 
+                   by the holding institution -->
+            </acquisition>
+          </history>
+
+        </msDesc>
         <biblStruct>
-                  <monogr>
-                     <title level="j">
-                        <seg type="main">Dada (Zurich, Switzerland)Dada 2</seg>
-                     </title>
-                     <imprint>
-                        <biblScope unit="issue">2</biblScope>
-                        <date when="1917-12">Décembre 1917</date>
-                     </imprint>
-                  </monogr>
-               </biblStruct>
+          <monogr>
+            <title level="j">
+              <seg type="main">Dada (Zurich, Switzerland)Dada 2</seg>
             </title>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Princeton University</publisher>
-            <idno type="bmtnid">urn:PUL:bluemountain:bmtnaae_1917-12_01</idno>
-         </publicationStmt>
-         <seriesStmt>
-            <title level="s">The Blue Mountain Project</title>
-         </seriesStmt>
-         <sourceDesc>
+            <imprint>
+              <biblScope unit="issue">2</biblScope>
+              <date when="1917-12"/>
+            </imprint>
+          </monogr>
+          <relatedItem type="constituent" xml:id="c001">
             <biblStruct>
-               <monogr>
-                  <title level="j">
-                     <seg type="main">Dada (Zurich, Switzerland)Dada 2</seg>
-                  </title>
-                  <imprint>
-                     <biblScope unit="issue">2</biblScope>
-                     <date when="1917-12"/>
-                  </imprint>
-               </monogr>
-               <relatedItem type="constituent" xml:id="c001">
-                  <biblStruct>
-                     <analytic>
-                        <title level="a">
-                           <seg type="main">Cover Illustration</seg>
-                        </title>
-                     </analytic>
-                     <monogr>
-                        <imprint>
-                           <classCode scheme="CCS">Illustration</classCode>
-                           <biblScope unit="page">1</biblScope>
-                        </imprint>
-                     </monogr>
-                  </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
-                  <biblStruct>
-                     <analytic>
-                        <title level="a">
-                           <seg type="main">INTÉRIEUR</seg>
-                        </title>
-                        <respStmt>
-                           <persName>O. VAN REES</persName>
-                           <resp>cre</resp>
-                        </respStmt>
-                     </analytic>
-                     <monogr>
-                        <imprint>
-                           <classCode scheme="CCS">Illustration</classCode>
-                           <biblScope unit="page">2</biblScope>
-                        </imprint>
-                     </monogr>
-                  </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
-                  <biblStruct>
-                     <analytic>
-                        <title level="a">
-                           <seg type="main">NOTE 2 SUR L'ART. H. ARP.</seg>
-                        </title>
-                        <respStmt>
-                           <persName>TRISTAN TZARA</persName>
-                           <resp>cre</resp>
-                        </respStmt>
-                        <textLang mainLang="fre"/>
-                     </analytic>
-                     <monogr>
-                        <imprint>
-                           <classCode scheme="CCS">TextContent</classCode>
-                           <biblScope unit="page">3</biblScope>
-                        </imprint>
-                     </monogr>
-                  </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
-                  <biblStruct>
-                     <analytic>
-                        <title level="a">
-                           <seg type="main">STRADE</seg>
-                        </title>
-                        <respStmt>
-                           <persName>MARIA D'AREZZO</persName>
-                           <resp>cre</resp>
-                        </respStmt>
-                        <textLang mainLang="fre"/>
-                     </analytic>
-                     <monogr>
-                        <imprint>
-                           <classCode scheme="CCS">TextContent</classCode>
-                           <biblScope unit="page" from="3" to="6">3-6</biblScope>
-                        </imprint>
-                     </monogr>
-                     <relatedItem type="constituent" xml:id="c005">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">TABLEAU EN PAPIER.</seg>
-                              </title>
-                              <respStmt>
-                                 <persName>H. ARP</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">Illustration</classCode>
-                                 <biblScope unit="page">4</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
-                     <relatedItem type="constituent" xml:id="c006">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="nonSort">LA</seg>
-                                 <seg type="main">FENÊTRE SUR LA VILLE.</seg>
-                              </title>
-                              <respStmt>
-                                 <persName>ROBERT DELAUNAY</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">Illustration</classCode>
-                                 <biblScope unit="page">6</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
-                  </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c007">
-                  <biblStruct>
-                     <analytic>
-                        <title level="a">
-                           <seg type="main">RASOIR MÉCANIQUE</seg>
-                        </title>
-                        <respStmt>
-                           <persName>PIERRE ALBERT-BIROT</persName>
-                           <resp>cre</resp>
-                        </respStmt>
-                        <textLang mainLang="fre"/>
-                     </analytic>
-                     <monogr>
-                        <imprint>
-                           <classCode scheme="CCS">TextContent</classCode>
-                           <biblScope unit="page">7</biblScope>
-                        </imprint>
-                     </monogr>
-                  </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
-                  <biblStruct>
-                     <analytic>
-                        <title level="a">
-                           <seg type="main">POUR DADA</seg>
-                        </title>
-                        <respStmt>
-                           <persName>PIERRE ALBERT-BIROT</persName>
-                           <resp>cre</resp>
-                        </respStmt>
-                        <textLang mainLang="fre"/>
-                     </analytic>
-                     <monogr>
-                        <imprint>
-                           <classCode scheme="CCS">TextContent</classCode>
-                           <biblScope unit="page" from="7" to="9">7-9</biblScope>
-                        </imprint>
-                     </monogr>
-                     <relatedItem type="constituent" xml:id="c009">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">BOIS.</seg>
-                              </title>
-                              <respStmt>
-                                 <persName>ENRICO PRAMPOLINI</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">Illustration</classCode>
-                                 <biblScope unit="page">8</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
-                  </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c010">
-                  <biblStruct>
-                     <analytic>
-                        <title level="a">
-                           <seg type="main">COSTELLAZIONE</seg>
-                        </title>
-                        <respStmt>
-                           <persName>GINO CANTARELLI</persName>
-                           <resp>cre</resp>
-                        </respStmt>
-                        <textLang mainLang="ita"/>
-                     </analytic>
-                     <monogr>
-                        <imprint>
-                           <classCode scheme="CCS">TextContent</classCode>
-                           <biblScope unit="page" from="9" to="11">9-11</biblScope>
-                        </imprint>
-                     </monogr>
-                     <relatedItem type="constituent" xml:id="c011">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">AQUARELLE</seg>
-                              </title>
-                              <respStmt>
-                                 <persName>WASSILIY KANDINSKY</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">Illustration</classCode>
-                                 <biblScope unit="page">10</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
-                  </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c012">
-                  <biblStruct>
-                     <analytic>
-                        <title level="a">
-                           <seg type="main">SENTIMENTS DANS LES PALACES</seg>
-                        </title>
-                        <respStmt>
-                           <persName>S. DE VAULCHIER</persName>
-                           <resp>cre</resp>
-                        </respStmt>
-                        <textLang mainLang="fre"/>
-                     </analytic>
-                     <monogr>
-                        <imprint>
-                           <classCode scheme="CCS">TextContent</classCode>
-                           <biblScope unit="page" from="11" to="13">11-13</biblScope>
-                        </imprint>
-                     </monogr>
-                     <relatedItem type="constituent" xml:id="c013">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">PEINTURE.</seg>
-                              </title>
-                              <respStmt>
-                                 <persName>W. HELBIG</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">Illustration</classCode>
-                                 <biblScope unit="page">12</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
-                  </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c014">
-                  <biblStruct>
-                     <analytic>
-                        <title level="a">
-                           <seg type="main">CONCIME</seg>
-                        </title>
-                        <respStmt>
-                           <persName>BINO SAN MINIATELLI</persName>
-                           <resp>cre</resp>
-                        </respStmt>
-                        <textLang mainLang="fre"/>
-                     </analytic>
-                     <monogr>
-                        <imprint>
-                           <classCode scheme="CCS">TextContent</classCode>
-                           <biblScope unit="page" from="13" to="15">13-15</biblScope>
-                        </imprint>
-                     </monogr>
-                     <relatedItem type="constituent" xml:id="c015">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">RELIEF 3</seg>
-                              </title>
-                              <respStmt>
-                                 <persName>M. JANCO</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <respStmt>
-                                 <persName>Tr. Tzara</persName>
-                                 <resp/>
-                              </respStmt>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">Illustration</classCode>
-                                 <biblScope unit="page">14</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
-                  </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c016">
-                  <biblStruct>
-                     <analytic>
-                        <title level="a">
-                           <seg type="main">2 POÈMES NÈGRES</seg>
-                        </title>
-                        <respStmt>
-                           <persName>Tr. Tzara</persName>
-                           <resp>trl</resp>
-                        </respStmt>
-                        <respStmt>
-                           <persName>Loritja</persName>
-                           <resp>att</resp>
-                        </respStmt>
-                        <textLang mainLang="fre"/>
-                     </analytic>
-                     <monogr>
-                        <imprint>
-                           <classCode scheme="CCS">TextContent</classCode>
-                           <biblScope unit="page" from="15" to="17">15-17</biblScope>
-                        </imprint>
-                     </monogr>
-                     <relatedItem type="constituent" xml:id="c018a">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">[en ouest des nuages végétant]</seg>
-                              </title>
-                              <respStmt>
-                                 <persName>Tr. Tzara</persName>
-                                 <resp>trl</resp>
-                              </respStmt>
-                              <respStmt>
-                                 <persName>Loritja</persName>
-                                 <resp>att</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">15</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
-                     <relatedItem type="constituent" xml:id="c018">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="nonSort">LA</seg>
-                                 <seg type="main">CHANSON DU SERPENT</seg>
-                              </title>
-                              <respStmt>
-                                 <persName>Tr. Tzara</persName>
-                                 <resp>trl</resp>
-                              </respStmt>
-                              <respStmt>
-                                 <persName>Loritja</persName>
-                                 <resp>att</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">17</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
-                  </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c017">
-                  <biblStruct>
-                     <analytic>
-                        <title level="a">
-                           <seg type="nonSort">LE</seg>
-                           <seg type="main">MAUVAIS GÉNIE D'UN ROI</seg>
-                        </title>
-                        <respStmt>
-                           <persName>G. DE CHIRICO</persName>
-                           <resp>cre</resp>
-                        </respStmt>
-                     </analytic>
-                     <monogr>
-                        <imprint>
-                           <classCode scheme="CCS">Illustration</classCode>
-                           <biblScope unit="page">16</biblScope>
-                        </imprint>
-                     </monogr>
-                  </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c019">
-                  <biblStruct>
-                     <analytic>
-                        <title level="a">
-                           <seg type="main">PRINTEMPS</seg>
-                        </title>
-                        <respStmt>
-                           <persName>TRISTAN TZARA</persName>
-                           <resp>cre</resp>
-                        </respStmt>
-                        <textLang mainLang="fre"/>
-                     </analytic>
-                     <monogr>
-                        <imprint>
-                           <classCode scheme="CCS">TextContent</classCode>
-                           <biblScope unit="page">17</biblScope>
-                        </imprint>
-                     </monogr>
-                  </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c020">
-                  <biblStruct>
-                     <analytic>
-                        <title level="a">
-                           <seg type="main">NOTES</seg>
-                        </title>
-                        <textLang mainLang="fre"/>
-                     </analytic>
-                     <monogr>
-                        <imprint>
-                           <classCode scheme="CCS">TextContent</classCode>
-                           <biblScope unit="page" from="18" to="23">18-23</biblScope>
-                        </imprint>
-                     </monogr>
-                  </biblStruct>
-               </relatedItem>
+              <analytic>
+                <title level="a">
+                  <seg type="main">Cover Illustration</seg>
+                </title>
+              </analytic>
+              <monogr>
+                <imprint>
+                  <classCode scheme="CCS">Illustration</classCode>
+                  <biblScope unit="page">1</biblScope>
+                </imprint>
+              </monogr>
             </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body>
-         <div type="Magazine">
-            <div type="Issue">
-               <div type="PublicationInfo">
-                  <div type="Nameplate">
-                     <ab facs="P1_TB00001">
-                        <lb facs="P1_TL00001"/>DADA 2<lb facs="P1_TL00002"/>RECUEIL LITTÉRAIRE ET ARTISTIQUE</ab>
-                  </div>
-                  <div type="FrontFolioLine">
-                     <ab facs="P1_TB00002">
-                        <lb facs="P1_TL00003"/>DÉCEMBRE 1917</ab>
-                  </div>
-                  <div type="Masthead">
-                     <ab facs="P23_TB00001">
-                        <lb facs="P23_TL00001"/>MOUVEMENT DADA<lb facs="P23_TL00002"/>ADMINISTRATION: F. ARP, ZURICH, ZELTWEG 83.</ab>
-                  </div>
-                  <div type="GenericPubInfo">
-                     <ab facs="P24_TB00001">
-                        <lb facs="P24_TL00001"/>Prix de ce cahier: 2 frs.<lb facs="P24_TL00002"/>Edition de luxe signée et numérotée contenant un<lb facs="P24_TL00003"/>bois de H. Arp ou de M. Janco: 8 frs.<lb facs="P24_TL00004"/>Prière d'adresse la correspondence à:<lb facs="P24_TL00005"/>F. Arp, Administration Mouvement Dada<lb facs="P24_TL00006"/>Zurich, Zeltweg 83.<lb facs="P24_TL00007"/>Sorti des presses de l'imprimerie J. Heuberger.</ab>
-                  </div>
-               </div>
-               <div type="EditorialContent">
-                  <div type="Illustration" corresp="c001">
-                     <div type="Image"/>
-                  </div>
-                  <div type="Illustration" corresp="c002">
-                     <div type="Image"/>
-                     <div type="Caption">
-                        <ab facs="P2_TB00001">
-                           <lb facs="P2_TL00001"/>O.VAN REES:<lb facs="P2_TL00002"/>INTÉRIEUR<lb facs="P2_TL00003"/>Propr. H. Corray, Zurich.</ab>
-                     </div>
-                  </div>
-                  <div type="TextContent" corresp="c003">
-                     <div type="Head">
-                        <ab facs="P3_TB00001">
-                           <lb facs="P3_TL00001"/>NOTE 2 SUR L'ART. H. ARP.</ab>
-                     </div>
-                     <div type="Byline">
-                        <ab facs="P3_TB00003">
-                           <lb facs="P3_TL00032"/>TRISTAN TZARA</ab>
-                     </div>
-                     <div type="Copy">
-                        <div type="BodyContent">
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P3_TB00002">
-                                    <lb facs="P3_TL00002"/>La hauteur chante ce qu'on parle dans la profondeur.<lb facs="P3_TL00003"/>La nature est organisée dans sa totalité, cordages du bateau fabuleux vers le<lb facs="P3_TL00004"/>point de rayons, dans; les principes qui règlent les cristaux les insectes en hié<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P3_TL00005"/>rarchie comme l'arbre.<lb facs="P3_TL00006"/>Toute chose naturelle garde sa clarté d'organisation, cachée, tirée par des relations<lb facs="P3_TL00007"/>qui se groupent comme la famille des lumières lunaires, centre de roue qui tour<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P3_TL00008"/>nerait à l'infini, en sphère, elle noue sa liberté, son existance dernière, absolue,<lb facs="P3_TL00009"/>à ces lois innombrables, constructives.<lb facs="P3_TL00010"/>Ma sœur racine, fleur, pierre.<lb facs="P3_TL00011"/>L'organisme est complet dans l'intelligence muette d'une nervure et dans son<lb facs="P3_TL00012"/>apparence.<lb facs="P3_TL00013"/>L'homme est sale, il tue les animaux, les plantes, ses frères, il querelle, il est<lb facs="P3_TL00014"/>intelligent, parle trop, ne peut pas dire ce qu'il pense.<lb facs="P3_TL00015"/>Mais l'artiste est un créateur: il sait travailler une forme qui devient organique.<lb facs="P3_TL00016"/>11 décide. Il rend l'homme meilleur. Soigne le jardin des intentions, ordonne.<lb facs="P3_TL00017"/>La pureté d'un principe me rend heureux, voir au-delà de l'horizontale qui s'élargit<lb facs="P3_TL00018"/>transquillisant les nouveautés végétales des pays éloignés ; floraisons de glace.<lb facs="P3_TL00019"/>La verticale : dans la sérieuse pensée devant l'infini en sentant la profondeur d'un<lb facs="P3_TL00020"/>instant devant l'animal.<lb facs="P3_TL00021"/>H. Arp<lb facs="P3_TL00022"/>: v,<lb facs="P3_TL00023"/>la symétrie<lb facs="P3_TL00024"/>fleur de rencontre à minuit<lb facs="P3_TL00025"/>où le vertige et l'oiseau deviennent tranquillité du halo<lb facs="P3_TL00026"/>et le houblon monte<lb facs="P3_TL00027"/>la fleur devient cristal ou scarabée, aimant, étoile<lb facs="P3_TL00028"/>vouloir mener une vie simple.<lb facs="P3_TL00029"/>Si l'on peut vivre le miracle on a monté la hauteur où ton sang sera l'ordre des<lb facs="P3_TL00030"/>archanges, médicament d'astronomie, lecteur, — croyance amassée clairement dans<lb facs="P3_TL00031"/>les coeurs simples — sagesse connaissance.</ab>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div type="TextContent" corresp="c004">
-                     <div type="Head">
-                        <ab facs="P3_TB00004">
-                           <lb facs="P3_TL00033"/>STRADE</ab>
-                     </div>
-                     <div type="Byline">
-                        <ab facs="P5_TB00002">
-                           <lb facs="P5_TL00038"/>MARIA D'AREZZO</ab>
-                     </div>
-                     <div type="Illustration" corresp="c005">
-                        <div type="Image"/>
-                        <div type="Caption">
-                           <ab facs="P4_TB00001">
-                              <lb facs="P4_TL00001"/>H. ARP:<lb facs="P4_TL00002"/>TABLEAU EN PAPIER.</ab>
-                        </div>
-                     </div>
-                     <div type="Illustration" corresp="c006">
-                        <div type="Image"/>
-                        <div type="Caption">
-                           <ab facs="P6_TB00001">
-                              <lb facs="P6_TL00001"/>ROBERT DELAUNAY:<lb facs="P6_TL00002"/>LA FENÊTRE SUR LA VILLE.</ab>
-                        </div>
-                     </div>
-                     <div type="Copy">
-                        <div type="BodyContent">
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P3_TB00005">
-                                    <lb facs="P3_TL00034"/>questo andare — sempre questo andare<lb facs="P3_TL00035"/>battere tutte le strade<lb facs="P3_TL00036"/>toccare tutte le contrade</ab>
-                              </div>
-                           </div>
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P5_TB00001">
-                                    <lb facs="P5_TL00001"/>crocifiggersi a tutti i crocicchi<lb facs="P5_TL00002"/>senza riposare —<lb facs="P5_TL00003"/>non c'è riposo per chi conosce tutte le strade<lb facs="P5_TL00004"/>tutte le strade del mondo:<lb facs="P5_TL00005"/>le eliche taciturne degli astri<lb facs="P5_TL00006"/>la follia turbinante delle foglie gialle<lb facs="P5_TL00007"/>i passi di sette leghe del vento<lb facs="P5_TL00008"/>la fuga vertiginosa del sangue<lb facs="P5_TL00009"/>le vie di tutte le creature<lb facs="P5_TL00010"/>salvate o perdute<lb facs="P5_TL00011"/>tanti cammini<lb facs="P5_TL00012"/>tanti destini<lb facs="P5_TL00013"/>di notte a occhi spaventati<lb facs="P5_TL00014"/>nell ' alba a occhi purificati<lb facs="P5_TL00015"/>la sera a occhi santificati<lb facs="P5_TL00016"/>la vie délia bontà<lb facs="P5_TL00017"/>quelle délia perversità<lb facs="P5_TL00018"/>quelle dell' amore e del dolore<lb facs="P5_TL00019"/>le tortuose vie délia sorte<lb facs="P5_TL00020"/>le ermetiche vie délia morte<lb facs="P5_TL00021"/>tutte le linee infinité<lb facs="P5_TL00022"/>che intelaiano l'infinito —<lb facs="P5_TL00023"/>andare sempre andare<lb facs="P5_TL00024"/>senza mai riposare<lb facs="P5_TL00025"/>finchè câpiti di tornare<lb facs="P5_TL00026"/>a un angolo di terra toscana<lb facs="P5_TL00027"/>cosi stanchi — da tanto lontano!<lb facs="P5_TL00028"/>che non s'ha forza d'alzare una mano<lb facs="P5_TL00029"/>e allora scavarsi una piccola fossa<lb facs="P5_TL00030"/>e calarsi dentro pian piano<lb facs="P5_TL00031"/>e stendersi e incrociar le mani<lb facs="P5_TL00032"/>fissar con occhi trasognati<lb facs="P5_TL00033"/>una gran pace di stelle sul capo<lb facs="P5_TL00034"/>spengersi in una lenta agonia<lb facs="P5_TL00035"/>dolce corne un' avemaria<lb facs="P5_TL00036"/>se la dica un' anima pia:<lb facs="P5_TL00037"/>cosi sia —</ab>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div type="TextContent" corresp="c007">
-                     <div type="Head">
-                        <ab facs="P7_TB00001">
-                           <lb facs="P7_TL00001"/>RASOIR MÉCANIQUE</ab>
-                     </div>
-                     <div type="Copy">
-                        <div type="BodyContent">
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P7_TB00002">
-                                    <lb facs="P7_TL00002"/>Couchez vous sur le dos et comptez les feuilles des arbres<lb facs="P7_TL00003"/>DANS LA FORÊT UNE A UNE<lb facs="P7_TL00004"/>LES JEUNES FILLES ONT PASSÉ<lb facs="P7_TL00005"/>Splendeur des mondes verts unis aux mondes bleus<lb facs="P7_TL00006"/>iiiiii i i i i i i<lb facs="P7_TL00007"/>Forêts des elephantslionstigresserpentsetjaguars<lb facs="P7_TL00008"/>Vous êtes quelque part<lb facs="P7_TL00009"/>Cependant que je rêve à Clamart<lb facs="P7_TL00010"/>Forêts d'Asie UNE NOISETTE et des deux Amériques<lb facs="P7_TL00011"/>PIGEON VOLE<lb facs="P7_TL00012"/>AVION VOLE<lb facs="P7_TL00013"/>PLOMB VOLE<lb facs="P7_TL00014"/>HI HI HI HI HI HA HA HA HA HA<lb facs="P7_TL00015"/>Incommensurabilité<lb facs="P7_TL00016"/>De notre eternité<lb facs="P7_TL00017"/>Blancheur et bleuité<lb facs="P7_TL00018"/>MARIE VIENS VOIR<lb facs="P7_TL00019"/>De l'insonorité<lb facs="P7_TL00020"/>Nous irons dans des gares<lb facs="P7_TL00021"/>Et dans des ports<lb facs="P7_TL00022"/>IL EST PASSÉ PAR ICI<lb facs="P7_TL00023"/>LE FURET DES BOIS MESDAMES<lb facs="P7_TL00024"/>IL EST PASSÉ PAR ICI<lb facs="P7_TL00025"/>En bateaux cheminsdefer<lb facs="P7_TL00026"/>A travers<lb facs="P7_TL00027"/>Terresetmers<lb facs="P7_TL00028"/>IL VA PLEUVOIR<lb facs="P7_TL00029"/>Pour voir</ab>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div type="TextContent" corresp="c008">
-                     <div type="Head">
-                        <ab facs="P7_TB00003">
-                           <lb facs="P7_TL00030"/>POUR DADA</ab>
-                     </div>
-                     <div type="Byline">
-                        <ab facs="P9_TB00002">
-                           <lb facs="P9_TL00007"/>PIERRE ALBERT-BIROT</ab>
-                     </div>
-                     <div type="Illustration" corresp="c009">
-                        <div type="Image"/>
-                        <div type="Caption">
-                           <ab facs="P8_TB00001">
-                              <lb facs="P8_TL00001"/>ENRIGO PRAMPOLÎNI:<lb facs="P8_TL00002"/>BOIS.</ab>
-                        </div>
-                     </div>
-                     <div type="Copy">
-                        <div type="BodyContent">
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P7_TB00004">
-                                    <lb facs="P7_TL00031"/>AN AN AN AN AN AN AN AN<lb facs="P7_TL00032"/>AN AN AN<lb facs="P7_TL00033"/>111 I I I<lb facs="P7_TL00034"/>POUH-FOUH POUH-POUH RRRA<lb facs="P7_TL00035"/>si si si</ab>
-                              </div>
-                           </div>
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P9_TB00001">
-                                    <lb facs="P9_TL00001"/>drrrrr oum oum<lb facs="P9_TL00002"/>AN AN AN AN<lb facs="P9_TL00003"/>aaa aaaa aaa tzinn<lb facs="P9_TL00004"/>UI I I I I I<lb facs="P9_TL00005"/>HA HA HA HA HA HA HA<lb facs="P9_TL00006"/>rrrrrrrrrrrrrrrrrrrrrrr é</ab>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div type="TextContent" corresp="c010">
-                     <div type="Head">
-                        <ab facs="P9_TB00003">
-                           <lb facs="P9_TL00008"/>COSTELLAZIONE</ab>
-                     </div>
-                     <div type="Byline">
-                        <ab facs="P11_TB00002">
-                           <lb facs="P11_TL00003"/>GINO CANTARELLI</ab>
-                     </div>
-                     <div type="Illustration" corresp="c011">
-                        <div type="Image"/>
-                        <div type="Caption">
-                           <ab facs="P10_TB00001">
-                              <lb facs="P10_TL00001"/>WASSILIY KANDINSKY:<lb facs="P10_TL00002"/>AQUARELLE.<lb facs="P10_TL00003"/>Reproduite avec la permission du „Sturm".</ab>
-                        </div>
-                     </div>
-                     <div type="Copy">
-                        <div type="BodyContent">
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P9_TB00004">
-                                    <lb facs="P9_TL00009"/>rosso azzuro<lb facs="P9_TL00010"/>azzuro rosso<lb facs="P9_TL00011"/>su le strade matalliche<lb facs="P9_TL00012"/>del paesaggio-quadro<lb facs="P9_TL00013"/>grafie fluorescenti a descrivere nuove geometrie che si precipitano verso le<lb facs="P9_TL00014"/>tavolozze-pointillistes magnetismo dei muscoli nell' ambientebrivido —ti trasporto<lb facs="P9_TL00015"/>al confine estremo délia concezione<lb facs="P9_TL00016"/>(quante decorazioni platino rette su cielo di velluto<lb facs="P9_TL00017"/>— danza tu nel tempovortice il destino le<lb facs="P9_TL00018"/>colorazioni bluastre dell' astratto !<lb facs="P9_TL00019"/>la luna cade sulle costruzioni elettriche<lb facs="P9_TL00020"/>scomposizione chimica stellare délia folla — microcosmi nei pulviscoli<lb facs="P9_TL00021"/>di Altair e tu vivi negli spazi dell'enarmonia<lb facs="P9_TL00022"/>quando ridi il bistro degli occhi vela<lb facs="P9_TL00023"/>10 sguardosmeraldo — ridere vivere<lb facs="P9_TL00024"/>ore 23 —- la canzone del ritorno con il cuore a sangue rappreso<lb facs="P9_TL00025"/>freddissima — stelle di silenzi per la volta deir assoluto —<lb facs="P9_TL00026"/>11 tutto che esalta l'atomo<lb facs="P9_TL00027"/>astronomie degli infiniti costellati di diamanti e di turchese<lb facs="P9_TL00028"/>— stenderti lasciva su la longue chaise violacea: e molecole d'iridio apiovere<lb facs="P9_TL00029"/>sul tuo corpo :<lb facs="P9_TL00030"/>avida — sarai ebbra di una fraganza crepuscolare e donerai —<lb facs="P9_TL00031"/>— rinuncia alla morte la tua animastro e profondila vivida per il mondo (impallidisce<lb facs="P9_TL00032"/>lo scénario orchestra del cielo ail' aiba divisionista<lb facs="P9_TL00033"/>— nel Colore —ai tuoi piedi languidissima l'estate moritura ti regala le gioiellerie<lb facs="P9_TL00034"/>dell' autunno nuovo — accenna l'universo ad un grigiore spirituale</ab>
-                              </div>
-                           </div>
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P11_TB00001">
-                                    <lb facs="P11_TL00001"/>Tu accarezzi il levriere che ti alita su le mani e sbianchi neî<lb facs="P11_TL00002"/>delirio terribile délia morfina</ab>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div type="TextContent" corresp="c012">
-                     <div type="Head">
-                        <ab facs="P11_TB00003">
-                           <lb facs="P11_TL00004"/>SENTIMENTS DANS LES PALACES</ab>
-                     </div>
-                     <div type="Byline">
-                        <ab facs="P13_TB00002">
-                           <lb facs="P13_TL00004"/>S. DE VAULCHIER</ab>
-                     </div>
-                     <div type="Illustration" corresp="c013">
-                        <div type="Image"/>
-                        <div type="Caption">
-                           <ab facs="P12_TB00001">
-                              <lb facs="P12_TL00001"/>W. HELBIG:<lb facs="P12_TL00002"/>PEINTURE.</ab>
-                        </div>
-                     </div>
-                     <div type="Copy">
-                        <div type="BodyContent">
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P11_TB00004">
-                                    <lb facs="P11_TL00005"/>Atmosphère de palace — girandoles —<lb facs="P11_TL00006"/>agapes de fruits sur les nappes — nikel —<lb facs="P11_TL00007"/>cuir — cuivre — étincellements —<lb facs="P11_TL00008"/>et dans les couloirs kilométriques<lb facs="P11_TL00009"/>les Maies.<lb facs="P11_TL00010"/>Hall — coupole — verrières sur la Mer<lb facs="P11_TL00011"/>claire — claire — et les analyses des banquises<lb facs="P11_TL00012"/>du Pôle —<lb facs="P11_TL00013"/>Agonie du soleil vers l'lnfini<lb facs="P11_TL00014"/>au delà du promontoire et des naufrages<lb facs="P11_TL00015"/>il a forcé le blocus des sentiments<lb facs="P11_TL00016"/>par sa MORT.<lb facs="P11_TL00017"/>Gens de Palace — gens de Palace — écoutez-moi :<lb facs="P11_TL00018"/>je suis le bon petit avertisseur —<lb facs="P11_TL00019"/>l'observateur — et les cuis-cuis — de votre cœur<lb facs="P11_TL00020"/>je les attends comme sœur Anne<lb facs="P11_TL00021"/>d'une tour.<lb facs="P11_TL00022"/>Je suis votre âme-sœur des wagons-lits et je hante<lb facs="P11_TL00023"/>comme vous — comme vous — les thermes et les mers.<lb facs="P11_TL00024"/>Ne courez pas ainsi voir le soleil MOURIR.<lb facs="P11_TL00025"/>Vous resteriez fixés comme un coléoptère<lb facs="P11_TL00026"/>au verre — au verre des verrières<lb facs="P11_TL00027"/>circulaires.<lb facs="P11_TL00028"/>La mort — la mort — sonnez fanfares<lb facs="P11_TL00029"/>à pleine gorge — la mort — mort<lb facs="P11_TL00030"/>çà sent mauvais gens de Palace —<lb facs="P11_TL00031"/>à voir en face —<lb facs="P11_TL00032"/>et je m'en vais — bouchez vos nez<lb facs="P11_TL00033"/>le nez de vos petits sentiments sur mesure<lb facs="P11_TL00034"/>et de votre irreligion sans avenir —<lb facs="P11_TL00035"/>Finir — Finir —<lb facs="P11_TL00036"/>Futur — Futur —</ab>
-                              </div>
-                           </div>
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P13_TB00001">
-                                    <lb facs="P13_TL00001"/>0 Palaces éventrés<lb facs="P13_TL00002"/>Limaces mortes — les intestins dehors —<lb facs="P13_TL00003"/>et la bare éparse sur les tapis à fleurs</ab>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div type="TextContent" corresp="c014">
-                     <div type="Head">
-                        <ab facs="P13_TB00003">
-                           <lb facs="P13_TL00005"/>CONCIME</ab>
-                     </div>
-                     <div type="Byline">
-                        <ab facs="P15_TB00002">
-                           <lb facs="P15_TL00018"/>BINO SAN MINIATELLI</ab>
-                     </div>
-                     <div type="Illustration" corresp="c015">
-                        <div type="Image"/>
-                        <div type="Caption">
-                           <ab facs="P14_TB00001">
-                              <lb facs="P14_TL00001"/>M. JANCO:<lb facs="P14_TL00002"/>RELIEF 3<lb facs="P14_TL00003"/>App. à Tr. Tzara.</ab>
-                        </div>
-                     </div>
-                     <div type="Copy">
-                        <div type="BodyContent">
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P13_TB00004">
-                                    <lb facs="P13_TL00006"/>Manti vitali<lb facs="P13_TL00007"/>di putride sonnolenze.<lb facs="P13_TL00008"/>Svolazzare a spirali — terra terra —<lb facs="P13_TL00009"/>come farfalloni che si disfanno.<lb facs="P13_TL00010"/>Sacrifici d'insetti.<lb facs="P13_TL00011"/>Armonia cronometrica<lb facs="P13_TL00012"/>délia decomposizione.<lb facs="P13_TL00013"/>Bollore d'accoppiamenti profondi<lb facs="P13_TL00014"/>come un ronzar febbrile di falene.<lb facs="P13_TL00015"/>Le lune piene — le lune galleggianti<lb facs="P13_TL00016"/>suir erbe scapigliate —<lb facs="P13_TL00017"/>come pallon volanti<lb facs="P13_TL00018"/>su su pel cielo sono montate —<lb facs="P13_TL00019"/>vuote — senza splendore —<lb facs="P13_TL00020"/>aspergendo di sterile albore<lb facs="P13_TL00021"/>il talamo fremente — di concime bollente.<lb facs="P13_TL00022"/>Il porco ha grugnito<lb facs="P13_TL00023"/>rufolando nel mucchio del concio<lb facs="P13_TL00024"/>come un torvo re preistorico —<lb facs="P13_TL00025"/>un Turno re de' Rutoli — il grugno fitto<lb facs="P13_TL00026"/>nel concio — parlare incomprensibile<lb facs="P13_TL00027"/>scuotendo la brutale — testa sulle maie<lb facs="P13_TL00028"/>sorti d'un esercito sconf.tto.<lb facs="P13_TL00029"/>E le farfalle si sono spogliate<lb facs="P13_TL00030"/>dell' ali leggendarie — variopinte<lb facs="P13_TL00031"/>nell' auréola de' cieli profondi —<lb facs="P13_TL00032"/>si sono sfarfallate.<lb facs="P13_TL00033"/>La vigna nell' ombria<lb facs="P13_TL00034"/>de' suoi peccati in fiore —<lb facs="P13_TL00035"/>sotto a un fumante tumulo<lb facs="P13_TL00036"/>di concio — vigile stallone —<lb facs="P13_TL00037"/>fiduciosa s'è sdraiata —</ab>
-                              </div>
-                           </div>
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P15_TB00001">
-                                    <lb facs="P15_TL00001"/>d'essere fecondata.<lb facs="P15_TL00002"/>Una gallina fradicia — che maturava al sole<lb facs="P15_TL00003"/>stcchita e macolata —<lb facs="P15_TL00004"/>ha fatto coccodè<lb facs="P15_TL00005"/>perché il bambino — che ci si divertiva<lb facs="P15_TL00006"/>sull' aia — corne con un burattino —<lb facs="P15_TL00007"/>per finire la festa<lb facs="P15_TL00008"/>le ha messo un piede sulla testa.<lb facs="P15_TL00009"/>Tutti gli insetti hanno suonato i campanelli<lb facs="P15_TL00010"/>alla baldoria — alla baldoria<lb facs="P15_TL00011"/>di Re Concime — vulcano leggendario —<lb facs="P15_TL00012"/>rinvigorire tic tac — i sonni contadini.<lb facs="P15_TL00013"/>Ma la notte era cosi stellata<lb facs="P15_TL00014"/>(o! quella notte stellata<lb facs="P15_TL00015"/>corn' era matematica . . .) che un nero<lb facs="P15_TL00016"/>scarabeo passeggero<lb facs="P15_TL00017"/>si credeva uno specchio.</ab>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div type="TextContent" corresp="c016">
-                     <div type="Head">
-                        <ab facs="P15_TB00003">
-                           <lb facs="P15_TL00019"/>2 POÈMES NÈGRES</ab>
-                     </div>
-                     <div type="Byline">
-                        <ab facs="P15_TB00004">
-                           <lb facs="P15_TL00020"/>traduits par Tr. Tzara<lb facs="P15_TL00021"/>tribu Loritja</ab>
-                     </div>
-                     <div type="TextContent" corresp="c018a">
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P15_TB00005">
-                                       <lb facs="P15_TL00022"/>en ouest des nuages végétant<lb facs="P15_TL00023"/>à l'est se répandre<lb facs="P15_TL00024"/>fleur se déplia<lb facs="P15_TL00025"/>blanc nuage se déplia<lb facs="P15_TL00026"/>des branches de gui — pissat couler<lb facs="P15_TL00027"/>éclair branches de gui<lb facs="P15_TL00028"/>couler arbres ilbara touffus<lb facs="P15_TL00029"/>tua<lb facs="P15_TL00030"/>véhée<lb facs="P15_TL00031"/>pleurant immobile<lb facs="P15_TL00032"/>plus large s'étendre feu serrer<lb facs="P15_TL00033"/>feu ayant vu presse feu<lb facs="P15_TL00034"/>bois pour le feu charger<lb facs="P15_TL00035"/>chouche élargir<lb facs="P15_TL00036"/>éclair</ab>
-                                 </div>
-                              </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P17_TB00001">
-                                       <lb facs="P17_TL00001"/>frappe casse<lb facs="P17_TL00002"/>eau sur la surface d'argile<lb facs="P17_TL00003"/>où les nuages furent ensemble<lb facs="P17_TL00004"/>il rugissa<lb facs="P17_TL00005"/>continuellement<lb facs="P17_TL00006"/>éclair<lb facs="P17_TL00007"/>tonnerre avoir rancune</ab>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                     <div type="TextContent" corresp="c018">
-                        <div type="Head">
-                           <ab facs="P17_TB00002">
-                              <lb facs="P17_TL00008"/>LA CHANSON DU SERPENT</ab>
-                        </div>
-                        <div type="Byline">
-                           <ab facs="P17_TB00003">
-                              <lb facs="P17_TL00009"/>tribu Loritja</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P17_TB00004">
-                                       <lb facs="P17_TL00010"/>serpentant jeter en avant<lb facs="P17_TL00011"/>se tordant jeter en avant<lb facs="P17_TL00012"/>peau de serpant se lever<lb facs="P17_TL00013"/>au ciel se lever<lb facs="P17_TL00014"/>cœur battre continuellement<lb facs="P17_TL00015"/>queue battre continuellement<lb facs="P17_TL00016"/>queue veut s'éteindre<lb facs="P17_TL00017"/>queue veut remuer<lb facs="P17_TL00018"/>tremblant</ab>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div type="Illustration" corresp="c017">
-                     <div type="Image"/>
-                     <div type="Caption">
-                        <ab facs="P16_TB00001">
-                           <lb facs="P16_TL00001"/>G. DE CHIRICO:<lb facs="P16_TL00002"/>LE MAUVAIS GÉNIE D'UN ROI<lb facs="P16_TL00003"/>Coll. Paul Guillaume, Paris.</ab>
-                     </div>
-                  </div>
-                  <div type="TextContent" corresp="c019">
-                     <div type="Head">
-                        <ab facs="P17_TB00005">
-                           <lb facs="P17_TL00019"/>PRINTEMPS</ab>
-                     </div>
-                     <div type="Byline">
-                        <ab facs="P17_TB00007">
-                           <lb facs="P17_TL00034"/>TRISTAN TZARA</ab>
-                     </div>
-                     <div type="Copy">
-                        <div type="BodyContent">
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P17_TB00006">
-                                    <lb facs="P17_TL00020"/>à h arp<lb facs="P17_TL00021"/>placer l'enfant dans le vase au fond de minuit<lb facs="P17_TL00022"/>et la plaie<lb facs="P17_TL00023"/>une rose des vents avec tes doigts aux belles ongles<lb facs="P17_TL00024"/>le tonnerre dans des plumes voir<lb facs="P17_TL00025"/>une eau mauvaise coule des membres de l'antilope<lb facs="P17_TL00026"/>souffrir en bas avez vous trouvé des vaches des oiseaux?<lb facs="P17_TL00027"/>la soif le fiel du paon dans la cage<lb facs="P17_TL00028"/>le roi en exil par la clarté du puits se momifie lentement<lb facs="P17_TL00029"/>dans le jardin de légumes<lb facs="P17_TL00030"/>semer des sauterelles brisées planter des cœur.} de fourmis le<lb facs="P17_TL00031"/>brouillard de sel une lampe tire la queue sur le ciel<lb facs="P17_TL00032"/>les petits éclats de verrerie dans le ventre des cerfs en fuite<lb facs="P17_TL00033"/>sur les points des branches noires courtes pour un cri</ab>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div type="TextContent" corresp="c020">
-                     <div type="Head">
-                        <ab facs="P18_TB00001">
-                           <lb facs="P18_TL00001"/>NOTES</ab>
-                     </div>
-                     <div type="Copy">
-                        <div type="BodyContent">
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P18_TB00002">
-                                    <lb facs="P18_TL00002"/>GUILLAUME APOLLINAIRE.<lb facs="P18_TL00003"/>Pour ce poète la vie est un jeu tournant et sérieux de farces, de tristesse, de<lb facs="P18_TL00004"/>bonhomie, de naïveté, de modernisme tour à tour. Le doigt visse dans tous<lb facs="P18_TL00005"/>les chairs jusqu'à l'intérieur qui crie et vibre, où il devient fleur et rit. L'imprévu<lb facs="P18_TL00006"/>est l'étoile explosive de partout et la vitesse se marie au conteur tranquille curieux<lb facs="P18_TL00007"/>en affirmation naturelle et constante nouveauté. Ce choc enfanta le burlesque.<lb facs="P18_TL00008"/>Le passé mis dans une glace reflétante et jetée quelques siècles en avant. Avec<lb facs="P18_TL00009"/>la sûreté du cow-boy. La tournure élégante et grotesque. Impulsive capricieuse<lb facs="P18_TL00010"/>fine. Au galop au dessus de la vie; l'homme est ridicule.<lb facs="P18_TL00011"/>Le sous-lieutenant Apollinaire grièvement blessé à la tête resta au lit, à l'hôpital;<lb facs="P18_TL00012"/>son livre de contes: „Le poète assassiné" (l'Édition) parut en même temps et le<lb facs="P18_TL00013"/>poète Croniamantal en redingote dans un berceau rose jaillissait simultanément à<lb facs="P18_TL00014"/>Munich dans de diverses caves fréquentées par les princes.<lb facs="P18_TL00015"/>Le théâtre. Puisqu'il reste toujours à une imitation romantique de la vie, à une<lb facs="P18_TL00016"/>fiction illogique, donnons-lui toute la vigueur naturelle qu'il eût premièrement:<lb facs="P18_TL00017"/>qu'il soit amusement ou poésie.<lb facs="P18_TL00018"/>Les petites sensibilités tortuées dans des psichologies variables, théorie décla<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P18_TL00019"/>matoire, ne peuvent pas découvrir une Vérité qui restera à jamais obscure, comme<lb facs="P18_TL00020"/>toutes les actions qui sont vaines et les résultats: relatifs.<lb facs="P18_TL00021"/>A la manifestation de la revue Sic du 24 Juin, Apollinaire fit jouer son drame<lb facs="P18_TL00022"/>sur-réaliste „LES MAMELLES DE TIRÉSIAS". Que les femmes fassent des enfants<lb facs="P18_TL00023"/>— leur devoir et leur destination. C'est raisonnable et correct.<lb facs="P18_TL00024"/>Il paraît qu'on s'est bien amusé en écoutant ce que Apollinaire racontait si clai<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P18_TL00025"/>rement dans des décors en lambeaux de journaux et dans des masques qui<lb facs="P18_TL00026"/>auraient dû être : la fièvre coupée en marge d'une étoile multicolore et suprême.<lb facs="P18_TL00027"/>Le rire : c'est la bonté des hommes.<lb facs="P18_TL00028"/>Chercher des médicaments et la sagesse parmi les chansons et recommençons.<lb facs="P18_TL00029"/>PIERRE REVERDY: LE VOLEUR DE TALAN, roman.<lb facs="P18_TL00030"/>Un livre inattendu, presque le roman qu'on a rêvé. Depuis la Renaissance l'art<lb facs="P18_TL00031"/>fut: l'anecdote comme centre, comme principe; c'est-à-dire histoire racontée au<lb facs="P18_TL00032"/>richard pour éveiller en lui un „sentiment" ; 64 % de pitié, le reste: humilité etc.<lb facs="P18_TL00033"/>+ l'oubli d'un instant incommode où l'on a fait une bonne affaire. La moitié<lb facs="P18_TL00034"/>des écrivains sait cela et en profite, l'autre moitié tente encore à chauffer l'œuf<lb facs="P18_TL00035"/>de l'anecdote pour en faire de l'art — elle spécule sur la courte tradition de<lb facs="P18_TL00036"/>quelques siècles. Mais elle sert le même ventre, qu'elle n'a pas désiré ni prévu.</ab>
-                              </div>
-                           </div>
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P19_TB00001">
-                                    <lb facs="P19_TL00001"/>La Renaissance fut l'âge infernal du cynique; elle fut pour l'art un bordel;<lb facs="P19_TL00002"/>l'anecdote et le charme partagèrent son domaine. L'illusion devint le but, et<lb facs="P19_TL00003"/>l'homme voulait surpasser Dieu. Mais les problèmes et la vie mouvementée l'ont<lb facs="P19_TL00004"/>fait intéressante et malheureusement, productive.<lb facs="P19_TL00005"/>Nous voulons continuer la tradition de l'art nègre, egyptien. byzantin, gothique,<lb facs="P19_TL00006"/>et détruire en nous l'atavique sensibilité qui nous reste de la détéstable époque<lb facs="P19_TL00007"/>qui suivit le quatrocento. N<lb facs="P19_TL00008"/>Le roman de Reverdy est un poème. Les épisodes sont soigneusement emmitouflés<lb facs="P19_TL00009"/>dans une substance que nous ne connaissons pas. Le choc des éléments serait<lb facs="P19_TL00010"/>autrement brutal. Mais dans l'œuf d'or c'est une vie difficile qui brûle. Des<lb facs="P19_TL00011"/>lignes droites sortent de cette chair, nous penêtrent et nous y relient. Four Re<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P19_TL00012"/>verdy l'action transformée en scolopendre avance lentement audessous de l'orga<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P19_TL00013"/>nisme (du roman) et cent abeilles nous apportent en petites quantités, par de<lb facs="P19_TL00014"/>milliers de piqûres invisibles, les résultats et le faits et les introduisent uni<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P19_TL00015"/>formément dans notre sang.<lb facs="P19_TL00016"/>Le voleur de Talan est partout un radiateur de vibrations et les images qui se<lb facs="P19_TL00017"/>déchargent dans tous les coins (effet presque électrique à son passage) se réu<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P19_TL00018"/>nissent autour de lui; l'œuvre de Reverdy est par cela COSMIQUE. Mais ce<lb facs="P19_TL00019"/>halo ambulant, toujours renouvelé; nous laisse une impression nuageusse, et le<lb facs="P19_TL00020"/>goût amer qu'on a en sachant que l'homme est centre et qu'il puisse devenir<lb facs="P19_TL00021"/>dans sons petit monde: un dieu-maître.<lb facs="P19_TL00022"/>Ce que je nomme „cosmique" est une qualité essentielle à un œuvre d'art. Par<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P19_TL00023"/>cequ'elle implique l'ordre qui est condition nécéssaire à la vie de tout organisme.<lb facs="P19_TL00024"/>Les éléments multiples, divers et éloignés sont (plus ou moins intensément) con<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P19_TL00025"/>centrés dans l'œuvre; l'artiste les cueille, les choisit, les range, en fait une con<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P19_TL00026"/>struction ou une composition. L'ordre est la représentation d'une unité régie par<lb facs="P19_TL00027"/>les facultés universelles, la sobriété, la pureté de la précision.<lb facs="P19_TL00028"/>Il y a deux principes dans le cosmique :<lb facs="P19_TL00029"/>1/donner une importance égale à chaque objet, être, matériel, organisme de l'univers.<lb facs="P19_TL00030"/>2/accentuer l'importance de l'homme, grouper autour de lui et subordonner les<lb facs="P19_TL00031"/>êtres, les objets etc.<lb facs="P19_TL00032"/>Noyau de ce dernier principe est une méthode psychologique; le danger: le be<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P19_TL00033"/>soin de CORRIGER les hommes, mais les laisser à ce qu'ils veulent devenir, —<lb facs="P19_TL00034"/>des êtres supérieures. Le poète se laisse traîner au hasard de la succéssivité<lb facs="P19_TL00035"/>et de l'impression. Pour le premier principe, ce besoin prend une nouvelle forme:<lb facs="P19_TL00036"/>ranger les hommes à côté des autres éléments, tels qu'ils sont, rendre les hommes<lb facs="P19_TL00037"/>MEILLEURS. Travailler en commun anonymement à la grande cathédrale de la<lb facs="P19_TL00038"/>vie que nous préparons ; niveler les instincts de l'homme, qui prendraient — en</ab>
-                              </div>
-                           </div>
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P20_TB00001">
-                                    <lb facs="P20_TL00001"/>accentuant trop sa personnalité, — des proportions babylonnienes de méchanceté et<lb facs="P20_TL00002"/>de cynisme.<lb facs="P20_TL00003"/>Reverdy en groupant autour de l'homme les respirations, les relations des éléments,<lb facs="P20_TL00004"/>crée -des états presque matériels, qui restent stagnants tout le long du trajet des<lb facs="P20_TL00005"/>différants personnages, et l'on étouffe presque, vers la fin du livre dans cette<lb facs="P20_TL00006"/>athmosphère dont on connait les secrets de la composition, si l'on a assisté<lb facs="P20_TL00007"/>attentivement aux étapes qu'on a parcouru. C'est une grande qualité de ce roman<lb facs="P20_TL00008"/>de nous donner une émotion tellement forte, avec la sobriété dans le choix des<lb facs="P20_TL00009"/>moyens, que Reverdy y applique; en cela il est honnête et sérieux. Il se ra<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P20_TL00010"/>proche du premier principe en ne faissant pas de morale, car il laisse tous les<lb facs="P20_TL00011"/>autres éléments (sauf l'homme) se manifester simultanément. Reverdy oppose à<lb facs="P20_TL00012"/>l'art pour l'art: l'art pour la vie. Nous y opposons l'art pour la diversité cos<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P20_TL00013"/>mique, pour la totalité, pour l'univers, et voulons voir, innées dans celles-ci, la<lb facs="P20_TL00014"/>vie lente qui existe et dort même dans ce qu'on nomme d'habitude mort. Mais<lb facs="P20_TL00015"/>les théories, les formules, sont relatives et élastiques (prises comme absolues<lb facs="P20_TL00016"/>elles deviendraient dogmes étroits et fanatisme) et nous ne voulons point en<lb facs="P20_TL00017"/>faire; voir dans ce que nous avons dit l'esquisse de quelpues caractéristiques.<lb facs="P20_TL00018"/>11 faut lire le roman de Reverdy, dont la poésie est sage et calme, et témoigne<lb facs="P20_TL00019"/>d'une tranquillité qui pousse et s'accumule dans sa propre puissance. Cascade<lb facs="P20_TL00020"/>qui tomberait en [haut en incendie productif comme un grand arbre aux fruits<lb facs="P20_TL00021"/>multiples et divers.<lb facs="P20_TL00022"/>PIERRE ALBERT-BIROT : TRENTE ET UN POÈMES DE POCHE (Ed. Sic)<lb facs="P20_TL00023"/>Colliers déréglés des maisonssapinsverts; chaque notation dans une boîte: une<lb facs="P20_TL00024"/>atmosphère dans une boîte d'allumettes et la vitesse captée — des insectes, des<lb facs="P20_TL00025"/>tramways qui grimpent vers une tête de verre. Dire : le futurisme pour les jeunes<lb facs="P20_TL00026"/>filles, l'explosion au pensionnat et aplatis sous les coussins douillets: les paysages<lb facs="P20_TL00027"/>nouveaux? Mais chaque petite page crie trop fort et crève dans le vase, chacune<lb facs="P20_TL00028"/>contient une nouvelle idée, et l'on est astralement émerveillé devant le passage<lb facs="P20_TL00029"/>rapide (un peu trop brutal, mais peut-être: nécessaire?) des images de vie intense<lb facs="P20_TL00030"/>et coloriée.<lb facs="P20_TL00031"/>H. ARP, W. HELBIG ET A. SEGAL exposent actuellement une série de peintures<lb facs="P20_TL00032"/>et de broderies à la galerie Wolfsberg (Zurich). Le peintre roumain Segal veut<lb facs="P20_TL00033"/>donner à chaque élément une valeur égale et le droit à une vie indépendante.<lb facs="P20_TL00034"/>Il voit dans l'application de cette pensée aux principes humains, l'équilibre et<lb facs="P20_TL00035"/>la tranquillité. Ses toiles sont illuminées par ces deux grandes qualités et témoi<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P20_TL00036"/>gnent d'une sensibilité riche et d'un bon métier.</ab>
-                              </div>
-                           </div>
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P21_TB00001">
-                                    <lb facs="P21_TL00001"/>LEONHARD FRANK, fera paraître chez Rascher &amp; Co., Zurich, un recueuil de<lb facs="P21_TL00002"/>nouvelles écrites pendant la guerre. Ce livre plein de bonté et de tempérament<lb facs="P21_TL00003"/>émouvera déjà par la hardiesse de son titre: „L'homme est bon", affirmation<lb facs="P21_TL00004"/>qui pour Frank n'est pas une ironie, mais une forte conviction se rapportant au<lb facs="P21_TL00005"/>fond primitif de l'âme qui ne serait pas empoisonnée par 1 éducation et par les<lb facs="P21_TL00006"/>conditions sociales présentes. Propager ce livre révolutionnaire d'un de nos meilleurs<lb facs="P21_TL00007"/>prosateurs d'aujourd'hui, qui éfface passes qualités intenses les frontières des<lb facs="P21_TL00008"/>groupements éxclusifs et des doctrinalismes étroits.<lb facs="P21_TL00009"/>SIC, revue d'avant-garde, courageusement dirigée par P. A. Birot. Le dernier<lb facs="P21_TL00010"/>no. contient: un poème de Cantarelli; ;,Les mamelles de Tirésias" musique de<lb facs="P21_TL00011"/>Germaine Birot; un poème de Birot; un bois trop mécaniquement sommaire, de<lb facs="P21_TL00012"/>Piampoiini; un beau poème d'un lyrisme cosmique de P. Drieu la Rochelle; un<lb facs="P21_TL00013"/>poème de Ary Justniann; une note sur l'art nègre et un poème de Tr, Tzara.<lb facs="P21_TL00014"/>LE PAGINE — Sympathique et sérieuse petite revue, parait depuis 2 années à<lb facs="P21_TL00015"/>Naples sous les soins de N. Moscardelli et de M. d'Arezzo, poètes de grand talent<lb facs="P21_TL00016"/>qui gardent une attitude digne et silencieuse.<lb facs="P21_TL00017"/>NOI, revue internationale, paraît à Rome sous la direction de Prampolini et de San<lb facs="P21_TL00018"/>Miniatelli. Une des dernières peintures de Severini, reproduite das le lerIer no. est<lb facs="P21_TL00019"/>très intéressante par la construction des plans bien équilibrés. Des bois de Arp,<lb facs="P21_TL00020"/>Galante, janco, Prampolini, poèmes de Buzzi, Meriano, Bino et un poème (horrib<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P21_TL00021"/>lement déformé par les erreurs typographiques) de Tzara. La revue nous paraît<lb facs="P21_TL00022"/>sérieuse.<lb facs="P21_TL00023"/>PROCELLARIA (dirigée par Cantarelli et Fozzi) sembla afficher sur son programme<lb facs="P21_TL00024"/>l'antisyntaxisme des paroles en liberté, c'est-à-dire le désordre des éléments et<lb facs="P21_TL00025"/>le combat contre les valeurs existantes et éternelles, — mené parfois vers un<lb facs="P21_TL00026"/>désir trop visiblement imitatif: mélange inorganique de la peinture de la musique<lb facs="P21_TL00027"/>et du lyrisme — académie et scientifisme dont les bases sont très esotériques<lb facs="P21_TL00028"/>et fluides. L'instabilité est trop évidente, hélas, et l'art n'est pas une science.<lb facs="P21_TL00029"/>Dans son dernier numéro (3) Procellaria semble se demander à propos des paroles<lb facs="P21_TL00030"/>en liberté: c'est l'esprit qui y est nouveau ou 1 éternel romantisme prend de nou<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P21_TL00031"/>velles formes? Mais les recherches sont toujours intéressantes. • •<lb facs="P21_TL00032"/>LE PEINTRE M. JANCO fera au mois de février 2 conférences sur l'art nouveau,<lb facs="P21_TL00033"/>à l'école supérieure d'architecture de Zurich.<lb facs="P21_TL00034"/>Le bois sur la première page de la couverture est de Mlle. H. DE REBAY.</ab>
-                              </div>
-                           </div>
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P22_TB00001">
-                                    <lb facs="P22_TL00001"/>„LA FÉTIDE REVUE DEMAIN" . . . "rédigée par une jeune traître du nom de<lb facs="P22_TL00002"/>Henri Guibeaux" . . . commence à avouer, c'est vrai, humblement, sur la dernière<lb facs="P22_TL00003"/>page de la couverture, ses mauvaises habitudes de fréquenter les eaux malpropres.<lb facs="P22_TL00004"/>Mieux vaut tard que jamais.<lb facs="P22_TL00005"/>Mais pourquoi des malhônnetteés ? Ce monsieur n'a jamais reçu aucune sorte de<lb facs="P22_TL00006"/>recommandation du „directeur" de notre publication (Tr. Tzara).<lb facs="P22_TL00007"/>Le même mr. ignore à quel degré il est détesté par les vrais démocrates qui<lb facs="P22_TL00008"/>considèrent ses actions comme égales à celles rendues par des agents payés.<lb facs="P22_TL00009"/>Mr. G. injurie en outre, furieusement, les simultanéistes, cubistes, mais fut tout<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P22_TL00010"/>de-même content de pouvoir s'intituler f,dynamiste" dans la revue „simultanéiste"<lb facs="P22_TL00011"/>POÈME ET DRAME qui publia une poésie de lui à côté de celles de Marinetti,<lb facs="P22_TL00012"/>Apollinaire, Barzun.<lb facs="P22_TL00013"/>Hélas! L'honnêteté des journalistes et la sagesse des dilétants! . . .<lb facs="P22_TL00014"/>L'administration du Mouvement Dada a organisé un service de librairie. Adresser<lb facs="P22_TL00015"/>les commandes au: Mouvement Dada, Administration: F. Arp, Zurich, Zeîtweg 83.<lb facs="P22_TL00016"/>LES CAHIERS DADA paraissent sous la direction de Tristan Tzara.<lb facs="P22_TL00017"/>Par une erreur typographique la note sur F. Glaaser dans Dada 1 ne parut pas<lb facs="P22_TL00018"/>en entier. Nous la complétons. „F. Glauser: „poète" (sentimental) n'a rien de<lb facs="P22_TL00019"/>commun avec le mouvement Dada. Il fut pourtant toujours parmi nous et colla<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P22_TL00020"/>bora activement à nos soirées. Certains rats qui commentent des vers de jeu<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P22_TL00021"/>nesse de cet écrivain en lui donnant l'épithète cité plus haut se trompent sur<lb facs="P22_TL00022"/>une question de qualité. Nous continuerons à apprécier cet écrivain."<lb facs="P22_TL00023"/>LIVRES:<lb facs="P22_TL00024"/>PIERRE REVERDY : LE VOLEUR DE TALAN,roman, chez l'auteur 12, rue Cortot,<lb facs="P22_TL00025"/>Paris.<lb facs="P22_TL00026"/>PAUL DERMÉE: SPIRALES, poèmes.<lb facs="P22_TL00027"/>ENRICO SETTIMELLI : MASCHERATE FUTURISTE (Ed. Italia Futurista, Firenze)<lb facs="P22_TL00028"/>HARUKICHI SHIMOI-GHERARDO MARONE: POESIE GIAPPONESI (Ed. R.<lb facs="P22_TL00029"/>Ricciardi, Napoli)<lb facs="P22_TL00030"/>BINO: VALLIBELLA (Ed. B. Lux, Roma)<lb facs="P22_TL00031"/>GINO CANTARELLI : ASCENDENZE CROMATICHE (L. 2.50)<lb facs="P22_TL00032"/>RAFFAELLO FRANCHI: RUSCELLANTE (Firenze L. 1.-)<lb facs="P22_TL00033"/>„ „ Incantamento (Tempra L. 1.—)<lb facs="P22_TL00034"/>PAOLO ARGIRA: CARLO LINATI (Ed. La Diana L. —.75)<lb facs="P22_TL00035"/>NICOLA MOSCARDELLI: GIOIELLERIA NOTTURNA (Va paraître)</ab>
-                              </div>
-                           </div>
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P23_TB00002">
-                                    <lb facs="P23_TL00003"/>Pour paraître en janvier 1918:<lb facs="P23_TL00004"/>12 POÈMES DE TRISTAN TZARA<lb facs="P23_TL00005"/>6 DESSINS DE H. ARP<lb facs="P23_TL00006"/>Prix: 2 Frs. 20 Exemplaires signés numérotés de 1 à 20 et coloriés à la main:<lb facs="P23_TL00007"/>15 Frs.<lb facs="P23_TL00008"/>DADA 1. Sommaire: H. Arp — Broderie, bois 1 et 2; Tr. Tzara — Note sur<lb facs="P23_TL00009"/>l'art, poèmes nègres, vers; 0. Ltithy — Madonna; F. Meriano — Walk; N. Mos<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P23_TL00010"/>cardelli — Piume; M. Janco — Relief, construction, bois: A. Savinio — Un<lb facs="P23_TL00011"/>vomissement musical.<lb facs="P23_TL00012"/>Notes: Laban; La poésie simultanée; H. Guilbeaux; Livres et revues etc.<lb facs="P23_TL00013"/>Prix: 2 Frs. Édition de luxe: 8 Frs.<lb facs="P23_TL00014"/>R. HUELSENBECK: PHANTASTISCHE GEBETE, Bois de H. Arp. 3 Frs.<lb facs="P23_TL00015"/>» " 1<lb facs="P23_TL00016"/>M. JANCO: ALBUM, 8 Gravures sur bois avec un poème de Tr. Tzara. 75 Frs.<lb facs="P23_TL00017"/>TR. TZARA: LA PREMIÈRE AVENTURE CÉLESTE DE MR. ANTIPYRINE,<lb facs="P23_TL00018"/>avec des bois coloriés de M. Janco. 2 Frs. 10 Exemplaires sur Hollande,<lb facs="P23_TL00019"/>numérotés de 1 à 10 et coloriés à la main: 10 Frs.<lb facs="P23_TL00020"/>V D</ab>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
+          </relatedItem>
+          <relatedItem type="constituent" xml:id="c002">
+            <biblStruct>
+              <analytic>
+                <title level="a">
+                  <seg type="main">INTÉRIEUR</seg>
+                </title>
+                <respStmt>
+                  <persName>O. VAN REES</persName>
+                  <resp>cre</resp>
+                </respStmt>
+              </analytic>
+              <monogr>
+                <imprint>
+                  <classCode scheme="CCS">Illustration</classCode>
+                  <biblScope unit="page">2</biblScope>
+                </imprint>
+              </monogr>
+            </biblStruct>
+          </relatedItem>
+          <relatedItem type="constituent" xml:id="c003">
+            <biblStruct>
+              <analytic>
+                <title level="a">
+                  <seg type="main">NOTE 2 SUR L'ART. H. ARP.</seg>
+                </title>
+                <respStmt>
+                  <persName>TRISTAN TZARA</persName>
+                  <resp>cre</resp>
+                </respStmt>
+                <textLang mainLang="fre"/>
+              </analytic>
+              <monogr>
+                <imprint>
+                  <classCode scheme="CCS">TextContent</classCode>
+                  <biblScope unit="page">3</biblScope>
+                </imprint>
+              </monogr>
+            </biblStruct>
+          </relatedItem>
+          <relatedItem type="constituent" xml:id="c004">
+            <biblStruct>
+              <analytic>
+                <title level="a">
+                  <seg type="main">STRADE</seg>
+                </title>
+                <respStmt>
+                  <persName>MARIA D'AREZZO</persName>
+                  <resp>cre</resp>
+                </respStmt>
+                <textLang mainLang="fre"/>
+              </analytic>
+              <monogr>
+                <imprint>
+                  <classCode scheme="CCS">TextContent</classCode>
+                  <biblScope unit="page" from="3" to="6">3-6</biblScope>
+                </imprint>
+              </monogr>
+              <relatedItem type="constituent" xml:id="c005">
+                <biblStruct>
+                  <analytic>
+                    <title level="a">
+                      <seg type="main">TABLEAU EN PAPIER.</seg>
+                    </title>
+                    <respStmt>
+                      <persName>H. ARP</persName>
+                      <resp>cre</resp>
+                    </respStmt>
+                  </analytic>
+                  <monogr>
+                    <imprint>
+                      <classCode scheme="CCS">Illustration</classCode>
+                      <biblScope unit="page">4</biblScope>
+                    </imprint>
+                  </monogr>
+                </biblStruct>
+              </relatedItem>
+              <relatedItem type="constituent" xml:id="c006">
+                <biblStruct>
+                  <analytic>
+                    <title level="a">
+                      <seg type="nonSort">LA</seg>
+                      <seg type="main">FENÊTRE SUR LA VILLE.</seg>
+                    </title>
+                    <respStmt>
+                      <persName>ROBERT DELAUNAY</persName>
+                      <resp>cre</resp>
+                    </respStmt>
+                  </analytic>
+                  <monogr>
+                    <imprint>
+                      <classCode scheme="CCS">Illustration</classCode>
+                      <biblScope unit="page">6</biblScope>
+                    </imprint>
+                  </monogr>
+                </biblStruct>
+              </relatedItem>
+            </biblStruct>
+          </relatedItem>
+          <relatedItem type="constituent" xml:id="c007">
+            <biblStruct>
+              <analytic>
+                <title level="a">
+                  <seg type="main">RASOIR MÉCANIQUE</seg>
+                </title>
+                <respStmt>
+                  <persName>PIERRE ALBERT-BIROT</persName>
+                  <resp>cre</resp>
+                </respStmt>
+                <textLang mainLang="fre"/>
+              </analytic>
+              <monogr>
+                <imprint>
+                  <classCode scheme="CCS">TextContent</classCode>
+                  <biblScope unit="page">7</biblScope>
+                </imprint>
+              </monogr>
+            </biblStruct>
+          </relatedItem>
+          <relatedItem type="constituent" xml:id="c008">
+            <biblStruct>
+              <analytic>
+                <title level="a">
+                  <seg type="main">POUR DADA</seg>
+                </title>
+                <respStmt>
+                  <persName>PIERRE ALBERT-BIROT</persName>
+                  <resp>cre</resp>
+                </respStmt>
+                <textLang mainLang="fre"/>
+              </analytic>
+              <monogr>
+                <imprint>
+                  <classCode scheme="CCS">TextContent</classCode>
+                  <biblScope unit="page" from="7" to="9">7-9</biblScope>
+                </imprint>
+              </monogr>
+              <relatedItem type="constituent" xml:id="c009">
+                <biblStruct>
+                  <analytic>
+                    <title level="a">
+                      <seg type="main">BOIS.</seg>
+                    </title>
+                    <respStmt>
+                      <persName>ENRICO PRAMPOLINI</persName>
+                      <resp>cre</resp>
+                    </respStmt>
+                  </analytic>
+                  <monogr>
+                    <imprint>
+                      <classCode scheme="CCS">Illustration</classCode>
+                      <biblScope unit="page">8</biblScope>
+                    </imprint>
+                  </monogr>
+                </biblStruct>
+              </relatedItem>
+            </biblStruct>
+          </relatedItem>
+          <relatedItem type="constituent" xml:id="c010">
+            <biblStruct>
+              <analytic>
+                <title level="a">
+                  <seg type="main">COSTELLAZIONE</seg>
+                </title>
+                <respStmt>
+                  <persName>GINO CANTARELLI</persName>
+                  <resp>cre</resp>
+                </respStmt>
+                <textLang mainLang="ita"/>
+              </analytic>
+              <monogr>
+                <imprint>
+                  <classCode scheme="CCS">TextContent</classCode>
+                  <biblScope unit="page" from="9" to="11">9-11</biblScope>
+                </imprint>
+              </monogr>
+              <relatedItem type="constituent" xml:id="c011">
+                <biblStruct>
+                  <analytic>
+                    <title level="a">
+                      <seg type="main">AQUARELLE</seg>
+                    </title>
+                    <respStmt>
+                      <persName>WASSILIY KANDINSKY</persName>
+                      <resp>cre</resp>
+                    </respStmt>
+                  </analytic>
+                  <monogr>
+                    <imprint>
+                      <classCode scheme="CCS">Illustration</classCode>
+                      <biblScope unit="page">10</biblScope>
+                    </imprint>
+                  </monogr>
+                </biblStruct>
+              </relatedItem>
+            </biblStruct>
+          </relatedItem>
+          <relatedItem type="constituent" xml:id="c012">
+            <biblStruct>
+              <analytic>
+                <title level="a">
+                  <seg type="main">SENTIMENTS DANS LES PALACES</seg>
+                </title>
+                <respStmt>
+                  <persName>S. DE VAULCHIER</persName>
+                  <resp>cre</resp>
+                </respStmt>
+                <textLang mainLang="fre"/>
+              </analytic>
+              <monogr>
+                <imprint>
+                  <classCode scheme="CCS">TextContent</classCode>
+                  <biblScope unit="page" from="11" to="13">11-13</biblScope>
+                </imprint>
+              </monogr>
+              <relatedItem type="constituent" xml:id="c013">
+                <biblStruct>
+                  <analytic>
+                    <title level="a">
+                      <seg type="main">PEINTURE.</seg>
+                    </title>
+                    <respStmt>
+                      <persName>W. HELBIG</persName>
+                      <resp>cre</resp>
+                    </respStmt>
+                  </analytic>
+                  <monogr>
+                    <imprint>
+                      <classCode scheme="CCS">Illustration</classCode>
+                      <biblScope unit="page">12</biblScope>
+                    </imprint>
+                  </monogr>
+                </biblStruct>
+              </relatedItem>
+            </biblStruct>
+          </relatedItem>
+          <relatedItem type="constituent" xml:id="c014">
+            <biblStruct>
+              <analytic>
+                <title level="a">
+                  <seg type="main">CONCIME</seg>
+                </title>
+                <respStmt>
+                  <persName>BINO SAN MINIATELLI</persName>
+                  <resp>cre</resp>
+                </respStmt>
+                <textLang mainLang="fre"/>
+              </analytic>
+              <monogr>
+                <imprint>
+                  <classCode scheme="CCS">TextContent</classCode>
+                  <biblScope unit="page" from="13" to="15">13-15</biblScope>
+                </imprint>
+              </monogr>
+              <relatedItem type="constituent" xml:id="c015">
+                <biblStruct>
+                  <analytic>
+                    <title level="a">
+                      <seg type="main">RELIEF 3</seg>
+                    </title>
+                    <respStmt>
+                      <persName>M. JANCO</persName>
+                      <resp>cre</resp>
+                    </respStmt>
+                    <respStmt>
+                      <persName>Tr. Tzara</persName>
+                      <resp/>
+                    </respStmt>
+                  </analytic>
+                  <monogr>
+                    <imprint>
+                      <classCode scheme="CCS">Illustration</classCode>
+                      <biblScope unit="page">14</biblScope>
+                    </imprint>
+                  </monogr>
+                </biblStruct>
+              </relatedItem>
+            </biblStruct>
+          </relatedItem>
+          <relatedItem type="constituent" xml:id="c016">
+            <biblStruct>
+              <analytic>
+                <title level="a">
+                  <seg type="main">2 POÈMES NÈGRES</seg>
+                </title>
+                <respStmt>
+                  <persName>Tr. Tzara</persName>
+                  <resp>trl</resp>
+                </respStmt>
+                <respStmt>
+                  <persName>Loritja</persName>
+                  <resp>att</resp>
+                </respStmt>
+                <textLang mainLang="fre"/>
+              </analytic>
+              <monogr>
+                <imprint>
+                  <classCode scheme="CCS">TextContent</classCode>
+                  <biblScope unit="page" from="15" to="17">15-17</biblScope>
+                </imprint>
+              </monogr>
+              <relatedItem type="constituent" xml:id="c018a">
+                <biblStruct>
+                  <analytic>
+                    <title level="a">
+                      <seg type="main">[en ouest des nuages végétant]</seg>
+                    </title>
+                    <respStmt>
+                      <persName>Tr. Tzara</persName>
+                      <resp>trl</resp>
+                    </respStmt>
+                    <respStmt>
+                      <persName>Loritja</persName>
+                      <resp>att</resp>
+                    </respStmt>
+                    <textLang mainLang="fre"/>
+                  </analytic>
+                  <monogr>
+                    <imprint>
+                      <classCode scheme="CCS">TextContent</classCode>
+                      <biblScope unit="page">15</biblScope>
+                    </imprint>
+                  </monogr>
+                </biblStruct>
+              </relatedItem>
+              <relatedItem type="constituent" xml:id="c018">
+                <biblStruct>
+                  <analytic>
+                    <title level="a">
+                      <seg type="nonSort">LA</seg>
+                      <seg type="main">CHANSON DU SERPENT</seg>
+                    </title>
+                    <respStmt>
+                      <persName>Tr. Tzara</persName>
+                      <resp>trl</resp>
+                    </respStmt>
+                    <respStmt>
+                      <persName>Loritja</persName>
+                      <resp>att</resp>
+                    </respStmt>
+                    <textLang mainLang="fre"/>
+                  </analytic>
+                  <monogr>
+                    <imprint>
+                      <classCode scheme="CCS">TextContent</classCode>
+                      <biblScope unit="page">17</biblScope>
+                    </imprint>
+                  </monogr>
+                </biblStruct>
+              </relatedItem>
+            </biblStruct>
+          </relatedItem>
+          <relatedItem type="constituent" xml:id="c017">
+            <biblStruct>
+              <analytic>
+                <title level="a">
+                  <seg type="nonSort">LE</seg>
+                  <seg type="main">MAUVAIS GÉNIE D'UN ROI</seg>
+                </title>
+                <respStmt>
+                  <persName>G. DE CHIRICO</persName>
+                  <resp>cre</resp>
+                </respStmt>
+              </analytic>
+              <monogr>
+                <imprint>
+                  <classCode scheme="CCS">Illustration</classCode>
+                  <biblScope unit="page">16</biblScope>
+                </imprint>
+              </monogr>
+            </biblStruct>
+          </relatedItem>
+          <relatedItem type="constituent" xml:id="c019">
+            <biblStruct>
+              <analytic>
+                <title level="a">
+                  <seg type="main">PRINTEMPS</seg>
+                </title>
+                <respStmt>
+                  <persName>TRISTAN TZARA</persName>
+                  <resp>cre</resp>
+                </respStmt>
+                <textLang mainLang="fre"/>
+              </analytic>
+              <monogr>
+                <imprint>
+                  <classCode scheme="CCS">TextContent</classCode>
+                  <biblScope unit="page">17</biblScope>
+                </imprint>
+              </monogr>
+            </biblStruct>
+          </relatedItem>
+          <relatedItem type="constituent" xml:id="c020">
+            <biblStruct>
+              <analytic>
+                <title level="a">
+                  <seg type="main">NOTES</seg>
+                </title>
+                <textLang mainLang="fre"/>
+              </analytic>
+              <monogr>
+                <imprint>
+                  <classCode scheme="CCS">TextContent</classCode>
+                  <biblScope unit="page" from="18" to="23">18-23</biblScope>
+                </imprint>
+              </monogr>
+            </biblStruct>
+          </relatedItem>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="Magazine">
+        <div type="Issue">
+          <div type="PublicationInfo">
+            <div type="Nameplate">
+              <ab facs="P1_TB00001">
+              <lb facs="P1_TL00001"/>DADA 2<lb facs="P1_TL00002"/>RECUEIL LITTÉRAIRE ET ARTISTIQUE</ab>
             </div>
-         </div>
+            <div type="FrontFolioLine">
+              <ab facs="P1_TB00002">
+              <lb facs="P1_TL00003"/>DÉCEMBRE 1917</ab>
+            </div>
+            <div type="Masthead">
+              <ab facs="P23_TB00001">
+              <lb facs="P23_TL00001"/>MOUVEMENT DADA<lb facs="P23_TL00002"/>ADMINISTRATION: F. ARP, ZURICH, ZELTWEG 83.</ab>
+            </div>
+            <div type="GenericPubInfo">
+              <ab facs="P24_TB00001">
+              <lb facs="P24_TL00001"/>Prix de ce cahier: 2 frs.<lb facs="P24_TL00002"/>Edition de luxe signée et numérotée contenant un<lb facs="P24_TL00003"/>bois de H. Arp ou de M. Janco: 8 frs.<lb facs="P24_TL00004"/>Prière d'adresse la correspondence à:<lb facs="P24_TL00005"/>F. Arp, Administration Mouvement Dada<lb facs="P24_TL00006"/>Zurich, Zeltweg 83.<lb facs="P24_TL00007"/>Sorti des presses de l'imprimerie J. Heuberger.</ab>
+            </div>
+          </div>
+          <div type="EditorialContent">
+            <div type="Illustration" corresp="c001">
+              <div type="Image"/>
+            </div>
+            <div type="Illustration" corresp="c002">
+              <div type="Image"/>
+              <div type="Caption">
+                <ab facs="P2_TB00001">
+                <lb facs="P2_TL00001"/>O.VAN REES:<lb facs="P2_TL00002"/>INTÉRIEUR<lb facs="P2_TL00003"/>Propr. H. Corray, Zurich.</ab>
+              </div>
+            </div>
+            <div type="TextContent" corresp="c003">
+              <div type="Head">
+                <ab facs="P3_TB00001">
+                <lb facs="P3_TL00001"/>NOTE 2 SUR L'ART. H. ARP.</ab>
+              </div>
+              <div type="Byline">
+                <ab facs="P3_TB00003">
+                <lb facs="P3_TL00032"/>TRISTAN TZARA</ab>
+              </div>
+              <div type="Copy">
+                <div type="BodyContent">
+                  <div type="Paragraph">
+                    <div type="Text">
+                      <ab facs="P3_TB00002">
+                        <lb facs="P3_TL00002"/>La hauteur chante ce qu'on parle dans la profondeur.<lb facs="P3_TL00003"/>La nature est organisée dans sa totalité, cordages du bateau fabuleux vers le<lb facs="P3_TL00004"/>point de rayons, dans; les principes qui règlent les cristaux les insectes en hié<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P3_TL00005"/>rarchie comme l'arbre.<lb facs="P3_TL00006"/>Toute chose naturelle garde sa clarté d'organisation, cachée, tirée par des relations<lb facs="P3_TL00007"/>qui se groupent comme la famille des lumières lunaires, centre de roue qui tour<pc type="endhypen" pre="false">-</pc>
+                      <lb facs="P3_TL00008"/>nerait à l'infini, en sphère, elle noue sa liberté, son existance dernière, absolue,<lb facs="P3_TL00009"/>à ces lois innombrables, constructives.<lb facs="P3_TL00010"/>Ma sœur racine, fleur, pierre.<lb facs="P3_TL00011"/>L'organisme est complet dans l'intelligence muette d'une nervure et dans son<lb facs="P3_TL00012"/>apparence.<lb facs="P3_TL00013"/>L'homme est sale, il tue les animaux, les plantes, ses frères, il querelle, il est<lb facs="P3_TL00014"/>intelligent, parle trop, ne peut pas dire ce qu'il pense.<lb facs="P3_TL00015"/>Mais l'artiste est un créateur: il sait travailler une forme qui devient organique.<lb facs="P3_TL00016"/>11 décide. Il rend l'homme meilleur. Soigne le jardin des intentions, ordonne.<lb facs="P3_TL00017"/>La pureté d'un principe me rend heureux, voir au-delà de l'horizontale qui s'élargit<lb facs="P3_TL00018"/>transquillisant les nouveautés végétales des pays éloignés ; floraisons de glace.<lb facs="P3_TL00019"/>La verticale : dans la sérieuse pensée devant l'infini en sentant la profondeur d'un<lb facs="P3_TL00020"/>instant devant l'animal.<lb facs="P3_TL00021"/>H. Arp<lb facs="P3_TL00022"/>: v,<lb facs="P3_TL00023"/>la symétrie<lb facs="P3_TL00024"/>fleur de rencontre à minuit<lb facs="P3_TL00025"/>où le vertige et l'oiseau deviennent tranquillité du halo<lb facs="P3_TL00026"/>et le houblon monte<lb facs="P3_TL00027"/>la fleur devient cristal ou scarabée, aimant, étoile<lb facs="P3_TL00028"/>vouloir mener une vie simple.<lb facs="P3_TL00029"/>Si l'on peut vivre le miracle on a monté la hauteur où ton sang sera l'ordre des<lb facs="P3_TL00030"/>archanges, médicament d'astronomie, lecteur, — croyance amassée clairement dans<lb facs="P3_TL00031"/>les coeurs simples — sagesse connaissance.</ab>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div type="TextContent" corresp="c004">
+              <div type="Head">
+                <ab facs="P3_TB00004">
+                <lb facs="P3_TL00033"/>STRADE</ab>
+              </div>
+              <div type="Byline">
+                <ab facs="P5_TB00002">
+                <lb facs="P5_TL00038"/>MARIA D'AREZZO</ab>
+              </div>
+              <div type="Illustration" corresp="c005">
+                <div type="Image"/>
+                <div type="Caption">
+                  <ab facs="P4_TB00001">
+                  <lb facs="P4_TL00001"/>H. ARP:<lb facs="P4_TL00002"/>TABLEAU EN PAPIER.</ab>
+                </div>
+              </div>
+              <div type="Illustration" corresp="c006">
+                <div type="Image"/>
+                <div type="Caption">
+                  <ab facs="P6_TB00001">
+                  <lb facs="P6_TL00001"/>ROBERT DELAUNAY:<lb facs="P6_TL00002"/>LA FENÊTRE SUR LA VILLE.</ab>
+                </div>
+              </div>
+              <div type="Copy">
+                <div type="BodyContent">
+                  <div type="Paragraph">
+                    <div type="Text">
+                      <ab facs="P3_TB00005">
+                      <lb facs="P3_TL00034"/>questo andare — sempre questo andare<lb facs="P3_TL00035"/>battere tutte le strade<lb facs="P3_TL00036"/>toccare tutte le contrade</ab>
+                    </div>
+                  </div>
+                  <div type="Paragraph">
+                    <div type="Text">
+                      <ab facs="P5_TB00001">
+                      <lb facs="P5_TL00001"/>crocifiggersi a tutti i crocicchi<lb facs="P5_TL00002"/>senza riposare —<lb facs="P5_TL00003"/>non c'è riposo per chi conosce tutte le strade<lb facs="P5_TL00004"/>tutte le strade del mondo:<lb facs="P5_TL00005"/>le eliche taciturne degli astri<lb facs="P5_TL00006"/>la follia turbinante delle foglie gialle<lb facs="P5_TL00007"/>i passi di sette leghe del vento<lb facs="P5_TL00008"/>la fuga vertiginosa del sangue<lb facs="P5_TL00009"/>le vie di tutte le creature<lb facs="P5_TL00010"/>salvate o perdute<lb facs="P5_TL00011"/>tanti cammini<lb facs="P5_TL00012"/>tanti destini<lb facs="P5_TL00013"/>di notte a occhi spaventati<lb facs="P5_TL00014"/>nell ' alba a occhi purificati<lb facs="P5_TL00015"/>la sera a occhi santificati<lb facs="P5_TL00016"/>la vie délia bontà<lb facs="P5_TL00017"/>quelle délia perversità<lb facs="P5_TL00018"/>quelle dell' amore e del dolore<lb facs="P5_TL00019"/>le tortuose vie délia sorte<lb facs="P5_TL00020"/>le ermetiche vie délia morte<lb facs="P5_TL00021"/>tutte le linee infinité<lb facs="P5_TL00022"/>che intelaiano l'infinito —<lb facs="P5_TL00023"/>andare sempre andare<lb facs="P5_TL00024"/>senza mai riposare<lb facs="P5_TL00025"/>finchè câpiti di tornare<lb facs="P5_TL00026"/>a un angolo di terra toscana<lb facs="P5_TL00027"/>cosi stanchi — da tanto lontano!<lb facs="P5_TL00028"/>che non s'ha forza d'alzare una mano<lb facs="P5_TL00029"/>e allora scavarsi una piccola fossa<lb facs="P5_TL00030"/>e calarsi dentro pian piano<lb facs="P5_TL00031"/>e stendersi e incrociar le mani<lb facs="P5_TL00032"/>fissar con occhi trasognati<lb facs="P5_TL00033"/>una gran pace di stelle sul capo<lb facs="P5_TL00034"/>spengersi in una lenta agonia<lb facs="P5_TL00035"/>dolce corne un' avemaria<lb facs="P5_TL00036"/>se la dica un' anima pia:<lb facs="P5_TL00037"/>cosi sia —</ab>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div type="TextContent" corresp="c007">
+              <div type="Head">
+                <ab facs="P7_TB00001">
+                <lb facs="P7_TL00001"/>RASOIR MÉCANIQUE</ab>
+              </div>
+              <div type="Copy">
+                <div type="BodyContent">
+                  <div type="Paragraph">
+                    <div type="Text">
+                      <ab facs="P7_TB00002">
+                      <lb facs="P7_TL00002"/>Couchez vous sur le dos et comptez les feuilles des arbres<lb facs="P7_TL00003"/>DANS LA FORÊT UNE A UNE<lb facs="P7_TL00004"/>LES JEUNES FILLES ONT PASSÉ<lb facs="P7_TL00005"/>Splendeur des mondes verts unis aux mondes bleus<lb facs="P7_TL00006"/>iiiiii i i i i i i<lb facs="P7_TL00007"/>Forêts des elephantslionstigresserpentsetjaguars<lb facs="P7_TL00008"/>Vous êtes quelque part<lb facs="P7_TL00009"/>Cependant que je rêve à Clamart<lb facs="P7_TL00010"/>Forêts d'Asie UNE NOISETTE et des deux Amériques<lb facs="P7_TL00011"/>PIGEON VOLE<lb facs="P7_TL00012"/>AVION VOLE<lb facs="P7_TL00013"/>PLOMB VOLE<lb facs="P7_TL00014"/>HI HI HI HI HI HA HA HA HA HA<lb facs="P7_TL00015"/>Incommensurabilité<lb facs="P7_TL00016"/>De notre eternité<lb facs="P7_TL00017"/>Blancheur et bleuité<lb facs="P7_TL00018"/>MARIE VIENS VOIR<lb facs="P7_TL00019"/>De l'insonorité<lb facs="P7_TL00020"/>Nous irons dans des gares<lb facs="P7_TL00021"/>Et dans des ports<lb facs="P7_TL00022"/>IL EST PASSÉ PAR ICI<lb facs="P7_TL00023"/>LE FURET DES BOIS MESDAMES<lb facs="P7_TL00024"/>IL EST PASSÉ PAR ICI<lb facs="P7_TL00025"/>En bateaux cheminsdefer<lb facs="P7_TL00026"/>A travers<lb facs="P7_TL00027"/>Terresetmers<lb facs="P7_TL00028"/>IL VA PLEUVOIR<lb facs="P7_TL00029"/>Pour voir</ab>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div type="TextContent" corresp="c008">
+              <div type="Head">
+                <ab facs="P7_TB00003">
+                <lb facs="P7_TL00030"/>POUR DADA</ab>
+              </div>
+              <div type="Byline">
+                <ab facs="P9_TB00002">
+                <lb facs="P9_TL00007"/>PIERRE ALBERT-BIROT</ab>
+              </div>
+              <div type="Illustration" corresp="c009">
+                <div type="Image"/>
+                <div type="Caption">
+                  <ab facs="P8_TB00001">
+                  <lb facs="P8_TL00001"/>ENRIGO PRAMPOLÎNI:<lb facs="P8_TL00002"/>BOIS.</ab>
+                </div>
+              </div>
+              <div type="Copy">
+                <div type="BodyContent">
+                  <div type="Paragraph">
+                    <div type="Text">
+                      <ab facs="P7_TB00004">
+                      <lb facs="P7_TL00031"/>AN AN AN AN AN AN AN AN<lb facs="P7_TL00032"/>AN AN AN<lb facs="P7_TL00033"/>111 I I I<lb facs="P7_TL00034"/>POUH-FOUH POUH-POUH RRRA<lb facs="P7_TL00035"/>si si si</ab>
+                    </div>
+                  </div>
+                  <div type="Paragraph">
+                    <div type="Text">
+                      <ab facs="P9_TB00001">
+                      <lb facs="P9_TL00001"/>drrrrr oum oum<lb facs="P9_TL00002"/>AN AN AN AN<lb facs="P9_TL00003"/>aaa aaaa aaa tzinn<lb facs="P9_TL00004"/>UI I I I I I<lb facs="P9_TL00005"/>HA HA HA HA HA HA HA<lb facs="P9_TL00006"/>rrrrrrrrrrrrrrrrrrrrrrr é</ab>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div type="TextContent" corresp="c010">
+              <div type="Head">
+                <ab facs="P9_TB00003">
+                <lb facs="P9_TL00008"/>COSTELLAZIONE</ab>
+              </div>
+              <div type="Byline">
+                <ab facs="P11_TB00002">
+                <lb facs="P11_TL00003"/>GINO CANTARELLI</ab>
+              </div>
+              <div type="Illustration" corresp="c011">
+                <div type="Image"/>
+                <div type="Caption">
+                  <ab facs="P10_TB00001">
+                  <lb facs="P10_TL00001"/>WASSILIY KANDINSKY:<lb facs="P10_TL00002"/>AQUARELLE.<lb facs="P10_TL00003"/>Reproduite avec la permission du „Sturm".</ab>
+                </div>
+              </div>
+              <div type="Copy">
+                <div type="BodyContent">
+                  <div type="Paragraph">
+                    <div type="Text">
+                      <ab facs="P9_TB00004">
+                      <lb facs="P9_TL00009"/>rosso azzuro<lb facs="P9_TL00010"/>azzuro rosso<lb facs="P9_TL00011"/>su le strade matalliche<lb facs="P9_TL00012"/>del paesaggio-quadro<lb facs="P9_TL00013"/>grafie fluorescenti a descrivere nuove geometrie che si precipitano verso le<lb facs="P9_TL00014"/>tavolozze-pointillistes magnetismo dei muscoli nell' ambientebrivido —ti trasporto<lb facs="P9_TL00015"/>al confine estremo délia concezione<lb facs="P9_TL00016"/>(quante decorazioni platino rette su cielo di velluto<lb facs="P9_TL00017"/>— danza tu nel tempovortice il destino le<lb facs="P9_TL00018"/>colorazioni bluastre dell' astratto !<lb facs="P9_TL00019"/>la luna cade sulle costruzioni elettriche<lb facs="P9_TL00020"/>scomposizione chimica stellare délia folla — microcosmi nei pulviscoli<lb facs="P9_TL00021"/>di Altair e tu vivi negli spazi dell'enarmonia<lb facs="P9_TL00022"/>quando ridi il bistro degli occhi vela<lb facs="P9_TL00023"/>10 sguardosmeraldo — ridere vivere<lb facs="P9_TL00024"/>ore 23 —- la canzone del ritorno con il cuore a sangue rappreso<lb facs="P9_TL00025"/>freddissima — stelle di silenzi per la volta deir assoluto —<lb facs="P9_TL00026"/>11 tutto che esalta l'atomo<lb facs="P9_TL00027"/>astronomie degli infiniti costellati di diamanti e di turchese<lb facs="P9_TL00028"/>— stenderti lasciva su la longue chaise violacea: e molecole d'iridio apiovere<lb facs="P9_TL00029"/>sul tuo corpo :<lb facs="P9_TL00030"/>avida — sarai ebbra di una fraganza crepuscolare e donerai —<lb facs="P9_TL00031"/>— rinuncia alla morte la tua animastro e profondila vivida per il mondo (impallidisce<lb facs="P9_TL00032"/>lo scénario orchestra del cielo ail' aiba divisionista<lb facs="P9_TL00033"/>— nel Colore —ai tuoi piedi languidissima l'estate moritura ti regala le gioiellerie<lb facs="P9_TL00034"/>dell' autunno nuovo — accenna l'universo ad un grigiore spirituale</ab>
+                    </div>
+                  </div>
+                  <div type="Paragraph">
+                    <div type="Text">
+                      <ab facs="P11_TB00001">
+                      <lb facs="P11_TL00001"/>Tu accarezzi il levriere che ti alita su le mani e sbianchi neî<lb facs="P11_TL00002"/>delirio terribile délia morfina</ab>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div type="TextContent" corresp="c012">
+              <div type="Head">
+                <ab facs="P11_TB00003">
+                <lb facs="P11_TL00004"/>SENTIMENTS DANS LES PALACES</ab>
+              </div>
+              <div type="Byline">
+                <ab facs="P13_TB00002">
+                <lb facs="P13_TL00004"/>S. DE VAULCHIER</ab>
+              </div>
+              <div type="Illustration" corresp="c013">
+                <div type="Image"/>
+                <div type="Caption">
+                  <ab facs="P12_TB00001">
+                  <lb facs="P12_TL00001"/>W. HELBIG:<lb facs="P12_TL00002"/>PEINTURE.</ab>
+                </div>
+              </div>
+              <div type="Copy">
+                <div type="BodyContent">
+                  <div type="Paragraph">
+                    <div type="Text">
+                      <ab facs="P11_TB00004">
+                      <lb facs="P11_TL00005"/>Atmosphère de palace — girandoles —<lb facs="P11_TL00006"/>agapes de fruits sur les nappes — nikel —<lb facs="P11_TL00007"/>cuir — cuivre — étincellements —<lb facs="P11_TL00008"/>et dans les couloirs kilométriques<lb facs="P11_TL00009"/>les Maies.<lb facs="P11_TL00010"/>Hall — coupole — verrières sur la Mer<lb facs="P11_TL00011"/>claire — claire — et les analyses des banquises<lb facs="P11_TL00012"/>du Pôle —<lb facs="P11_TL00013"/>Agonie du soleil vers l'lnfini<lb facs="P11_TL00014"/>au delà du promontoire et des naufrages<lb facs="P11_TL00015"/>il a forcé le blocus des sentiments<lb facs="P11_TL00016"/>par sa MORT.<lb facs="P11_TL00017"/>Gens de Palace — gens de Palace — écoutez-moi :<lb facs="P11_TL00018"/>je suis le bon petit avertisseur —<lb facs="P11_TL00019"/>l'observateur — et les cuis-cuis — de votre cœur<lb facs="P11_TL00020"/>je les attends comme sœur Anne<lb facs="P11_TL00021"/>d'une tour.<lb facs="P11_TL00022"/>Je suis votre âme-sœur des wagons-lits et je hante<lb facs="P11_TL00023"/>comme vous — comme vous — les thermes et les mers.<lb facs="P11_TL00024"/>Ne courez pas ainsi voir le soleil MOURIR.<lb facs="P11_TL00025"/>Vous resteriez fixés comme un coléoptère<lb facs="P11_TL00026"/>au verre — au verre des verrières<lb facs="P11_TL00027"/>circulaires.<lb facs="P11_TL00028"/>La mort — la mort — sonnez fanfares<lb facs="P11_TL00029"/>à pleine gorge — la mort — mort<lb facs="P11_TL00030"/>çà sent mauvais gens de Palace —<lb facs="P11_TL00031"/>à voir en face —<lb facs="P11_TL00032"/>et je m'en vais — bouchez vos nez<lb facs="P11_TL00033"/>le nez de vos petits sentiments sur mesure<lb facs="P11_TL00034"/>et de votre irreligion sans avenir —<lb facs="P11_TL00035"/>Finir — Finir —<lb facs="P11_TL00036"/>Futur — Futur —</ab>
+                    </div>
+                  </div>
+                  <div type="Paragraph">
+                    <div type="Text">
+                      <ab facs="P13_TB00001">
+                      <lb facs="P13_TL00001"/>0 Palaces éventrés<lb facs="P13_TL00002"/>Limaces mortes — les intestins dehors —<lb facs="P13_TL00003"/>et la bare éparse sur les tapis à fleurs</ab>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div type="TextContent" corresp="c014">
+              <div type="Head">
+                <ab facs="P13_TB00003">
+                <lb facs="P13_TL00005"/>CONCIME</ab>
+              </div>
+              <div type="Byline">
+                <ab facs="P15_TB00002">
+                <lb facs="P15_TL00018"/>BINO SAN MINIATELLI</ab>
+              </div>
+              <div type="Illustration" corresp="c015">
+                <div type="Image"/>
+                <div type="Caption">
+                  <ab facs="P14_TB00001">
+                  <lb facs="P14_TL00001"/>M. JANCO:<lb facs="P14_TL00002"/>RELIEF 3<lb facs="P14_TL00003"/>App. à Tr. Tzara.</ab>
+                </div>
+              </div>
+              <div type="Copy">
+                <div type="BodyContent">
+                  <div type="Paragraph">
+                    <div type="Text">
+                      <ab facs="P13_TB00004">
+                      <lb facs="P13_TL00006"/>Manti vitali<lb facs="P13_TL00007"/>di putride sonnolenze.<lb facs="P13_TL00008"/>Svolazzare a spirali — terra terra —<lb facs="P13_TL00009"/>come farfalloni che si disfanno.<lb facs="P13_TL00010"/>Sacrifici d'insetti.<lb facs="P13_TL00011"/>Armonia cronometrica<lb facs="P13_TL00012"/>délia decomposizione.<lb facs="P13_TL00013"/>Bollore d'accoppiamenti profondi<lb facs="P13_TL00014"/>come un ronzar febbrile di falene.<lb facs="P13_TL00015"/>Le lune piene — le lune galleggianti<lb facs="P13_TL00016"/>suir erbe scapigliate —<lb facs="P13_TL00017"/>come pallon volanti<lb facs="P13_TL00018"/>su su pel cielo sono montate —<lb facs="P13_TL00019"/>vuote — senza splendore —<lb facs="P13_TL00020"/>aspergendo di sterile albore<lb facs="P13_TL00021"/>il talamo fremente — di concime bollente.<lb facs="P13_TL00022"/>Il porco ha grugnito<lb facs="P13_TL00023"/>rufolando nel mucchio del concio<lb facs="P13_TL00024"/>come un torvo re preistorico —<lb facs="P13_TL00025"/>un Turno re de' Rutoli — il grugno fitto<lb facs="P13_TL00026"/>nel concio — parlare incomprensibile<lb facs="P13_TL00027"/>scuotendo la brutale — testa sulle maie<lb facs="P13_TL00028"/>sorti d'un esercito sconf.tto.<lb facs="P13_TL00029"/>E le farfalle si sono spogliate<lb facs="P13_TL00030"/>dell' ali leggendarie — variopinte<lb facs="P13_TL00031"/>nell' auréola de' cieli profondi —<lb facs="P13_TL00032"/>si sono sfarfallate.<lb facs="P13_TL00033"/>La vigna nell' ombria<lb facs="P13_TL00034"/>de' suoi peccati in fiore —<lb facs="P13_TL00035"/>sotto a un fumante tumulo<lb facs="P13_TL00036"/>di concio — vigile stallone —<lb facs="P13_TL00037"/>fiduciosa s'è sdraiata —</ab>
+                    </div>
+                  </div>
+                  <div type="Paragraph">
+                    <div type="Text">
+                      <ab facs="P15_TB00001">
+                      <lb facs="P15_TL00001"/>d'essere fecondata.<lb facs="P15_TL00002"/>Una gallina fradicia — che maturava al sole<lb facs="P15_TL00003"/>stcchita e macolata —<lb facs="P15_TL00004"/>ha fatto coccodè<lb facs="P15_TL00005"/>perché il bambino — che ci si divertiva<lb facs="P15_TL00006"/>sull' aia — corne con un burattino —<lb facs="P15_TL00007"/>per finire la festa<lb facs="P15_TL00008"/>le ha messo un piede sulla testa.<lb facs="P15_TL00009"/>Tutti gli insetti hanno suonato i campanelli<lb facs="P15_TL00010"/>alla baldoria — alla baldoria<lb facs="P15_TL00011"/>di Re Concime — vulcano leggendario —<lb facs="P15_TL00012"/>rinvigorire tic tac — i sonni contadini.<lb facs="P15_TL00013"/>Ma la notte era cosi stellata<lb facs="P15_TL00014"/>(o! quella notte stellata<lb facs="P15_TL00015"/>corn' era matematica . . .) che un nero<lb facs="P15_TL00016"/>scarabeo passeggero<lb facs="P15_TL00017"/>si credeva uno specchio.</ab>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div type="TextContent" corresp="c016">
+              <div type="Head">
+                <ab facs="P15_TB00003">
+                <lb facs="P15_TL00019"/>2 POÈMES NÈGRES</ab>
+              </div>
+              <div type="Byline">
+                <ab facs="P15_TB00004">
+                <lb facs="P15_TL00020"/>traduits par Tr. Tzara<lb facs="P15_TL00021"/>tribu Loritja</ab>
+              </div>
+              <div type="TextContent" corresp="c018a">
+                <div type="Copy">
+                  <div type="BodyContent">
+                    <div type="Paragraph">
+                      <div type="Text">
+                        <ab facs="P15_TB00005">
+                        <lb facs="P15_TL00022"/>en ouest des nuages végétant<lb facs="P15_TL00023"/>à l'est se répandre<lb facs="P15_TL00024"/>fleur se déplia<lb facs="P15_TL00025"/>blanc nuage se déplia<lb facs="P15_TL00026"/>des branches de gui — pissat couler<lb facs="P15_TL00027"/>éclair branches de gui<lb facs="P15_TL00028"/>couler arbres ilbara touffus<lb facs="P15_TL00029"/>tua<lb facs="P15_TL00030"/>véhée<lb facs="P15_TL00031"/>pleurant immobile<lb facs="P15_TL00032"/>plus large s'étendre feu serrer<lb facs="P15_TL00033"/>feu ayant vu presse feu<lb facs="P15_TL00034"/>bois pour le feu charger<lb facs="P15_TL00035"/>chouche élargir<lb facs="P15_TL00036"/>éclair</ab>
+                      </div>
+                    </div>
+                    <div type="Paragraph">
+                      <div type="Text">
+                        <ab facs="P17_TB00001">
+                        <lb facs="P17_TL00001"/>frappe casse<lb facs="P17_TL00002"/>eau sur la surface d'argile<lb facs="P17_TL00003"/>où les nuages furent ensemble<lb facs="P17_TL00004"/>il rugissa<lb facs="P17_TL00005"/>continuellement<lb facs="P17_TL00006"/>éclair<lb facs="P17_TL00007"/>tonnerre avoir rancune</ab>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div type="TextContent" corresp="c018">
+                <div type="Head">
+                  <ab facs="P17_TB00002">
+                  <lb facs="P17_TL00008"/>LA CHANSON DU SERPENT</ab>
+                </div>
+                <div type="Byline">
+                  <ab facs="P17_TB00003">
+                  <lb facs="P17_TL00009"/>tribu Loritja</ab>
+                </div>
+                <div type="Copy">
+                  <div type="BodyContent">
+                    <div type="Paragraph">
+                      <div type="Text">
+                        <ab facs="P17_TB00004">
+                        <lb facs="P17_TL00010"/>serpentant jeter en avant<lb facs="P17_TL00011"/>se tordant jeter en avant<lb facs="P17_TL00012"/>peau de serpant se lever<lb facs="P17_TL00013"/>au ciel se lever<lb facs="P17_TL00014"/>cœur battre continuellement<lb facs="P17_TL00015"/>queue battre continuellement<lb facs="P17_TL00016"/>queue veut s'éteindre<lb facs="P17_TL00017"/>queue veut remuer<lb facs="P17_TL00018"/>tremblant</ab>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div type="Illustration" corresp="c017">
+              <div type="Image"/>
+              <div type="Caption">
+                <ab facs="P16_TB00001">
+                <lb facs="P16_TL00001"/>G. DE CHIRICO:<lb facs="P16_TL00002"/>LE MAUVAIS GÉNIE D'UN ROI<lb facs="P16_TL00003"/>Coll. Paul Guillaume, Paris.</ab>
+              </div>
+            </div>
+            <div type="TextContent" corresp="c019">
+              <div type="Head">
+                <ab facs="P17_TB00005">
+                <lb facs="P17_TL00019"/>PRINTEMPS</ab>
+              </div>
+              <div type="Byline">
+                <ab facs="P17_TB00007">
+                <lb facs="P17_TL00034"/>TRISTAN TZARA</ab>
+              </div>
+              <div type="Copy">
+                <div type="BodyContent">
+                  <div type="Paragraph">
+                    <div type="Text">
+                      <ab facs="P17_TB00006">
+                      <lb facs="P17_TL00020"/>à h arp<lb facs="P17_TL00021"/>placer l'enfant dans le vase au fond de minuit<lb facs="P17_TL00022"/>et la plaie<lb facs="P17_TL00023"/>une rose des vents avec tes doigts aux belles ongles<lb facs="P17_TL00024"/>le tonnerre dans des plumes voir<lb facs="P17_TL00025"/>une eau mauvaise coule des membres de l'antilope<lb facs="P17_TL00026"/>souffrir en bas avez vous trouvé des vaches des oiseaux?<lb facs="P17_TL00027"/>la soif le fiel du paon dans la cage<lb facs="P17_TL00028"/>le roi en exil par la clarté du puits se momifie lentement<lb facs="P17_TL00029"/>dans le jardin de légumes<lb facs="P17_TL00030"/>semer des sauterelles brisées planter des cœur.} de fourmis le<lb facs="P17_TL00031"/>brouillard de sel une lampe tire la queue sur le ciel<lb facs="P17_TL00032"/>les petits éclats de verrerie dans le ventre des cerfs en fuite<lb facs="P17_TL00033"/>sur les points des branches noires courtes pour un cri</ab>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div type="TextContent" corresp="c020">
+              <div type="Head">
+                <ab facs="P18_TB00001">
+                <lb facs="P18_TL00001"/>NOTES</ab>
+              </div>
+              <div type="Copy">
+                <div type="BodyContent">
+                  <div type="Paragraph">
+                    <div type="Text">
+                      <ab facs="P18_TB00002">
+                        <lb facs="P18_TL00002"/>GUILLAUME APOLLINAIRE.<lb facs="P18_TL00003"/>Pour ce poète la vie est un jeu tournant et sérieux de farces, de tristesse, de<lb facs="P18_TL00004"/>bonhomie, de naïveté, de modernisme tour à tour. Le doigt visse dans tous<lb facs="P18_TL00005"/>les chairs jusqu'à l'intérieur qui crie et vibre, où il devient fleur et rit. L'imprévu<lb facs="P18_TL00006"/>est l'étoile explosive de partout et la vitesse se marie au conteur tranquille curieux<lb facs="P18_TL00007"/>en affirmation naturelle et constante nouveauté. Ce choc enfanta le burlesque.<lb facs="P18_TL00008"/>Le passé mis dans une glace reflétante et jetée quelques siècles en avant. Avec<lb facs="P18_TL00009"/>la sûreté du cow-boy. La tournure élégante et grotesque. Impulsive capricieuse<lb facs="P18_TL00010"/>fine. Au galop au dessus de la vie; l'homme est ridicule.<lb facs="P18_TL00011"/>Le sous-lieutenant Apollinaire grièvement blessé à la tête resta au lit, à l'hôpital;<lb facs="P18_TL00012"/>son livre de contes: „Le poète assassiné" (l'Édition) parut en même temps et le<lb facs="P18_TL00013"/>poète Croniamantal en redingote dans un berceau rose jaillissait simultanément à<lb facs="P18_TL00014"/>Munich dans de diverses caves fréquentées par les princes.<lb facs="P18_TL00015"/>Le théâtre. Puisqu'il reste toujours à une imitation romantique de la vie, à une<lb facs="P18_TL00016"/>fiction illogique, donnons-lui toute la vigueur naturelle qu'il eût premièrement:<lb facs="P18_TL00017"/>qu'il soit amusement ou poésie.<lb facs="P18_TL00018"/>Les petites sensibilités tortuées dans des psichologies variables, théorie décla<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P18_TL00019"/>matoire, ne peuvent pas découvrir une Vérité qui restera à jamais obscure, comme<lb facs="P18_TL00020"/>toutes les actions qui sont vaines et les résultats: relatifs.<lb facs="P18_TL00021"/>A la manifestation de la revue Sic du 24 Juin, Apollinaire fit jouer son drame<lb facs="P18_TL00022"/>sur-réaliste „LES MAMELLES DE TIRÉSIAS". Que les femmes fassent des enfants<lb facs="P18_TL00023"/>— leur devoir et leur destination. C'est raisonnable et correct.<lb facs="P18_TL00024"/>Il paraît qu'on s'est bien amusé en écoutant ce que Apollinaire racontait si clai<pc type="endhypen" pre="false">-</pc>
+                      <lb facs="P18_TL00025"/>rement dans des décors en lambeaux de journaux et dans des masques qui<lb facs="P18_TL00026"/>auraient dû être : la fièvre coupée en marge d'une étoile multicolore et suprême.<lb facs="P18_TL00027"/>Le rire : c'est la bonté des hommes.<lb facs="P18_TL00028"/>Chercher des médicaments et la sagesse parmi les chansons et recommençons.<lb facs="P18_TL00029"/>PIERRE REVERDY: LE VOLEUR DE TALAN, roman.<lb facs="P18_TL00030"/>Un livre inattendu, presque le roman qu'on a rêvé. Depuis la Renaissance l'art<lb facs="P18_TL00031"/>fut: l'anecdote comme centre, comme principe; c'est-à-dire histoire racontée au<lb facs="P18_TL00032"/>richard pour éveiller en lui un „sentiment" ; 64 % de pitié, le reste: humilité etc.<lb facs="P18_TL00033"/>+ l'oubli d'un instant incommode où l'on a fait une bonne affaire. La moitié<lb facs="P18_TL00034"/>des écrivains sait cela et en profite, l'autre moitié tente encore à chauffer l'œuf<lb facs="P18_TL00035"/>de l'anecdote pour en faire de l'art — elle spécule sur la courte tradition de<lb facs="P18_TL00036"/>quelques siècles. Mais elle sert le même ventre, qu'elle n'a pas désiré ni prévu.</ab>
+                    </div>
+                  </div>
+                  <div type="Paragraph">
+                    <div type="Text">
+                      <ab facs="P19_TB00001">
+                        <lb facs="P19_TL00001"/>La Renaissance fut l'âge infernal du cynique; elle fut pour l'art un bordel;<lb facs="P19_TL00002"/>l'anecdote et le charme partagèrent son domaine. L'illusion devint le but, et<lb facs="P19_TL00003"/>l'homme voulait surpasser Dieu. Mais les problèmes et la vie mouvementée l'ont<lb facs="P19_TL00004"/>fait intéressante et malheureusement, productive.<lb facs="P19_TL00005"/>Nous voulons continuer la tradition de l'art nègre, egyptien. byzantin, gothique,<lb facs="P19_TL00006"/>et détruire en nous l'atavique sensibilité qui nous reste de la détéstable époque<lb facs="P19_TL00007"/>qui suivit le quatrocento. N<lb facs="P19_TL00008"/>Le roman de Reverdy est un poème. Les épisodes sont soigneusement emmitouflés<lb facs="P19_TL00009"/>dans une substance que nous ne connaissons pas. Le choc des éléments serait<lb facs="P19_TL00010"/>autrement brutal. Mais dans l'œuf d'or c'est une vie difficile qui brûle. Des<lb facs="P19_TL00011"/>lignes droites sortent de cette chair, nous penêtrent et nous y relient. Four Re<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P19_TL00012"/>verdy l'action transformée en scolopendre avance lentement audessous de l'orga<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P19_TL00013"/>nisme (du roman) et cent abeilles nous apportent en petites quantités, par de<lb facs="P19_TL00014"/>milliers de piqûres invisibles, les résultats et le faits et les introduisent uni<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P19_TL00015"/>formément dans notre sang.<lb facs="P19_TL00016"/>Le voleur de Talan est partout un radiateur de vibrations et les images qui se<lb facs="P19_TL00017"/>déchargent dans tous les coins (effet presque électrique à son passage) se réu<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P19_TL00018"/>nissent autour de lui; l'œuvre de Reverdy est par cela COSMIQUE. Mais ce<lb facs="P19_TL00019"/>halo ambulant, toujours renouvelé; nous laisse une impression nuageusse, et le<lb facs="P19_TL00020"/>goût amer qu'on a en sachant que l'homme est centre et qu'il puisse devenir<lb facs="P19_TL00021"/>dans sons petit monde: un dieu-maître.<lb facs="P19_TL00022"/>Ce que je nomme „cosmique" est une qualité essentielle à un œuvre d'art. Par<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P19_TL00023"/>cequ'elle implique l'ordre qui est condition nécéssaire à la vie de tout organisme.<lb facs="P19_TL00024"/>Les éléments multiples, divers et éloignés sont (plus ou moins intensément) con<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P19_TL00025"/>centrés dans l'œuvre; l'artiste les cueille, les choisit, les range, en fait une con<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P19_TL00026"/>struction ou une composition. L'ordre est la représentation d'une unité régie par<lb facs="P19_TL00027"/>les facultés universelles, la sobriété, la pureté de la précision.<lb facs="P19_TL00028"/>Il y a deux principes dans le cosmique :<lb facs="P19_TL00029"/>1/donner une importance égale à chaque objet, être, matériel, organisme de l'univers.<lb facs="P19_TL00030"/>2/accentuer l'importance de l'homme, grouper autour de lui et subordonner les<lb facs="P19_TL00031"/>êtres, les objets etc.<lb facs="P19_TL00032"/>Noyau de ce dernier principe est une méthode psychologique; le danger: le be<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P19_TL00033"/>soin de CORRIGER les hommes, mais les laisser à ce qu'ils veulent devenir, —<lb facs="P19_TL00034"/>des êtres supérieures. Le poète se laisse traîner au hasard de la succéssivité<lb facs="P19_TL00035"/>et de l'impression. Pour le premier principe, ce besoin prend une nouvelle forme:<lb facs="P19_TL00036"/>ranger les hommes à côté des autres éléments, tels qu'ils sont, rendre les hommes<lb facs="P19_TL00037"/>MEILLEURS. Travailler en commun anonymement à la grande cathédrale de la<lb facs="P19_TL00038"/>vie que nous préparons ; niveler les instincts de l'homme, qui prendraient — en</ab>
+                      </div>
+                    </div>
+                    <div type="Paragraph">
+                      <div type="Text">
+                        <ab facs="P20_TB00001">
+                          <lb facs="P20_TL00001"/>accentuant trop sa personnalité, — des proportions babylonnienes de méchanceté et<lb facs="P20_TL00002"/>de cynisme.<lb facs="P20_TL00003"/>Reverdy en groupant autour de l'homme les respirations, les relations des éléments,<lb facs="P20_TL00004"/>crée -des états presque matériels, qui restent stagnants tout le long du trajet des<lb facs="P20_TL00005"/>différants personnages, et l'on étouffe presque, vers la fin du livre dans cette<lb facs="P20_TL00006"/>athmosphère dont on connait les secrets de la composition, si l'on a assisté<lb facs="P20_TL00007"/>attentivement aux étapes qu'on a parcouru. C'est une grande qualité de ce roman<lb facs="P20_TL00008"/>de nous donner une émotion tellement forte, avec la sobriété dans le choix des<lb facs="P20_TL00009"/>moyens, que Reverdy y applique; en cela il est honnête et sérieux. Il se ra<pc type="endhypen" pre="false">-</pc>
+                          <lb facs="P20_TL00010"/>proche du premier principe en ne faissant pas de morale, car il laisse tous les<lb facs="P20_TL00011"/>autres éléments (sauf l'homme) se manifester simultanément. Reverdy oppose à<lb facs="P20_TL00012"/>l'art pour l'art: l'art pour la vie. Nous y opposons l'art pour la diversité cos<pc type="endhypen" pre="false">-</pc>
+                          <lb facs="P20_TL00013"/>mique, pour la totalité, pour l'univers, et voulons voir, innées dans celles-ci, la<lb facs="P20_TL00014"/>vie lente qui existe et dort même dans ce qu'on nomme d'habitude mort. Mais<lb facs="P20_TL00015"/>les théories, les formules, sont relatives et élastiques (prises comme absolues<lb facs="P20_TL00016"/>elles deviendraient dogmes étroits et fanatisme) et nous ne voulons point en<lb facs="P20_TL00017"/>faire; voir dans ce que nous avons dit l'esquisse de quelpues caractéristiques.<lb facs="P20_TL00018"/>11 faut lire le roman de Reverdy, dont la poésie est sage et calme, et témoigne<lb facs="P20_TL00019"/>d'une tranquillité qui pousse et s'accumule dans sa propre puissance. Cascade<lb facs="P20_TL00020"/>qui tomberait en [haut en incendie productif comme un grand arbre aux fruits<lb facs="P20_TL00021"/>multiples et divers.<lb facs="P20_TL00022"/>PIERRE ALBERT-BIROT : TRENTE ET UN POÈMES DE POCHE (Ed. Sic)<lb facs="P20_TL00023"/>Colliers déréglés des maisonssapinsverts; chaque notation dans une boîte: une<lb facs="P20_TL00024"/>atmosphère dans une boîte d'allumettes et la vitesse captée — des insectes, des<lb facs="P20_TL00025"/>tramways qui grimpent vers une tête de verre. Dire : le futurisme pour les jeunes<lb facs="P20_TL00026"/>filles, l'explosion au pensionnat et aplatis sous les coussins douillets: les paysages<lb facs="P20_TL00027"/>nouveaux? Mais chaque petite page crie trop fort et crève dans le vase, chacune<lb facs="P20_TL00028"/>contient une nouvelle idée, et l'on est astralement émerveillé devant le passage<lb facs="P20_TL00029"/>rapide (un peu trop brutal, mais peut-être: nécessaire?) des images de vie intense<lb facs="P20_TL00030"/>et coloriée.<lb facs="P20_TL00031"/>H. ARP, W. HELBIG ET A. SEGAL exposent actuellement une série de peintures<lb facs="P20_TL00032"/>et de broderies à la galerie Wolfsberg (Zurich). Le peintre roumain Segal veut<lb facs="P20_TL00033"/>donner à chaque élément une valeur égale et le droit à une vie indépendante.<lb facs="P20_TL00034"/>Il voit dans l'application de cette pensée aux principes humains, l'équilibre et<lb facs="P20_TL00035"/>la tranquillité. Ses toiles sont illuminées par ces deux grandes qualités et témoi<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P20_TL00036"/>gnent d'une sensibilité riche et d'un bon métier.</ab>
+                      </div>
+                    </div>
+                    <div type="Paragraph">
+                      <div type="Text">
+                        <ab facs="P21_TB00001">
+                          <lb facs="P21_TL00001"/>LEONHARD FRANK, fera paraître chez Rascher &amp; Co., Zurich, un recueuil de<lb facs="P21_TL00002"/>nouvelles écrites pendant la guerre. Ce livre plein de bonté et de tempérament<lb facs="P21_TL00003"/>émouvera déjà par la hardiesse de son titre: „L'homme est bon", affirmation<lb facs="P21_TL00004"/>qui pour Frank n'est pas une ironie, mais une forte conviction se rapportant au<lb facs="P21_TL00005"/>fond primitif de l'âme qui ne serait pas empoisonnée par 1 éducation et par les<lb facs="P21_TL00006"/>conditions sociales présentes. Propager ce livre révolutionnaire d'un de nos meilleurs<lb facs="P21_TL00007"/>prosateurs d'aujourd'hui, qui éfface passes qualités intenses les frontières des<lb facs="P21_TL00008"/>groupements éxclusifs et des doctrinalismes étroits.<lb facs="P21_TL00009"/>SIC, revue d'avant-garde, courageusement dirigée par P. A. Birot. Le dernier<lb facs="P21_TL00010"/>no. contient: un poème de Cantarelli; ;,Les mamelles de Tirésias" musique de<lb facs="P21_TL00011"/>Germaine Birot; un poème de Birot; un bois trop mécaniquement sommaire, de<lb facs="P21_TL00012"/>Piampoiini; un beau poème d'un lyrisme cosmique de P. Drieu la Rochelle; un<lb facs="P21_TL00013"/>poème de Ary Justniann; une note sur l'art nègre et un poème de Tr, Tzara.<lb facs="P21_TL00014"/>LE PAGINE — Sympathique et sérieuse petite revue, parait depuis 2 années à<lb facs="P21_TL00015"/>Naples sous les soins de N. Moscardelli et de M. d'Arezzo, poètes de grand talent<lb facs="P21_TL00016"/>qui gardent une attitude digne et silencieuse.<lb facs="P21_TL00017"/>NOI, revue internationale, paraît à Rome sous la direction de Prampolini et de San<lb facs="P21_TL00018"/>Miniatelli. Une des dernières peintures de Severini, reproduite das le lerIer no. est<lb facs="P21_TL00019"/>très intéressante par la construction des plans bien équilibrés. Des bois de Arp,<lb facs="P21_TL00020"/>Galante, janco, Prampolini, poèmes de Buzzi, Meriano, Bino et un poème (horrib<pc type="endhypen" pre="false">-</pc>
+                          <lb facs="P21_TL00021"/>lement déformé par les erreurs typographiques) de Tzara. La revue nous paraît<lb facs="P21_TL00022"/>sérieuse.<lb facs="P21_TL00023"/>PROCELLARIA (dirigée par Cantarelli et Fozzi) sembla afficher sur son programme<lb facs="P21_TL00024"/>l'antisyntaxisme des paroles en liberté, c'est-à-dire le désordre des éléments et<lb facs="P21_TL00025"/>le combat contre les valeurs existantes et éternelles, — mené parfois vers un<lb facs="P21_TL00026"/>désir trop visiblement imitatif: mélange inorganique de la peinture de la musique<lb facs="P21_TL00027"/>et du lyrisme — académie et scientifisme dont les bases sont très esotériques<lb facs="P21_TL00028"/>et fluides. L'instabilité est trop évidente, hélas, et l'art n'est pas une science.<lb facs="P21_TL00029"/>Dans son dernier numéro (3) Procellaria semble se demander à propos des paroles<lb facs="P21_TL00030"/>en liberté: c'est l'esprit qui y est nouveau ou 1 éternel romantisme prend de nou<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P21_TL00031"/>velles formes? Mais les recherches sont toujours intéressantes. • •<lb facs="P21_TL00032"/>LE PEINTRE M. JANCO fera au mois de février 2 conférences sur l'art nouveau,<lb facs="P21_TL00033"/>à l'école supérieure d'architecture de Zurich.<lb facs="P21_TL00034"/>Le bois sur la première page de la couverture est de Mlle. H. DE REBAY.</ab>
+                      </div>
+                    </div>
+                    <div type="Paragraph">
+                      <div type="Text">
+                        <ab facs="P22_TB00001">
+                          <lb facs="P22_TL00001"/>„LA FÉTIDE REVUE DEMAIN" . . . "rédigée par une jeune traître du nom de<lb facs="P22_TL00002"/>Henri Guibeaux" . . . commence à avouer, c'est vrai, humblement, sur la dernière<lb facs="P22_TL00003"/>page de la couverture, ses mauvaises habitudes de fréquenter les eaux malpropres.<lb facs="P22_TL00004"/>Mieux vaut tard que jamais.<lb facs="P22_TL00005"/>Mais pourquoi des malhônnetteés ? Ce monsieur n'a jamais reçu aucune sorte de<lb facs="P22_TL00006"/>recommandation du „directeur" de notre publication (Tr. Tzara).<lb facs="P22_TL00007"/>Le même mr. ignore à quel degré il est détesté par les vrais démocrates qui<lb facs="P22_TL00008"/>considèrent ses actions comme égales à celles rendues par des agents payés.<lb facs="P22_TL00009"/>Mr. G. injurie en outre, furieusement, les simultanéistes, cubistes, mais fut tout<pc type="endhypen" pre="false">-</pc>
+                          <lb facs="P22_TL00010"/>de-même content de pouvoir s'intituler f,dynamiste" dans la revue „simultanéiste"<lb facs="P22_TL00011"/>POÈME ET DRAME qui publia une poésie de lui à côté de celles de Marinetti,<lb facs="P22_TL00012"/>Apollinaire, Barzun.<lb facs="P22_TL00013"/>Hélas! L'honnêteté des journalistes et la sagesse des dilétants! . . .<lb facs="P22_TL00014"/>L'administration du Mouvement Dada a organisé un service de librairie. Adresser<lb facs="P22_TL00015"/>les commandes au: Mouvement Dada, Administration: F. Arp, Zurich, Zeîtweg 83.<lb facs="P22_TL00016"/>LES CAHIERS DADA paraissent sous la direction de Tristan Tzara.<lb facs="P22_TL00017"/>Par une erreur typographique la note sur F. Glaaser dans Dada 1 ne parut pas<lb facs="P22_TL00018"/>en entier. Nous la complétons. „F. Glauser: „poète" (sentimental) n'a rien de<lb facs="P22_TL00019"/>commun avec le mouvement Dada. Il fut pourtant toujours parmi nous et colla<pc type="endhypen" pre="false">-</pc>
+                          <lb facs="P22_TL00020"/>bora activement à nos soirées. Certains rats qui commentent des vers de jeu<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P22_TL00021"/>nesse de cet écrivain en lui donnant l'épithète cité plus haut se trompent sur<lb facs="P22_TL00022"/>une question de qualité. Nous continuerons à apprécier cet écrivain."<lb facs="P22_TL00023"/>LIVRES:<lb facs="P22_TL00024"/>PIERRE REVERDY : LE VOLEUR DE TALAN,roman, chez l'auteur 12, rue Cortot,<lb facs="P22_TL00025"/>Paris.<lb facs="P22_TL00026"/>PAUL DERMÉE: SPIRALES, poèmes.<lb facs="P22_TL00027"/>ENRICO SETTIMELLI : MASCHERATE FUTURISTE (Ed. Italia Futurista, Firenze)<lb facs="P22_TL00028"/>HARUKICHI SHIMOI-GHERARDO MARONE: POESIE GIAPPONESI (Ed. R.<lb facs="P22_TL00029"/>Ricciardi, Napoli)<lb facs="P22_TL00030"/>BINO: VALLIBELLA (Ed. B. Lux, Roma)<lb facs="P22_TL00031"/>GINO CANTARELLI : ASCENDENZE CROMATICHE (L. 2.50)<lb facs="P22_TL00032"/>RAFFAELLO FRANCHI: RUSCELLANTE (Firenze L. 1.-)<lb facs="P22_TL00033"/>„ „ Incantamento (Tempra L. 1.—)<lb facs="P22_TL00034"/>PAOLO ARGIRA: CARLO LINATI (Ed. La Diana L. —.75)<lb facs="P22_TL00035"/>NICOLA MOSCARDELLI: GIOIELLERIA NOTTURNA (Va paraître)</ab>
+                      </div>
+                    </div>
+                    <div type="Paragraph">
+                      <div type="Text">
+                        <ab facs="P23_TB00002">
+                          <lb facs="P23_TL00003"/>Pour paraître en janvier 1918:<lb facs="P23_TL00004"/>12 POÈMES DE TRISTAN TZARA<lb facs="P23_TL00005"/>6 DESSINS DE H. ARP<lb facs="P23_TL00006"/>Prix: 2 Frs. 20 Exemplaires signés numérotés de 1 à 20 et coloriés à la main:<lb facs="P23_TL00007"/>15 Frs.<lb facs="P23_TL00008"/>DADA 1. Sommaire: H. Arp — Broderie, bois 1 et 2; Tr. Tzara — Note sur<lb facs="P23_TL00009"/>l'art, poèmes nègres, vers; 0. Ltithy — Madonna; F. Meriano — Walk; N. Mos<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P23_TL00010"/>cardelli — Piume; M. Janco — Relief, construction, bois: A. Savinio — Un<lb facs="P23_TL00011"/>vomissement musical.<lb facs="P23_TL00012"/>Notes: Laban; La poésie simultanée; H. Guilbeaux; Livres et revues etc.<lb facs="P23_TL00013"/>Prix: 2 Frs. Édition de luxe: 8 Frs.<lb facs="P23_TL00014"/>R. HUELSENBECK: PHANTASTISCHE GEBETE, Bois de H. Arp. 3 Frs.<lb facs="P23_TL00015"/>» " 1<lb facs="P23_TL00016"/>M. JANCO: ALBUM, 8 Gravures sur bois avec un poème de Tr. Tzara. 75 Frs.<lb facs="P23_TL00017"/>TR. TZARA: LA PREMIÈRE AVENTURE CÉLESTE DE MR. ANTIPYRINE,<lb facs="P23_TL00018"/>avec des bois coloriés de M. Janco. 2 Frs. 10 Exemplaires sur Hollande,<lb facs="P23_TL00019"/>numérotés de 1 à 10 et coloriés à la main: 10 Frs.<lb facs="P23_TL00020"/>V D</ab>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </body>
-   </text>
-</TEI>
+    </text>
+  </TEI>
