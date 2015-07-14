@@ -19,6 +19,9 @@
                 <msDesc>
                     <msIdentifier>
                         <institution>Princeton University Library</institution>
+                        <!-- If the copy isn't from PUL, remove Princeton University
+                        Library from the <institution> element above and replace it with the
+                        institution owning the copy.-->
                     </msIdentifier>
 
                     <physDesc>
@@ -48,6 +51,8 @@
                                 to describe them.-->
                                 <layout n="advertisements"></layout>
                                 <layout/>
+                                <layout>
+                                    <p><!-- If there are images, describe their general layout here (e.g., images on glossy paper, glued in --></p></layout>
                             </layoutDesc>
                         </objectDesc>
 
