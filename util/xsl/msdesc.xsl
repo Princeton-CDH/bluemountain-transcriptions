@@ -91,16 +91,15 @@
         </div>
     </xsl:template>
     <xsl:template match="tei:supportDesc">
-        <dt>printed on</dt>
-        <dd>
-            <xsl:value-of select="@material"/>
-        </dd>
         <xsl:apply-templates/>
     </xsl:template>
+    
+    
     <xsl:template match="tei:support">
-        <p>
-            <xsl:apply-templates/>
-        </p>
+        <dt>paper</dt>
+        <dd><xsl:apply-templates/></dd>
+
+      
     </xsl:template>
     <xsl:template match="tei:extent">
         <xsl:apply-templates/>
