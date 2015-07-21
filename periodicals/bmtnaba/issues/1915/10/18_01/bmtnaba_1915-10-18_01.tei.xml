@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+        Transcription of
+        <biblStruct>
+                  <monogr>
+                     <title level="j">
+                        <seg type="nonSort">The</seg>
+                        <seg type="main">Signature</seg>
+                     </title>
+                     <imprint>
+                        <biblScope unit="issue">2</biblScope>
+                        <date when="1915-10-18">18 October 1915</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Princeton University</publisher>
+            <idno type="bmtnid">urn:PUL:bluemountain:bmtnaba_1915-10-18_01</idno>
+         </publicationStmt>
+         <seriesStmt>
+            <title level="s">The Blue Mountain Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title level="j">
+                     <seg type="nonSort">The</seg>
+                     <seg type="main">Signature</seg>
+                  </title>
+                  <imprint>
+                     <biblScope unit="issue">2</biblScope>
+                     <date when="1915-10-18"/>
+                  </imprint>
+               </monogr>
+               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaba"/>
+               <relatedItem type="constituent" xml:id="c001">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">CONTENTS.</seg>
+                        </title>
+                        <textLang mainLang="fre"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page">1</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c002">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="nonSort">The</seg>
+                           <seg type="main">Crown.</seg>
+                           <seg type="main">II.</seg>
+                        </title>
+                        <respStmt>
+                           <persName>D. H. Lawrence</persName>
+                           <resp>cre</resp>
+                        </respStmt>
+                        <textLang mainLang="fre"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="3" to="12">3-12</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c003">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="nonSort">The</seg>
+                           <seg type="main">Cittle Governess.</seg>
+                        </title>
+                        <respStmt>
+                           <persName>Matilda Berry</persName>
+                           <resp>cre</resp>
+                        </respStmt>
+                        <textLang mainLang="fre"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="13" to="20">13-20</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c004">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">There was a Cittle Man...</seg>
+                           <seg type="main">II.</seg>
+                        </title>
+                        <respStmt>
+                           <persName>John Middleton Murry</persName>
+                           <resp>cre</resp>
+                        </respStmt>
+                        <textLang mainLang="fre"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="21" to="30">21-30</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="Magazine">
+            <div type="Issue">
+               <div type="PublicationInfo">
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00001">
+                        <lb facs="P1_TL00001"/>THE SIGNATURE<lb facs="P1_TL00002"/>18 October 1915. Number 2.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00004">
+                        <lb facs="P1_TL00008"/>Published by Subscription only<lb facs="P1_TL00009"/>at 12, Fisher Street,<lb facs="P1_TL00010"/>Southampton Row,<lb facs="P1_TL00011"/>W.O.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P2_TB00001">
+                        <lb facs="P2_TL00001"/>LIBRARY<lb facs="P2_TL00002"/>OF<lb facs="P2_TL00003"/>PRINCETON UNIVERSITY</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P4_TB00002">
+                        <lb facs="P4_TL00002"/>THE SIGNATURE.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P5_TB00001">
+                        <lb facs="P5_TL00001"/>THE CROWN.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P6_TB00001">
+                        <lb facs="P6_TL00001"/>THE SIGNATURE.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P7_TB00001">
+                        <lb facs="P7_TL00001"/>THE CROWN.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00002">
+                        <lb facs="P8_TL00002"/>THE SIGNATURE.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P9_TB00002">
+                        <lb facs="P9_TL00002"/>THE CROWN.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P10_TB00001">
+                        <lb facs="P10_TL00001"/>THE SIGNATURE.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P11_TB00001">
+                        <lb facs="P11_TL00001"/>THE CROWN.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P12_TB00002">
+                        <lb facs="P12_TL00002"/>THE SIGNATURE.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P14_TB00002">
+                        <lb facs="P14_TL00002"/>THE SIGNATURE.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P15_TB00001">
+                        <lb facs="P15_TL00001"/>THE LIT TLE GO VERNE SS.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P16_TB00002">
+                        <lb facs="P16_TL00002"/>THE SIGNATURE.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P17_TB00001">
+                        <lb facs="P17_TL00001"/>THE LITTLE GOVERNESS.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P18_TB00002">
+                        <lb facs="P18_TL00002"/>THE SIGNATURE.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P19_TB00001">
+                        <lb facs="P19_TL00001"/>THE LITTLE GOVERNESS.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P20_TB00002">
+                        <lb facs="P20_TL00002"/>THE SIGNATURE.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P20_TB00004">
+                        <lb facs="P20_TL00017"/>(To be concluded.)</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P22_TB00001">
+                        <lb facs="P22_TL00001"/>THE SIGNATURE.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P23_TB00001">
+                        <lb facs="P23_TL00001"/>THERE WAS A LITTLE MAN.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P24_TB00002">
+                        <lb facs="P24_TL00002"/>THE SIGNATURE.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P25_TB00001">
+                        <lb facs="P25_TL00001"/>THERE WAS A LITTLE MAN.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P26_TB00002">
+                        <lb facs="P26_TL00002"/>THE SIGNATURE.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P27_TB00001">
+                        <lb facs="P27_TL00001"/>THERE WAS A LITTLE M AN.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P28_TB00002">
+                        <lb facs="P28_TL00002"/>THE SIGNATURE.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P29_TB00001">
+                        <lb facs="P29_TL00001"/>THE RE WAS A LITTLE MAN</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P30_TB00002">
+                        <lb facs="P30_TL00002"/>THE SIGNATURE.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P31_TB00001">
+                        <lb facs="P31_TL00001"/>l1JV? 1" .""' * --, ' ~V * '• v^'*'**/ » */'„ ' Vï*'^"îîî3l;iï'-^l^N'' "S* ' '<lb facs="P31_TL00002"/>Subscriptions of 2/6 for Six Copies to be sent to the Editor<lb facs="P31_TL00003"/>12, Fisher Street,<lb facs="P31_TL00004"/>Southampton Row, W.C.<lb facs="P31_TL00005"/>!</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P31_TB00002">
+                        <lb facs="P31_TL00006"/>I. Narodiczky, Printer, 48, Mile End Ro&amp;d, London, E.</ab>
+                  </div>
+               </div>
+               <div type="EditorialContent">
+                  <div type="TextContent" corresp="c001">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00002">
+                           <lb facs="P1_TL00003"/>CONTENTS.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00003">
+                                    <lb facs="P1_TL00004"/>The Crown ... ... D. H. Lawrence,<lb facs="P1_TL00005"/>The Little Governess ... Matilda Berry.<lb facs="P1_TL00006"/>There If as a Little Man John Middleton Murry.<lb facs="P1_TL00007"/>c • •</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c002">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00001">
+                           <lb facs="P3_TL00001"/>The Crown.</ab>
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00003">
+                           <lb facs="P3_TL00003"/>II.</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00002">
+                           <lb facs="P3_TL00002"/>by D. H. Lawrence.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00004">
+                                    <lb facs="P3_TL00004"/>The Lion beat the Unicom<lb facs="P3_TL00005"/>And drove him ont of town.<lb facs="P3_TL00006"/>Life is a travelling to the edge of knowledge, then a leap<lb facs="P3_TL00007"/>taken. We cannot know beforehand, We are driven from<lb facs="P3_TL00008"/>behind, always as over the edge of the precipice.<lb facs="P3_TL00009"/>It is a leap taken, into the beyond, as a lark leaps into<lb facs="P3_TL00010"/>the sky a fragment of earth which travels to be fused out,<lb facs="P3_TL00011"/>sublimated, in the shining of the heavens.<lb facs="P3_TL00012"/>But it is not death. Death is neither here nor there.<lb facs="P3_TL00013"/>Death is a temporal, relative fact. In the absolute, it means<lb facs="P3_TL00014"/>nothing. The lark falls from the sky and goes running back<lb facs="P3_TL00015"/>to her nest. This is the ebb of the wave. The wave of earth<lb facs="P3_TL00016"/>fiung up in spray, a lark, a cloud of larks, against the white<lb facs="P3_TL00017"/>wave of the snn. The spray of earth and the foam of heaven<lb facs="P3_TL00018"/>are one, consummated, a rainbow mid-way, a song. The larks<lb facs="P3_TL00019"/>return to earth, the rays go back to heaven. But these are<lb facs="P3_TL00020"/>only the shuttles that weave the iris, the song, mid-way, in<lb facs="P3_TL00021"/>absoluteness, timelessness.<lb facs="P3_TL00022"/>Out of the dark, original flame issues a tiny green flicker,<lb facs="P3_TL00023"/>a weed coming alive. On the edge of the bright, ultimate»<lb facs="P3_TL00024"/>spiritual flame of the heavens is revealed a fragment of iris, a<lb facs="P3_TL00025"/>touch of green, a weed coming into being. The two fiâmes<lb facs="P3_TL00026"/>surge and intermingle, casting up a crest of leaves and stems,<lb facs="P3_TL00027"/>their battlefield, their meeting-ground, their marriage bed, the<lb facs="P3_TL00028"/>embrace becomes closer, more unthinkably vivid, it leaps to<lb facs="P3_TL00029"/>climax, the battle grows fiercer, fiercer, intolerably, till there<lb facs="P3_TL00030"/>is the swoon, the climax, the consummation, the little yellow<lb facs="P3_TL00031"/>disk gleams absolute between heaven and earth, radiant of</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00003">
+                                    <lb facs="P4_TL00003"/>both eternities, framed in the two infinities. Which is a weed,<lb facs="P4_TL00004"/>' ?<lb facs="P4_TL00005"/>a sow-thistle bursting into blossom. And we, the foreshore in<lb facs="P4_TL00006"/>whom the waves of dark and light are unequally seething, we<lb facs="P4_TL00007"/>ean see this perfection, this absolu te, as time opens to disclose<lb facs="P4_TL00008"/>it for a moment, like the Dove that hovered incandescent from<lb facs="P4_TL00009"/>heaven, before it is closed again in utter timelessness,<lb facs="P4_TL00010"/>"But the wind passeth over it and is gone."<lb facs="P4_TL00011"/>The wind passes over it and we are gone. It is time<lb facs="P4_TL00012"/>which blows in like a wind, ont of either eternity, a wind<lb facs="P4_TL00013"/>which has a source and an issue, which swirls past the light<lb facs="P4_TL00014"/>of this absolute, like waves past a lighted buoy. For the light<lb facs="P4_TL00015"/>is not temporal nor eternal, but absolute. And we, who are<lb facs="P4_TL00016"/>temporal and eternal, at moments only we cease from our<lb facs="P4_TL00017"/>temporality. In these our moments we see the sow-thistle<lb facs="P4_TL00018"/>gleaming, light within darkness, darkness within light, con<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00019"/>summated, we are with the song and the iris.<lb facs="P4_TL00020"/>And then it is we, not the iris, not the song, who are<lb facs="P4_TL00021"/>blown away, We are blown for a moment against the yellow<lb facs="P4_TL00022"/>light of the window, the flower, then on again into the dark<lb facs="P4_TL00023"/>turmoil.<lb facs="P4_TL00024"/>We have made a mistake, We are like travellers travel<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00025"/>ling in a train, who watch the country pass by and pass awav,<lb facs="P4_TL00026"/>all of us who watch the sun setting, sliding down into extinc<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00027"/>tion, we are mistaken. It is not the country which passes by<lb facs="P4_TL00028"/>and fades, it is not the sun which sinks to oblivion. Neither<lb facs="P4_TL00029"/>is it the flower that withers, nor the song that dies out.<lb facs="P4_TL00030"/>It is we Avho are carried past in the seethe of mortality-<lb facs="P4_TL00031"/>The flower is timeless and beyond condition. It is we who<lb facs="P4_TL00032"/>are swept on in the condition of time. So we shall be swept<lb facs="P4_TL00033"/>as long as time lasts. Death is no part of the story. But<lb facs="P4_TL00034"/>we have being also in timelessness, we shall become again ab<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00035"/>solute, as we have been absolute, as we are absolute.<lb facs="P4_TL00036"/>We know that we are purely absolute. We know in the<lb facs="P4_TL00037"/>last issue we are absolved from ail opposition. We know we<lb facs="P4_TL00038"/>are never purely relative. Timelessness is our fate, and time<lb facs="P4_TL00039"/>is subordinate to our fate. But time is eternal.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00003">
+                                    <lb facs="P5_TL00003"/>And the life of man is like a flower that cornes into blos<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00004"/>som and passes away. In the beginning, the light touches the<lb facs="P5_TL00005"/>darkness, the darkness touches the light, and the two einbrace.<lb facs="P5_TL00006"/>They embrace in opposition, only in their desire is there un<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00007"/>animity. There are two separate statements, the dark wants<lb facs="P5_TL00008"/>the light, and the light wants the dark. But these two state<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00009"/>ments are contained within the one "They want each other.<lb facs="P5_TL00010"/>And this is the condition of absoluteness, this condition of<lb facs="P5_TL00011"/>their wanting each other, that which makes light and dark<lb facs="P5_TL00012"/>one and whole even in opposition. The interrelation between<lb facs="P5_TL00013"/>them, this is constant and absolute, let it be called love or<lb facs="P5_TL00014"/>hate or what it may. It is ail the things that it can be<lb facs="P5_TL00015"/>called.<lb facs="P5_TL00016"/>In the beginning, light touches darkness and darkness<lb facs="P5_TL00017"/>touches light. Then life has begun. The light enfolds and<lb facs="P5_TL00018"/>implicates and in volves the dark, the dark receives and inter<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00019"/>penetrates the light, they come nearer, they are more finely<lb facs="P5_TL00020"/>combined, till they burst into the erisis of oneness, the blos<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00021"/>som, the utter being, the transcendent and timeless flame of<lb facs="P5_TL00022"/>the iris.<lb facs="P5_TL00023"/>Then time passes on. Out of the swoon the waves ebb<lb facs="P5_TL00024"/>back, dark towards the dark, light towards the light. They<lb facs="P5_TL00025"/>ebb back and away, the leaves return unto the darkness of<lb facs="P5_TL00026"/>earth, the quivering glimmer of substance returns into the<lb facs="P5_TL00027"/>light, the green of the last wavering iris disappears, the waves<lb facs="P5_TL00028"/>ebb apart, further, further, further.<lb facs="P5_TL00029"/>Yet they never separate. The whole flood recedes, the<lb facs="P5_TL00030"/>tides are going to separate. And they separate entirely, save<lb facs="P5_TL00031"/>for one enfolded ripple, the tiny, silent, scarce visible en<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00032"/>folded pools of the seeds. These lie potent, the meeting-gro<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00033"/>und, the well-head wherein the tides will surge again, when<lb facs="P5_TL00034"/>the turn cornes.<lb facs="P5_TL00035"/>This is the life of man. In him too the tides sweep to<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00036"/>gether towards the utter consummation, the consummation<lb facs="P5_TL00037"/>with the darkness, the consummation with the light, flesh and</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00003">
+                                    <lb facs="P6_TL00003"/>spirit, one culminating crisis, when mail passes into timeless<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00004"/>ness and absoluteness.<lb facs="P6_TL00005"/>The residue of imperfect fusion and unfulfilled desire re<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00006"/>mains, the child, the well-head where the tides will flow in<lb facs="P6_TL00007"/>again, the seed. The absolute relation is never fully revealed.<lb facs="P6_TL00008"/>It leaps toits maximum of révélation in the flower, the ma<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00009"/>ture life. But some of it rolls aside, lies potent in the enfolded<lb facs="P6_TL00010"/>seed My desire is fulfilled, I, as individual am become time<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00011"/>less and absolute, perfect, But the whole desire of which I<lb facs="P6_TL00012"/>am part remains yet to be consummated. In me the two<lb facs="P6_TL00013"/>waves clash to perfect consummation. But immediately upon<lb facs="P6_TL00014"/>the clash come the next waves of the tide rippling in, the<lb facs="P6_TL00015"/>ripples, forerunners, which tinily meet and enfold each other,<lb facs="P6_TL00016"/>the seed, the unborn child. For we are ail waves of the tide-<lb facs="P6_TL00017"/>But the tide con tains ail the waves.<lb facs="P6_TL00018"/>It may be that waves which meet and mingle come to<lb facs="P6_TL00019"/>no consummation, only a confusion and a swirl and a falling<lb facs="P6_TL00020"/>away again. These are the myriad lives of human beings<lb facs="P6_TL00021"/>which pass in confusion of nothingness. The uncreated lives.<lb facs="P6_TL00022"/>There are myriads of human lives that are not absolute nor<lb facs="P6_TL00023"/>timeless, myriads that just waver and toss temporality, never<lb facs="P6_TL00024"/>become more than relative, never come into being. They have<lb facs="P6_TL00025"/>no being, no immortality. There are myriads of plants that<lb facs="P6_TL00026"/>never come to flower, but which perish away for ever, always<lb facs="P6_TL00027"/>separated in the fringe of time, never united, never consumm<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00028"/>ated, never brought forth.<lb facs="P6_TL00029"/>I know I am compound of two waves, I, who am tem<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00030"/>poral and mortal. When lam timeless and absolute, ail dual<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00031"/>ity has vanished. But whilst I am temporal and mortal, I<lb facs="P6_TL00032"/>am framed in the struggle and embrace of the two opposite<lb facs="P6_TL00033"/>waves of darkness and of light.<lb facs="P6_TL00034"/>There is the wave of light in me which seeks the dark<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00035"/>ness, which has for its goal the Source and the Beginning, for<lb facs="P6_TL00036"/>its God the Almighty Creator to Whom is ail power and glory.<lb facs="P6_TL00037"/>Thither the light of the seed of man struggles and aspires,<lb facs="P6_TL00038"/>into the infinité darkness, the womb of ail création.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00003">
+                                    <lb facs="P7_TL00003"/>What way is it that leads me on to the Source, to the<lb facs="P7_TL00004"/>Beginning ? It is the way of flesh, the senses. Down the road<lb facs="P7_TL00005"/>of the senses, further and further into the darkness, I come<lb facs="P7_TL00006"/>to the Almighty God who was in the beginning, is now, and<lb facs="P7_TL00007"/>ever shall be. I come to the Almighty God. I am received<lb facs="P7_TL00008"/>baek into the utter darkness of the Creator, I am once again<lb facs="P7_TL00009"/>with Him.<lb facs="P7_TL00010"/>This is a consummation, a becoming eternal. This is an<lb facs="P7_TL00011"/>arrivai into eternity. But eternity is only relative.<lb facs="P7_TL00012"/>I can become one with god, consummated into eternity,<lb facs="P7_TL00013"/>by taking the road down the senses into the utter darkness,<lb facs="P7_TL00014"/>till I am one with the darkness, beyond knowledge of any<lb facs="P7_TL00015"/>opposite.<lb facs="P7_TL00016"/>It is thus, seeking consummation in the utter darkness,<lb facs="P7_TL00017"/>that I come to the woman. She is the doorway, she is the<lb facs="P7_TL00018"/>dark eternity. When I put my hand on her, my heart beats<lb facs="P7_TL00019"/>with a passion of fear and ecstasy, for I touch my own pas<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00020"/>sing away, my own ceasing-to-be, my own consummation in a<lb facs="P7_TL00021"/>darkness which obliterates me in its infinity. My veins rock<lb facs="P7_TL00022"/>as if they were being destroyed, the blood takes fire on the<lb facs="P7_TL00023"/>edge of oblivion, and beats backward and forward. I resist,<lb facs="P7_TL00024"/>yet I am compelled; the woman resists, yet she is compelled.<lb facs="P7_TL00025"/>And we are the relative parts dominated by the strange com<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00026"/>pulsion of the absolute.<lb facs="P7_TL00027"/>Gradually my veins relax their gâtes, gradually the rock<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00028"/>ing blood goes forward, quivers on the edge of oblivion, then<lb facs="P7_TL00029"/>yields itself up, passes into the borderland of oblivion. Oh,<lb facs="P7_TL00030"/>and then I would die, I would quickly die, to have ail know<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00031"/>ledge at once, to come instantly to pure, eternal oblivion, con<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00032"/>summation. But patience is fierce at the bottom of me ; fierce,<lb facs="P7_TL00033"/>indomitable, abiding patience. So my blood goes forth in<lb facs="P7_TL00034"/>shock after shock of delirious passing-away, in shock after<lb facs="P7_TL00035"/>shock entering into consummation, till my soul is slipping its<lb facs="P7_TL00036"/>moorings, my mind, my will fuses down, I melt out and am<lb facs="P7_TL00037"/>gone into the eternal darkness, the primai darkness reigns, and<lb facs="P7_TL00038"/>I am no t.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00003">
+                                    <lb facs="P8_TL00003"/>Shoek after shock of ecstasy and the anguish of ecs<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00004"/>tasy, death after death of trespass into the unknown, till I fall<lb facs="P8_TL00005"/>down into the flame, I lapse into the intolerable flame, a pal<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00006"/>lid shadow I am transfused into the flux of unendurable dark<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00007"/>ness, and am gone. No spark nor vestige remains within the<lb facs="P8_TL00008"/>supreme dark flow of the flame, I am contribnted again to<lb facs="P8_TL00009"/>the immortal source.<lb facs="P8_TL00010"/>Till new-created I am thrown forth again on the shore<lb facs="P8_TL00011"/>of création, warm and lus trous, goodly, new-born from the<lb facs="P8_TL00012"/>womb out of which ail time has issued.<lb facs="P8_TL00013"/>And then, new-born on the knees of darkness, new-issued<lb facs="P8_TL00014"/>from the womb of eternity, I open my eyes to the light and<lb facs="P8_TL00015"/>know the goal, the end, the light which stands over the end<lb facs="P8_TL00016"/>of the journey, the everlasting day, the oneness of the spirit.<lb facs="P8_TL00017"/>The new journey, the new life has begun, the travelling<lb facs="P8_TL00018"/>to the opposite eternity, to the infinité light of the Spirit, the<lb facs="P8_TL00019"/>consummation in the Spirit.<lb facs="P8_TL00020"/>My source and issue is in two eternities, I am founded<lb facs="P8_TL00021"/>in the two infinities. But absolute is the rainbow that goes<lb facs="P8_TL00022"/>between, the iris of my very being.<lb facs="P8_TL00023"/>It may be, however, that the seed of light never propa<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00024"/>gates within the darkness, that the light in me is sterile, that<lb facs="P8_TL00025"/>I am never re-born within the womb, the Source, to be issued<lb facs="P8_TL00026"/>towards the opposite eternity.<lb facs="P8_TL00027"/>It may be there is a great inequality, disproportion, with<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00028"/>in me, that I am nearly ail darkness, like the night, with a<lb facs="P8_TL00029"/>few glimmers of cold light, moonlight, like the tiger with<lb facs="P8_TL00030"/>white eyes of reflected light brindled in the flame of dark<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00031"/>ness. Then I shall return again and again to the womb of<lb facs="P8_TL00032"/>the darkness, avid, never satisfied, my spirit will fall unfertile<lb facs="P8_TL00033"/>into the womb, will never be conceived there, never brought<lb facs="P8_TL00034"/>forth. I shall know the one consummation, the one direction<lb facs="P8_TL00035"/>only, into the darkness. It will be with me forever the al<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00036"/>most, almost, almost, of satisfaction, of fulfllment. I shall<lb facs="P8_TL00037"/>know the one eternity, the one infinité, the one immortality,<lb facs="P8_TL00038"/>I shall have partial being; but never the whole, never the</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P9_TB00003">
+                                    <lb facs="P9_TL00003"/>full. There is an infinité which does not know me. I am<lb facs="P9_TL00004"/>always relative, always partial, always, in the last issue, un<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P9_TL00005"/>consummate.<lb facs="P9_TL00006"/>The barren "womb can never be satisfied, if the quick of<lb facs="P9_TL00007"/>darkness be sterile within it. But neither can the unfertile<lb facs="P9_TL00008"/>loins be satisfied, if the seed of light, of the spirit, be dead<lb facs="P9_TL00009"/>within them. They will return again and again and again to<lb facs="P9_TL00010"/>the womb of darkness, asking, asking, and never satisfied.<lb facs="P9_TL00011"/>Then the unconsummated soul, unsatisfied, uncreated in<lb facs="P9_TL00012"/>part, will seek to make itself whole by bringing the whole<lb facs="P9_TL00013"/>world under its one order, will seek to make itself absolute<lb facs="P9_TL00014"/>and timeless by devouring its opposite. Adhering to the one<lb facs="P9_TL00015"/>eternity of darkness, it will seek to devour the eternity of<lb facs="P9_TL00016"/>light. Realising the one infinité of the Source, it will endeav<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P9_TL00017"/>our to absorb intoits oneness the opposite infinité of the<lb facs="P9_TL00018"/>Goal. This is the infinité with its tail in its mouth.<lb facs="P9_TL00019"/>Consummated in one infinité, and one alone, this soul<lb facs="P9_TL00020"/>will assert the oneness of ail things, that ail things are one<lb facs="P9_TL00021"/>in the One Infinité of the Darkness, of the Source, One is<lb facs="P9_TL00022"/>one and ail alone and ever more shall be so. This is the cry<lb facs="P9_TL00023"/>of the Soul consummated in one eternity only.<lb facs="P9_TL00024"/>There is one eternity, one infinité, one God. "Thou shalt<lb facs="P9_TL00025"/>have no other god before me."<lb facs="P9_TL00026"/>But why this Commandment, unless there were in truth<lb facs="P9_TL00027"/>another god, at least the equal of Jehovah ?<lb facs="P9_TL00028"/>Consummated in the darkness only, having not enough<lb facs="P9_TL00029"/>strength in the light, the partial soul cries out in a convul<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P9_TL00030"/>sion of insistence that the darkness alone is infinité and eter<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P9_TL00031"/>nal, that ail light is from the small, contained sources, the<lb facs="P9_TL00032"/>lamps lighted at will by the desire of the Creator, the sun, the<lb facs="P9_TL00033"/>moon and stars. These are the lamps and candies of the Al<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P9_TL00034"/>mighty, which He blows out at will. These are little portions<lb facs="P9_TL00035"/>of spécial darkness, darkness transfigured, these lights.<lb facs="P9_TL00036"/>There is one God, one Creator, one Almighty; there is<lb facs="P9_TL00037"/>one infinité and one eternity, it is the infinité and the eternity<lb facs="P9_TL00038"/>of the Source. There is One Way: it is the Way of the Law.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P10_TB00003">
+                                    <lb facs="P10_TL00003"/>There is one Life, the Life of Création, there is one Goal, the<lb facs="P10_TL00004"/>Beginning, there is one immortality, the immortality of the<lb facs="P10_TL00005"/>great I AM. Ail is God, the One God. Those who deny this<lb facs="P10_TL00006"/>are to be stamped out, tortnred, tortured for ever.<lb facs="P10_TL00007"/>It is possible then to deny it.<lb facs="P10_TL00008"/>Having declared the One God, then the partial sonl, ful<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P10_TL00009"/>filled of the darkness only, proceeds to establish this God on<lb facs="P10_TL00010"/>earth, to devour and obliterate ail else.<lb facs="P10_TL00011"/>Rising from the darkness of consummation in the flesh,<lb facs="P10_TL00012"/>with the woman, it seeks to establish its kingdom over ail the<lb facs="P10_TL00013"/>world. It strides forth, the lord, the master, strong for mas<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P10_TL00014"/>tery. It will dominate ail, ail, it will bring ail under the rules<lb facs="P10_TL00015"/>of itself, of the One, the Darkness lighted with the lamps of<lb facs="P10_TL00016"/>its own choiee.<lb facs="P10_TL00017"/>Darkness slays darkness and light alike, so that it may<lb facs="P10_TL00018"/>assert its own infinité and its own lamps. The night of stars<lb facs="P10_TL00019"/>and moon and that greater star, the sun, devours the night<lb facs="P10_TL00020"/>of clouds and obscurity, devours the assertion of the day. It<lb facs="P10_TL00021"/>is David slaying the dark, cloudy Goliath, it is David destroy<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P10_TL00022"/>ing his enemies, the enemies of the lord, the powers of cloudy<lb facs="P10_TL00023"/>darkness, it is David taking Bathsheba and sendin» Uriah to<lb facs="P10_TL00024"/>death, it is David dancing naked before the Ark, asserting<lb facs="P10_TL00025"/>the oneness, his own oneness, the one infinity, himself, the<lb facs="P10_TL00026"/>one God, I AM. And David never went in unto Michal any<lb facs="P10_TL00027"/>more, because she jeered at him. So that she was barren<lb facs="P10_TL00028"/>ail her life.<lb facs="P10_TL00029"/>But it was David who really was barren. Michal, when<lb facs="P10_TL00030"/>she mocked, moeked the sterility of David. For the spirit in<lb facs="P10_TL00031"/>him was blasted with unfertility; he could not become born<lb facs="P10_TL00032"/>again, he could not be conceived in the spirit. Michal, the<lb facs="P10_TL00033"/>womb of profound darkness, could not conceive to the over<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P10_TL00034"/>weak seed of David's spirit. David's seed was too much of<lb facs="P10_TL00035"/>darkness, it bred and begot prépondérant darkness. The flood<lb facs="P10_TL00036"/>of darkness set in after David, the lamps and candies began<lb facs="P10_TL00037"/>to gutter.<lb facs="P10_TL00038"/>It is this unfertility of spirit which sends man raging to</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P11_TB00003">
+                                    <lb facs="P11_TL00003"/>The woman, and sends him raging away again, unsatisfied. It<lb facs="P11_TL00004"/>is not the woman's barrenness : it is his own. Clytemnestra<lb facs="P11_TL00005"/>murdered Agamemnon because of his intrinsic sterility.<lb facs="P11_TL00006"/>This is the course of the barren spirit, to assert One God,<lb facs="P11_TL00007"/>one Way, one Glory, the glory of power and might. And this<lb facs="P11_TL00008"/>One God is indeed God, this one Way is the way, the one<lb facs="P11_TL00009"/>Glory is an eternal glory. But only part, half. The other half<lb facs="P11_TL00010"/>is denied.<lb facs="P11_TL00011"/>The One God of Power and Might and Glory, this is<lb facs="P11_TL00012"/>David who slays Goliath and dances naked before the Ark<lb facs="P11_TL00013"/>this is Agamemnon who sacrifices Iphegenia and départs for<lb facs="P11_TL00014"/>the glory of killing, the splendour of the Trojan war; it is<lb facs="P11_TL00015"/>the later ecstasy of naked Dionysos, it is bread and circuses<lb facs="P11_TL00016"/>of Rome, it is Napoléon, with his conquests, his "vite, une<lb facs="P11_TL00017"/>femme," his ermine and his self-display. It is ail the same<lb facs="P11_TL00018"/>thing, and al way s the same thing.<lb facs="P11_TL00019"/>It is the unfertility of the spirit giving utter supremacy,<lb facs="P11_TL00020"/>absoluteness to the flesh, the flesh conscious and unconscious.<lb facs="P11_TL00021"/>The night has its lights, the flesh its own consciousness, its<lb facs="P11_TL00022"/>own accomplished righteousness. But this righteousness takes<lb facs="P11_TL00023"/>the form of Law, it is given absoluteness and finality.<lb facs="P11_TL00024"/>So David with his righteousness, Agamemnon with his<lb facs="P11_TL00025"/>bad justice, Caesar with his clemency and largeness, Napoléon<lb facs="P11_TL00026"/>with his Code. They are ail genuine, and sincere, and fair.<lb facs="P11_TL00027"/>But it is the assertion of the one infinité, the Source, the<lb facs="P11_TL00028"/>Beginning, the God Almighty who has established Création<lb facs="P11_TL00029"/>upon pôles of Law, for ever.<lb facs="P11_TL00030"/>They ail die in anguish of grief and failure, or by murder.<lb facs="P11_TL00031"/>They have asserted the part as the whole.<lb facs="P11_TL00032"/>They are the lions of the world, who devour ail virginity,<lb facs="P11_TL00033"/>devour the wh'te light of the End, of that which shall be, other<lb facs="P11_TL00034"/>than what is, devour it ail up into that which IS, which IS,<lb facs="P11_TL00035"/>and is eternal, absolute. The unicorn, defender of the unborn<lb facs="P11_TL00036"/>Spirit, they drive out of town.<lb facs="P11_TL00037"/>They are the lions, they have their lights and their lamps,<lb facs="P11_TL00038"/>their eyes are golden. But there are also the tigers. These are</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P12_TB00003">
+                                    <lb facs="P12_TL00003"/>pure and unbroached. Their light is indeed the light of dark<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P12_TL00004"/>ness made visible, a phosphorescence, a moonlight, Dionysic.<lb facs="P12_TL00005"/>They are purely of the One, the Other has no part in them.<lb facs="P12_TL00006"/>They devour the gentlest creatures, the creatures of the<lb facs="P12_TL00007"/>spirit. Foes they hâve none, only prey.<lb facs="P12_TL00008"/>They are supreme, perfect, supremely beautiful, the pure<lb facs="P12_TL00009"/>révélation of one eternity, pure, terrible in its awful concent<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P12_TL00010"/>ricity, its awful swoon into conclusiveness that is never even<lb facs="P12_TL00011"/>then conclusive, never free, never absolute, always tense with<lb facs="P12_TL00012"/>fierce obliviousness. They are perfect in their singleness, but<lb facs="P12_TL00013"/>they are trembling, they are brindled shadows wavering back<lb facs="P12_TL00014"/>into the utter darkness. Their eyes are concentrated upon<lb facs="P12_TL00015"/>oblivion. Soon the last light will go out of their night, and<lb facs="P12_TL00016"/>they will be back in the dark source, gone.<lb facs="P12_TL00017"/>They are the foot of the rainbow, the last band of iris<lb facs="P12_TL00018"/>standing upon the eternal night. They are the last banded<lb facs="P12_TL00019"/>ripples that pass into infinité darkness, the last ebbing out of<lb facs="P12_TL00020"/>light, the last tremor of the dark infinité, before it is at<lb facs="P12_TL00021"/>peace again.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c003">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P13_TB00001">
+                           <lb facs="P13_TL00001"/>The Cittle Governess. </ab>
+                     </div>
+                     <div type="Byline">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P13_TB00002">
+                           <lb facs="P13_TL00002"/>by Matilda Berry.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P13_TB00003">
+                                    <lb facs="P13_TL00003"/>Oh dear, how she wished that it was'nt riight-time. She'd<lb facs="P13_TL00004"/>have much rather travelled by day, mucli much rather. But<lb facs="P13_TL00005"/>the lady at the Governess Bureau had said: "You had bet<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00006"/>ter take an evening boat and then if you get into a com<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00007"/>partiment for "Ladies Only" in the train you will be far safer<lb facs="P13_TL00008"/>than sleeping in a foreign hôtel. Don't go out of the car<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00009"/>riage ; don't walk about the corridors and be sure to lock the<lb facs="P13_TL00010"/>lavatory door if you go there. The train arrives at Munich<lb facs="P13_TL00011"/>at eight o'clock and Frau Arnholdt says that the Hôtel<lb facs="P13_TL00012"/>Griinewald is only one minute away. A porter can take you<lb facs="P13_TL00013"/>there. She will arrive at six the same evening, so you will have a<lb facs="P13_TL00014"/>nice quiet day to rest after the journey and rub up your Ger<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00015"/>man. And when you want anything to eat I would advise<lb facs="P13_TL00016"/>you to pop into the nearest baker's and get a bun and some<lb facs="P13_TL00017"/>coffee. "You haven't been abroad before, have you ?" "No."<lb facs="P13_TL00018"/>"Well, I always tell my girls that it's better to mistrust peo<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00019"/>ple at first rather than trust tliem, and it's safer to suspect<lb facs="P13_TL00020"/>people of evil intentions rather than good ones... it sounds<lb facs="P13_TL00021"/>rather hard but we've got to be women of the world, have'nt<lb facs="P13_TL00022"/>we ?"<lb facs="P13_TL00023"/>It had been nice in the Ladies' Cabin. The stewardess<lb facs="P13_TL00024"/>was so kind and changed lier money for lier and tucked up<lb facs="P13_TL00025"/>her feet. She lay on one of the hard pink-sprigged couches<lb facs="P13_TL00026"/>and watched the other passengers, friendly and natural, pin<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00027"/>ning tlieir hats to the bolsters, taking off their boots and</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P14_TB00003">
+                                    <lb facs="P14_TL00003"/>skirts, opening dressing-cases and arranging mysterious rus<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P14_TL00004"/>tling little packages, tying their heads up in veils before<lb facs="P14_TL00005"/>lying down. Thud. thud, thud, went the steady screw of the<lb facs="P14_TL00006"/>steamer. The stewardess pulled a green shade over tlie light<lb facs="P14_TL00007"/>and sat down by the stove, lier skirt turned back over lier<lb facs="P14_TL00008"/>knees, a long piece of knitting on lier lap. On a slielf a<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P14_TL00009"/>bove lier head there was a water bottle with a tight bunch<lb facs="P14_TL00010"/>of flowers stuck in it. "I like travelling very much," thought<lb facs="P14_TL00011"/>the little governess. She smiled and yielded to the warm<lb facs="P14_TL00012"/>rocking.<lb facs="P14_TL00013"/>But wlien the boat stopped and she went up on deck,<lb facs="P14_TL00014"/>her dress-basket in one hand, her rug and umbrella in the<lb facs="P14_TL00015"/>other, a cold strange wind flew under her liât. She looked<lb facs="P14_TL00016"/>up at the masts and spars of the ship black against a green<lb facs="P14_TL00017"/>glittering sky and down to the dark landing stage where<lb facs="P14_TL00018"/>strange muffled figures lounged, waiting ; she moved forward<lb facs="P14_TL00019"/>with the sleepy fiock ail knowing where to go to and what<lb facs="P14_TL00020"/>to do except her, and she felt afraid. Just a little — jusi<lb facs="P14_TL00021"/>enough to wish — oh, to wish that it was day-time and that<lb facs="P14_TL00022"/>one of those women who had smiled at her in the glass wlien<lb facs="P14_TL00023"/>they both did their hair in the Ladies' Oabin was somewfiere<lb facs="P14_TL00024"/>near now. 'Tickets please. Show your tickets. H ave your<lb facs="P14_TL00025"/>tickets ready.' She went down the gangway balancing lier<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P14_TL00026"/>self carefully on lier Iseels. Then a man in a black leather<lb facs="P14_TL00027"/>cap came forward and touched her on the arm. "Where for,<lb facs="P14_TL00028"/>Miss?" He spoke English —he must be a graud or a stat<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P14_TL00029"/>ion-master with a cap like that. She had scarcely answered<lb facs="P14_TL00030"/>wlien he pounced on her dress-basket. "This way," he sliouted,<lb facs="P14_TL00031"/>in a rude, determined voice, and elbowing his way he strode<lb facs="P14_TL00032"/>past the people. "But I don't want a porter." What a hor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P14_TL00033"/>rible man! "I don't want a porter. I want to carry it<lb facs="P14_TL00034"/>myself." She had to run to keep up with liim and her anger,<lb facs="P14_TL00035"/>far st ronger tlian she, ran before her and snatched the bagout<lb facs="P14_TL00036"/>of the wretch's hand. Pie paid no attention at ail, but swung<lb facs="P14_TL00037"/>on down the long dark platform, and across a railway line,<lb facs="P14_TL00038"/>'lie is a robber.' She was sure lie was a robber as she step-</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P15_TB00003">
+                                    <lb facs="P15_TL00003"/>ped between the silvery rails and felt the cinders crunch<lb facs="P15_TL00004"/>under lier slioes. On the otlier side — oh, thank goodoess !<lb facs="P15_TL00005"/>— there was a train with Munich written on it. The man<lb facs="P15_TL00006"/>stopped by the linge lighted carriages. "Second class r" asked<lb facs="P15_TL00007"/>the insolent voice. "Yes, a Ladies' compartment." She was<lb facs="P15_TL00008"/>quite out oî breath ; she opened lier little purse to flnd some<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P15_TL00009"/>thing small enough to give this horrible man while lie tossed.<lb facs="P15_TL00010"/>lier dress-basket into the rack of an empty carriage that had<lb facs="P15_TL00011"/>a ticket, Dames k.eules, gummed on the window. She got into<lb facs="P15_TL00012"/>the train and lianded him twenty centimes. "What's this?<lb facs="P15_TL00013"/>sliouted the man, glaring at the money and then at lier,<lb facs="P15_TL00014"/>holding it up to his nose, sniffing at it as though lie had<lb facs="P15_TL00015"/>11ever in his life seen, much less held, sucliasum. "It's a franc.<lb facs="P15_TL00016"/>You know that, don't you ? It's a franc. That's 111 y fare !<lb facs="P15_TL00017"/>A franc! Did he imagine that she was going to give liim<lb facs="P15_TL00018"/>a franc for playing a trick like tliat just because she was a<lb facs="P15_TL00019"/>girl and travelling alone at niglit. Kever-ne ver ! She squeez<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P15_TL00020"/>ed lier purse in lier hand and sirnply did not see him she<lb facs="P15_TL00021"/>looked at a view of St. Malo on the wall opposite and sirn<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P15_TL00022"/>ply did not hear him. "Ah, no. Ah, no. Four sous. You<lb facs="P15_TL00023"/>make a mistake. Here, take it. It's a franc I want." He<lb facs="P15_TL00024"/>leapt 011 to the step of the train and threw the money on to<lb facs="P15_TL00025"/>lier lap. Trembling with t&lt;error she screwed herself tight,<lb facs="P15_TL00026"/>tight, and put out an icy hand and took the money stowed<lb facs="P15_TL00027"/>it away in lier hand. "That's ail you're going to get," she<lb facs="P15_TL00028"/>said. For a minute or two she felt his sliarp eyes pricking lier<lb facs="P15_TL00029"/>ail over, while he nodded slowly, pulling down his mouth :<lb facs="P15_TL00030"/>"Ve-ry well. Trrrès bienHe shrugged his shoulders and<lb facs="P15_TL00031"/>disappeared into the dark. Oh, the relief ! How simply ter<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P15_TL00032"/>rible that had been ! As she stood up to feel if the dress<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P15_TL00033"/>basket was firm she cauglit sight of herself in the mirror,<lb facs="P15_TL00034"/>quite white, with big round eyes. She untied lier 'motor veil<lb facs="P15_TL00035"/>and unbuttoned lier green cape. "But it s ail over now, she<lb facs="P15_TL00036"/>said to the mirror face, feeling in some way that it was more<lb facs="P15_TL00037"/>frightened than she.<lb facs="P15_TL00038"/>People began to assemble on the platform. They stood</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P16_TB00003">
+                                    <lb facs="P16_TL00003"/>together in little groups talking ; a strange light from the<lb facs="P16_TL00004"/>station lamps painted their faces almost green. A little boy<lb facs="P16_TL00005"/>in red clattered up with a huge tea wagon and leaned against<lb facs="P16_TL00006"/>it, whistling and flicking his boots with a serviette. A wo<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P16_TL00007"/>man in a black alpaca apron puslied a barrow with pillows<lb facs="P16_TL00008"/>for h ire. Dreamy and vacant she looked — like a woman<lb facs="P16_TL00009"/>wheeling a perambulator— up and down, up and down—with<lb facs="P16_TL00010"/>a sleeping baby inside it is. Wreaths of white smoke floated<lb facs="P16_TL00011"/>up from somewhere and hung below the roof like misty vines.<lb facs="P16_TL00012"/>"How strange it ail is," thought the little governess, "and the<lb facs="P16_TL00013"/>middle of the night, too." She looked ont from lier safe corner,<lb facs="P16_TL00014"/>frightened no longer but proud that she bad not given that<lb facs="P16_TL00015"/>franc. "I can look after myself —of course I can. The great<lb facs="P16_TL00016"/>thing is not to—" Suddenly from the corridor there came<lb facs="P16_TL00017"/>a stamping of feet and men's voices, high and broken with<lb facs="P16_TL00018"/>snatches of loud laughter. They were coming lier way. The<lb facs="P16_TL00019"/>little governess sbrank into her corner as four young men<lb facs="P16_TL00020"/>in bowler hats passed, staring through the door and window.<lb facs="P16_TL00021"/>One of them, bursting with the joke, pointed to the notice<lb facs="P16_TL00022"/>''Dames Seules' and the four bent down the better to see the<lb facs="P16_TL00023"/>one little girl in the corner. Oh dear, they were in the ear<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P16_TL00024"/>riage next door. She heard them tramping about and then<lb facs="P16_TL00025"/>a sudden hush followed by a tall tliin felîow with a tiny<lb facs="P16_TL00026"/>black moustache who flung her door open. "If mademoiselle<lb facs="P16_TL00027"/>cares to come in with us," he said, in French. She saw the<lb facs="P16_TL00028"/>others crowding behind him, peeping under his armand over<lb facs="P16_TL00029"/>his slioulder, and she sat very straight and still. "If madem<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P16_TL00030"/>oiselle will do us the lionour," mocked the tall man. One<lb facs="P16_TL00031"/>of them could be quiet no longer ; his laughter went off in<lb facs="P16_TL00032"/>a loud crack. "Mademoiselle is serious," persisted the young<lb facs="P16_TL00033"/>man, bowing and grimacing. He took off his liât with a<lb facs="P16_TL00034"/>flourish and she was alone again. "En voiture. En voi-ture !"<lb facs="P16_TL00035"/>Some one ran up and down beside the train. "I wish it wasn't<lb facs="P16_TL00036"/>night-time. I wish there was another woman in the carriage.<lb facs="P16_TL00037"/>I'm frightened of the men next door." The little governess<lb facs="P16_TL00038"/>looked out to see her porter coming back again — the same</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P17_TB00003">
+                                    <lb facs="P17_TL00003"/>man making for her carriage with his arms full of luggage.<lb facs="P17_TL00004"/>But — but what was he doing? He put his thumb-nail under<lb facs="P17_TL00005"/>the label Dames Seules and tore it right off and then stood<lb facs="P17_TL00006"/>aside squinting at her while an old man wrapped in a plaid<lb facs="P17_TL00007"/>cape climbed up the high step. "But tliis is a Ladies' com<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00008"/>partment." "Oh, no, Mademoiselle, you make a mistake. "No,<lb facs="P17_TL00009"/>no, I assure you. Merci, Monsieur." "En voi-turre !" A shrill<lb facs="P17_TL00010"/>whistle. The porter stepped off triumphant and the train<lb facs="P17_TL00011"/>started. For a moment or two big tears brimmed her eyes<lb facs="P17_TL00012"/>and through them she saw the old man unwinding a scarf<lb facs="P17_TL00013"/>from his neck and untying the flaps of his jaeger cap. He<lb facs="P17_TL00014"/>looked very old. Ninety at least. He had a white moustache<lb facs="P17_TL00015"/>and big gold-rimmed spectacles with little blue eyes beliind<lb facs="P17_TL00016"/>them and pink wriukled c-heeks. A nice face — and charm<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00017"/>ing the way he bent forward and said in halting French :<lb facs="P17_TL00018"/>"Do I disturb you, Madamoiselle ? Would you rather I took<lb facs="P17_TL00019"/>ail these things out of the rack and found another carriage?"<lb facs="P17_TL00020"/>Wbat! that old man have to move ail those heavy things<lb facs="P17_TL00021"/>just because she "Mo, it's quite alright. You don't dis<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00022"/>turb me at ail." "Ah, a thousand thanks." He sat down op<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00023"/>posite her and unbuttoned the cape of his enormous coat<lb facs="P17_TL00024"/>and flung it off liis shoulders.<lb facs="P17_TL00025"/>The train seemed glad to have left the station. With a<lb facs="P17_TL00026"/>long leap it sprang into the dark. She rubbed a place in the<lb facs="P17_TL00027"/>window with her glove but she could see nothing — just a<lb facs="P17_TL00028"/>tree outspread like a black fan or a scatter of lights, or<lb facs="P17_TL00029"/>the line of a hill, solemn and huge. Jn the carriage next<lb facs="P17_TL00030"/>door the young men started singing "Un, deux, troisThey<lb facs="P17_TL00031"/>sang the same song over and over at the tops of their<lb facs="P17_TL00032"/>voices.<lb facs="P17_TL00033"/>I never would have dared to go to sleep if I had been<lb facs="P17_TL00034"/>alone, she decided. I couldn't have put m y feet up or<lb facs="P17_TL00035"/>even taken off m y hat. The singing gave her a queer little<lb facs="P17_TL00036"/>tremble in her stomach and hugging lierself to stop it with<lb facs="P17_TL00037"/>her arms crossed under her cape she felt really glad to have<lb facs="P17_TL00038"/>the old man in the carriage with her. Careful to see that</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P18_TB00003">
+                                    <lb facs="P18_TL00003"/>He was not looking she peeped at liim tbrougli her long<lb facs="P18_TL00004"/>lashes. Ile sat extremely upriglit, the cliest thrown out, the<lb facs="P18_TL00005"/>chin well in, knees pressed together, reading a German pa<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P18_TL00006"/>per. That was why lie spoke French so funnily. He was a<lb facs="P18_TL00007"/>German. Something in the army, she supposed — a Oolonel<lb facs="P18_TL00008"/>or a General — once of course, not now ; he was too old for<lb facs="P18_TL00009"/>that now. How spick and span he looked for an old nian.<lb facs="P18_TL00010"/>He wore a pearl pin stuck in his biack tie and a ring with<lb facs="P18_TL00011"/>a dark red stone 011 his little finger; the tip of a white silk liand<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P18_TL00012"/>kerchief showed in the pocket of his double-breasted jacket.—<lb facs="P18_TL00013"/>Somehow, altogether, he was really ni ce to look at. Most old<lb facs="P18_TL00014"/>men were so horrid. She couldn't bear them doddery —or<lb facs="P18_TL00015"/>they had a disgusting cougli or something. But not having<lb facs="P18_TL00016"/>a beard— that made ail the différence — and then his cheeks<lb facs="P18_TL00017"/>were so pink and his moustache so very white. Down went<lb facs="P18_TL00018"/>the German paper and the old man leailed forward with the<lb facs="P18_TL00019"/>same delightful courtesy : "Do you speak German, Mademoi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P18_TL00020"/>selle?" "Ja, ein wenig, mehr aïs Franzosiseh," said the<lb facs="P18_TL00021"/>little governess, blusliing a deep pink colour that spread<lb facs="P18_TL00022"/>slowly over lier cheeks and made her blue eyes look almost<lb facs="P18_TL00023"/>black. "Ach, so !" The old man bowed gracions] y. "Then<lb facs="P18_TL00024"/>perhaps you would care to look at some illustrated papers."<lb facs="P18_TL00025"/>He slipped a rubber band from a little roJl of them and hand<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P18_TL00026"/>ed them across. "Thank you very much." She was very<lb facs="P18_TL00027"/>fond of looking at pictnres, but lirst she would take off her<lb facs="P18_TL00028"/>hat and gloves. So she stood up, unpinned the brown straw<lb facs="P18_TL00029"/>and put it neatly in the rack beside the dress-basket, strip<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P18_TL00030"/>ped off lier brown kid gloves, paired them in a tight rolland<lb facs="P18_TL00031"/>put them in the crown of the hat for safety, and then sat<lb facs="P18_TL00032"/>down again, more comfortably this time, her feet crossed,<lb facs="P18_TL00033"/>the papers on her lap. How kindly the old man in the cor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P18_TL00034"/>ner watched her bare little hand turning over the big white<lb facs="P18_TL00035"/>pages, watched lier lips moving as she pronounced the long<lb facs="P18_TL00036"/>wôrds to lierself, rested upon her liair that fairly blazed under<lb facs="P18_TL00037"/>the light. Alas ! how tragic for a little governess to possess hair<lb facs="P18_TL00038"/>that made one tliink of tangcrines and marigclds, of apricots</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P19_TB00003">
+                                    <lb facs="P19_TL00003"/>and tortoiseshell cats aiul Champagne ! Perhaps tliat was<lb facs="P19_TL00004"/>what tlie old man was thinking as he gazed and gazed, and<lb facs="P19_TL00005"/>tliat not even the dark ugly clothes could disguise lier soft<lb facs="P19_TL00006"/>beauty. Perhaps tlie flush that licked his cheeks and lips<lb facs="P19_TL00007"/>was a flush of rage that an yo ne so young and tender should<lb facs="P19_TL00008"/>have to travel alone and unproteeted through the niglit. Who<lb facs="P19_TL00009"/>knows he was not murmuring in his sentimental German<lb facs="P19_TL00010"/>fashion : "Ja, es ist eine Tragoedie ! Would to God I were the<lb facs="P19_TL00011"/>child's grandpapa !"<lb facs="P19_TL00012"/>"Thank you very much. They were very interesting."<lb facs="P19_TL00013"/>She smiled prettily handing baek the papers. "But you speak<lb facs="P19_TL00014"/>German extremely well," said the old man. "You have been<lb facs="P19_TL00015"/>in Germany before, of course?" "Oli no, this is the first<lb facs="P19_TL00016"/>time" — a little pause, then — "this is the first time that<lb facs="P19_TL00017"/>I have ever been abroad at ail." "Really ! lam surprised.<lb facs="P19_TL00018"/>You gave me the impression, if I may say so, that you were<lb facs="P19_TL00019"/>accustomed to travelling." "01), weli — I have been about a<lb facs="P19_TL00020"/>good deal in England, and to Scotland, once." "So. I myself<lb facs="P19_TL00021"/>have been in England once, but I could not learn English."<lb facs="P19_TL00022"/>lie raised one hand and shook his head, laughing. "No, it was<lb facs="P19_TL00023"/>too difficult for me- 'Ow-do-you-do. Please vich is ze vay<lb facs="P19_TL00024"/>to Leicestaire Squaare'." She laughed, too. "Foreigners al<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P19_TL00025"/>ways say..." They liad quite a little talk aboutit. "But you<lb facs="P19_TL00026"/>will like Munich," said the old man, "Munich is a wonderfui<lb facs="P19_TL00027"/>city. Muséums, pictures, galleries, fine buildings and shops,<lb facs="P19_TL00028"/>concerts, theatres, restaurants — ail are in Munich. I have<lb facs="P19_TL00029"/>travelled ail over Europe many, many times in my life, but<lb facs="P19_TL00030"/>it is always to Munich that I return. You will enjoy your<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P19_TL00031"/>self there." "I am not going to stay in Munich," said the<lb facs="P19_TL00032"/>little governess, and she added shyly, "I am going to a post<lb facs="P19_TL00033"/>as governess to a doctor's family in Augsburg." "Ah, that<lb facs="P19_TL00034"/>was it." Augsburg he knew. Augsburg — well — was not<lb facs="P19_TL00035"/>beautiful. A solid manufaeturing town. But if Germany was<lb facs="P19_TL00036"/>new to lier he hoped she would find something interesting<lb facs="P19_TL00037"/>there too. "I am sure I shall." "But what a pity not to see<lb facs="P19_TL00038"/>Munich before you go. You ought to take a little holiday on</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P20_TB00003">
+                                    <lb facs="P20_TL00003"/>your way" — he smiled — "and store up some pleasant me<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P20_TL00004"/>mories." lam afraid I could not do that, said the little<lb facs="P20_TL00005"/>governess, shaking her head, suddenly important and serious.<lb facs="P20_TL00006"/>"And also, if one is a10ne..." He quite understood. He<lb facs="P20_TL00007"/>bowed, serious too. Tliey were silent aîter that. The train<lb facs="P20_TL00008"/>shattered on, baring its darlc, flaming breast to the hills and<lb facs="P20_TL00009"/>to the valleys. It was warm in the carriage. She seemed<lb facs="P20_TL00010"/>to lean against the dark rushing and to be carried away<lb facs="P20_TL00011"/>and away. Little sounds made themselves heard ; steps in<lb facs="P20_TL00012"/>the corridor, doors opening and shutting — a murmur of voi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P20_TL00013"/>ces — whistling... then the window was pricked with long<lb facs="P20_TL00014"/>needles of rain... But it did not matter... it was outside...<lb facs="P20_TL00015"/>and she had her umbrella... she pouted, sighed, opened and<lb facs="P20_TL00016"/>shut her hands once and fell fast asleep.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c004">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P21_TB00001">
+                           <lb facs="P21_TL00001"/>There was a Cittle Man...</ab>
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P21_TB00003">
+                           <lb facs="P21_TL00003"/>II.</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P21_TB00002">
+                           <lb facs="P21_TL00002"/>By John Middleton Murry.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P21_TB00004">
+                                    <lb facs="P21_TL00004"/>I should be freely doing. And that I suppose is the end<lb facs="P21_TL00005"/>of it ail — free activity, active freedom. The words begin to<lb facs="P21_TL00006"/>fascinate me, spinning round and echoing musically in my<lb facs="P21_TL00007"/>brain. A moment and they are the shining key to ail things ;<lb facs="P21_TL00008"/>another moment and they are the barren echo of my own tu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P21_TL00009"/>multuous blood. But I believe they are the key, for the very<lb facs="P21_TL00010"/>thinking of the thought seems to caress me and to make me<lb facs="P21_TL00011"/>smile. I am smiling now.<lb facs="P21_TL00012"/>Then what I seek, and the whole world with me, is a<lb facs="P21_TL00013"/>right understanding of freedom : yet not a right understanding<lb facs="P21_TL00014"/>only, for the mind is teacher, and itself the taught. This free<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P21_TL00015"/>dom must be embraced by the whole being, not by the mind<lb facs="P21_TL00016"/>alone. It is not freedom to achieve a purpose, for the purpose<lb facs="P21_TL00017"/>is freedom. Freedom is itself the end of freedom.<lb facs="P21_TL00018"/>Oh, I must hold you tight, for you can vanish, if my<lb facs="P21_TL00019"/>touch be not a grasp, into the grey and vacant spaces of my<lb facs="P21_TL00020"/>mind. You must be shaped and defined, or you have no form,<lb facs="P21_TL00021"/>no beauty, no life. Yet you may not be shaped like the clay<lb facs="P21_TL00022"/>by the pressure of a hand without, else you are not freedom<lb facs="P21_TL00023"/>but a slave. Then you must be controlled gently and music<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P21_TL00024"/>ally from within. Yours is the hand that sets your bounds,<lb facs="P21_TL00025"/>Freedom self-controlled !<lb facs="P21_TL00026"/>And you it is, my wonder Freedom, that holds me here<lb facs="P21_TL00027"/>writing these vain and foolish words to you. I who cannot<lb facs="P21_TL00028"/>write save with labour, I have no labour in writing for you.<lb facs="P21_TL00029"/>Though words come slowly they come freely, my angel Free<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P21_TL00030"/>dom, for you within me urge me on, though I sit in the room<lb facs="P21_TL00031"/>where I deny you everyday and I Write with the pen that<lb facs="P21_TL00032"/>blasphémés you in the morning, in the evening you call me</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P22_TB00003">
+                                    <lb facs="P22_TL00003"/>to be your willing, gracious slave. Yes, I ara a slave, your<lb facs="P22_TL00004"/>slave, Freedom my delight, for you are in me now, guiding<lb facs="P22_TL00005"/>me through strange words.<lb facs="P22_TL00006"/>Freedom, you know how I do deny you and will not write<lb facs="P22_TL00007"/>pseans such as these, and, because you knew, you smile me<lb facs="P22_TL00008"/>on to strange words and hold me back from none, for the<lb facs="P22_TL00009"/>strange words are mine and the familiar are not my own ; for<lb facs="P22_TL00010"/>the strange words are free and the common ones are slave,<lb facs="P22_TL00011"/>and I in you am free and no slave at ail.<lb facs="P22_TL00012"/>How long shall it be, my freedom ? Only a little space,<lb facs="P22_TL00013"/>or for years and years, unt.il having freely lived I shall freely<lb facs="P22_TL00014"/>die ? Or to-morrow shall I look the door upon you when you<lb facs="P22_TL00015"/>knock and say that you ne ver lived within me ? But you are<lb facs="P22_TL00016"/>mine, however much I deny and blasphémé. Though the door<lb facs="P22_TL00017"/>be locked you will abide on the step waiting for the day when<lb facs="P22_TL00018"/>I shall open to you again. I shall open to you, my freedom,<lb facs="P22_TL00019"/>not as a to a stranger, not as to a guest, with a shake of the<lb facs="P22_TL00020"/>hand and a smile, but joyful and sorrowful both, for I shall<lb facs="P22_TL00021"/>open to myself.<lb facs="P22_TL00022"/>Freedom! How wonderful is your name. Your name —<lb facs="P22_TL00023"/>your name is mine. That I should have won such a name,<lb facs="P22_TL00024"/>even for a moment! And the name will never be lost, for I<lb facs="P22_TL00025"/>am baptised and ean never be utterly cast out. I shall re<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P22_TL00026"/>turn for ever to the fold, to the warm fold of my own heart.<lb facs="P22_TL00027"/>Miracle Freedom ! You seem to me so beautiful and so<lb facs="P22_TL00028"/>calm ; you seem to smile at me because I hasten and stumble<lb facs="P22_TL00029"/>in my running, because I am anxious and afraid that you<lb facs="P22_TL00030"/>will dissolve from before my eyes and be gone for ever. You<lb facs="P22_TL00031"/>smile and are calm. Is it not, my Freedom, that you know<lb facs="P22_TL00032"/>that I can never lose you, that you are not standing there<lb facs="P22_TL00033"/>beyond my touch, but grown, fashioned, breathing, smiling in<lb facs="P22_TL00034"/>me ?<lb facs="P22_TL00035"/>You are mine, my Freedom, you are me. But how shall<lb facs="P22_TL00036"/>I know you again ? lam oppressed now by the thought that,<lb facs="P22_TL00037"/>although you are me and mine, I shall not find you again.<lb facs="P22_TL00038"/>Something smiles within me with the smile you smiled just</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P23_TB00003">
+                                    <lb facs="P23_TL00003"/>ago and says to me that there is nothing harder to find, more<lb facs="P23_TL00004"/>terrible to hold, than my own soul — for you are my own<lb facs="P23_TL00005"/>soul, my freedom. Because it smiles as you smile, I believe<lb facs="P23_TL00006"/>it. How long will it be before I shall find you again ?<lb facs="P23_TL00007"/>Shall I open the door night after night and see nothing<lb facs="P23_TL00008"/>but the dark, with the wind in my ears and the rain beating<lb facs="P23_TL00009"/>and blinding my eyes, so that even though you lie on the<lb facs="P23_TL00010"/>step of my door I shall not see you, even though I call through<lb facs="P23_TL00011"/>the storm you will not hear ? Oh, my Freedom, why should<lb facs="P23_TL00012"/>the door of my heart ever be locked against you ? And yet<lb facs="P23_TL00013"/>I know that it will be locked, even if it be only to open again.<lb facs="P23_TL00014"/>And in the space between you will be gone.<lb facs="P23_TL00015"/>Shall I find you again, my Freedom ? Will you come<lb facs="P23_TL00016"/>bravely into the house of my heart and sit by the fire ; — brave<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P23_TL00017"/>ly, because I welcomed you once, when you were a stranger<lb facs="P23_TL00018"/>and unknown, and you smiled at me so sweetly and gravely<lb facs="P23_TL00019"/>that I wrote these words to you. Was it strange that I wrote,<lb facs="P23_TL00020"/>and strange that I could not forbear to smile on you as you<lb facs="P23_TL00021"/>smiled on me ? Because it was strange, will you remember the<lb facs="P23_TL00022"/>road and the house again, will you know that from this night<lb facs="P23_TL00023"/>and ever on I shall set a candie in my window that you may<lb facs="P23_TL00024"/>see the light and come ?<lb facs="P23_TL00025"/>For you are mine, my Freedom, you are me. You can<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P23_TL00026"/>not go and knock at another's door and sit by his fire and<lb facs="P23_TL00027"/>smile while he makes music to you. Freedom, tell me you<lb facs="P23_TL00028"/>are mine.<lb facs="P23_TL00029"/>You will not say. Because you will not say, I doubt a<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P23_TL00030"/>gain. May be you are not mine. May be you are not Free<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P23_TL00031"/>dom but some spirit that comes to me as Freedom, and your<lb facs="P23_TL00032"/>smile is meant only to mock me, May be there are other houses<lb facs="P23_TL00033"/>and other lights to guide you. May be you strayed from the<lb facs="P23_TL00034"/>way, and as you came tired along the road you saw that my<lb facs="P23_TL00035"/>door was open a little and a thin crack of light showed out.<lb facs="P23_TL00036"/>For my door was opened a little. May be you heard me pul<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P23_TL00037"/>ling at the rusty latch. tugging at the handle, for the hinges<lb facs="P23_TL00038"/>were old and set. May be you came only to deceive me.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P24_TB00003">
+                                    <lb facs="P24_TL00003"/>Oh, Freedom, I did not look for you. I sought only to<lb facs="P24_TL00004"/>open the door and look what might be beyond. Yet you came.<lb facs="P24_TL00005"/>No, my Freedom, you are not mine. I have no right to you<lb facs="P24_TL00006"/>— and you are leaving me now...<lb facs="P24_TL00007"/>And now here I am in the morning, wondering whether<lb facs="P24_TL00008"/>it has worn off and whether it could have been really worth<lb facs="P24_TL00009"/>while, Strange the discoveries one may make in rummaging<lb facs="P24_TL00010"/>the cellars of one's soul. And how hard it is to décidé wheth<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P24_TL00011"/>er the things I find there are my own. They are so odd and<lb facs="P24_TL00012"/>unfamiliar that they frighten me a little. I am more than a<lb facs="P24_TL00013"/>little dubious of that outpouring. It was hardly what I should<lb facs="P24_TL00014"/>have expected of myself, seeing that three years of gentleman -<lb facs="P24_TL00015"/>ly blasphemy have turned me into a blasphemous little gentle<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P24_TL00016"/>man. No, I should not have expected it.<lb facs="P24_TL00017"/>"Personal truth," said my philosophical Adam.<lb facs="P24_TL00018"/>"Damn personal truth," I said. "Can't you see its hardly<lb facs="P24_TL00019"/>the thing to say of a wonderful woman. I don't think I would<lb facs="P24_TL00020"/>dare to say to my beloved after a miracle night together,<lb facs="P24_TL00021"/>'Thank you for the pleasant evening !' I tell you, I would<lb facs="P24_TL00022"/>rather say nothing at ail, Adam."<lb facs="P24_TL00023"/>"Oh, call her Freedom then, I don't care. Though why<lb facs="P24_TL00024"/>you should always be put off by some woman or other when<lb facs="P24_TL00025"/>you really are beginning to get at things, I can't understand...<lb facs="P24_TL00026"/>You are serious, aren't you ? Why can't you stay serious ?"<lb facs="P24_TL00027"/>I don't like Adam this morning. I'm very glad he's gone,<lb facs="P24_TL00028"/>slamming the door behind him. But he shouldn't have left<lb facs="P24_TL00029"/>that souvenir tendre with me,<lb facs="P24_TL00030"/>"Am I serious ?"<lb facs="P24_TL00031"/>I wonder. But you visitor of last night, you have taught<lb facs="P24_TL00032"/>me something. You don't like Adam yourself, I know; and<lb facs="P24_TL00033"/>so you whispered to me how I might beat him, playing his<lb facs="P24_TL00034"/>own game.<lb facs="P24_TL00035"/>"Come back, Adam !... Tell me. Is it a good thing to<lb facs="P24_TL00036"/>be serious ?"<lb facs="P24_TL00037"/>"It ail depends what you mean by a good thing".<lb facs="P24_TL00038"/>"You unregenerate... To hell with your 'depends.' You</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P25_TB00003">
+                                    <lb facs="P25_TL00003"/>know what the good thing is. I don't mind even if you call<lb facs="P25_TL00004"/>her Personal Truth. She answered to tlie name last night after<lb facs="P25_TL00005"/>ail. But I don't believe she will come again unless you call<lb facs="P25_TL00006"/>her rightly — darling Freedom, Angel Freedom, wonder Free<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P25_TL00007"/>dom. (Turn back my pages, Adam, and you will find a not<lb facs="P25_TL00008"/>intolerable choice.) But you hâve a prejudice. Well, we won't<lb facs="P25_TL00009"/>quarrel. I will say Personal Truth with my lips and whisper<lb facs="P25_TL00010"/>Angel Freedom in my heart. But tell me now, Adam... No,<lb facs="P25_TL00011"/>I see you want to go, standing impatient on the threshold<lb facs="P25_TL00012"/>there... But answer this first. You came back of your own<lb facs="P25_TL00013"/>desire. I didn't abuse you for slamming the door. Tell me,<lb facs="P25_TL00014"/>is it good to be serious when my Delight holds her lips warm<lb facs="P25_TL00015"/>to my ear and whispers : "Don't be cold or cruel" — forgive<lb facs="P25_TL00016"/>me, Adam — when personal truth (what a harridan she seems !)<lb facs="P25_TL00017"/>forbids ?"<lb facs="P25_TL00018"/>Adam has slammed the door again, twice as loud. I had<lb facs="P25_TL00019"/>no idea he could be so pettish. He always seemed so calm<lb facs="P25_TL00020"/>and dignified. He always impressed me: now I've begun to<lb facs="P25_TL00021"/>suspect that he oppressed me as well. Yet Angela say s that<lb facs="P25_TL00022"/>he is very like me. Perhaps he is : but I can't believe it.<lb facs="P25_TL00023"/>Anyhow I hate him to-day.<lb facs="P25_TL00024"/>I think it must of been Adam who said to Angela about<lb facs="P25_TL00025"/>the money : "Put it in the bank !" It was Adam she kissed<lb facs="P25_TL00026"/>in the cupboard, while he held a plate of lemons in one hand<lb facs="P25_TL00027"/>and a dish of apples in the other, It was Adam said : "Buy<lb facs="P25_TL00028"/>her. She won't be more than a hundred twelve pounds. Nine<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P25_TL00029"/>ty-nine more !" It wasn't Adam said that he would put a<lb facs="P25_TL00030"/>candie in the window so that she might see her way.<lb facs="P25_TL00031"/>And I don't see very well how I could say to her, "I'il pay<lb facs="P25_TL00032"/>you twelve pounds." She wasn't wearing ver y much, if she was<lb facs="P25_TL00033"/>wearing anything : and if she was weariug anything, I know<lb facs="P25_TL00034"/>there wasn't room for a pocket. And I don't think she would<lb facs="P25_TL00035"/>care to read my pass-book instead of talking to me.<lb facs="P25_TL00036"/>Now that I come to think of it, I don't believe that any<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P25_TL00037"/>one will understand a word of this. And yet there's 110 getting<lb facs="P25_TL00038"/>away from it that I am writing to be understood. How can</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P26_TB00003">
+                                    <lb facs="P26_TL00003"/>anybody understand, when here am I rushing three strange<lb facs="P26_TL00004"/>people out the wings, without a word of warning on the pro<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P26_TL00005"/>gramme ?<lb facs="P26_TL00006"/>I know there's nobody watching except the illustrious<lb facs="P26_TL00007"/>paper in the stalls. I can see they haven't brought any<lb facs="P26_TL00008"/>womenfolk with them because they knew it would be boring.<lb facs="P26_TL00009"/>And I must confess it was rather foolish of me to send them<lb facs="P26_TL00010"/>tickets for "A Play without a Title, Actors at present Unknown,<lb facs="P26_TL00011"/>Programmes to be obtained after the Performance." No won<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P26_TL00012"/>der they are going — and I can't even run after them with a<lb facs="P26_TL00013"/>signed photograph of my leading lady for their Sunday the<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P26_TL00014"/>atrical page.<lb facs="P26_TL00015"/>"I don't remember that there was a leading lady," said<lb facs="P26_TL00016"/>the Old Man with a Beard in the corner seat.<lb facs="P26_TL00017"/>It's kind of him to speak out loud like that. There's<lb facs="P26_TL00018"/>nobody else left in the theatre, and it would be lonely with<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P26_TL00019"/>out a voice.<lb facs="P26_TL00020"/>"Perhaps you were asleep," I venture.<lb facs="P26_TL00021"/>"Perhaps I was," he acquiesces, so gently that I like him.<lb facs="P26_TL00022"/>"But couldn't you bring her on again ?"<lb facs="P26_TL00023"/>I knew he would ask me that. I was afraid, yet certain<lb facs="P26_TL00024"/>that the question would corne.<lb facs="P26_TL00025"/>"She might come," I say timidly, "with a little persuasion ;<lb facs="P26_TL00026"/>but she's — varium et mutabile semper"<lb facs="P26_TL00027"/>"Young man," — there was a new sternness in his voice<lb facs="P26_TL00028"/>—"I stayed here because the seats are comfortable, and be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P26_TL00029"/>cause I don't believe you are quite such a fool as you look ;<lb facs="P26_TL00030"/>but if you give me any of your Oxford back-chat, I'il leave<lb facs="P26_TL00031"/>the house this minute. I'd have you know I paid to come in."<lb facs="P26_TL00032"/>"Paid ?" I stammer.<lb facs="P26_TL00033"/>"I tell you I paid half-a-crown."<lb facs="P26_TL00034"/>"Are you sure .. you paid to hear me ? There are others<lb facs="P26_TL00035"/>before me. Perhaps you came too late, mistook the time?"<lb facs="P26_TL00036"/>"For God's sake say what you have to say, young man,<lb facs="P26_TL00037"/>without ail this palaver !"<lb facs="P26_TL00038"/>'Tm not quite sure whether..."</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P27_TB00003">
+                                    <lb facs="P27_TL00003"/>"Come, come... I've not been asleep ail the while. You<lb facs="P27_TL00004"/>were talking to someone just now. Who was she? I'd like<lb facs="P27_TL00005"/>to make her acquaintance. Then there was that fellow Adam<lb facs="P27_TL00006"/>— and Angela — very attractive. Who the devil are they ail ?"<lb facs="P27_TL00007"/>"It would take a long tïme..."<lb facs="P27_TL00008"/>"Yes, y es... but tell me, do they ail live with you?"<lb facs="P27_TL00009"/>"I don't exactly know..."<lb facs="P27_TL00010"/>"You don't know whether you have two women living with<lb facs="P27_TL00011"/>you ! Don't know ! What the devil do you mean, don't know !"<lb facs="P27_TL00012"/>"I mean," I stammer, "I've never seen them in the same<lb facs="P27_TL00013"/>room at the same time..."<lb facs="P27_TL00014"/>"You mean..." The Old Man spoke in a whisper, Quickly,<lb facs="P27_TL00015"/>hands invisible in the darkness were pulling the dust covers<lb facs="P27_TL00016"/>over the plush chairs. "You mean... Yery interesting, very<lb facs="P27_TL00017"/>interesting indeed !"<lb facs="P27_TL00018"/>I nodded. "Of course I can't say... but it is conceivable."<lb facs="P27_TL00019"/>The Old Man nodded too. For a moment I thought he<lb facs="P27_TL00020"/>was pondering. Then I felt sure that he was nodding in sleep.<lb facs="P27_TL00021"/>But a thick low voice came through his beard, I could scarc<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P27_TL00022"/>ely hear a word, but I fancied that I could distinguish "Go on !"<lb facs="P27_TL00023"/>"Did you say," I shouted, "that I was to go on ?"<lb facs="P27_TL00024"/>"Fes!" he roared, and instantly fell asleep.<lb facs="P27_TL00025"/>And he hadn't asked me who they were — the Angel,<lb facs="P27_TL00026"/>Adam and Angela. Since there's no-one else to ask, why<lb facs="P27_TL00027"/>there's surely no need to tell. But to get on, that's more of<lb facs="P27_TL00028"/>a business.<lb facs="P27_TL00029"/>Yes, decidedly a business. I am never sure that it's not<lb facs="P27_TL00030"/>becomîng nonsense. Yet if Igo down and sit by the Old Man,<lb facs="P27_TL00031"/>there will be no one to talk on the stage. Not the Angel nor<lb facs="P27_TL00032"/>Angela nor Adam — none of them will come on, unless I am<lb facs="P27_TL00033"/>there to push them. Certainly the Angel came without hav<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P27_TL00034"/>ing to be pushed exactly ; but she must have seen I was there.<lb facs="P27_TL00035"/>And if I go down to sit with the Old Man, she won't be able<lb facs="P27_TL00036"/>to tell which is which. It's very dark down there. Ail the<lb facs="P27_TL00037"/>dust covers are on. Ail the stage lights are off. It's very<lb facs="P27_TL00038"/>dark everywhere.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P28_TB00003">
+                                    <lb facs="P28_TL00003"/>I know why the stage lights are off. Adam has told me<lb facs="P28_TL00004"/>many times that I shall never be able to do anything with<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P28_TL00005"/>out the illumination of a général idea. I haven't a single one<lb facs="P28_TL00006"/>now; and I am afraid that if I wait in the dark even the<lb facs="P28_TL00007"/>Old Man will creep away,<lb facs="P28_TL00008"/>Yes, to get on.<lb facs="P28_TL00009"/>Well, there was that about Personal Truth.<lb facs="P28_TL00010"/>At least I hâve turned the lights on again... But they<lb facs="P28_TL00011"/>are too bright, too hard. The covered chairs are sordid as<lb facs="P28_TL00012"/>the parlour of a Bloomsbury boarding-house. The Old Man's<lb facs="P28_TL00013"/>cheeks are yellow and lank. I hate this light.<lb facs="P28_TL00014"/>Angel Freedom !<lb facs="P28_TL00015"/>It is dark again. I would rather talk softly with you in<lb facs="P28_TL00016"/>the dark than speak of Personal Truth in the light of a thou<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P28_TL00017"/>sand lamps. The light blinds me. I can see in the dark.<lb facs="P28_TL00018"/>I was ready to see you and speak with you in the dark,<lb facs="P28_TL00019"/>when another thought came to me, an ugly, mean thought,<lb facs="P28_TL00020"/>that I am writing this ; that this is mine ; that I would go<lb facs="P28_TL00021"/>now and read it ail, and wait in the anxious certainty that<lb facs="P28_TL00022"/>Angela would say: "But that is really very good."<lb facs="P28_TL00023"/>I am a weak vessel, my Angel Freedom. I sit with the<lb facs="P28_TL00024"/>Old Man and clap my exits and my entrances. You have no<lb facs="P28_TL00025"/>use for such as me.<lb facs="P28_TL00026"/>"No use for such as me ; no use for such as me." The<lb facs="P28_TL00027"/>racing clock ticks it again and again, and I begin to blas<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P28_TL00028"/>phémé against you.<lb facs="P28_TL00029"/>That I will not. I will déclaré an interlude. It is not<lb facs="P28_TL00030"/>on the programme; but I am writing the programme now.<lb facs="P28_TL00031"/>The Old Man will not awake, for we will not turn on those<lb facs="P28_TL00032"/>hateful lights again.<lb facs="P28_TL00033"/>Angela said: "Let's go for a little walk in the garden."<lb facs="P28_TL00034"/>1 hesitated, for I was not sure that I had the right to<lb facs="P28_TL00035"/>give myself an interlude,<lb facs="P28_TL00036"/>"Right ?" whispered the Angel.<lb facs="P28_TL00037"/>"Right ! What about duty ?" said Adam.<lb facs="P28_TL00038"/>"Come now," said Angela.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P29_TB00003">
+                                    <lb facs="P29_TL00003"/>So I went, wondering whcther the Oltl Mail woulcl be<lb facs="P29_TL00004"/>there still on my return...<lb facs="P29_TL00005"/>Perhaps tlie interlude was too long. The Oid Man was<lb facs="P29_TL00006"/>no longer there when I returned. It is a pity, for now it<lb facs="P29_TL00007"/>seems empty to speak to an empty house. The words will<lb facs="P29_TL00008"/>not eome.<lb facs="P29_TL00009"/>It is in fact a pretty problem 111 Freedom. (I ara afraid<lb facs="P29_TL00010"/>Adam has been at me in the interval.) I want to go on, yet<lb facs="P29_TL00011"/>it is pain to me to go on ; and I stand on the edge of the<lb facs="P29_TL00012"/>stage shivering and tongue-tied. Somehow I have lost the<lb facs="P29_TL00013"/>thread of my oration. I cannot continue freely nor can I freely<lb facs="P29_TL00014"/>cease. The door is locked, bolted and barred. I cannot get<lb facs="P29_TL00015"/>outside ; I will not stay witliin,<lb facs="P29_TL00016"/>Inévitable that I should become feverish and talk about<lb facs="P29_TL00017"/>anything.<lb facs="P29_TL00018"/>I have read a book in the interval — a long book with<lb facs="P29_TL00019"/>a pertinent title : "Of Human Bondage." It is written by a<lb facs="P29_TL00020"/>man of whom I believe no more than he compels me to be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P29_TL00021"/>lieve, The gist of the story is that a boy with a club<lb facs="P29_TL00022"/>foot, hait in soul, has ail the doors in life to open on to Free<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P29_TL00023"/>dom. There is no doubt that that is the right theme. We<lb facs="P29_TL00024"/>may treat that in différent ways according to our insight and<lb facs="P29_TL00025"/>our âge ; but there has ne ver been a novel which we within<lb facs="P29_TL00026"/>our hearts considered great, but was built according to<lb facs="P29_TL00027"/>that plan.<lb facs="P29_TL00028"/>And yet, I am not interested whether this young man<lb facs="P29_TL00029"/>wins or fails to win his freedom. Not for 011 e single moment<lb facs="P29_TL00030"/>has it mattered to me. Yet I should not wonder if Philip Carey<lb facs="P29_TL00031"/>(and his creator with him) should subscribe to ail that I have<lb facs="P29_TL00032"/>said about Freedom. Where then is the différence?<lb facs="P29_TL00033"/>For that he was bound captive to a despicable woman I<lb facs="P29_TL00034"/>despisehim; yet then, might he not be free ? Or is my des -<lb facs="P29_TL00035"/>pite the measure of a man's capacity for freedom ? But he<lb facs="P29_TL00036"/>is not free. Are there then two kinds of freedom ?<lb facs="P29_TL00037"/>The freedom of the free man and the freedom of the<lb facs="P29_TL00038"/>slave these are two. The slave is defined by his bondage;</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P30_TB00003">
+                                    <lb facs="P30_TL00003"/>The freeman by his aspirations, The slave is free when his<lb facs="P30_TL00004"/>material fetters are broken ? the free man is free when his<lb facs="P30_TL00005"/>aspirations are suddenly linked to his own heart. But the<lb facs="P30_TL00006"/>slave may aspire —to the freedom of a slave, "Remove these<lb facs="P30_TL00007"/>ehains and I am free." Free, only in name and to the g je,<lb facs="P30_TL00008"/>but not less a slave. For freedom is of the spirit and won<lb facs="P30_TL00009"/>by the spirit; and whether he be bound or free the slave is<lb facs="P30_TL00010"/>the captive of the life that is but a hard and ugly means to<lb facs="P30_TL00011"/>living. But the free man when in the spirit he touches the<lb facs="P30_TL00012"/>hem of the garment of the spirit's freedom, leaps beyond life<lb facs="P30_TL00013"/>to living. He is free, and by his freedom he frees ail men.<lb facs="P30_TL00014"/>The freedom of the slave frees no man, not even himself.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

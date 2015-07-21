@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+        Transcription of
+        <biblStruct>
+                  <monogr>
+                     <title level="j">
+                        <seg type="main">Niederrheinische Musik</seg>
+                     </title>
+                     <imprint>
+                        <biblScope unit="vol"/>
+                        <biblScope unit="issue"/>
+                        <date when="1863-03-21">21. März 1863</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Princeton University</publisher>
+            <idno type="bmtnid">urn:PUL:bluemountain:bmtnabi_1863-03-21_01</idno>
+         </publicationStmt>
+         <seriesStmt>
+            <title level="s">The Blue Mountain Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title level="j">
+                     <seg type="main">Niederrheinische Musik</seg>
+                     <seg type="sub">Zeitung für Kunstfreunde und Künstler</seg>
+                  </title>
+                  <imprint>
+                     <biblScope unit="vol"/>
+                     <biblScope unit="issue"/>
+                     <date when="1863-03-21"/>
+                  </imprint>
+               </monogr>
+               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnabi"/>
+               <relatedItem type="constituent" xml:id="c001">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Inhalt.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page">1</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c002">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Aus Frankfurt am Main.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="1" to="5">1-5</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c003">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Ferdinand Hiller und seine neue Oper.</seg>
+                        </title>
+                        <respStmt>
+                           <persName>F. Pletzer</persName>
+                           <resp>cre</resp>
+                        </respStmt>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="5" to="7">5-7</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c004">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Tages- und Unterhaltungs-Blatt.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c005">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c006">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c007">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="Magazine">
+            <div type="Issue">
+               <div type="PublicationInfo">
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00001">
+                        <lb facs="P1_TL00001"/>Niederrheiiische Musik-Zeitung<lb facs="P1_TL00002"/>für lltmstfmutüe itnit lünstler.<lb facs="P1_TL00003"/>Herausgegeben von Professor L. Bischoff. Verlag der DuMont-Schauberg'sehen Buchhandlung.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00010">
+                        <lb facs="P1_TL00082"/>Nr. 12.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00011">
+                        <lb facs="P1_TL00083"/>KÖLN, 21. März 1863.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00009">
+                        <lb facs="P1_TL00081"/>XI. Jahrgang.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00008">
+                        <lb facs="P1_TL00080"/>12</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00005">
+                        <lb facs="P8_TL00065"/>pie <lb facs="P8_TL00066"/>erscheint jeden Samstag in einem ganzen Bogen mit zwanglosen<lb facs="P8_TL00067"/>Beilagen. Der Abonnementspreis beträgt für das Halbjahr 2 Thlr.,<lb facs="P8_TL00068"/>bei den K. preuss. Post-Anstalten 2 Thlr. 5 Sgr. Eine einzelne Num<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P8_TL00069"/>mer 4 Sgr.<lb facs="P8_TL00070"/>Briefe und Zusendungen aller Art werden unter der Adresse dej<lb facs="P8_TL00071"/>M. DuMont-Schaüberg'schen Buchhandlung in Köln erbeten.<lb facs="P8_TL00072"/>Verantwortlicher Herausgeber: Prof. L♦ Bischoff in Köln.<lb facs="P8_TL00073"/>Verleger: M. DuMont-Schernberg sehe Buchhandlung in Köln.<lb facs="P8_TL00074"/>Drucker: M. DuMont-Schauberg in Köln, Breitstrasse 76 u. 78.</ab>
+                  </div>
+               </div>
+               <div type="EditorialContent">
+                  <div type="TextContent" corresp="c001">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00002">
+                           <lb facs="P1_TL00004"/>Inhalt. </ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00003">
+                                    <lb facs="P1_TL00005"/>Aus Frankfurt am Main (Sinfonie von J. Rietz; Messe in Z), Requiem für gemischten Chor, Sinfonie in D von Che-</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00004">
+                                    <lb facs="P1_TL00006"/>rubini; Lauda Sion von Mendelssohn; Violin-Concert von Joachim; der Violoncellist B. Cossmann; die Pianistin Fräulein Luise Hauffe).<lb facs="P1_TL00007"/>Ferdinand Hiller und seine neue Oper. Von F. Pietzer. Tages- und Unterhaltungsblatt (Köln, Proben der Matthäus-Passion,<lb facs="P1_TL00008"/>Dr. Oscar Paul, Feier des 17. März Düsseldorf, das niederrheinische Musikfest Barmen, Concerte Mainz, Hr. Wachtel —Paris).</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c002">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00005">
+                           <lb facs="P1_TL00009"/>Aus Frankfurt am Main.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00006">
+                                    <lb facs="P1_TL00010"/>(Sinfonie von J. Rietz; Messe in D, Requiem für gemischten<lb facs="P1_TL00011"/>Chor, Sinfonie in D von Cherubini; Lauda Sion von Mendels -<lb facs="P1_TL00012"/>söhn; Violin-Concert von Joachim; der Violoncellist B. Coss<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00013"/>mann; die Pianistin Fräulein Luise Hauffe.)<lb facs="P1_TL00014"/>Ihr Correspondent aus dieser Mainstadt hat sich dies<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00015"/>mal einer ungewohnten Saumseligkeit anzuklagen. Man<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00016"/>cherlei Gründe jedoch, darunter auch solche, die wochen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00017"/>lang zu geistiger Unthätigkeit zwingen, werden ihn ent<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00018"/>schuldigen. Andererseits will es ihm auch scheinen, als ob<lb facs="P1_TL00019"/>sein Mittheilungs-Vermögen mehr und mehr im Abnehmen<lb facs="P1_TL00020"/>begriffen sei, woran keineswegs die auf dem Rücken ha<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00021"/>benden Jahre, die ihm Gottlob in keiner Weise noch be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00022"/>schwerlich werden, vielmehr die höchst unerfreulichen,<lb facs="P1_TL00023"/>wirren Zustände und Verhältnisse in der Kunst und Kunst<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00024"/>welt die Schuld tragen. Indess ich bin nicht gewillt, im<lb facs="P1_TL00025"/>Winde verhallende Klagen, wohl aber einen Bericht über<lb facs="P1_TL00026"/>mehrere in den Monaten Januar und Februar in unserem<lb facs="P1_TL00027"/>grossen Concertsaale zu Gehör gebrachte Werke nieder<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00028"/>zuschreiben, die theils zu den neuen Producten der Zeit,<lb facs="P1_TL00029"/>theils der früheren Epoche angehören, dennoch aber so<lb facs="P1_TL00030"/>gut als neu sind, die auch hierorts als Unbekannte erschie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00031"/>nen und alles, was Interesse für Tonkunst hat, anzuregen<lb facs="P1_TL00032"/>und zu Urtheilen aufzufordern geeignet waren. Es sei<lb facs="P1_TL00033"/>demnach gestattet, auch unsere Stimme in diesem Chorus<lb facs="P1_TL00034"/>hören zu lassen.<lb facs="P1_TL00035"/>Vorübergehend an zwei für unser Publicum neuen<lb facs="P1_TL00036"/>Ouvertüren von Gade, die beide einen sehr ruhigen Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00037"/>lauf gehabt, wollen wir uns sogleich zur Aufführung der<lb facs="P1_TL00038"/>Sinfonie in Es-dur von Julius Rietz wenden, die am<lb facs="P1_TL00039"/>16. Januar im Museum Statt gefunden. Auf dieses Werk<lb facs="P1_TL00040"/>des hier nicht unbekannten Componisten war Seitens des<lb facs="P1_TL00041"/>Vorstandes einiges Vertrauen gesetzt, als könne und werde<lb facs="P1_TL00042"/>es nicht bloss flüchtige Beachtung, wohl aber laute Wür<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00043"/>digung finden. Allein ungeachtet sorgfältigster Feile, so<pc type="endhypen" pre="false">-</pc>
+                                 </ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00007">
+                                    <lb facs="P1_TL00044"/>nach vortrefflicher Ausführung, ward das Werk in allen<lb facs="P1_TL00045"/>seinen Theilen ohne einen Beifallslaut aufgenommen, ja,<lb facs="P1_TL00046"/>es ward mit einem Uebermaass von Strenge beurtheilt,<lb facs="P1_TL00047"/>die es dem Vorstande räthlich machte, das Auditorium mit<lb facs="P1_TL00048"/>keiner Sinfonie aus der jüngsten Epoche mehr in der lau<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00049"/>fenden Saison in Versuchung zu führen. Wodurch mag<lb facs="P1_TL00050"/>wohl diese Rietz'sche Sinfonie solch' rigorose Beurtheilung<lb facs="P1_TL00051"/>hervorgerufen haben? Wenn die Haupt-Eigenschaft eines<lb facs="P1_TL00052"/>sinfonischen Werkes ein allgemeines Interesse zu erwecken<lb facs="P1_TL00053"/>vermögender Grundgedanke sein soll, es gehöre derselbe<lb facs="P1_TL00054"/>dem Bereiche des Idyllischen, Heiteren, Grossen, Erhabe<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00055"/>nen oder Feierlichen an, so vermisst man einen solchen in<lb facs="P1_TL00056"/>dem Werke des dresdener Hof-Capellmeisters; wohl trägt<lb facs="P1_TL00057"/>es den Charakter des Ernsten, dem jedoch der erforder<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00058"/>liche Wechsel von Licht und Schatten abgeht, daher Mo<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00059"/>notonie die unvermeidliche Folge und Langeweile die un<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00060"/>ausbleibliche Wirkung sein wird. Das, was der Componist<lb facs="P1_TL00061"/>Achtungswerthes an Beweisen angewandter Kunstmittel<lb facs="P1_TL00062"/>in Harmonie, Rhythmik und geschickter Anwendung aller<lb facs="P1_TL00063"/>Instrumente geleistet, womit sich der gebildete Zuhörer<lb facs="P1_TL00064"/>oft begnügt, das überhört ein gemischtes Publicum gänz<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00065"/>lich, dem allein ein ausgeprägter, die Phantasie leicht er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00066"/>regender Grundgedanke, mit der gehörigen Dosis von Spi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00067"/>ritus verarbeitet, imponirt. In dem in Rede stehenden<lb facs="P1_TL00068"/>Werke, den vierten Satz ausgenommen, geht Alles an<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00069"/>scheinend mit so absichtlicher Ruhe, vermischt zuweilen<lb facs="P1_TL00070"/>mit unverkennbarem Phlegma, her, wie dergleichen am<lb facs="P1_TL00071"/>allerwenigsten in der Sinfonie Platz finden soll. Sogar das<lb facs="P1_TL00072"/>Scherzo bietet keine Entschädigung für das bis dahin Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00073"/>misste; obendrein gefällt es dem Componisten, auch die<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00074"/>sen Satz ohne kraftvollen Abschluss hören zu lassen, um<lb facs="P1_TL00075"/>so sonderbarer, da Rietz als erfahrener Orchester-Director<lb facs="P1_TL00076"/>unbezweifelt die äusserlichen Hebel kennt, von denen sich<lb facs="P1_TL00077"/>jegliches Publicum am liebsten bewegen lässt.<lb facs="P1_TL00078"/>Fügung des Zufalls war es, dass der Monat Februar<lb facs="P1_TL00079"/>von unseren drei Conservatorien hauptsächlich dem An-</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00002">
+                                    <lb facs="P2_TL00002"/>denken Cherubini's gewidmet war, und zwar führte der<lb facs="P2_TL00003"/>Cäcilien-Verein am 9. dessen Messe in auf; dieser<lb facs="P2_TL00004"/>Feierlichkeit folgte schon am 23. der Rühl'sche Verein<lb facs="P2_TL00005"/>mit dem Requiem für gemischten Chor, und am 27. Fe<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00006"/>bruar brachte das Programm zum Museums-Concerte<lb facs="P2_TL00007"/>die einzige von Cherubini geschriebene Sinfonie, die bis<lb facs="P2_TL00008"/>zu diesem Tage noch Manuscript geblieben.— Der Messe,<lb facs="P2_TL00009"/>die im letzten Jahrzehend wiederholt in den Concerten des<lb facs="P2_TL00010"/>genannten Vereins mit Clavier-Begleitung und ganz unge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00011"/>nügenden Solostimmen gesungen worden, widerfuhr dies<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00012"/>mal die gebührende Achtung, mit vollständigem Orchester<lb facs="P2_TL00013"/>und ausgezeichneten Solostimmen ausgeführt zu werden.<lb facs="P2_TL00014"/>Dieser Umstand stempelte das kolossale Werk (dieses<lb facs="P2_TL00015"/>Epitheton sei auf dessen ungeheuerliche Dimensionen, nicht<lb facs="P2_TL00016"/>minder auf die enorme darin niedergelegte Kunstwissen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00017"/>schaft bezogen) zu einem fast ganz neuen. Selbst Ihr Cor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00018"/>respondent muss gestehen, diese Messe zum ersten Male<lb facs="P2_TL00019"/>in ihrer Vollständigkeit gehört zu haben, denn eine einzige<lb facs="P2_TL00020"/>vor ungefähr vierzig Jahren in der Augustiner Hofkirche<lb facs="P2_TL00021"/>zu Wien Statt gehabte Aufführung davon hatte sich bis<lb facs="P2_TL00022"/>auf die Thalsache in meiner Erinnerung verwischt; eben<lb facs="P2_TL00023"/>so wüsste ich nicht mehr zu sagen, ob das Werk vollstän<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00024"/>dig oder nur in einigen Theilen zur Aufführung gekom<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00025"/>men. Wenn ich voraussetzen darf, dass vielleicht doch<lb facs="P2_TL00026"/>einem kleinen Theile der zahlreichen Verehrer des grossen<lb facs="P2_TL00027"/>französischen Tonmeisters bekannt geblieben, was die<lb facs="P2_TL00028"/>deutsche Kritik vor länger als einem Menschenalter den<lb facs="P2_TL00029"/>drei grossen Cherubinischen Messen in und die<lb facs="P2_TL00030"/>in kurzen Zwischenräumen an einigen Orten zur Auffüh<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00031"/>rung gelangten, bei aller Würdigung derselben als grosse<lb facs="P2_TL00032"/>Kunstwerke entgegengestellt hat, so darf ich auch wagen,<lb facs="P2_TL00033"/>einige kritische Anmerkungen über die Messe in hier<lb facs="P2_TL00034"/>niederzuschreiben; ausserdem wäre es gerathener, zu<lb facs="P2_TL00035"/>schweigen, um nicht solchen Bewunderern dieses Compo<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00036"/>nisten Aerger zu verursachen, die sogar die Gedankenspäne<lb facs="P2_TL00037"/>ihres Kunstheiligen für unantastbar, für classisch erklären,<lb facs="P2_TL00038"/>speciel aber von katholischer Kirchenmusik Alles in Allem<lb facs="P2_TL00039"/>höchstens sechs Werke und diese nur aus dem Concert<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00040"/>saale kennen, nicht aber aus der Kirche in Verbindung<lb facs="P2_TL00041"/>mit der gottesdienstlichen Handlung, wo allein das wahre<lb facs="P2_TL00042"/>Verdienst des Componisten in dem Maasse der entspre<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00043"/>chenden Wirkung auf die der Andacht wegen Dahinkom<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00044"/>menden zu beurtheilen ist. .<lb facs="P2_TL00045"/>Von vorn herein wird dieses Tonwerk nicht als zum<lb facs="P2_TL00046"/>Gebrauche für den Gottesdienst bestimmt aufzufassen sein.<lb facs="P2_TL00047"/>Gründe hiefür finden sich, wie schon bemerkt, in seinen<lb facs="P2_TL00048"/>Dimensionen, aber auch im Stil desselben. Beide bezeugen<lb facs="P2_TL00049"/>fast evident, dass es nicht in der Intention des Schöpfers dieser<lb facs="P2_TL00050"/>Messe gelegen, selbe zur Erhöhung der gottesdienstlichen<lb facs="P2_TL00051"/>Feier bestimmt zu haben, denn ein festtägiges Hochamt in den</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00003">
+                                    <lb facs="P2_TL00052"/>Kirchen Frankreichs gleicht vollkommen einem solchen in<lb facs="P2_TL00053"/>Deutschland, wird demnach airch im Maasse seiner Zeit<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00054"/>dauer überall sich gleichen. Erfährt man, dass und<lb facs="P2_TL00055"/>Gloria aus dieser Messe allein schon über eine volle Stunde<lb facs="P2_TL00056"/>in Anspruch nehmen und dass zu würdiger Ausführung<lb facs="P2_TL00057"/>des ganzen Werkes mehr denn zwei Stunden (mit den<lb facs="P2_TL00058"/>kürzesten Zwischenpausen) erforderlich sind, so wissen wir<lb facs="P2_TL00059"/>auch, dass in Verbindung mit der gottesdienstlichen Hand<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00060"/>lung das Hochamt mindestens zwei und eine halbe Stunde<lb facs="P2_TL00061"/>währen müsste. Solches Uebermaass an Zeitdauer steht<lb facs="P2_TL00062"/>jedoch im Widerspruch mit der wohlbemessenen, von Al<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00063"/>ters her eingeführten Kirchen-Ordnung in allen Ländern.<lb facs="P2_TL00064"/>Wenn über Beethoven's sowohl hin<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00065"/>sichtlich ihrer anderthalbstündigen Dauer beim Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00066"/>brauche in der Kirche, zugleich wegen ihres mehr welt<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00067"/>lichen als kirchlichen Charakters ein Streit zulässig und in<lb facs="P2_TL00068"/>der Sache selbst begründet ist (zu Frankfurt am Main war<lb facs="P2_TL00069"/>ein solcher Streit nach der Aufführung 1855 durch den<lb facs="P2_TL00070"/>Rühl'schen Verein lichterloh entbrannt), so wäre eine der<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00071"/>lei Ereiferung über diese Messe Cherubini's unter Sach<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00072"/>kennern gar nicht denkbar, weil diese beiden Streitpunkte<lb facs="P2_TL00073"/>durch ihr Gepräge vorweg entschieden sind. Dass der<lb facs="P2_TL00074"/>deutsche Meister bei Conception seiner Messe zunächst an<lb facs="P2_TL00075"/>die Kirche gedacht hat, steht geschichtlich fest; eben so<lb facs="P2_TL00076"/>ist es bei unbefangenen Beurtheilern seines Werkes aus<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00077"/>gemacht, dass mehrere Theile desselben, als:<lb facs="P2_TL00078"/>tollis, Et incarnatus est, Sanctus und Agnus mit Dona,<lb facs="P2_TL00079"/>bis zum Allegro assai,S. 262 Partitur, einen wahrhaft<lb facs="P2_TL00080"/>kirchlichen Charakter (versteht sich im Sinne der neueren<lb facs="P2_TL00081"/>Kirchenmusik) tragen, wohingegen über einige der ande<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00082"/>ren Theile der Discussion Kaum gegeben wird, sich—im-<lb facs="P2_TL00083"/>mer. nur mit Rücksicht auf den Gottesdienst für oder<lb facs="P2_TL00084"/>wider auszusprechen. Der französische Meister aber ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00085"/>braucht nur zu offenbar die heiligen Worte des Messe-<lb facs="P2_TL00086"/>Textes zur Hervorbringung eines Werkes für den Concert<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00087"/>saal, denn wie in der ganzen Composition Spuren von re<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00088"/>ligiöser Begeisterung nicht zu entdecken, so wird auch der<lb facs="P2_TL00089"/>Zuhörer in keinem Augenblicke angeregt, an die Kirche<lb facs="P2_TL00090"/>zu denken, weil ihn in allen Theilen, in denen die freie<lb facs="P2_TL00091"/>Schreibart vorwaltet, vorzugsweise aber in den All egro-<lb facs="P2_TL00092"/>Sätzen, der Reiz prachtvollen Instrumentenspiels befangen<lb facs="P2_TL00093"/>macht, wodurch derselbe unfähig wird, einen anderen als<lb facs="P2_TL00094"/>einen sinnlichen Maassstab an das Gehörte zu legen. Aus<lb facs="P2_TL00095"/>diesem Grunde wird diese Messe nicht auf gleiche Stufe<lb facs="P2_TL00096"/>mit irgend einem geistlichen Oratorium zu stellen sein,<lb facs="P2_TL00097"/>wobei meines Erachtens die Spohr'schen Oratorien<lb facs="P2_TL00098"/>zunächst in Betracht kommen sollen. Gleiche Gründe ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00099"/>ben den Maassstab bei Beurtheilung der kleinen Kirchen-<lb facs="P2_TL00100"/>Compositionen von Cherubini, die vor dreissig Jahren der<lb facs="P2_TL00101"/>Verleger Diabelli in Wien sämmtlich in Partitur heraus<pc type="endhypen" pre="false">-</pc>
+                                 </ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00002">
+                                    <lb facs="P3_TL00002"/>gegeben bat. In allen bekundet sich der grosse Opern -<lb facs="P3_TL00003"/>Componist. Wer vermöchte z. B. das (für<lb facs="P3_TL00004"/>Chor und Orchester) so bar aller religiösen Stimmung zu<lb facs="P3_TL00005"/>Papier zu bringen, als wir es von Cherubini besitzen?<lb facs="P3_TL00006"/>Wie erhaben über solche allerdings wohlklingende Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00007"/>standes-Musik eines Katholiken stehen nicht die Protestan<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00008"/>ten S. Bach, Naumann, Andre, Friedrich Schneider u. A.<lb facs="P3_TL00009"/>in ihren Messen für die katholische Kirche! Nur dort, wo<lb facs="P3_TL00010"/>mau die Schätze von katholischer Kirchenmusik, die wir<lb facs="P3_TL00011"/>Mich. llaydn, Eybler, Seyfried, Tomaschek, Witasek, Ett<lb facs="P3_TL00012"/>u. A. verdanken, nicht kennt, deren Bekanntschaft sich<lb facs="P3_TL00013"/>aber nicht im Concertsaale machen lässt, wird man zu so<lb facs="P3_TL00014"/>verkehrten Urtheilen kommen, denen man in einigen frank<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00015"/>furter Blättern über diese Cherubini'sche Messe begegnet.<lb facs="P3_TL00016"/>Es gibt dergleichen wiederum den Beweis, dass Beurthei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00017"/>ler, die von dem Ruhme ausgezeichneter Tonsetzer und<lb facs="P3_TL00018"/>der Vorzüglichkeit ihrer Leistungen in einem Fache musi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00019"/>calischer Composition geblendet sind, alles für gross, er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00020"/>haben, himmlisch halten, was von demselben ausgeht,<lb facs="P3_TL00021"/>wäre es auch oft das pure Gegentheil*).<lb facs="P3_TL00022"/>Aus Vorstehendem ist schon zu ersehen, wie leicht es<lb facs="P3_TL00023"/>Cherubim mit Auffassung kirchlicher Texte im Allgemei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00024"/>nen genommen hat, gewiss leichter, wie mit Opern-Texten.<lb facs="P3_TL00025"/>Auffassung und Behandlung des Textes vom Credo in der<lb facs="P3_TL00026"/>fraglichen Messe mag dem Auge des Verständigen etwas<lb facs="P3_TL00027"/>näher gerückt werden. Bekanntlich bietet dieser Theil des<lb facs="P3_TL00028"/>Messe-Textes vorzugsweise grosse Schwierigkeiten dar.<lb facs="P3_TL00029"/>Vor Allem hat der Componist zu beachten, dass die an<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00030"/>wesende Gemeinde vereint das Glaubensbekenntniss betet.<lb facs="P3_TL00031"/>Das wird ihm Fingerzeig sein, den Text im Ganzen der<lb facs="P3_TL00032"/>Gemeinde in den Mund zu legen und nur aus Rücksicht<lb facs="P3_TL00033"/>aul Colorit und Mannigfaltigkeit in dem Tongemälde stel<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00034"/>lenweise Solostimmen mit dem Chor abwechseln zu lassen.<lb facs="P3_TL00035"/>Zu einer Modificirung des gewählten Zeitmaasses ergibt<lb facs="P3_TL00036"/>sich nur das Et incarnatus est bis Et resurrexit als ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00037"/>eignet. Dem Geiste dieser Worte gemäss findet sich deren<lb facs="P3_TL00038"/>Behandlung bei den Tonsetzern aller Epochen gleich, wie<lb facs="P3_TL00039"/>überhaupt alle sich bestrebt haben, den Text des Credo<lb facs="P3_TL00040"/>von Zerstückelung fern zu halten. —ln der in Rede stehen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00041"/>den Messe findet sich das wesentlich anders. Der Chor be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00042"/>ginnt den Satz Allegro und singt ihn cursorisch durch bis</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00004">
+                                    <lb facs="P3_TL00053"/>zum Et incarnatus est,wobei sich verschiedene bei Cheru<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00054"/>bini öfter vorkommende Störungen im Gebrauche des Syl-<lb facs="P3_TL00055"/>V-&gt; — KJ W<lb facs="P3_TL00056"/>benmaasses, als: Deum verum, filius u. s. w. bemerkbar<lb facs="P3_TL00057"/>machen. In die Textes-Stelle bis zu<lb facs="P3_TL00058"/>homo /actus esttheilen sich sechs Solostimmen im Tempo<lb facs="P3_TL00059"/>„Sostenuto assai", da hingegen die folgenden Worte: Cru<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00060"/>cifixus bis einschliesslich sepaltus est in demselben Zeit<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00061"/>maasse vom Chor gesungen werden. Hierbei hat der Com<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00062"/>ponist nach einem Effect gestrebt, der am wenigsten in<lb facs="P3_TL00063"/>Kirchenmusik passend ist. Sämmtliche Chorstimmen singen<lb facs="P3_TL00064"/>nämlich diese Worte mit dem Tone e piano, während die<lb facs="P3_TL00065"/>Saiten-Instrumente, gleichsam arabeskenartig und in man<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00066"/>cherlei Tonarten ausweichend, dieses e umschlingen—ein<lb facs="P3_TL00067"/>Kunststück, wenn es ja noch so zu nennen, das an jener<lb facs="P3_TL00068"/>Stelle nur zu beklagen ist. — Beim tritt wie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00069"/>der der Chor in aller Stärke ein und singt bis non erit finis.<lb facs="P3_TL00070"/>Die folgende Textes-Stelle Et in spiritum sanctum bis zum<lb facs="P3_TL00071"/>Schiussworte Amen singt ein Quartett. Gerade in dieser<lb facs="P3_TL00072"/>nicht kurzen Stelle häufen sich die Schwierigkeiten für<lb facs="P3_TL00073"/>den Componisten, wenn er sich nicht bloss von den Wor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00074"/>ten, aber auch von seiner Begeisterung fortreissen lassen<lb facs="P3_TL00075"/>und unkirchlich oder wohl gar llach werden will, was so<lb facs="P3_TL00076"/>manchem tüchtigen Tonsetzer schon geschehen. Cherubini<lb facs="P3_TL00077"/>weicht allen diesen Gefährlichkeiten damit aus, dass er<lb facs="P3_TL00078"/>sein Quartett im Tempo Larghettsingen lässt. Dadurch<lb facs="P3_TL00079"/>wird der Begeisterung ein schwerer Hemmschuh ange<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00080"/>legt. Er lässt ferner die vier Solostimmen meist nach einan<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00081"/>der erklingen und, was am seltsamsten, die Worte:<lb facs="P3_TL00082"/>unam sanetam catholicam et apostolicam ecclesiam, singt<lb facs="P3_TL00083"/>der Tenorist in einer wahrhaft ordinären Ton-Phrase!<lb facs="P3_TL00084"/>Nachdem die vier Stimmen auch das genugsam hö<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00085"/>ren gelassen, ergreift es der Chor zu einer gewaltigen Fuge<lb facs="P3_TL00086"/>mit einem chromatischen Motiv von vier Tacten, &lt;7, fis, f, e,<lb facs="P3_TL00087"/>das sich zur Umkehrung, Verlängerung und sonstigen im<lb facs="P3_TL00088"/>Fugenbau zur Anwendung kommenden Beweisen von Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00089"/>lehrsamkeit des Componisten leicht gebrauchen lässt.<lb facs="P3_TL00090"/>Ist es denn aber nicht Frevel, solcher Geringfügigkei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00091"/>ten in dem Werke eines grossen Componisten zu erwäh<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00092"/>nen, nicht vielmehr, Anderen gleich, Alles darin gross,<lb facs="P3_TL00093"/>erhaben, himmlisch zu finden? Wäre ich um vierzig Jahre<lb facs="P3_TL00094"/>jünger und zählte ich gleichfalls zu den Cherubini-Enthu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00095"/>siasten ä tout prix,ich würde es wahrscheinlich selber da<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00096"/>für halten; allein ein Musiker in meinem Alter, der sich<lb facs="P3_TL00097"/>noch vollkommen gesunder Sinne und der Empfänglichkeit<lb facs="P3_TL00098"/>für alles wahrhaft Gute und Schöne bewusst ist, welchen<lb facs="P3_TL00099"/>Namen es auch tragen und welcher Epoche es immer an<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00100"/>gehören mag, der nimmt sich zuweilen mehr heraus, als<lb facs="P3_TL00101"/>andere Menschenkinder, und erlaubt sich, etwas abwei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00102"/>chender Meinung zu sein. Aus diesem Grunde wird er</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00002">
+                                    <lb facs="P4_TL00002"/>noch eines anderen wichtigen Punktes, dieses Cherubini<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00003"/>sche Werk betreffend, erwähnen. Es ist wohl begreif<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00004"/>lich, dass, wenn der Componist sich in so breiten Dimen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00005"/>sionen ergeht, wie oben schon gezeigt, er genöthigt wird,<lb facs="P4_TL00006"/>das Capitel von der Lehre der Modulation, resp. ihres Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00007"/>brauches, fast zu erschöpfen. Hübsch in der gewählten<lb facs="P4_TL00008"/>Haupt-Tonart zu verbleiben und nur die verwandten<lb facs="P4_TL00009"/>Klangfarben zum Ausmalen seines Gemäldes zu gebrauchen,<lb facs="P4_TL00010"/>wie man dies Beethoven in seiner Missa solemnis nach<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00011"/>rühmen muss, war in unserem Falle auch noch auf Grund<lb facs="P4_TL00012"/>der vielen Zerstückelung der Sätze Gloria und Credo eine<lb facs="P4_TL00013"/>selbst für einen Cherubini schwer zu lösende Aufgabe.<lb facs="P4_TL00014"/>Wenn sich z. ß. das Gloria in so vielen „nichts Neues sa<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00015"/>genden Wiederholungen" kund gibt, um den Satz bis auf<lb facs="P4_TL00016"/>drei Viertelstunden Dauer auszudehnen (das Qui tollis wech<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00017"/>selt sechs Mal die Bewegung und kehrt darunter drei<lb facs="P4_TL00018"/>Mal zum Tempo primozurück), so kann dies selbstver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00019"/>ständlich nur mittels unzähliger Modulationen bewerkstel<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00020"/>ligt werden. Am reinsten, weil frei von modulatorischen<lb facs="P4_TL00021"/>Absonderlichkeiten, ist der Stil im Benediclus_, das sich in<lb facs="P4_TL00022"/>einem natürlichen Flusse bewegt und dadurch wohlthuend<lb facs="P4_TL00023"/>wirkt. Könnte ein solches Superplus oder auch Meer von<lb facs="P4_TL00024"/>Modulationen in der freien Schreibart noch zu ertragen<lb facs="P4_TL00025"/>sein, in der Fuge ist es dies schlechterdings nicht, und<lb facs="P4_TL00026"/>gerade hierin hat Cherubini jede auch in der Natur be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00027"/>gründete Regel in Rücksicht auf Klarheit und Verständ<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00028"/>lichkeit gewiss im vollsten Bewusstsein ausser Acht<lb facs="P4_TL00029"/>gelassen. Aber Cherubini war ja mit Recht der gefeierte<lb facs="P4_TL00030"/>Director einer Musikschule, in welcher Reicha's berühmte<lb facs="P4_TL00031"/>Lehre von der Fuge als Leitfaden gedient hat!—So wer<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00032"/>den wir z. B. im ersten Theile der Fuge zum Gloria,<lb facs="P4_TL00033"/>Haupt-Tonart B-dur, durch eine Menge präcipitirter Mo<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00034"/>dulationen bis nach Fis-dur geführt und zehn Tacte lang<lb facs="P4_TL00035"/>auf dieser Bergeshöhe gehalten (Orgelpunkt eis), bis das<lb facs="P4_TL00036"/>Heruntersteigen über Fis-moll beginnt. Im zweiten Theile<lb facs="P4_TL00037"/>dieser ungeheuer gelehrten Fuge führt uns der Componist<lb facs="P4_TL00038"/>nach B-durhinab, und lässt uns nach eben so langem<lb facs="P4_TL00039"/>Aufenthalte dort unten, wie vordem auf über<lb facs="P4_TL00040"/>moll wieder in das freundliche Thal B-dur hinaufsteigen*).</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00004">
+                                    <lb facs="P4_TL00054"/>Wer im Stande wäre, ohne vorheriges Studium dieser<lb facs="P4_TL00055"/>Fuge jede ihrer Modulationen sofort mit Sicherheit zu<lb facs="P4_TL00056"/>nennen, verdiente, von der Universität zu Oxford zum<lb facs="P4_TL00057"/>Doctor doctissimus in Musica creirt zu werden. Bekannt<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00058"/>lich ist diese Universität die einzige in Europa, die Musik-<lb facs="P4_TL00059"/>Doctor-Diplome ertheilt. Und wir Kritiker wollen die Com<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00060"/>ponisten unserer Tage ob des angewandten Superplus an<lb facs="P4_TL00061"/>Modulationen in ihren Arbeiten tadeln!? Wolle man doch<lb facs="P4_TL00062"/>bedenken, dass unsere Zeit ausser der Oper „Der Was<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00063"/>serträger", dann den Ouvertüren und drei Streich-Quar<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00064"/>tetten nichts Anderes mehr von Cherubini kennt! Dass<lb facs="P4_TL00065"/>hierorts 1860 die Oper „Faniska" wieder einige Vorstel<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00066"/>lungen erlebt und nun die Messe in D vollständig zur<lb facs="P4_TL00067"/>Ausführung gekommen, ist eine Ausnahme von der Regel.<lb facs="P4_TL00068"/>Wie will man sonach seiner Muse Universalität zuerkennen<lb facs="P4_TL00069"/>und sie in allen Beziehungen der unserer drei Heroen<lb facs="P4_TL00070"/>gleichstellen ?<lb facs="P4_TL00071"/>Auffallend erscheint es, über die Zeit des Entstehens<lb facs="P4_TL00072"/>dieser Messe in Felis' Biographie<lb facs="P4_TL00073"/>gar nichts Näheres zu finden, während doch über die drei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00074"/>stimmige in Fund über die Krönungsmesse in die ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00075"/>schichtlichen Daten dort nicht fehlen. Eine Aufführung<lb facs="P4_TL00076"/>der Messe in D scheint wohl in Paris niemals Statt ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00077"/>funden zu haben, wenigstens vollständig nicht; wie und<lb facs="P4_TL00078"/>wo auch, wenn wir ihren Umfang betrachten?<lb facs="P4_TL00079"/>Der Aufführung dieses in vt&gt;caler wie orchestraler<lb facs="P4_TL00080"/>Hinsicht eben so schwierigen wie in Bezug der erforder<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00081"/>lichen Schattirung sehr delicaten Werkes in unserem Con<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00082"/>certsaale muss nach jeder Seite hin mit dem grössten<lb facs="P4_TL00083"/>Lobe gedacht werden. Vor Allem gebührt Herrn Musik-<lb facs="P4_TL00084"/>Direclor Müller gerechte Anerkennung; er war in der<lb facs="P4_TL00085"/>That an diesem Abende die Seele des Ganzen. Die Haupt-<lb facs="P4_TL00086"/>Solostimmen befanden sich in den Händen der Frau Zick<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00087"/>wolf, Mitglied des Cäcilien-Vereins (Sopran), des Fräuleins<lb facs="P4_TL00088"/>Schreck aus Bonn (Alt), dann der Herren Brandes aus<lb facs="P4_TL00089"/>Karlsruhe (Tenor) und Hill (Bass) von hier. Ueber dem<lb facs="P4_TL00090"/>Ganzen waltete eine Weihe, wie sie nur selten in solchem<lb facs="P4_TL00091"/>Grade getroffen wird. Nun wäre es in vieler Beziehung<lb facs="P4_TL00092"/>erwünscht, der conservative Verein machte sich alsbald an<lb facs="P4_TL00093"/>das Studium der Krönungsmesse, über deren Charakte<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00094"/>ristik Fetis sich also äussert: „Diesem Werke hat Cheru<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00095"/>bini aber einen so grossartigen Charakter gegeben, dass<lb facs="P4_TL00096"/>es als ein monumentales für ewige Zeiten dasteht durch<lb facs="P4_TL00097"/>Grösse und Erhabenheit der Gedanken, Tiefe der Auffas<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00098"/>sung, Adel des Ausdrucks, Reichthum und Pracht der<lb facs="P4_TL00099"/>Harmonie und Klangfarben und durch leuchtende Klarheit<lb facs="P4_TL00100"/>in allem Polyphonen und Harmonischen." Selbstüber-</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00002">
+                                    <lb facs="P5_TL00002"/>Zeugung wird gerathen sein, ob dieses Urtheil in allen<lb facs="P5_TL00003"/>Stücken wahr.<lb facs="P5_TL00004"/>(Schluss folgt.)</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00003">
+                                    <lb facs="P3_TL00043"/>*) Mit Besonnenheit urtheilt allein Didaskalia über diese<lb facs="P3_TL00044"/>Messj. Der Referent sagt unter Anderem: „Wenn in dieser<lb facs="P3_TL00045"/>Messe eine gerade diesem Meister sonst ganz fremde Breite,<lb facs="P3_TL00046"/>die sich in öfteren, nichts Neues sagenden Wiederholungen<lb facs="P3_TL00047"/>kundgibt, auffällt, wenn zuweilen eine dem edlen, einfachen<lb facs="P3_TL00048"/>Stile Eintrag thuende Ueberfülle in der Harmonisirung, ja, an<lb facs="P3_TL00049"/>einzelnen Stellen ein allzu weltliches Klingen sich geltend<lb facs="P3_TL00050"/>maebr, so bleibt doch immer so viel des Herrlichen und Schö<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00051"/>nen, dass für die Kritik in diesen Blättern Schweigen als ein<lb facs="P3_TL00052"/>Recht beansprucht werden darf."</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00005">
+                                    <lb facs="P3_TL00103"/>[*]</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00003">
+                                    <lb facs="P4_TL00041"/>*) Ausser den Fugen zum Gloria und schliesst auch das<lb facs="P4_TL00042"/>viertheilige Kyrie mit einer langen Fuge, und Dona nobis<lb facs="P4_TL00043"/>pacemist gleichfalls eine Fuge. Eine andere Messe mit einer<lb facs="P4_TL00044"/>gleichen Anzahl vollständiger Fugen, wovon jede von ausser<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00045"/>ordentlicher Gelehrsamkeit des Autors Zeugniss gibt, dürfte<lb facs="P4_TL00046"/>wohl nicht wieder existiren. Jedoch, auch diese Anzahl von<lb facs="P4_TL00047"/>Fugen zählen wir ungescheut zu dem Superplus, womit dem<lb facs="P4_TL00048"/>sachkundigen und aufmerksam die Dinge verfolgenden Zuhörer<lb facs="P4_TL00049"/>arg zugesetzt wird. Von der Fuge zum lässt sich mit<lb facs="P4_TL00050"/>weit mehr Recht sagen, was Meister Cherubini 1806 über Beet<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00051"/>hoven's Ouvertüre zu Fidelio gesagt hat, dass er nämlich we<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00052"/>gen Bunterlei an Modulationen darin die Haupt-Tonart nicht<lb facs="P4_TL00053"/>zu erkennen vermochte. Dieses Urtheil Cherubini's ist in die<pc type="endhypen" pre="false">-</pc>
+                                 </ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00005">
+                                    <lb facs="P4_TL00101"/>sen Blättern bezweifelt worden; es beruht jedoch auf Wahr<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00102"/>heit und wird von noch lebenden Gewährsmännern beglaubigt<lb facs="P4_TL00103"/>werden.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c003">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00003">
+                           <lb facs="P5_TL00005"/>Ferdinand Hiller und seine neue Oper.</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00004">
+                           <lb facs="P5_TL00006"/>Von F. Pletzer.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00005">
+                                    <lb facs="P5_TL00007"/>Bremen, den 11. März 1863.<lb facs="P5_TL00008"/>Für die Besprechung der Oper „Die Katakomben"<lb facs="P5_TL00009"/>von Ferdinand Hiller haben wir die dritte Aufführung<lb facs="P5_TL00010"/>des Werkes abgewartet, um mit demselben immer mehr<lb facs="P5_TL00011"/>vertraut zu werden und so den festen Boden für ein ein<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00012"/>gehendes Urtheil zu gewinnen. Wir haben die bisherigen<lb facs="P5_TL00013"/>Darstellungen mit Interesse verfolgt und den Clavier-Aus<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00014"/>zug der Oper durchgesehen. Allerdings gehören „Die Ka<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00015"/>takomben" zu denjenigen Tondichtungen, auf welche die<lb facs="P5_TL00016"/>vielfach missbrauchte Regel, dass man erst nach mehrma<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00017"/>ligem Hören urtheilen dürfe, im vollsten Maasse Anwen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00018"/>dung findet. Diese Forderung bietet sich ungemein bequem<lb facs="P5_TL00019"/>dar, um Mittelmässiges und Hohles, das sich die Miene<lb facs="P5_TL00020"/>gibt, gross zu sein, vor den scharfen Streiflichtern der Kri<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00021"/>tik zu bewahren. Die Erfahrung beweist, dass dieses Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00022"/>langen ganz besonders dringend von solchen Componisten<lb facs="P5_TL00023"/>gestellt wird, denen ihr eigenes Gewissen sagt, dass die<lb facs="P5_TL00024"/>Leute eigentlich mit dem besten Willen aus ihren Werken<lb facs="P5_TL00025"/>bei wiederholtem Hören nicht mehr heraushören können,<lb facs="P5_TL00026"/>als beim ersten: nämlich, weil überhaupt nichts darin ist.<lb facs="P5_TL00027"/>Da sieht es denn der Menge gegenüber immerhin nach<lb facs="P5_TL00028"/>etwas aus, wenn einer ungünstigen Kritik, welche sich<lb facs="P5_TL00029"/>ungenirt hervorwagt, erwidert wird, es sei ungerecht, so<lb facs="P5_TL00030"/>rasch abzuurtheilen.<lb facs="P5_TL00031"/>Bei der Oper Hiller's steht die Sache aber in Wahr<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00032"/>heit anders. Der Stoff sowohl als die Ausführung dessel<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00033"/>ben durch den Componisten geben so viel zu denken und<lb facs="P5_TL00034"/>haben so viel Eigenartiges, so manche Abweichung von<lb facs="P5_TL00035"/>den breitgetretenen Wegen, dass der erste Gesammt-Ein<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00036"/>druck bei näherer Bekanntschaft die vielfachste Berichti<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00037"/>gung erhält. Obwohl der Componist nicht nach blendender<lb facs="P5_TL00038"/>Originalität hascht und dadurch den Zuschauer so fremd<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00039"/>artig berührt, dass er sich nicht zurechtzufinden vermöchte,<lb facs="P5_TL00040"/>so hat er doch so viel interessante Selbstständigkeit, dass<lb facs="P5_TL00041"/>man sich von der Stimmung, mit welcher man im Uebri<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00042"/>gen heutzutage einer neuen Oper entgegen zu treten pflegt,<lb facs="P5_TL00043"/>losmachen muss. Wir wollen, um deutlicher zu sein, einen<lb facs="P5_TL00044"/>Vergleich aus der Gegenwart heranziehen. Der „Faust"<lb facs="P5_TL00045"/>von Gounod und „Die Katakomben" von Hiller sind Pro<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00046"/>ducte unserer Zeit, stehen insbesondere bei uns hart neben<lb facs="P5_TL00047"/>einander, sind auf demselben Boden der heutigen Opern<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00048"/>musik, welche alle Fortschritte und Consequenzen der</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00006">
+                                    <lb facs="P5_TL00049"/>Entwicklung der dramatischen Musik benutzt und gezo<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00050"/>gen hat, erwachsen, sind beide Werke, die als werthvoll<lb facs="P5_TL00051"/>und bedeutend anzusehen sind. Und wie unendlich ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00052"/>schieden sind diese Opern, wie charakteristisch hebt sich<lb facs="P5_TL00053"/>in ihnen der Gegensatz des französischen und des deutschen<lb facs="P5_TL00054"/>Stils ab! Oder richtiger, der Gegensatz des französischen<lb facs="P5_TL00055"/>und des deutschen Meisters, denn von einem einheitlichen<lb facs="P5_TL00056"/>und festen Stil kann bei Gounod nicht die Hede sein. L)er<lb facs="P5_TL00057"/>pariser Componist findet mit der Gewandtheit und Leicht<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00058"/>lebigkeit seines Stammes rasch die Stellen und Seiten her<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00059"/>aus, mit denen eine gute Wirkung, ein glücklicher Effect<lb facs="P5_TL00060"/>zu erreichen ist, und bringt denselben dann geschickt zum<lb facs="P5_TL00061"/>Ausdruck, so dass er sofort den 'Zuhörer gewinnt. Dieser<lb facs="P5_TL00062"/>findet sich angenehm angeregt, indem er einfach und naiv<lb facs="P5_TL00063"/>gemessen kann, ohne dass man ihm zumuthet, nachzuden<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00064"/>ken. Auch wo von Rechts wegen etwas Tiefe sein sollte,<lb facs="P5_TL00065"/>wird er glatt darüber hinweggehoben, indem Gounod ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00066"/>rade nicht zu denjenigen gehört, die „in der Wesen Tiefe<lb facs="P5_TL00067"/>trachten". Dabei ist er aber ein so guter Musiker, dass er<lb facs="P5_TL00068"/>alles vermeidet, was ihm den Vorwurf der Gewissenlosig<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00069"/>keit oder der affectirten Uebertreibung zuziehen könnte.<lb facs="P5_TL00070"/>Im Ganzen hat der Zuhörer das Gefühl, dass er sich in<lb facs="P5_TL00071"/>guter und anständiger Gesellschaft befindet, bei der er sich<lb facs="P5_TL00072"/>nicht compromittirt, der er sich vielmehr mit Behagen und<lb facs="P5_TL00073"/>ohne grosse Gewissensbisse hingeben kann.<lb facs="P5_TL00074"/>Wenn aber die Kritik, welche jede neue Erscheinung<lb facs="P5_TL00075"/>mit Ernst und unparteiischer Ruhe zu prüfen hat, dem<lb facs="P5_TL00076"/>französischen Componisten, so gern sie ihn mit seinem<lb facs="P5_TL00077"/>Werke willkommen heisst, die Schwächen und das Unzu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00078"/>längliche aufweisen und rügen muss, so hat sie dagegen<lb facs="P5_TL00079"/>den deutschen Meister freudig zu begrüssen wegen seiner<lb facs="P5_TL00080"/>ernsten und würdevollen Haltung, die man um so höher<lb facs="P5_TL00081"/>schätzt, je näher man seine Oper kennen lernt. Die Vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00082"/>züge und Schönheiten derselben liegen durchaus nicht auf<lb facs="P5_TL00083"/>der flachen Hand; ihre besten Eigenschaften sind nicht<lb facs="P5_TL00084"/>kokett herausgeputzt und so an die Oberfläche gebracht,<lb facs="P5_TL00085"/>dass man ihrer im ersten Augenblicke gleich habhaft würde<lb facs="P5_TL00086"/>und sie bequem mit sich nach Hause tragen könnte. Hiller<lb facs="P5_TL00087"/>will seine Zuhörer nicht bloss einige Stunden lang ange<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00088"/>nehm unterhalten; es ist nicht damit abgethan, dass die<lb facs="P5_TL00089"/>Leute sich behaglich im Sperrsitz ausstrecken, eine pikant<lb facs="P5_TL00090"/>zurecht gemachte Handlung mit ganzem Auge ansehen<lb facs="P5_TL00091"/>und mit halbem Ohr süsse Melodieen schlürfen. Es wird<lb facs="P5_TL00092"/>vielmehr von den Leuten verlangt, dass sie denken, vom<lb facs="P5_TL00093"/>landläufigen und hergebrachten Opernstil absehen und sich<lb facs="P5_TL00094"/>in die Sache vertiefen. Das Denken ist nun nicht Jeder<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00095"/>manns Sache, namentlich nicht eine Beschäftigung, welche<lb facs="P5_TL00096"/>mit besonderer Vorliebe von der grossen Mehrzahl der<lb facs="P5_TL00097"/>regelmässigen Theaterbesucher getrieben würde. Bei Gou<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00098"/>nod geniesst man den Teufelsspuk, die Chöre mit viel Blech,</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00002">
+                                    <lb facs="P6_TL00002"/>die lüsternen Tänze der Damen der Walpurgisnacht, die<lb facs="P6_TL00003"/>hübschen Gesichter in der Schluss-Apotheose ohne alle<lb facs="P6_TL00004"/>geistige Anstrengung. Bei Hiller sind die nach dieser Seite<lb facs="P6_TL00005"/>einschlagenden ftestandtheile der Oper rein nebensächlich,<lb facs="P6_TL00006"/>wie sie es im Kunstwerke sein sollen; er verschmäht sie<lb facs="P6_TL00007"/>nicht in puritanischem Hochmuthe, aber er lässt derglei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00008"/>chen nicht weiter zu, als der Stoff es verlangt, fordert da<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00009"/>gegen aber vom Zuhörer, dass er seine ganze Aufmerk<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00010"/>samkeit der Musik selbst zuwende. Das französische Werk<lb facs="P6_TL00011"/>wird man immer gern hören, das deutsche mit jedem Male<lb facs="P6_TL00012"/>höher schätzen.<lb facs="P6_TL00013"/>Auf die Parallele, welche wir so eben aufgestellt ha<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00014"/>ben, legen wir keinen grossen Werth, wissen vielmehr<lb facs="P6_TL00015"/>sehr gut, dass sie, wie alles dergleichen, ein wenig hinkt.<lb facs="P6_TL00016"/>Allein sie kann doch dazu dienen, unsere nächsten Leser<lb facs="P6_TL00017"/>in ihrem Urtheile, wenn es anders mit dem unserigen über<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00018"/>einstimmt, zu befestigen, die entfernteren aber, welche die<lb facs="P6_TL00019"/>Hiller'sche Oper nicht kennen, einiger Maassen zu orien<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00020"/>tiren. Es sollte uns freuen, wenn dadurch etwas zur Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00021"/>breitung dieses Werkes beigetragen würde. Allerdings sind<lb facs="P6_TL00022"/>bei dem Schicksal deutscher Opern die Bühnen-Leitungen<lb facs="P6_TL00023"/>in weit höherem Grade eine entscheidende Instanz, als man<lb facs="P6_TL00024"/>glaubt. Die mit aller» Mitteln reichlich ausgestatteten In<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00025"/>tendanzen der Hofbühnen nicht nur, sondern auch Direc<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00026"/>tionen städtischer Bühnen, wenn sie ernsten Kunstsinn und<lb facs="P6_TL00027"/>wahre Liebe zum Guten haben, können unendlich viel thun<lb facs="P6_TL00028"/>für Unterstützung und Beförderung der musicalischen Pro<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00029"/>duetion. Man sagt wohl, der Geschmack der Masse neige<lb facs="P6_TL00030"/>sich besonders dem Mittelmässigen und Schlechten zu, er<lb facs="P6_TL00031"/>zwinge die Vorsteher der deutschen Theater, denselben<lb facs="P6_TL00032"/>Weg zu gehen. Das ist aber nur halb wahr; es ist ganz<lb facs="P6_TL00033"/>wohl ausführbar, wie gerade in diesem Augenblicke die<lb facs="P6_TL00034"/>hiesige Bühne beweist, das Gute zu fördern und die Gu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00035"/>ten lür dasselbe zu gewinnen. Die Directoren und der Ca<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00036"/>pellmeister wissen recht wohl, dass der Faust ihnen weni<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00037"/>ger Mühe macht und mehr Geld einbringt, als die Kata<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00038"/>komben lliller's, aber sie haben doch nun die Genugthuung,<lb facs="P6_TL00039"/>dass die Oper des deutschen Meisters grosse, und zwar,<lb facs="P6_TL00040"/>was das Entscheidende ist, steigende Theilnahme gefunden<lb facs="P6_TL00041"/>hat. Selbst der Versuch, das Werk an einem Sonntage zu<lb facs="P6_TL00042"/>geben, dessen Publicum am allerwenigsten sich gern mit<lb facs="P6_TL00043"/>ernsten Dingen beschäftigt, ist gelungen.<lb facs="P6_TL00044"/>Denn ernst müssen allerdings Stimmung und Neigung<lb facs="P6_TL00045"/>derjenigen sein, welche diese Oper würdigen wollen. Der<lb facs="P6_TL00046"/>Componist hätte mit leichter Mühe den von Handlung und<lb facs="P6_TL00047"/>Musik leichtsinnig und frivol denkenden Leuten eine Reihe<lb facs="P6_TL00048"/>von Concessionen machen können. Er hat das verschmäht<lb facs="P6_TL00049"/>und auf die Aussicht, der Masse zu gefallen, verzichtet, um<lb facs="P6_TL00050"/>dagegen von dem besseren Theile der musicalischen Welt<lb facs="P6_TL00051"/>das Zeugniss zu erhalten, dass er ein werthvolles Werk</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00003">
+                                    <lb facs="P6_TL00052"/>geschaffen hat, dessen treffliche Eigenschaften sich immer<lb facs="P6_TL00053"/>klarer herausstellen werden, je mehr man sie betrachtet<lb facs="P6_TL00054"/>und geniesst, das dem Modegeschmack des Tages nichts<lb facs="P6_TL00055"/>von der Würde und der Gewissenhaftigkeit des Kunstwer<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00056"/>kes opfert.<lb facs="P6_TL00057"/>Von dem Texte Moriz Hartmann's war schon bei Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00058"/>legenheit der ersten Aufführung der „Katakomben" die<lb facs="P6_TL00059"/>Rede. Wir haben hier eine der besten Arbeiten vor uns,<lb facs="P6_TL00060"/>eine der wenigen wirklich guten, die deutschen Componi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00061"/>sten zu Gebote gestanden haben. Die heutige Musik ist ja,<lb facs="P6_TL00062"/>wie neulich näher ausgeführt wurde, zum Glück über den<lb facs="P6_TL00063"/>unsinnigen Satz hinaus, den die Romantiker aufstellten oder<lb facs="P6_TL00064"/>doch guthiessen, dass auf den Text gar nichts ankomme.<lb facs="P6_TL00065"/>Begabte Dichter halten es jetzt nicht mehr für eine unwür<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00066"/>dige Aufgabe, Opernbücher zu schreiben. Julius Rodenberg<lb facs="P6_TL00067"/>hat für Bott in Meiningen eine „Actäa" und für Anton<lb facs="P6_TL00068"/>Rubinstein eine „Lalla Rookh" verfasst, die poetischen,<lb facs="P6_TL00069"/>selbstständigen Werth haben. Freilich hat Bott aus jenem<lb facs="P6_TL00070"/>ersten Stoffe nichts weiter als eine ganz gewöhnliche Ca<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00071"/>pellmeister-Oper gemacht, die in Berlin trotz neuer Deco<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00072"/>rationen keinen Erfolg hatte, und Rubinstein's Dichtung<lb facs="P6_TL00073"/>scheint des dramatischen Nervs zu entbehren; indess das<lb facs="P6_TL00074"/>ist eine Sache für sich. Moriz Hartmann's Text-Dichtung<lb facs="P6_TL00075"/>„Die Katakomben" ist ein Buch, das in poetischer Stim<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00076"/>mung gemacht ist und gewisser Maassen schon „Musik hat<lb facs="P6_TL00077"/>in sich selbst". Wir haben dabei nur zwei Bedenken. Zu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00078"/>nächst sind der Stoff' und die ganze Behandlung so ernst<lb facs="P6_TL00079"/>und streng, dass vom Zuschauer eine von der gewöhnlichen<lb facs="P6_TL00080"/>und alltäglichen völlig abweichende Stimmung verlangt<lb facs="P6_TL00081"/>wird. Die Handlung hat etwas, von dem die Leute sagen<lb facs="P6_TL00082"/>werden, dass es derbe und spröde sei. Der Gegensatz des<lb facs="P6_TL00083"/>in Sinnenlust verkommenen Römerthums und des puritani<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00084"/>schen Wesens der ersten Christen eignet sich ganz vorzüg<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00085"/>lich zum Vorwurf für ein so genanntes weltliches Orato<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00086"/>rium, stösst aber auf der Bühne, die ein frisches, volles<lb facs="P6_TL00087"/>Leben verlangt, auf grosse Schwierigkeiten. Sodann ist<lb facs="P6_TL00088"/>doch Lavinia eine Figur, weicher die Sympathie der Zu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00089"/>schauer sich nicht leicht und voll zuwendet. Sie bewegt<lb facs="P6_TL00090"/>sich zu viel in Gefühls-Aeusserungen, für die man keine<lb facs="P6_TL00091"/>rechte Theilnahme hat; Weltschmerz und Lebensüberdruss<lb facs="P6_TL00092"/>sind Kategorieen, die unsere realistische Zeit nicht mehr<lb facs="P6_TL00093"/>gelten lässt, sie sind heutzutage nur noch der Vorwurf der<lb facs="P6_TL00094"/>Komödie, nicht mehr des ernsten Drama's. So wie sie kla<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00095"/>rer wird und sich entschliesst, nicht mehr in Gedanken zu<lb facs="P6_TL00096"/>wühlen, sondern das Glück des Lebens zu suchen, wird<lb facs="P6_TL00097"/>die Gestalt fasslicher und gewinnt, mag sie immerhin falsch<lb facs="P6_TL00098"/>handeln, doch die Zuschauer. Für den Erfolg der Oper<lb facs="P6_TL00099"/>hat diese Sachlage den Nachtheil, dass man Anfangs nicht<lb facs="P6_TL00100"/>recht warm werden kann, dagegen den Vortheil, dass<lb facs="P6_TL00101"/>Handlung und Theilnahme sich künstlerisch richtig stei<pc type="endhypen" pre="false">-</pc>
+                                 </ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00002">
+                                    <lb facs="P7_TL00002"/>gern, während gerade an dem Mangel dieser Notwendig<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00003"/>keit unzählige Werke scheitern.<lb facs="P7_TL00004"/>Der Componist hat den Ton, welchen er für Wesen<lb facs="P7_TL00005"/>und Haltung seiner Musik wählen musste, sehr glücklich<lb facs="P7_TL00006"/>getroffen. Es ist überall dem Werke die richtige Färbung<lb facs="P7_TL00007"/>verliehen und mit grosser Kunst, dabei ohne allen Zwang<lb facs="P7_TL00008"/>und Affectation, festgehalten. Hat man sich hineingefunden<lb facs="P7_TL00009"/>in die Handlung, so bewegt man sich durch die verschie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00010"/>denen Situationen mit grossem Interesse und hat durch<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00011"/>weg das Gelühl, dass die erste und höchste Forderung der<lb facs="P7_TL00012"/>dramatischen Musik, einheitlicher und wahrer Charakter,<lb facs="P7_TL00013"/>erfüllt und ohne die geringste Abweichung durchgeführt<lb facs="P7_TL00014"/>ist. Dichtung und Musik decken sich vollständig, der ent<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00015"/>sprechende Ausdruck fehlt nie, er wird weder unschön in<lb facs="P7_TL00016"/>der Leidenschaft, bei welcher die Verlockung zu grellen<lb facs="P7_TL00017"/>Farben so nahe liegt, noch frivol in den weichen Stellen,<lb facs="P7_TL00018"/>in denen eine üppige und triviale Melodik leichte und grosse<lb facs="P7_TL00019"/>Erfolge verheissen würde. Der Componist, der über einen<lb facs="P7_TL00020"/>reichlich iiiessenden Quell der Melodie zu verfügen hat,<lb facs="P7_TL00021"/>könnte hier wohlfeile Wirkungen ohne Mühe erreichen<lb facs="P7_TL00022"/>und wäre des Dankes Vieler gewiss. Die Contraste liessen<lb facs="P7_TL00023"/>sich gewinnender gestalten, aber das Gesetz künstlerischer<lb facs="P7_TL00024"/>Würde und angemessenen Ausdrucks steht ihm höher als<lb facs="P7_TL00025"/>der Beifall d er gedankenlosen Masse. Eine zweite vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00026"/>treffliche Eigenschaft seines Werkes ist die, dass es echt<lb facs="P7_TL00027"/>musicaliscb, natürlich und sangbar gedacht ist. Als guter<lb facs="P7_TL00028"/>Musiker im besten und strengsten Sinne des Wortes schreibt<lb facs="P7_TL00029"/>er nichts, das nicht zu rechtfertigen wäre; er vermeidet<lb facs="P7_TL00030"/>all es Grelle, Unschöne, Unnatürliche, das Richard Wagner's<lb facs="P7_TL00031"/>Verderben zu werden scheint. Schwer ist seine Musik sehr<lb facs="P7_TL00032"/>oft, aber nie unsangbar; er muthet den Sängern nichts zu,<lb facs="P7_TL00033"/>was allen Gesetzen der Entwicklung und Leistungsfähig<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00034"/>keit der Stimmen Hohn spräche und sie misshandelte, wie<lb facs="P7_TL00035"/>es die grosse französische Oper gelhan hat und der Com<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00036"/>ponist. der Zukunft zu thun im Begriffe steht. Die Haupt<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00037"/>rolle der Lavinia ist allerdings sehr weit davon entfernt,<lb facs="P7_TL00038"/>eine dankbare Opern-Partie im hergebrachten Sinne zu<lb facs="P7_TL00039"/>sein; die Sängerin hat eine Anzahl von hochdramatischen<lb facs="P7_TL00040"/>Stellen, welche eine bedeutende Künstlerin erfordern, mit<lb facs="P7_TL00041"/>der vollen Kraft eines Talentes, das sich auf Charakteristik<lb facs="P7_TL00042"/>versteht, vorgetragen sein wollen und nur dann den vom<lb facs="P7_TL00043"/>Componisten gedachten grossen Erfolg haben. Einen leich<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00044"/>teren Stand hat der eigentliche Träger der Handlung, Lu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00045"/>cius, indem seine Rolle nicht nur auf mehr Sympathie<lb facs="P7_TL00046"/>beim Zuhörer rechnen darf, sondern auch den Vorzug<lb facs="P7_TL00047"/>grösserer Concentration hat. In der glücklichsten Lage be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00048"/>findet sich die Sängerin Clythia, welche sich auf dem lyri<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00049"/>schen Gebiete bewegt und mit den ihr zugewiesenen Stel<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00050"/>len mühelos die Herzen gewinnt. Soll unter den Bestand<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00051"/>teilen, welche das vortrefflich gruppirte Ganze bilden, ein</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00003">
+                                    <lb facs="P7_TL00052"/>Unterschied gemacht werden, so scheint uns, dass dem<lb facs="P7_TL00053"/>Chor der Preis zu ertheilen sei. Die Aufgabe, dem Chor<lb facs="P7_TL00054"/>seine volle Bedeutung innerhalb des dramatischen Kunst<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00055"/>werkes zuzuweisen, hat Hiller glänzend gelöst. In der In<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00056"/>troduction gleich bildet er die feste Grundlage, auf welcher<lb facs="P7_TL00057"/>die Exposition sich aufbaut, und den kräftigen, scharf ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00058"/>, O ' P<lb facs="P7_TL00059"/>zeichneten Hintergrund, auf dem sich die Gestalten des<lb facs="P7_TL00060"/>Drama's abheben. In vielleicht noch höherem Grade und<lb facs="P7_TL00061"/>im allerbesten Sinne ist dies der Fall in allen drei Fi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00062"/>nalsätzen, welche meisterhaft gearbeitet sind und als Kunst<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00063"/>werke an sich gelten können; die eindrucksvollste unter<lb facs="P7_TL00064"/>diesen Nummern ist wohl das zweite, Musiker möchten<lb facs="P7_TL00065"/>vielleicht das erste Finale für das vollendetste erklären.<lb facs="P7_TL00066"/>Unter den kürzeren Scenen vermag das Duett des ersten<lb facs="P7_TL00067"/>Actes zwischen Lavinia und Claudius weniger zu erwär<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00068"/>men, als die Auftritte zwischen Clythia und Lucius im zwei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00069"/>sen Aufzuge und die Scenen des dritten. Wir heben be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00070"/>sonders den Anfang der zweiten Abtheilung, Clythia's Lied<lb facs="P7_TL00071"/>an die Laute, in der dritten das Duett der Lavinia und des<lb facs="P7_TL00072"/>Lucius wegen des vortrefflich geschilderten Gefühlswech<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00073"/>sels, dann das Duett zwischen Clythia und Lucius hervor.<lb facs="P7_TL00074"/>Was die Instrumentation betrifft, so ist es überflüssig, zu<lb facs="P7_TL00075"/>sagen, dass sie vorzüglich sei, da sich das bei Hiller von<lb facs="P7_TL00076"/>selbst versteht. Das schöne Maass, welches er beobachtet,<lb facs="P7_TL00077"/>muss indess der Verwilderung gegenüber, in welcher die<lb facs="P7_TL00078"/>neuromantische Schule ihre Genialität sucht und das wahre<lb facs="P7_TL00079"/>Heil findet, noch besonders rühmend hervorgehoben wer<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00080"/>den. Ginge es nach den Grundsätzen dieser Schule, so wä<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00081"/>ren wir gerade so weit, das Natürliche und Gesunde für<lb facs="P7_TL00082"/>langweilig und krankhaft zu erklären.<lb facs="P7_TL00083"/>In den „Katakomben" hat die musicalische Welt nach<lb facs="P7_TL00084"/>unserer Meinung ein sehr werthvolles und bedeutendes<lb facs="P7_TL00085"/>Werk zu begrüssen, das mit dem ganzen Ernste und der<lb facs="P7_TL00086"/>würdevollen Haltung eines ausgezeichneten Musikers, dem<lb facs="P7_TL00087"/>die Gesetze der künstlerischen Schönheit die höchste Richt<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00088"/>schnur sind, componirt ist. Es steht mitten in der jetzigen<lb facs="P7_TL00089"/>Phase der dramatischen Musik, bewegt sich in den geläu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00090"/>terten und geklärten Formen, welche die Oper sich allmäh<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00091"/>lich geschaffen hat, überschreitet aber nie zu Gunsten fri<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00092"/>voler Zwecke die Gränzen und Linien des Erlaubten. Der<lb facs="P7_TL00093"/>musicalisch fühlende Theil des Publicums wird ihren Werth<lb facs="P7_TL00094"/>überall nach Gebühr zu schätzen wissen und ihr eine der<lb facs="P7_TL00095"/>ehrenvollsten Stellen unter den Erzeugnissen der heutigen<lb facs="P7_TL00096"/>O P<lb facs="P7_TL00097"/>dramatischen Musik anweisen. Alle Bühnen, die sich um<lb facs="P7_TL00098"/>die Förderung der Kunst bemühen, mögen es sich angele<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00099"/>gen sein lassen, die Oper Hiller's mit der Sorgfalt, welche<lb facs="P7_TL00100"/>sie verlangt, einzustudiren, und es wird keine es zu bereuen<lb facs="P7_TL00101"/>haben, dass sie um die Verbreitung des Werkes eines<lb facs="P7_TL00102"/>deutschen Componisten sich bemühte.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c004">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P8_TB00002">
+                           <lb facs="P8_TL00002"/>Tages- und Unterhaltungs-Blatt.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00003">
+                                    <lb facs="P8_TL00003"/>Kolli« Die Proben für die Aufführung der Matthäus-Pas<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00004"/>sion von J. S. Bach am Palmsonntag im Gürzenich haben be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00005"/>reits begonnen; die Soli sind den Damen Büchner (Sopran) von<lb facs="P8_TL00006"/>hier, Weiss (Alt) von Hannover, den Herren Gunz (Tenor) von<lb facs="P8_TL00007"/>Hannover und Hill (Bass) von Frankfurt a. M. übertragen worden.<lb facs="P8_TL00008"/>In der letzten Sitzung der musicalischen Gesellschaft bewährte<lb facs="P8_TL00009"/>sich Herr Dr. Oscar Paul aus Leipzig, ein junger Componist und<lb facs="P8_TL00010"/>musicalischer Schriftsteller, dessen gründliche Studien in theoreti<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00011"/>schen und historischen Kenntnissen bereits sehr achtungswerthe<lb facs="P8_TL00012"/>Früchte tragen, auch als ausübender Künstler auf dem Pianoforte<lb facs="P8_TL00013"/>durch den technisch fertigen und geschmackvollen Vortrag des schö<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00014"/>nen Fis-moll-Concertes von F. Hiller, für welchen er den lebhaften<lb facs="P8_TL00015"/>Beifall des Componisten und der Versammlung ärntete.<lb facs="P8_TL00016"/>Am 17. März wurde im Stadttheater eine glänzende Vorstellung<lb facs="P8_TL00017"/>veranstaltet zur Erinnerungsfeier des Aufrufs Friedrich Wilhelm's 111.<lb facs="P8_TL00018"/>im Jahre 1813. Zu dem Gedichte „ Germania's Erwachen" von L.<lb facs="P8_TL00019"/>Bischoff, das durch prächtige lebende Bilder illustrirt wurde, kam<lb facs="P8_TL00020"/>Beethoven's Ouvertüre und Musik zu Göthe's Egmont und Beet<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00021"/>hoven's „Schlacht bei Vittoria" zur Aufführung.<lb facs="P8_TL00022"/>März. Es ist jetzt entschieden, dass das<lb facs="P8_TL00023"/>niederrheinische Musikfest in diesem Jahre hier an den<lb facs="P8_TL00024"/>Pfingsttagen gefeiert wird. Frau Jenny Lind-Goldschmidt hat<lb facs="P8_TL00025"/>ihre Mitwirkung durch den Vortrag der Sopran-Partie in Mendels<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00026"/>sohn's „Elias", Händel's „Ode am Cäcilienfeste" und Haydn's<lb facs="P8_TL00027"/>„Schöpfung" (111. Theil) bestimmt zugesagt.<lb facs="P8_TL00028"/>Barmen. Am '2B. Februar brachte das vierte Abonnements-<lb facs="P8_TL00029"/>Concert die Suite für Orchester von F. Lachner, F. Schu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00030"/>bert's Ouvertüre zu Rosamunde, Molique's Violin-Concert in A<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00031"/>moll, gespielt von Herrn Franz Seiss, und J. S. Bach's Cantate<lb facs="P8_TL00032"/>„Bleib' bei uns1' u. s. w. Im letzten Concerte, den 11. April,<lb facs="P8_TL00033"/>kommt Händel's „Samson" zur Aufführung.<lb facs="P8_TL00034"/>Ueber das Gastspiel Wachtel' s in Mainz seit dem 4. d. Mts.<lb facs="P8_TL00035"/>sagt die Süddeutsche Musik-Zeitung unter Anderem: „Wachtel's<lb facs="P8_TL00036"/>Stimme ist in ihrer unvergleichlichen Frische und bei der fabelhaf<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00037"/>ten Sicherheit, mit welcher der Sänger sich in den höchsten Lagen<lb facs="P8_TL00038"/>bewegt, wohl geeignet, nicht nur zu überraschen, sondern auch zu<lb facs="P8_TL00039"/>fesseln. Dass Wachtel, der seit Jahren sich in Gastrollen auf fast<lb facs="P8_TL00040"/>allen bedeutenderen Bühnen Deutschlands bewegt hat, sich auf eine<lb facs="P8_TL00041"/>gewisse Effecthascherei, auf ein virtuosenmässiges Hervorheben ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00042"/>wisser Stellen vorzugsweise verlegt hat, ist, wenn auch nicht zu<lb facs="P8_TL00043"/>billigen, doch leicht zu begreifen, und die ausserordentliche Vollen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00044"/>dung, mit der er bie ausführt, entwaffnet die strengere Kritik. Sein<lb facs="P8_TL00045"/>Raoul war in gesanglicher Beziehung jedenfalls die grösste Lei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00046"/>stung. Bei allem Vergnügen, das seine herrliche Stimme uns bereitet<lb facs="P8_TL00047"/>hat, können wir doch seine Erfolge nur eben dieser unvergleichli<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00048"/>chen Naturgabe und einem glücklichen Naturalismus zuschreiben,<lb facs="P8_TL00049"/>der bei ihm in Verbindung mit einer grossen Routine den Mangel<lb facs="P8_TL00050"/>an eigentlicher Schule, so weit dies überhaupt möglich ist, verdeckt.<lb facs="P8_TL00051"/>Dass es diesem begabten Künstler nicht an Streben nach dem Bes<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00052"/>seren fehlt, dafür spricht das Urtheil Sachverständiger, die ihn früher<lb facs="P8_TL00053"/>und jetzt wieder gehört haben und eine auffallende Besserung in<lb facs="P8_TL00054"/>der Tonbildung, so wie auch in seiner Vortragsweise in Folge zu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00055"/>nehmender Gesangs-Routine zugestehen. Allein trotz alledem wie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00056"/>derholen wTir, dass Wachtel's Leistungen in hohem Grade anziehen<lb facs="P8_TL00057"/>und durch die wunderbar schönen Stimmmittel, die diesem Sänger<lb facs="P8_TL00058"/>zu Gebote stehen, einen Genuss gewähren, der jedem; dem derselbe<lb facs="P8_TL00059"/>zu Theil geworden, unvergesslicli bleiben wird."<lb facs="P8_TL00060"/>Parin, Frau Clara Schumann und Frau Wilhelmine<lb facs="P8_TL00061"/>Szarvady-Clauss geben in Erard's und in Pleyel's Salons Con<pc type="endhypen" pre="false">-</pc>
+                                 </ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00004">
+                                    <lb facs="P8_TL00062"/>certe, bei welchen sich die beiden grossen deutschen Künstlerinnen<lb facs="P8_TL00063"/>wechselseitig unterstützen und die gebildete Musikwelt durch ihre<lb facs="P8_TL00064"/>wundervollen Leistungen entzücken.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div type="SponsoredAdvertisement">
+                  <div type="SponsoredAd" corresp="c005">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00006">
+                        <lb facs="P8_TL00075"/>Bei dem Unterzeichneten erscheinen demnächst:<lb facs="P8_TL00076"/>Sech# GedlichMe<lb facs="P8_TL00077"/>von<lb facs="P8_TL00078"/>Adolph Boettger,<lb facs="P8_TL00079"/>für<lb facs="P8_TL00080"/>eine Singstimme mit Pianoforte-Begleitung componirt<lb facs="P8_TL00081"/>von<lb facs="P8_TL00082"/>Oscar Paul*<lb facs="P8_TL00083"/>Op. 3. Preis 17x/2 &amp;gr.<lb facs="P8_TL00084"/>Köln, den 20. März 1863.<lb facs="P8_TL00085"/>Gottfried Eiipper,</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c006">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00007">
+                        <lb facs="P8_TL00086"/>Im Verlage von L. Holle in Wolf enbüttel erscheinen:<lb facs="P8_TL00087"/>Subscriptions-Preis a Bogen 1—1!/4 Sgr.<lb facs="P8_TL00088"/>L. van Beethoven's Tricks für Streich- und Blas-Instrumente.<lb facs="P8_TL00089"/>7 Hefte. Partitur 1 ThlrStimmen 1 Thlr. 12l/n Sgr.<lb facs="P8_TL00090"/>Franz Schuberfs sämmtliche Ciavier-Compositionen 2 Bände h<lb facs="P8_TL00091"/>2 mains, 2 Bände ä 4 mains. h Band 2X/3 Thlr.<lb facs="P8_TL00092"/>Classische Opern in Ciavier-Auszügen mit Text. Nr. 1. Mozarts<lb facs="P8_TL00093"/>Don Juan. 25 Sgr. (Wird fortgesetzt.)<lb facs="P8_TL00094"/>Kirchenmusik (Oratorien, Messen, Cantaten) im Ciavier-Auszuge.<lb facs="P8_TL00095"/>Nr. 1. HändeVs Messias, 22*/2 Sgr. Nr. 2. HändeVs<lb facs="P8_TL00096"/>Judas Maccabäus, 22l/z Sgr. Nr. 3. HändeVs Samson,<lb facs="P8_TL00097"/>15 Sgr. (Wird fortgesetzt.)<lb facs="P8_TL00098"/>Ilugot &amp; Wunder lieh's Flotenschule. 15 Sgr.<lb facs="P8_TL00099"/>H ugotfs 25 grosse Uebungsstücke für Flöte. 10 Sgr.<lb facs="P8_TL00100"/>Ilaydn's 8 Duos für Pianoforte und Violine. 28 Sgr.<lb facs="P8_TL00101"/>Ausführliche Prospecte über Obiges, so zoie über den sämmt-<lb facs="P8_TL00102"/>liehen Höllischen classischen Musilc- Verlag gratis. Das erste Heft<lb facs="P8_TL00103"/>ist zur Ansicht, die Fortsetzung nur auf feste Bestellung durch jede<lb facs="P8_TL00104"/>Buch- und Musicalienhandlung zu beziehen.</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c007">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00008">
+                        <lb facs="P8_TL00105"/>Musikschule zu Frankfurt am Main.<lb facs="P8_TL00106"/>Mit dem 20, April beginnt der neue Unterrichts- Cursus. Un-<lb facs="P8_TL00107"/>terrichts-Gegenstände sind: Theorie in ihren verschiedenen Theilen<lb facs="P8_TL00108"/>(durch die Herren J. C. Hauff, Oppel und Buchner), Geschichte<lb facs="P8_TL00109"/>der Musik (Oppel), Gesang (Ferd. Schmidt), Clavierspiel (Heinr.<lb facs="P8_TL00110"/>Henkel, Herrn. Hilliger), Violine (Concertmeister Heinrich Wolff,<lb facs="P8_TL00111"/>Bup. Becker), Violoncello (Siedentopf), Orgel (Oppel), Ensemble-<lb facs="P8_TL00112"/>Partitur spiel (Heinr, Henkel).<lb facs="P8_TL00113"/>Das Honorar beträgt jährlich 154 Fl. (88 Thlr, Cour.) An<lb facs="P8_TL00114"/>einem einzelnen Fache können sich Schüler gegen ein jährliches<lb facs="P8_TL00115"/>Honorar von 42 Fl. (24 Thlr.) betheiligen.<lb facs="P8_TL00116"/>Anmeldungen sind spätestens bis zu obigem Tage an den unter-<lb facs="P8_TL00117"/>zeichneten Mitvorsteher zu richten, welcher auch zur Mittheilung des<lb facs="P8_TL00118"/>gedruckten Planes, so wie zu jeder weiteren Auskunft bereit ist.<lb facs="P8_TL00119"/>Frankfurt am Main, den 9. März 1863,<lb facs="P8_TL00120"/>Herrn, lEilliger,<lb facs="P8_TL00121"/>Ulmenstrasse JSfr. 9,</ab>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

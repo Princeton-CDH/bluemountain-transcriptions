@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+        Transcription of
+        <biblStruct>
+                  <monogr>
+                     <title level="j">
+                        <seg type="main">Niederrheinische Musik</seg>
+                     </title>
+                     <imprint>
+                        <biblScope unit="vol"/>
+                        <biblScope unit="issue"/>
+                        <date when="1862-06-07">7. Juni 1862</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Princeton University</publisher>
+            <idno type="bmtnid">urn:PUL:bluemountain:bmtnabi_1862-06-07_01</idno>
+         </publicationStmt>
+         <seriesStmt>
+            <title level="s">The Blue Mountain Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title level="j">
+                     <seg type="main">Niederrheinische Musik</seg>
+                     <seg type="sub">Zeitung für Kunstfreunde und Künstler</seg>
+                  </title>
+                  <imprint>
+                     <biblScope unit="vol"/>
+                     <biblScope unit="issue"/>
+                     <date when="1862-06-07"/>
+                  </imprint>
+               </monogr>
+               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnabi"/>
+               <relatedItem type="constituent" xml:id="c001">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Inhalt.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page">1</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c002">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Pariser Briefe.</seg>
+                        </title>
+                        <respStmt>
+                           <persName>B. P</persName>
+                           <resp>cre</resp>
+                        </respStmt>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="1" to="4">1-4</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c003">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Gluck und die Oper.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="4" to="7">4-7</biblScope>
+                        </imprint>
+                     </monogr>
+                     <relatedItem type="constituent" xml:id="c004">
+                        <biblStruct>
+                           <analytic>
+                              <title level="a">
+                                 <seg type="main">Untitled</seg>
+                              </title>
+                           </analytic>
+                           <monogr>
+                              <imprint>
+                                 <classCode scheme="CCS">Music</classCode>
+                                 <biblScope unit="page">5</biblScope>
+                              </imprint>
+                           </monogr>
+                        </biblStruct>
+                     </relatedItem>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c005">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Ueber Wagner’s „Lohengrin“ in Wien</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="7" to="8">7-8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c006">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Tages- und Unterhaltungs-Blatt.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c007">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="Magazine">
+            <div type="Issue">
+               <div type="PublicationInfo">
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00001">
+                        <lb facs="P1_TL00001"/>\ittlerrkeinisclie Musik-Zeitung<lb facs="P1_TL00002"/>für fviiEsttaruie imö limstlcr.<lb facs="P1_TL00003"/>Herausgegeben von Professor L. Bischoff. Verlag der M. DuMont-Schauberg'schen Buchhandlung.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00004">
+                        <lb facs="P1_TL00006"/>Nr. 23.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00002">
+                        <lb facs="P1_TL00004"/>KÖLN, 7. Juni 1862.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00003">
+                        <lb facs="P1_TL00005"/>X. Jahrgang.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00011">
+                        <lb facs="P1_TL00082"/>23</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00006">
+                        <lb facs="P8_TL00084"/>pte <lb facs="P8_TL00085"/>erscheint jeden Samstag in einem ganzen Bogen mit zwanglosen<lb facs="P8_TL00086"/>Beilagen. Der Abonnementspreis beträgt für das Halbjahr 2 Thlr.,<lb facs="P8_TL00087"/>bei den K. preuss. Post-Anstalten 2 Thlr. 5 Sgr. Eine einzelne Num<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P8_TL00088"/>mer 4 Sgr.<lb facs="P8_TL00089"/>Briefe und Zusendungen aller Art werden unter der Adresse der<lb facs="P8_TL00090"/>M. DuMont-Schauberg'schen Buchhandlung in Köln erbeten.<lb facs="P8_TL00091"/>Verantwortlicher Herausgeber: Prof. L♦ Bischoff in Köln.<lb facs="P8_TL00092"/>Verleger: M. DuMont-Schauberfsehe Buchhandlung in Köln.<lb facs="P8_TL00093"/>Drucker: M. DuMont-Schernberg in Köln, Breitstrasse 76 u. 78.</ab>
+                  </div>
+               </div>
+               <div type="EditorialContent">
+                  <div type="TextContent" corresp="c001">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00005">
+                           <lb facs="P1_TL00007"/>Inhalt. </ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00006">
+                                    <lb facs="P1_TL00008"/>Pariser Briefe. Schluss. (Concerte Clara Schumann Thalberg Mendelssohn's „Elias" u. s. w.) Von B. P. </ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00007">
+                                    <lb facs="P1_TL00009"/>Gluck und die Oper. 11. Ueber Wagner's „Lohengrin" in Wien. Tages- und Unterhaltungsblatt (Wien, Errichtung einer<lb facs="P1_TL00010"/>italiänischen Oper aus Privatmitteln).</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c002">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00008">
+                           <lb facs="P1_TL00011"/>Pariser Briefe.</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P4_TB00005">
+                           <lb facs="P4_TL00082"/>B. P.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00009">
+                                    <lb facs="P1_TL00012"/>(Schluss. S. Nr. 21.)<lb facs="P1_TL00013"/>[Concerte Clara Schumann Thalberg Mendels<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00014"/>sohn's „Elias" u. s. w.]<lb facs="P1_TL00015"/>Auf dem Gebiete der Concertmusik haben Clara<lb facs="P1_TL00016"/>Schumann und nach ihr Sigismund Thalberg allein<lb facs="P1_TL00017"/>Eroberungen gemacht; von dem Letzteren kann man das<lb facs="P1_TL00018"/>nämlich in so fern sagen, als er seit einer Reihe von Jah<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00019"/>ren nicht hier gewesen war ich glaube, seit der Zeit,<lb facs="P1_TL00020"/>dass seine Oper kein Glück gemacht hatte—, und weil man<lb facs="P1_TL00021"/>glaubte, er würde nie wiederkommen. Sivori hat sein<lb facs="P1_TL00022"/>altes Terrain, auf welchem er fast jährlich einmal Rund<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00023"/>schau hielt, auch jetzt wieder mit Ruhm behauptet. Ueber<lb facs="P1_TL00024"/>August Dupont habe ich schon berichtet. Die unend<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00025"/>liche Reihe der übrigen, obwohl zum Theil recht tüchti<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00026"/>gen Renner in der Laufbahn des Künstlerruhms zu mu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00027"/>stern, wirst Du mir erlassen.<lb facs="P1_TL00028"/>Sonderbar bleibt es freilich, dass noch immer eine so<lb facs="P1_TL00029"/>grosse Menge von grünen Künstlern nach Paris strömt und<lb facs="P1_TL00030"/>an den Nimbus glaubt, der sich von hier aus durch ein<lb facs="P1_TL00031"/>paar Zeilen Reclame über die ganze Welt verbreite! Das<lb facs="P1_TL00032"/>berechtigt dann gewisser Maassen die Franzosen, Europa<lb facs="P1_TL00033"/>ein grosses Conservatorium der Musik zu nennen, dessen<lb facs="P1_TL00034"/>Zöglinge zur Preisbewerbung oder auch nur zum Examen<lb facs="P1_TL00035"/>nach Paris kamen. Leider muss ich auch viele Deutsche<lb facs="P1_TL00036"/>unter diesen Leichtgläubigen Jahr aus, Jahr ein erblicken,<lb facs="P1_TL00037"/>und doch sollten diese zu stolz sein, um pariser Reclame<lb facs="P1_TL00038"/>zu betteln, da in unserer Zeit ein in Deutschland be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00039"/>gründeter Ruhm dem Tonkünstler hier in Paris die Thore<lb facs="P1_TL00040"/>der Concertsäle öffnet und ihm einen ganz anderen Em<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00041"/>pfang bereitet, als umgekert ein in Paris gemachter Ruf<lb facs="P1_TL00042"/>ihm in seinem Vaterlande Triumphe bereitet, er müsste<lb facs="P1_TL00043"/>denn Baden-Baden und Homburg für Deutschland halten<lb facs="P1_TL00044"/>und die Allerwelts-Bevölkerung in den rheinischen Bädern<lb facs="P1_TL00045"/>für die deutsche Nation.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00010">
+                                    <lb facs="P1_TL00046"/>Paris hat in musicalischer Hinsicht das blasirteste Pu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00047"/>blicum von der Welt, und es verstimmt mich nichts auf<lb facs="P1_TL00048"/>Erden mehr, als wenn mich Einer mit den Worten be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00049"/>grüsst: „Ich komme nach Paris, um bekannt zu werden."<lb facs="P1_TL00050"/>Du lieber Himmel! „bekannt werden"! Was gehört er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00051"/>stens dazu für Verschwendung an Zeit, an Geld, was für<lb facs="P1_TL00052"/>Bemühungen, Plackereien, ja, Demüthigungen, um die<lb facs="P1_TL00053"/>Aufmerksamkeit eines mit Mühe zusammengebrachten Pu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00054"/>blicums von einer geringen Anzahl von wirklich gebildeten<lb facs="P1_TL00055"/>und es ehrlich meinenden Leuten auf ein paar Stunden zu<lb facs="P1_TL00056"/>erregen! Und auch dazu muss Einer noch Glück haben<lb facs="P1_TL00057"/>und Geld, denn beide vermögen mehr als Talent.<lb facs="P1_TL00058"/>Hat er dann das ersehnte Ziel erreicht, eine Matinee<lb facs="P1_TL00059"/>oder Soiree in Erard's oder Pleyel's Salon, verschallt er<lb facs="P1_TL00060"/>sich nicht bloss Gehör, sondern fesselt, reisst hin, entzückt,<lb facs="P1_TL00061"/>so wird er das Gespräch in der musicalischen Salonwelt,<lb facs="P1_TL00062"/>man streitet für und wider ihn, man bewundert, man<lb facs="P1_TL00063"/>rühmt, man schüttet ein Füllhorn von Reclamen, und nicht<lb facs="P1_TL00064"/>nur in kleinen Blättern, über ihn aus und nach vierzehn<lb facs="P1_TL00065"/>Tagen ist er vergessen. Was ist zu thun? Er muss wieder<lb facs="P1_TL00066"/>von vorn anfangen. Er kommt richtig nach einem oder<lb facs="P1_TL00067"/>zwei Jahren wieder. Glücklicher Weise stösst er gleich bei<lb facs="P1_TL00068"/>seinem ersten Ausgange auf einen der einflussreichsten<lb facs="P1_TL00069"/>Kunstrichter, eilt entzückt auf ihn zu und strömt über von<lb facs="P1_TL00070"/>glühendem Danke für die ehrenvolle Aufmunterung seines<lb facs="P1_TL00071"/>Strebens durch die so wohlwollende Kritik seiner Leistun<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00072"/>gen im vorigen Jahre. Der Andere ist etwas verlegen: „Ich<lb facs="P1_TL00073"/>weiss —in der That ich erinnere mich nicht." —„0, ich<lb facs="P1_TL00074"/>werde Ihre Güte nie vergessen. Ich bin Terpander; im<lb facs="P1_TL00075"/>Februar vor anderthalb Jahr gab ich ein Concerl; Sie<lb facs="P1_TL00076"/>haben meine Ouvertüre und mein Clavier-Concert so ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00077"/>lobt, dass es mich unendlich glücklich gemacht hat!" <lb facs="P1_TL00078"/>„So? ich kann wirklich nicht recht daraufkommen; Sie<lb facs="P1_TL00079"/>verzeihen, man hört so eine Menge Concerte " —und<lb facs="P1_TL00080"/>der arme Componist und Virtuose wird blass und roth<lb facs="P1_TL00081"/>und fühlt sich wie mit kaltem Wasser überschüttet. Doch</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00002">
+                                    <lb facs="P2_TL00002"/>er verliert den Muth nicht; der Gedanke, dass sein gan<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00003"/>zer pariser Ruhm wie Rauch verflogen sei, ist ihm uner<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00004"/>träglich, unmöglich. Er kündigt sein Concert an und schickt<lb facs="P2_TL00005"/>Billets an seine alten Gönner und die hervorragenden Per<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00006"/>sonen der Musikwelt und der Ruhm-Assecuranzen. Zwei<lb facs="P2_TL00007"/>von den. tonangebenden Dilettanten begegnen einander am<lb facs="P2_TL00008"/>Concerttage. „Kommen Sie diesen Abend in Terpander's<lb facs="P2_TL00009"/>Concert?" —Terpander?— „Ja freilich! derselbe, über den<lb facs="P2_TL00010"/>Sie vor anderthalb Jahr so entzückt waren, erinnern Sie<lb facs="P2_TL00011"/>Sich nicht?" Ach ja, er bläst Flöte. „Nein doch, er<lb facs="P2_TL00012"/>ist Pianist, ein bedeutender Pianist." Nein, den kenne<lb facs="P2_TL00013"/>ich nicht. Ich verwechselte ihn mit einem gewissen, ich<lb facs="P2_TL00014"/>glaube, Klingemann hiess er. Wer kann auch behalten,<lb facs="P2_TL00015"/>was voriges Jahr da gewesen ist! <lb facs="P2_TL00016"/>Bei solchen Zuständen ist es einem Wunder gleich zu<lb facs="P2_TL00017"/>achten, wenn ein Künstler hier einen grossen und dauern<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00018"/>den Eindruck macht. Ich brauche über das geniale Spiel<lb facs="P2_TL00019"/>der Frau Schumann in einem Berichte, der für Deutsch<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00020"/>land bestimmt ist, kein Wort zu sagen; abjjr Urlheile der<lb facs="P2_TL00021"/>Franzosen über die grosse deutsche Künstlerin dürften<lb facs="P2_TL00022"/>nicht ohne Interesse sein. So sagt z. B. die<lb facs="P2_TL00023"/>cale unter Anderem:<lb facs="P2_TL00024"/>„In dem schönen und gediegenen Talente der Frau<lb facs="P2_TL00025"/>Schumann liegt eine Art von Männlichkeit, die den gros<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00026"/>sen, ernsten Compositionen der deutschen Schule gar wohl<lb facs="P2_TL00027"/>ansteht, ihrem Spiel Kraft und Adel gibt, es über das Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00028"/>wöhnliche erhebt und sich auch auf den feineren Vortrag<lb facs="P2_TL00029"/>anmuthiger Stellen erstreckt im Gegensatz zu der ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00030"/>schminkten Grazie, dem gehackten und gestossenen Rhyth<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00031"/>mus, dem gezierten Tone, den plötzlichen Contrasten und<lb facs="P2_TL00032"/>allem Aehnlichen, wozu man sich so oft heutzutage er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00033"/>niedrigt, um hartnäckig dem so genannten Effect nachzu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00034"/>jagen."<lb facs="P2_TL00035"/>„Neulich Abends hat die Künstlerin einige Stücke von<lb facs="P2_TL00036"/>Scarlatti und J. S. Bach mit einer Vollendung, Feinheit,<lb facs="P2_TL00037"/>verständigen Einfachheit und Hoheit des Stils vorgetragen,<lb facs="P2_TL00038"/>die ihr die Stimmen der schärfsten Kunstrichter gewonnen<lb facs="P2_TL00039"/>haben. Sie gab diesen Stücken ihre ursprüngliche Frische,<lb facs="P2_TL00040"/>ihre bezaubernde Einfachheit besonders auch dadurch wie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00041"/>der, dass sie durch einen ganz eigentümlichen Anschlag<lb facs="P2_TL00042"/>den allzu vollen Klang unserer jetzigen Flügel mässigte<lb facs="P2_TL00043"/>und sie ohne alle Kraltanstrengung, aber auch ohne die<lb facs="P2_TL00044"/>geringste Trockenheit der Accentuation vortrug."<lb facs="P2_TL00045"/>Dann verbreitet sich die in jeder Hinsicht, auch in Be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00046"/>zug auf die Compositionen recht gesunde Kritik über den<lb facs="P2_TL00047"/>Vortrag der grossen Sonate in von Beethoven, der<lb facs="P2_TL00048"/>Sonate von Rob. Schumann für Pianoforte und Violine,<lb facs="P2_TL00049"/>welche trotz der trefflichen Ausführung (mit Herrn Armin<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00050"/>gaud) nicht so allgemein ansprach, als die übrigen Sachen,<lb facs="P2_TL00051"/>und den Vortrag seiner Carnevalsstücke (hier Masques beti<pc type="endhypen" pre="false">-</pc>
+                                 </ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00003">
+                                    <lb facs="P2_TL00052"/>teil), dieser „reizenden Musik, welche alles, was die Phan<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00053"/>tasie an Glanz, Humor, Feinheit und Originalität hat, in<lb facs="P2_TL00054"/>Fülle darbietet".<lb facs="P2_TL00055"/>In dem siebenten Conservatoire-Concerte hat Frau<lb facs="P2_TL00056"/>Schumann das Us-dur-Concerivon Beethoven gespielt,<lb facs="P2_TL00057"/>edel und vortrefflich, wie immer, obwohl der letzte Satz<lb facs="P2_TL00058"/>durch ein zu schnelles Tempo verlor; den Franzosen war<lb facs="P2_TL00059"/>aber diese Composition für ein Clavier-Concert zu gross<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00060"/>artig, sie wussten die eminenten Vorzüge des Vortrags<lb facs="P2_TL00061"/>weniger zu schätzen, sie meinten zum grossen Theil: »die<lb facs="P2_TL00062"/>Sinfonie erdrücke überall den Solospieler, das Ganze sei<lb facs="P2_TL00063"/>zu lang—• man könne die Wahl eben nicht ganz billigen,<lb facs="P2_TL00064"/>desshalb wäre auch die Künstlerin nicht gerufen worden<lb facs="P2_TL00065"/>Frau Schumann sei ein immenses Talent, aber ihr Spiel<lb facs="P2_TL00066"/>habe keine sympathischen Eigenschaften." —Andere spra<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00067"/>chen indess eben so laut dagegen, nannten die Ausfüh<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00068"/>rung „une executionincomparable", „es sei unmöglich,<lb facs="P2_TL00069"/>die grosse classische Musik mit tieferem Verständniss und<lb facs="P2_TL00070"/>Gefühl und mit mehr Verschmähung aller Prahlerei zu<lb facs="P2_TL00071"/>spielen". Noch Andere meinten, diesem Lobe hinzufügen<lb facs="P2_TL00072"/>zu müssen, „es sei kein geringes Verdienst der Künstlerin,<lb facs="P2_TL00073"/>sich diese classische Reinheit unter den tumultuarischen<lb facs="P2_TL00074"/>und exccntrischen Einflüssen der Schumann'schen Schule<lb facs="P2_TL00075"/>bewahrt zu haben". (!)<lb facs="P2_TL00076"/>Weil ich einmal bei den Conservatoire-Concerten bin,<lb facs="P2_TL00077"/>so will ich doch erwähnen, dass endlich Beethoven's Phan<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00078"/>tasie Op. 80 für Ciavier, Orchester, Soli und Chor auch<lb facs="P2_TL00079"/>auf das Repertoire der gestrengen Herren gekommen ist.<lb facs="P2_TL00080"/>Die Ciavier-Partie wurde von Saint-Saens, einem tüchtigen<lb facs="P2_TL00081"/>Contrapunktisten aber sehr trockenen Ciavierspieler, nicht<lb facs="P2_TL00082"/>mit dem rechten Geist und Feuer vorgetragen, aber die<lb facs="P2_TL00083"/>übrige Ausführung war gut; trotzdem erlebte das schöne<lb facs="P2_TL00084"/>Stück in dem Conservatoire lange nicht die glänzende Auf<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00085"/>nahme beim Publicum, als vor eilf Jahren in dem Cäcilien-<lb facs="P2_TL00086"/>Concerte unter Seghers Direction,, der es zum ersten Male<lb facs="P2_TL00087"/>in Paris gab.—ln demselben Conservatoire-Concerte sang<lb facs="P2_TL00088"/>Stockhausen eine Arie aus Händel's Oper „Julius Cä<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00089"/>sar" mit seiner bekannten Meisterschaft, welche die Fran<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00090"/>zosen sogar dahin brachte, an dem alten Händel Gefallen<lb facs="P2_TL00091"/>zu finden und den Wunsch auszusprechen, öfter derglei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00092"/>chen „Opern-Arien" von Händel und durch Stockhausen<lb facs="P2_TL00093"/>zu hören. Aber es wird wohl beim Wunsch bleiben! Ein<lb facs="P2_TL00094"/>öffentliches Blatt benutzt selbst diese Gelegenheit, dem<lb facs="P2_TL00095"/>Publicum die Oratorien Händel's zu empfehlen. Die Pari<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00096"/>ser und Oratorien!<lb facs="P2_TL00097"/>Das bringt mich auf die zwei Aufführungen des:<lb facs="P2_TL00098"/>„Elias" von Mendelssohn durch Pasdeloup im Cir<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00099"/>cus Napoleon, das heisst des ersten Theiles des Oratoriums,<lb facs="P2_TL00100"/>das eine Mal unterbrochen von einer Fantasich appassion<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00101"/>nata, coroponirt und gespielt von Vieuxtemps, das andere</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00002">
+                                    <lb facs="P3_TL00002"/>Mal in Verbindung mit Becthoven's Musik zu den Ruinen<lb facs="P3_TL00003"/>von Athen. Solche Zusammenkoppelungen können nur hier<lb facs="P3_TL00004"/>in Paris Statt finden. Pasdeloup hat allerdings sein Publi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00005"/>cum nach und nach an die Theilnahme an grosser classi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00006"/>scher Musik gewöhnt, und das ist sein bedeutendstes Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00007"/>dienst; allein Sinfonieen und Oratorien sind gar verschie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00008"/>dene Dinge, und der Geschmack, selbst eine Art von Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00009"/>sländniss ist, wie die Erfahrung zeigt, bei der grossen<lb facs="P3_TL00010"/>Menge jetzt leichter für die Sinfonie zu bilden und zu er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00011"/>reichen, als für das Oratorium. Namentlich für das bibli<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00012"/>sche ist auf dem Boden des Reiches der ehemaligen aller<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00013"/>christlichsten Könige kein Gedeihen möglich. Desshalb wird<lb facs="P3_TL00014"/>Mendelssohn's „Walpurgisnacht" noch am meisten von den<lb facs="P3_TL00015"/>Franzosen gewürdigt; allein sein prächtiges und weit gross<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00016"/>artigeres Werk „Elias" erregte keineswegs den lebhaften<lb facs="P3_TL00017"/>Beilall, in welchen das tausendhändige Publicum des Cir<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00018"/>cus sonst bei den Sinfonieen von Beethoven ausbricht. Die<lb facs="P3_TL00019"/>Applaudissements wurden nach alter französischer Sitte<lb facs="P3_TL00020"/>nur durch die Solo-Vorträge hervorgerufen. Nach meiner<lb facs="P3_TL00021"/>Meinung athmeten aber auch diese, obwohl von Madame<lb facs="P3_TL00022"/>Viardot (Alt), dem schönen Tenor Michot und dem treff<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00023"/>lichen Bass Cazeaux gesungen—die schwächste Partie war<lb facs="P3_TL00024"/>der Sopran durch Madame d'Orwill —, nicht denjenigen<lb facs="P3_TL00025"/>Geist der Einfachheit und des tief empfundenen, würdigen<lb facs="P3_TL00026"/>Ausdrucks, den sie verlangen. Der Chor war viel zu<lb facs="P3_TL00027"/>schwach, nicht nur für den grossen Raum, sondern auch<lb facs="P3_TL00028"/>nur gegen das Orchester genommen, wodurch dann schon<lb facs="P3_TL00029"/>die Hauptwirkung der Gesammt-Gesänge verloren gehen<lb facs="P3_TL00030"/>musste.<lb facs="P3_TL00031"/>Die Aufführung fand bei Weitem'nicht dieselbe Auf<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00032"/>nahme, wie vor fünf Jahren, wo Pasdeloup ebenfalls den<lb facs="P3_TL00033"/>ersten Theil dieses Oratoriums mit der iSociete des jeimes<lb facs="P3_TL00034"/>Artistes du Con-servatoire zum ersten Male in Paris auf<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00035"/>führte. Damals wurden auch die Chöre mit Enthusiasmus<lb facs="P3_TL00036"/>aufgenommen; Stockhausen und Fräulein Bochkolz-Falconi<lb facs="P3_TL00037"/>sangen den Elias und die Witwe. Auch die öffentlichen<lb facs="P3_TL00038"/>Urtheile über das Werk waren damals ausführlicher und<lb facs="P3_TL00039"/>gründlicher*). Wenn ich aber damals sagte, „dass die<lb facs="P3_TL00040"/>Oratorienmusik jemals mit vollen Segeln das Meer von<lb facs="P3_TL00041"/>Paris befahren werde, dürfte trotz alledem zu bezweifeln<lb facs="P3_TL00042"/>sein; es würden immer nur einzelne Gruppen, nicht die<lb facs="P3_TL00043"/>Masse der Bevölkerung sich am Ufer sammeln und den<lb facs="P3_TL00044"/>stolzen Bau bewundern, wiewohl die Wahrnehmung, dass<lb facs="P3_TL00045"/>ein gewisser Instinct bei der jetzigen Aufführung das Pu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00046"/>blicum oft zum Beifall hinriss, einige Hoffnung für Gewöh<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00047"/>nung und Erziehung desselben begründe" —: so hatte ich<lb facs="P3_TL00048"/>im ersten Satze Recht, den zweiten straft aber die jetzige<lb facs="P3_TL00049"/>Aufnahme Lügen, sie bekundet eher einen Rückschritt</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00004">
+                                    <lb facs="P3_TL00052"/>als einen Fortschritt. Vollends wenn wir jetzt die ergötz<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00053"/>liche Herzcnsergiessung eines Herrn Chouquet in der<lb facs="P3_TL00054"/>France musicalelesen, der da findet, dass dieses lange<lb facs="P3_TL00055"/>Werk von 21 Nummern er hat nur die Ouvertüre und<lb facs="P3_TL00056"/>die 20 Nummern des ersten Theils gehört; was würde er<lb facs="P3_TL00057"/>sagen, wenn er wüsste, dass das ganze Oratorium 42<lb facs="P3_TL00058"/>Nummern hat!) „mehr für Engländer und Puritaner ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00059"/>schrieben ist, als für Pariser und Katholiken. Es erinnert<lb facs="P3_TL00060"/>zu sehr an die lutherischen Kirchenpsalmen, ja, wenn man<lb facs="P3_TL00061"/>streng sein wollte, so copirt es sie Note für Note. Diese<lb facs="P3_TL00062"/>Plagiate der frommen Muse Mendelssohn's sind in unseren<lb facs="P3_TL00063"/>Augen keine Beweise von Unvermögen, eher können sie<lb facs="P3_TL00064"/>für Beweise von Savoir faire gelten; weil der geschickte<lb facs="P3_TL00065"/>Musiker den Engländern gefallen wollte, ergriff er das<lb facs="P3_TL00066"/>sicherste Mittel dazu. Aber sich an den Sondergeist einer<lb facs="P3_TL00067"/>Secte (!) zu wenden, sich ausschliesslich dem Geiste ihrer<lb facs="P3_TL00068"/>Lieblings-Psalmen hinzugeben und dann noch obenein zum<lb facs="P3_TL00069"/>ßach'schen Stil gar zu oft seine Zuflucht (!) zu nehmen,<lb facs="P3_TL00070"/>das ist nicht die Art, wie man ein begeistertes Werk<lb facs="P3_TL00071"/>schreibt, um alle Herzen zu gewinnen." —Dagegen ist die<lb facs="P3_TL00072"/>Phantasie von Vieuxtemps „ein Gedicht, eine herrliche<lb facs="P3_TL00073"/>Sinfonie, die Sehnsucht eines liebenden Nordländers, dessen<lb facs="P3_TL00074"/>Körper allein bei der Tarantella (die den Schluss bildet<lb facs="P3_TL00075"/>mit herumspringt, während die liebende Seele sich alle<lb facs="P3_TL00076"/>Augenblicke verrälh"!<lb facs="P3_TL00077"/>Und dieses Gedicht milsammt der Tarantella, wo hör<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00078"/>ten wir es? Unmittelbar nach dem Chor in G-dur: „Wohl<lb facs="P3_TL00079"/>dem, der den Herrn fürchtet!" Das ist mehr als Spass,<lb facs="P3_TL00080"/>das ist wahre Lästerung des Heiligen in dem Inhalt und<lb facs="P3_TL00081"/>in der Musik.<lb facs="P3_TL00082"/>Eine unerwartete Erscheinung war Thalberg, der<lb facs="P3_TL00083"/>seit Jahren hier und überhaupt wohl in Europa nicht öf<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00084"/>fentlich aufgetreten war. Da seit seiner Glanz-l'eriode in<lb facs="P3_TL00085"/>Paris in den Jahren 1835 —1837 ein Viertel-Jahrhun<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00086"/>dert verllossen ist, so war sein Auftreten für die jüngere<lb facs="P3_TL00087"/>Generation eine Neuigkeit und für viele (Klavierspieler aus<lb facs="P3_TL00088"/>ihr eine grosse Lehre, während alle, die ihn früher kann<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00089"/>ten und gehört hatten, gleich zu seinem ersten Goncerte<lb facs="P3_TL00090"/>(den 22. April! wie zu einem Feste strömten, das lange<lb facs="P3_TL00091"/>nicht gefeiert worden war. Freilich fehlte es nicht an auf<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00092"/>geblasenen Neologen, die bei der ersten Nachricht von sei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00093"/>nem Auftreten mit der beliebten Redensart bei der Hand<lb facs="P3_TL00094"/>waren: „Thalberg? Mein Gott, wer kann so etwas noch<lb facs="P3_TL00095"/>mit anhören?" — Aber der Erfolg hat sie arg Lügen ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00096"/>straft; denn seit undenklichen Zeiten hat kein \ irtuose in<lb facs="P3_TL00097"/>Paris solche Einnahmen gemacht, wie Thalberg in seinen<lb facs="P3_TL00098"/>drei Concerten.<lb facs="P3_TL00099"/>Thalberg ist jetzt gerade fünfzig Jahre alt und stand<lb facs="P3_TL00100"/>schon vor dreissig Jahren auf der höchsten Stufe des Kub<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00101"/>mes als Pianofortespieler, die ihm nur Liszt streitig machte.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00002">
+                                    <lb facs="P4_TL00002"/>Er hat jetzt hier meist von seinen neueren Compositionen<lb facs="P4_TL00003"/>gespielt; will man aber den Unterschied zwischen seinem<lb facs="P4_TL00004"/>Spiel und der Ciavierschlägerei der Heroen des Tages mit<lb facs="P4_TL00005"/>Erstaunen gewahren, so muss man ihn eine seiner alten<lb facs="P4_TL00006"/>Phantasieen vortragen hören, die man, ich möchte sagen:<lb facs="P4_TL00007"/>von Kindesbeinen an, kennt. Jedermann weiss, dass der<lb facs="P4_TL00008"/>Reiz der Manier, welche Thalberg erfand, in dem Durch<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00009"/>klingen der Melodie unter einem Reichthum eleganter und<lb facs="P4_TL00010"/>kühner Figuren besteht, dass er durch die feine Verschmel<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00011"/>zung der glänzendsten Illustrationen mit dem Gesänge der<lb facs="P4_TL00012"/>melodischen Motive gleichsam ein Rossini des Pianoforte<lb facs="P4_TL00013"/>wurde. Mit dem Gesänge! darin liegt die Hauptsache<lb facs="P4_TL00014"/>lür den Vortrag. Wie spielen die meisten Nicht-Thalberge<lb facs="P4_TL00015"/>jene Melodieen? Sie accentuiren jede Note derselben durch<lb facs="P4_TL00016"/>einen steifen, überkräftigen Fingerdruck oder Fingerstoss,<lb facs="P4_TL00017"/>wodurch sie dann erreichen, dass die also angeschlagenen<lb facs="P4_TL00018"/>Töne hervorklaffen, aber nicht als melodisch verbundene<lb facs="P4_TL00019"/>Reihe klingen und singen, und gerade den Eindruck<lb facs="P4_TL00020"/>machen, als wenn eine Clarinette, ein Horn oder gar eine<lb facs="P4_TL00021"/>irompete eine Melodie in lauter scharf accentuirten, ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00022"/>hackten Tönen ohne Verbindung und Zusammenhang her<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00023"/>ausstiesse. Und nun höre man Thaiberg und seinen Ton!<lb facs="P4_TL00024"/>Es ist lächerlich, von einem Tone auf dem Ilammer-Cla<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00025"/>vier zu sprechen, das habe ich hundert Mal gedacht und<lb facs="P4_TL00026"/>gesagt ehe ich Thalberg gehört habe, den Thalberg von<lb facs="P4_TL00027"/>heute, der wohl vor dreissig Jahren kaum schon so wie<lb facs="P4_TL00028"/>jetzt gespielt hat, sonst hätte ja Niemand gegen ihn auf<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00029"/>kommen können. Ich komme mir selbst ganz wunderlich<lb facs="P4_TL00030"/>vor als Enthusiast für einen Virtuosen; aber es ist nicht<lb facs="P4_TL00031"/>anders, ich bin ganz und gar eingenommen von ihm und<lb facs="P4_TL00032"/>fühle, dass es viel leichter ist, über die Virtuosität zu<lb facs="P4_TL00033"/>schimpfen, als sie zu charakterisiren. Sie muss individuel<lb facs="P4_TL00034"/>sein und muss dabei doch auch vor Allem den Haupt-Vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00035"/>zug der Classicität der Ausführung, das Maasshalten, ohne<lb facs="P4_TL00036"/>welches die Kunst nicht mehr Kunst ist, überall herrschen<lb facs="P4_TL00037"/>lassen, fhalberg's Gesang auf dem Ciavier ist in der That<lb facs="P4_TL00038"/>individuel, er hat seinen eigenen, unnachahmlichen An<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00039"/>schlag von der leinheit und Zartheit an bis zur Explosion<lb facs="P4_TL00040"/>der leurigsten Kraft, und so wie er den Missbrauch ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00041"/>schmäht, den Andere mit der Verschiebung bis zu unaus<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00042"/>stehlicher Säuselei treiben, stürzt er sich auf der anderen<lb facs="P4_TL00043"/>Seite auch niemals kopfüber in den Strudel der Passagen,<lb facs="P4_TL00044"/>sondern vergisst nie, dass diese nicht um ihrer selbst willen<lb facs="P4_TL00045"/>da sind. Mitten in dem reissenden Strome bleibt er Herr<lb facs="P4_TL00046"/>seiner selbst und dadurch Herr der Flut und der Wogen.<lb facs="P4_TL00047"/>Nirgends und niemals nur ein Moment, der ihn aus den<lb facs="P4_TL00048"/>Fugen des ebenmässig Schönen der wahren Kunst heraus<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00049"/>schleuderte ins Formlose und Widerhaarige des vollgriffi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00050"/>gen oder einfachen Figurenwerkes, nirgends und niemals<lb facs="P4_TL00051"/>ein Zerreissen und Zerhacken des melodischen Gesanges,</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00003">
+                                    <lb facs="P4_TL00052"/>der seinen in sich verbundenen Fluss behält, mag ihn der<lb facs="P4_TL00053"/>Daumen oder der kleine Finger, die rechte oder die linke<lb facs="P4_TL00054"/>Hand führen. Allerdings hat man Recht gehabt, wenn<lb facs="P4_TL00055"/>man sein Spiel und den Genuss, den es gewährt, aristokra<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00056"/>tisch genannt hat; dem ist auch jetzt noch also, vielleicht<lb facs="P4_TL00057"/>in noch höherem Grade, als früher. Aber die Virtuosität<lb facs="P4_TL00058"/>muss aristokratisch sein, wenn sie ihre grosse Berechtigung<lb facs="P4_TL00059"/>in der Kunst geltend machen will. Steigt sie zum Yankee<lb facs="P4_TL00060"/>Doodle und zum Carneval von Venedig herab, so wird sie<lb facs="P4_TL00061"/>plebejisch, und der Edelgebildete wendet sich mit Recht<lb facs="P4_TL00062"/>davon ab.<lb facs="P4_TL00063"/>In allen drei Concerten konnte der Saal die Zuhörer<lb facs="P4_TL00064"/>nicht fassen. Thalberg spielte allein und fesselte jedes Mal<lb facs="P4_TL00065"/>zwei Stunden lang das Publicum, was in unseren Tagen<lb facs="P4_TL00066"/>jedem Anderen schwer werden dürfte. Er ist von hier<lb facs="P4_TL00067"/>nach London gegangen.<lb facs="P4_TL00068"/>Schliesslich noch die Mittheilung, dass Hector Ber<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00069"/>lioz eine komische Oper geschrieben hat. Da sich ihm<lb facs="P4_TL00070"/>die pariser Bühnen noch immer verschliessen, so hat er sie<lb facs="P4_TL00071"/>zur Eröffnung des französischen Theaters in Baden-Baden<lb facs="P4_TL00072"/>bestimmt, natürlich auf Veranlassung des dortigen Spiel<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00073"/>königs. Die zweiactige Oper heisst<lb facs="P4_TL00074"/>das Buch soll Berlioz selbst nach einem Shakespeare'schen<lb facs="P4_TL00075"/>Stücke verfasst haben. Sie wird Anfangs August zur Auf<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00076"/>führung kommen. Sein grosses Werk: zu<lb facs="P4_TL00077"/>geben, hat sich die Direction der kaiserlichen Oper trotz<lb facs="P4_TL00078"/>aller Mahnungen der öffentlichen Blätter noch nicht ent<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00079"/>schlossen. Eine solche Zurücksetzung eines so bedeutenden<lb facs="P4_TL00080"/>Talentes und Mitgliedes der Akademie bleibt in der That</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00004">
+                                    <lb facs="P4_TL00081"/>unverantwortlich.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00003">
+                                    <lb facs="P3_TL00050"/>*) Vergl. „Pariser Briefe" in Nr. 51 vom Jahrgang 1857 der<lb facs="P3_TL00051"/>Niederrheinischen Musik-Zeitung.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00005">
+                                    <lb facs="P3_TL00102"/>:•]</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c003">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P4_TB00006">
+                           <lb facs="P4_TL00083"/>Gluck und die Oper.</ab>
+                     </div>
+                     <div type="Music" corresp="c004">
+                        <div type="Image"/>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="MinorHead">
+                              <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                  xmlns:mods="http://www.loc.gov/mods/v3"
+                                  facs="P4_TB00007">
+                                 <lb facs="P4_TL00084"/>II.</ab>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00008">
+                                    <lb facs="P4_TL00085"/>Der zweite Abschnitt des neuen Werkes von Marx<lb facs="P4_TL00086"/>ist „Jugend und Schule" überschrieben, wobei denn<lb facs="P4_TL00087"/>Anton Schmid's (nicht: Schmidt's, wie irrthümlich ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00088"/>druckt ist) „höchst verdienstliches Werk" wenigstens in<lb facs="P4_TL00089"/>einer Anmerkung erwähnt ist; es hätte aber wohl, wie über<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00090"/>haupt die Angabe der Quellen für das Historische des Bu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00091"/>ches, eine Anführung im Vorwort verdient.<lb facs="P4_TL00092"/>Marx hat einen ganz anderen Zweck vor Augen, als<lb facs="P4_TL00093"/>Schmid. So viel sich aus der ersten Lieferung erkennen<lb facs="P4_TL00094"/>lässt, ist sein Buch für Musikfreunde und überhaupt<lb facs="P4_TL00095"/>für die gebildete Welt, die an der Tonkunst Theil nimmt<lb facs="P4_TL00096"/>oder doch gern darüber spricht, verfasst, wie man aus dem<lb facs="P4_TL00097"/>Colorit der Darstellung und aus den Erklärungen der mu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00098"/>sicalischen Kunst-Ausdrücke (Contrapunkt, Recitativ, Satz<lb facs="P4_TL00099"/>u. s. w.) in den Anmerkungen siebt.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00002">
+                                    <lb facs="P5_TL00002"/>Da wir von Gluck's Rinderjahren und seiner Vorbil<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00003"/>dung zum Musiker so gut wie nichts wissen, so phantasirt<lb facs="P5_TL00004"/>Marx zu den wenigen Angaben Schmid's gar Manches hin<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00005"/>zu, was nicht billigen kann, wer abgesagter Feind nicht<lb facs="P5_TL00006"/>bloss der neumodischen Roman-Biographik der Rünstler,<lb facs="P5_TL00007"/>sondern auch des divinatorischen Herauslesens ihres Ent<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00008"/>wicklungsganges aus ihren späteren Werken ist. Was sol<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00009"/>len uns Stellen, wie folgende:<lb facs="P5_TL00010"/>„Nicht Weidenwang,. nicht Neuschloss konnte der<lb facs="P5_TL00011"/>Kleine als seine Heimat empfinden lernen, der Wald war<lb facs="P5_TL00012"/>es, der Wald mit seinen träumerischen Schatten u. s. w.<lb facs="P5_TL00013"/>Der trautere Tummelplatz wird wohl der Wald gewesen<lb facs="P5_TL00014"/>sein mit seinen Waldbeeren, mit seinen Verstecken, wo man<lb facs="P5_TL00015"/>den Vogelnestern nachspüren, dem Wild auf ferner Wald<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00016"/>wiese lauschen, wo unser Christoph, wenn er allein war,<lb facs="P5_TL00017"/>träumerisch jenem Rauschen und leisen Hall nachhangen<lb facs="P5_TL00018"/>konnte, die unter der Heimlichkeit der brütenden Mittags<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00019"/>sonne, unter dem Hauche der erwachenden Abendlüfte so<lb facs="P5_TL00020"/>ahnungsvoll durch den Wald ziehen. Niemand hat ihn da<lb facs="P5_TL00021"/>beobachtet, Niemand davon erzählt; er selber ist, so viel<lb facs="P5_TL00022"/>wir wissen, sich dessen niemals erinnerlich gewesen. Aber<lb facs="P5_TL00023"/>viel später, als er längst aus dem heimlichen Forst in das<lb facs="P5_TL00024"/>Getreibe und Geräusch der Städte, aus dem Schoosse des<lb facs="P5_TL00025"/>Naturlebens auf die naturferne—damals der Natur so weit<lb facs="P5_TL00026"/>abgerückte Hof- und Theaterwelt übergesiedelt war: viel<lb facs="P5_TL00027"/>später sind jene Waldhalle, jene leisen und so übermächtig<lb facs="P5_TL00028"/>das naturtreue Herz rührenden Liebesrufe und geheimen<lb facs="P5_TL00029"/>Seufzer in ihm wieder wach geworden, und er hat sie sei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00030"/>nen Schöpfungen eingehaucht, wo es galt, unsere Ureinheit<lb facs="P5_TL00031"/>mit der Mutter Natur wieder herzustellen. Nichts geht im<lb facs="P5_TL00032"/>Künstlerleben verloren, und nichts, was in dasselbe einge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00033"/>gangen, bleibt so leicht verschwiegen; alles Erlebte kehrt<lb facs="P5_TL00034"/>in den Kunstgebilden wieder. Jene Naturklänge werden<lb facs="P5_TL00035"/>wir weit später im Orpheus und anderen Schöpfungen<lb facs="P5_TL00036"/>wiederfinden."<lb facs="P5_TL00037"/>Möge es der verehrte Verfasser uns nicht übel nehmen,<lb facs="P5_TL00038"/>wir glauben, dass der kleine Junge, der im Winter dem<lb facs="P5_TL00039"/>Vater barfuss dasJagdgeräth nachtragen musste, wieSchmid<lb facs="P5_TL00040"/>erzählt, den Wald wahrscheinlich öfter verwünscht, als da<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00041"/>für geschwärmt hat. Eben so schwer können wir uns da<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00042"/>von überzeugen, dass Gluck den „bedrängenden Einfluss"<lb facs="P5_TL00043"/>des Schulzwanges auf dem Jesuiten-Gymnasium zu Kom<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00044"/>motau „empfunden haben müsse", und dass „ihm lebens<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00045"/>lang die Narbe der Fesseln geblieben, die er in seiner Ju<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00046"/>gendzeit getragen", was Marx „aus seinem Verhalten,<lb facs="P5_TL00047"/>selbst aus einzelnen Zügen seiner Werke" (!) nachweisen<lb facs="P5_TL00048"/>will. Wir sind neugierig auf diese Nachweisung.<lb facs="P5_TL00049"/>Der folgende Abschnitt: „Die Ausbildung des<lb facs="P5_TL00050"/>Musikers", kann eben so wenig als der vorige auf siche<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00051"/>ren Thatsachen fussen. Dass Sammartini's Unterricht in</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00003">
+                                    <lb facs="P5_TL00052"/>Mailand (1T29 —1741) den Zögling im Contrapunkt nicht<lb facs="P5_TL00053"/>eben weit gebracht haben mag, hätte Marx schon aus der<lb facs="P5_TL00054"/>Aeusserung lländel's über Gluck bei dessen Anwesenheit<lb facs="P5_TL00055"/>in London (IT45—46): „Goddam, der versteht eben so<lb facs="P5_TL00056"/>viel vom Contrapunkt, wie mein Koch!" (Burney,<lb facs="P5_TL00057"/>Handel, 1785, S. 42) argumentiren können. Er sucht es<lb facs="P5_TL00058"/>übrigens aus Gluck's De profundis zu beweisen; nur passt<lb facs="P5_TL00059"/>die Analyse dieses Werkes, das eine der spätesten Arbei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00060"/>ten des Meisters ist, nicht recht hieher. Noch weniger<lb facs="P5_TL00061"/>können wir aus der angezogenen Stelle, in welcher die<lb facs="P5_TL00062"/>Worte: „De profundis clamavi", wiederkehren und ein<lb facs="P5_TL00063"/>Anlauf „zur Dramatik des Chors" genommen wird, eine<lb facs="P5_TL00064"/>Rechtfertigung des Schlusses finden, der in der Anmerkung<lb facs="P5_TL00065"/>(S. 28) daraus gezogen wird: „Dies Alles sagt dem für<lb facs="P5_TL00066"/>Musik Erweckten schon unmittelbares Empfinden. Allein<lb facs="P5_TL00067"/>gegenüber der ewig wiederholten Annahme, dass die<lb facs="P5_TL00068"/>Sprache der Töne keines bestimmten Ausdrucks fähig<lb facs="P5_TL00069"/>und Erkenntniss ihres Inhalts nicht zu erlangen sei,<lb facs="P5_TL00070"/>scheint es nicht überflüssig, auf diese Erkenntniss hin und<lb facs="P5_TL00071"/>wieder hinzudeuten." Wir möchten doch wissen, wo<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00072"/>her aus:</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00004">
+                                    <lb facs="P5_TL00073"/>ohne die Worte die „bestimmte Erkenntniss des Inhalts":<lb facs="P5_TL00074"/>„Aus der Tiefe ruf' ich", geschöpft werden sollte, da<lb facs="P5_TL00075"/>das Motiv noch weit deutlicher (in der Höhe)<lb facs="P5_TL00076"/>ausdrücken könnte!<lb facs="P5_TL00077"/>Recht befriedigend und besonders für Dilettanten, de<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00078"/>nen die grösseren Quellenwerke nicht zugänglich sind, be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00079"/>lehrend und interessant sind die drei folgenden Abschnitte:<lb facs="P5_TL00080"/>„Grundlagen für die italische Oper* „Unter<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00081"/>bau der italischen Oper" „Der musicalische<lb facs="P5_TL00082"/>Ausbau", nämlich derselben Oper. Diese Abschnitte sind<lb facs="P5_TL00083"/>ganz an ihrer Stelle, um bei Gluck's Auftreten als Opern-<lb facs="P5_TL00084"/>Componist in Italien den Leser über die musicalischen<lb facs="P5_TL00085"/>Zustände der damaligen Zeit zu Orientiren.<lb facs="P5_TL00086"/>Der erste handelt von der Entstehung der italiänischen<lb facs="P5_TL00087"/>Oper aus der Idee, die griechische Tragödie wieder her<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00088"/>zustellen. Der zweite von den Operngedichten und deren<lb facs="P5_TL00089"/>Stoffen. Wir theilen daraus einige Absätze mit:<lb facs="P5_TL00090"/>„Die Italiäner fanden für ihre ernste Oper (von der<lb facs="P5_TL00091"/>hier, bei der Hinführung auf Gluck, allein die Rede ist,<lb facs="P5_TL00092"/>keine willkommneren Stoffe, als die Sagen und Persönlich<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00093"/>keiten ihrer unerreichten grossen Vorfahren, der Griechen<lb facs="P5_TL00094"/>und Römer, einige mittelalterlich aufgefasste Bilder aus dem<lb facs="P5_TL00095"/>Morgenlande zugerechnet. Alle vom Alterthum herüber<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00096"/>tönende Namen—Titus, Alexander, Telemach mit der ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00097"/>führerischen Kalypso, die verlassene Dido, Armida, Bere<pc type="endhypen" pre="false">-</pc>
+                                 </ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00002">
+                                    <lb facs="P6_TL00002"/>iiice, der fabelhafte Rhamses 11. (nach den Griechen Seso<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00003"/>stris genannt) nebst Artaxerxes und Darius, dann die erz<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00004"/>starren Römer Nero, Cato, Regulus, Cajus Gracchus, Sci<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00005"/>pio, neben ihnen der furchtbare Feind Roms, Hannibal <lb facs="P6_TL00006"/>alle wurden heraufbeschworen aus ihren schattigen Ruhe<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00007"/>stätten vor den Lampenglanz der Oper; nicht zu vergessen<lb facs="P6_TL00008"/>den Wütherich Tamerlan, die Heroen und Halbgötter The<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00009"/>seus, Jason und Hercules, und wer weiss, wer noch. Ne<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00010"/>ben sie traten, gleichsam ausnahmsweise und nur spärlich,<lb facs="P6_TL00011"/>Personen und Hergänge der modernen Zeit oder des Mit<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00012"/>telalters.<lb facs="P6_TL00013"/>„Dass sich jenen classischen Persönlichkeiten als hel<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00014"/>lende Mächte die himmlischen Heerscharen des Olymps<lb facs="P6_TL00015"/>zugesellten, versteht sich. Lange vor unserem Zeitabschnitte<lb facs="P6_TL00016"/>und fortwährend hatten sie die Herrschaft behauptet, wenn<lb facs="P6_TL00017"/>auch nicht in ihren alten Tempeln und dem Glauben des<lb facs="P6_TL00018"/>Volkes, doch auf den Schaubühnen, bei den Festen der<lb facs="P6_TL00019"/>Fürsten und in den allegorischen Dichtungen der Hof<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00020"/>poeten. Schon aus dem vierzehnten Jahrhundert erzählt uns<lb facs="P6_TL00021"/>Iristano Calco vom Vermählungsfeste des mailändischen<lb facs="P6_TL00022"/>Herzogs Galeazzo Visconti. Da trat unter dem Klange krie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00023"/>gerischer Instrumente Jason mit den Argonauten auf, führte<lb facs="P6_TL00024"/>mit ihnen einen Tanz aus und legte das goldene Vliess vor<lb facs="P6_TL00025"/>dem neuen Paare als Festgabe nieder. Nach ihm kamen<lb facs="P6_TL00026"/>Mercur, Apollo, Diana mit ihren Nymphen, Theseus und<lb facs="P6_TL00027"/>Atalanta, Iris, Hebe, kurz, der ganze olympische Tross,<lb facs="P6_TL00028"/>mitten darunter auch Judith aus dem alten Testamente<lb facs="P6_TL00029"/>herbei, alle mit Tänzen, Gesängen und Gaben. Wie oft<lb facs="P6_TL00030"/>dergleichen sich wiederholt (und jener Festlichkeit voran<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00031"/>gegangen), ist nicht auszurechnen. Die Italiener waren also<lb facs="P6_TL00032"/>der glänzenden Gesellschaft längst gewohnt.<lb facs="P6_TL00033"/>„Nun waren jene Glanzgeslalten des unvergesslichen<lb facs="P6_TL00034"/>Alterthums auf die Schaubühne der Oper getreten; was<lb facs="P6_TL00035"/>hätte den Italienern, den gesammten romanischen Stämmen<lb facs="P6_TL00036"/>näher stehen können? Aber was begannen sie jetzt, diese<lb facs="P6_TL00037"/>Helden und Eroberer, diese Tyrannen und allehrwürdigen<lb facs="P6_TL00038"/>«J o<lb facs="P6_TL00039"/>Herrscher? Was konnten die tief herabgesunkenen Enkel<lb facs="P6_TL00040"/>ihnen zu schaffen geben?<lb facs="P6_TL00041"/>„Diese Helden und trauervollen Königinnen, dieser<lb facs="P6_TL00042"/>blutige Nero und Tamerlan, dieser steife Republicaner nach<lb facs="P6_TL00043"/>dem Verschwundensein der Republik, Cato, dieser von den<lb facs="P6_TL00044"/>Knabenjahren her einzig dem Römerhass geweihte Hanni<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00045"/>bal, diese Stifter von Weltreichen, Cäsar und Alexander,<lb facs="P6_TL00046"/>was hatten sie zu schaffen?— Sie liebten. Das war der<lb facs="P6_TL00047"/>Kern ihres Lebens auf der Bühne.<lb facs="P6_TL00048"/>„Mit diesem ersten Worte ist das Wesen der italischen<lb facs="P6_TL00049"/>grossen (oder ernsten) Oper bezeichnet. Die ganze Schar<lb facs="P6_TL00050"/>von Helden und Herrscherinnen, die so viele Jahrhunderte<lb facs="P6_TL00051"/>lang mit den mannigfachsten Strebungen und Schicksalen<lb facs="P6_TL00052"/>die Welt erfüllt, sie ist eine eitle, leere Namenreihe, eine</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00003">
+                                    <lb facs="P6_TL00053"/>einzige weitaufgebauschte Tauschung; nicht Menschen in<lb facs="P6_TL00054"/>der Mannigfaltigkeit ihres Lebens und Charakters stehen<lb facs="P6_TL00055"/>vor uns, es sind larven- und llitterreiche Masken-Anzüge,<lb facs="P6_TL00056"/>aus denen das ewig gleiche Gesicht der alltäglichen Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00057"/>gnüglichkeit breit hervorlächelt. Denn bei diesen unver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00058"/>gänglichen Masken-Liebesspielen ist auch nicht einmal je<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00059"/>ner Allen angedichtete letzte Rest ihres Lebens, die Liebe,<lb facs="P6_TL00060"/>festgehalten. Die wahre Liebe passte nicht in diese prun<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00061"/>kenden Masken, und vollends unmöglich war es, dass sie<lb facs="P6_TL00062"/>sie ganz hätte ausfüllen können.<lb facs="P6_TL00063"/>„Hiermit kommen wir zum zweiten Charakterzuge der<lb facs="P6_TL00064"/>grossen Oper. Das einzige Motiv, die Liebe, genügte nicht<lb facs="P6_TL00065"/>lür die gewählten Masken; man musste den Glanz und<lb facs="P6_TL00066"/>Reicbthum ihrer Existenz wenigstens äusserlich zur An<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00067"/>schauung bringen, damit der liebende Kaiser sich von dem<lb facs="P6_TL00068"/>liebenden Schäferknecbt in etwas unterschiede, und die Zu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00069"/>schauer in Logen und Parterre sich am Abbild ihres —-<lb facs="P6_TL00070"/>oder des ersehnten vornehmen Prunkes vergnügten. Schau<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00071"/>gepränge ward die voranstehende Bedingung für dieses<lb facs="P6_TL00072"/>Bühnenleben. Hiermit besonders wurden auch die Höfe der<lb facs="P6_TL00073"/>Fürsten in das Interesse gezogen; der Prunk der Bühne<lb facs="P6_TL00074"/>trat an die Stelle der mittelalterlichen Aufzüge und öffent<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00075"/>lichen Feste, mit mehr Mannigfaltigkeit und vielleicht min<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00076"/>derem Aufwände.<lb facs="P6_TL00077"/>„Nach dieser Seite hin geschah viel. Schon im fünf<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00078"/>zehnten Jahrhundert zeigte Beverini's Drama mit Mu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00079"/>sik, Darius, in drei Acten vierzehn Verwandlungen und<lb facs="P6_TL00080"/>Schaustücke, darunter ein Schlachtfeld mit den indischen<lb facs="P6_TL00081"/>Elephanten, die Thürme mit Bewaffneten, die Festungs<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00082"/>werke von Babylon, das persische Lager mit den Kriegs<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00083"/>maschinen, den Vorhof des Palastes, die königliche Halie,<lb facs="P6_TL00084"/>das Grabmal des Ninus, ein dunkles Gefängniss, die Ruinen<lb facs="P6_TL00085"/>eines alten Schlosses, das Zelt des Darius, Reiterei und<lb facs="P6_TL00086"/>Fussvolk in Schlachtordnung, den ganzen Palast von Baby<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00087"/>lon. In der Oper Berenice von Freschi figurirten 1680<lb facs="P6_TL00088"/>Scharen von 100 Mädchen, 100 Soldaten, 100 Gehar<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00089"/>nischten zu Pferde, 40 Hornisten, 6 Trompetern, 6 Tromm<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00090"/>lern, 6 l'ahnenschwenkern, 6 Posaunern, 6 Flötenbläsern,<lb facs="P6_TL00091"/>6 Troubadours „„mit türkischen Instrumenten''''; dann<lb facs="P6_TL00092"/>erschienen bei dem Triumphzuge noch 12 Reitknechte, 12<lb facs="P6_TL00093"/>Wagenführer, Löwen und Elephanten, der vierspännige<lb facs="P6_TL00094"/>Triumphwagen, 12 andere Wagen, mit Gefangenen und<lb facs="P6_TL00095"/>Kriegsbeute beladen, zuletzt 6 Carossen, die der Adel dazu<lb facs="P6_TL00096"/>hergeliehen. Malerischer mag erscheinen, was Vittorio<lb facs="P6_TL00097"/>Rossi von der allen florentinischen Schaubühne berichtet:<lb facs="P6_TL00098"/>„„Durch bewegliche Wände sah man bald Wiesen, bald<lb facs="P6_TL00099"/>Meer, Gärten, Himmel und Hölle, Sturm und Ungewitter;<lb facs="P6_TL00100"/>aus den Bäumen, die sich öffneten, stiegen unvermuthet<lb facs="P6_TL00101"/>reizende Dryaden hervor; in den Wäldern, die sich plötz<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00102"/>lich erhoben, tummelten sich Faunen, Satyrn und Nvm<pc type="endhypen" pre="false">-</pc>
+                                 </ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00002">
+                                    <lb facs="P7_TL00002"/>phen; Najaden plätscherten in Quellen und Flüssen; Vieles,<lb facs="P7_TL00003"/>was vordem nie gesehen worden war, wurde vor das über<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00004"/>raschte Auge der Schaulustigen gebracht."" So wurde<lb facs="P7_TL00005"/>dem Auge vorgebildert, wo man tieferer Anregung nicht<lb facs="P7_TL00006"/>mächtig war oder nicht mehr begehrte.<lb facs="P7_TL00007"/>„Es ist begreiflich, dass dies Alles nicht hinreichen<lb facs="P7_TL00008"/>konnte, die Opern-Abende zu lullen, wenn man auch die<lb facs="P7_TL00009"/>Ballette in Rechnung stellen wollte, die zwischen den Acten<lb facs="P7_TL00010"/>als Zwischenspiele, ohne Zusammenhang mit der Oper <lb facs="P7_TL00011"/>eine Zerstreuung in der anderen—, aufgeführt wurden.<lb facs="P7_TL00012"/>Selbst die wahre Liebe kann im Drama nur dauernd be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00013"/>schäftigen, wenn sie tief als Brennpunkt des ganzen Da<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00014"/>seins, das sich ihr hingegeben, aufgefasst wird; wie hätte<lb facs="P7_TL00015"/>jene Liebe, welche man den unpassenden Masken anlog,<lb facs="P7_TL00016"/>fesseln können?—sie war eben nur ein Hergang, wie jeder<lb facs="P7_TL00017"/>andere auch, eine dramatisirte Anekdote, der noch andere<lb facs="P7_TL00018"/>sich zugesellen müssen, um die Unterhaltung fortzuführen.<lb facs="P7_TL00019"/>Daher ward nun für die Oper ein Drittes nothwendig:<lb facs="P7_TL00020"/>Bereicherung und Mannigfaltigkeit des thatsächlichen In<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00021"/>halts durch Verdoppelung seines Hauptmoments<lb facs="P7_TL00022"/>und durch fremdartige Zusätze. Ohnehin kann jedes<lb facs="P7_TL00023"/>dramatische Beginnen die Herkunft des Drama's aus dem<lb facs="P7_TL00024"/>Lpos nicht verläugnen. So lange Dichter und Zuschauer<lb facs="P7_TL00025"/>noch unfähig sind, in die Tiefe des menschlichen Daseins<lb facs="P7_TL00026"/>zu dringen, suchen sie ihr Genügen in der Breite; zuerst<lb facs="P7_TL00027"/>kommt es darauf an, dass nur irgend etwas vorgeht, dann,<lb facs="P7_TL00028"/>dass recht viel geschieht; wie hätte die Oper sich dem<lb facs="P7_TL00029"/>entziehen können, nachdem sie sich von ihrem ersten Ziele<lb facs="P7_TL00030"/>abgewandt?<lb facs="P7_TL00031"/>„Es wurde daher neben das eine Liebesverhältniss ein<lb facs="P7_TL00032"/>zweites, wo möglich ein drittes gestellt, der Liebe wurden<lb facs="P7_TL00033"/>nicht bloss Eifersucht, Untreue, Sprödigkeit als verwandte<lb facs="P7_TL00034"/>Motive zugesellt, sondern ausserdem die ihr fremdesten,<lb facs="P7_TL00035"/>Ruhmbegier, Herrschsucht, Verdrängung von Königen und<lb facs="P7_TL00036"/>Königssprossen vom Throne, Hof-Intriguen kurz, der<lb facs="P7_TL00037"/>ganze gemeine und gemüthfremde Hofwust, den man mit<lb facs="P7_TL00038"/>jenen Masken aus der schlechtesten Zeit der römischen<lb facs="P7_TL00039"/>Kaiser herübergenommen und an den kleineren Höfen tä&lt;j<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00040"/>o<lb facs="P7_TL00041"/>lieh zu beobachten hatte. Das Alles, Ueppigkeit, Ehrsucht<lb facs="P7_TL00042"/>und Intrigue lag auch in der Sinnesart der Italiener jener<lb facs="P7_TL00043"/>Zeit; wie hätte wohl ein sinnlich höchst erregsames, mit<lb facs="P7_TL00044"/>feinem, beweglichem Geiste ausgerüstetes Volk in politi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00045"/>scher Verkommenheit, unter der täglich verschlechternden<lb facs="P7_TL00046"/>nemden und einheimischen Tyrannei sich anders gebahren<lb facs="P7_TL00047"/>sollen? Die Oper war das Kind des wirklichen Lebens,<lb facs="P7_TL00048"/>dem Erzeuger Zug um Zug sprechend ähnlich. Es konnte<lb facs="P7_TL00049"/>nicht anders sein.*</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c005">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00003">
+                           <lb facs="P7_TL00050"/>Ueber Wagner’s „Lohengrin“ in Wien</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00004">
+                                    <lb facs="P7_TL00051"/>Zum Vortheil des untergeordneten Personals des k. k.<lb facs="P7_TL00052"/>Hof-Opctnthealers wurde verflossenen Mittwoch bei auf<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00053"/>gehobenem Abonnement nach längerer l'ause wieder ein<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00054"/>mal „Lohengrin" gegeben.<lb facs="P7_TL00055"/>lis fügte sich, dass wir Gelegenheit hatten, nach der<lb facs="P7_TL00056"/>V 01 Stellung einige in Sachen der Kunst nicht uneinsichtige<lb facs="P7_TL00057"/>Laim zu sprechen, die, völlig unbefangen, bei dieser Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00058"/>legenheit zum ersten Male die Bekanntschaft des wunder<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00059"/>samen „Schwanenritters" machten. Sie fanden alle, es sei<lb facs="P7_TL00060"/>dieses Werk etwas ganz Neues, Eigenartiges, schon da<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00061"/>durch, weil über die gewöhnliche klingende, singende Mit<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00062"/>telmässigkeit Hinausragendes, welches das Interesse in be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00063"/>sonderer Weise anspanne, schliesslich aber freilich den<lb facs="P7_TL00064"/>Zuhörer in einem Zustande völliger Erschöpfung und Ab<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00065"/>spannung entlasse (vollends hätten sie hinzusetzen kön<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00066"/>nen , wenn er bei einer Temperatur von nahe an dreis<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00067"/>sig Grad Reaumur aul seinem Sitze eingeklemmt über drei<lb facs="P7_TL00068"/>Stunden lang bewegungslos ausharren muss). Sie fanden<lb facs="P7_TL00069"/>in der Empfindungsweise, aus welcher dieses Werk her<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00070"/>vorging, etwas Krankhaftes, Ungesundes, und der über<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00071"/>schwängliche Mysticismus, in welchem es sich von Anfang<lb facs="P7_TL00072"/>bis zu Ende mit geringen und dann etwas rohen Unter<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00073"/>brechungen bewegt, wurde ihnen, je weiter das Drama<lb facs="P7_TL00074"/>vorschritt, immer peinlicher, ja, endlich unerträglich. Sic<lb facs="P7_TL00075"/>fanden, der Geist fühle sich durch dieses Werk in einen<lb facs="P7_TL00076"/>Zustand versetzt, wie wir ihn körperlich bei anhaltender<lb facs="P7_TL00077"/>Gewitterschwüle empfinden; sehnlich erwarten wir den<lb facs="P7_TL00078"/>Ausbruch, bis uns endlich Wetterleuchten am Saume des<lb facs="P7_TL00079"/>Horizontes verkündet, dass dieser in weiter Ferne von uns<lb facs="P7_TL00080"/>erfolgt ist, ohne dass er die Temperatur, in welcher wir<lb facs="P7_TL00081"/>athmen, abgekühlt hätte. Ueber die Musik an und für sich<lb facs="P7_TL00082"/>selbst wagten sie nicht zu urtheilen, denn diese, halten sie<lb facs="P7_TL00083"/>gehört, sollte ja hier—obgleich nichts weniger als im be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00084"/>scheidenen Hintergründe verharrend (wie man sie sich etwa<lb facs="P7_TL00085"/>im griechischen Drama denken mag) nur als ein unter-<lb facs="P7_TL00086"/>oder doch höchstens nebengeordnetes Moment aufgefasst<lb facs="P7_TL00087"/>werden. Aber es wollte ihnen scheinen, dass die entsetz<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00088"/>liche, trotz mancher genialer Züge und einer sehr bemer<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00089"/>kenswerthen, eigenthümlich operirenden Combinations<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00090"/>kraft doch so erfindungsarme, immerfort (freilich princi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00091"/>piel!) mit denselben Farben malende Monotonie dieser Mu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00092"/>sik, die, wo sie sich aufschwinge, immer ins Ekstaetische,<lb facs="P7_TL00093"/>wo nicht gar, wie in vielen von tatarischem Lärm erfüll<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00094"/>ten, Erde und Himmel erschütternde Effecte anstreben<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00095"/>den, überdies auch oft von versteckten und offenen Remi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00096"/>niscenzen wimmelnden Stellen ins Gemeine verfalle, nicht</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00002">
+                                    <lb facs="P8_TL00002"/>wenig zu dem unerquicklichen Gesammt-Eindruck des<lb facs="P8_TL00003"/>Ganzen beitrage, und auch ihnen schien es sonderbar,<lb facs="P8_TL00004"/>dass, da sowohl die Musik, wie die Poesie an sich einen<lb facs="P8_TL00005"/>so geringen, rein künstlerischen Genuss gewähre, aus der<lb facs="P8_TL00006"/>Verbindung zweier durch sich so unbefriedigenden Poten<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00007"/>zen ein drittes Höheres hervorgehen solle, welches voll<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00008"/>kommener wäre, als alles, was uns bisher Oper und Drama<lb facs="P8_TL00009"/>geboten; obwohl sie nicht läugnen konnten, dass es durch<lb facs="P8_TL00010"/>die eigenlhümliche Mischung der Elemente auf besondere<lb facs="P8_TL00011"/>Weise wirke und dass eine reine Kraft auf diesem oder<lb facs="P8_TL00012"/>einem ähnlichen Wege wohl noch zu einer Kunstschöpfung<lb facs="P8_TL00013"/>gelangen könnte, die, zum Theil auf neuen Principien be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00014"/>ruhend, sich der alten Oper, dem alten Drama ebenbürtig<lb facs="P8_TL00015"/>zeigte, und mit alten Mitteln eine in gewissem Sinne neue<lb facs="P8_TL00016"/>Kunstgattung erzeugte, in der sich die abwelkenden Zweige<lb facs="P8_TL00017"/>der Poesie wie der Musik neu zu regeneriren vermöchten.<lb facs="P8_TL00018"/>Dies waren im Wesentlichen die Eindrücke, welche<lb facs="P8_TL00019"/>meine Freunde von der Vorstellung des „Lohengrin" em<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00020"/>pfingen, und da sie so ziemlich mit denjenigen überein<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00021"/>stimmten, welche dieses, von vielen Gesichtspunkten aus<lb facs="P8_TL00022"/>betrachtet, merkwürdige Werk Wagner's, wie sein<lb facs="P8_TL00023"/>Wirken überhaupt immer in uns erweckten, so erlaubten<lb facs="P8_TL00024"/>wir uns, dieselben statt eigener Betrachtungen zu repro<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00025"/>duciren, die man doch eigentümlichen Erscheinungen der<lb facs="P8_TL00026"/>Epoche gegenüber immer von Zeit zu Zeit gern wieder<lb facs="P8_TL00027"/>einmal erneuert.<lb facs="P8_TL00028"/>Das gedrängt volle Haus und die häufig hervorbre<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00029"/>chenden Anzeichen von Sympathie bewiesen, dass der<lb facs="P8_TL00030"/>Antheil des Publicums an „Lohengrin" noch immer ein<lb facs="P8_TL00031"/>sehr lebhafter ist, desselben Publicums freilich, welchem<lb facs="P8_TL00032"/>Gluck's „Iphigenie" keine Sympathie abzugewinnen ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00033"/>mochte.<lb facs="P8_TL00034"/>Was die diesmalige Aufführung dieses Opern-Drama's<lb facs="P8_TL00035"/>betrifft, welche von je her zu den besseren unserer Bühne<lb facs="P8_TL00036"/>gehörte, so mischte sich in ihr Vollkommenes mit Schwa<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00037"/>chem und Misslungenem. Unter den vollkommenen Leistun<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00038"/>gen ist in erster Linie jene der Frau Du st mann zu nen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00039"/>nen, welche die Elsa kaum jemals schöner gespielt und<lb facs="P8_TL00040"/>gesungen hat, als diesmal. Leben und Bewegung in jedem<lb facs="P8_TL00041"/>Tone, jedem Zuge, dass man es gesteigerter und doch<lb facs="P8_TL00042"/>maassvoll gebundener nicht zu denken vermag. Leistungen<lb facs="P8_TL00043"/>dieser Art sind wahrhaft schöpferische, denn sie ergänzen<lb facs="P8_TL00044"/>den Dichter und Componisten, dass ihm sein eigenes Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00045"/>bilde, durch solchen Hauch belebt, fast als ein neues er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00046"/>scheinen muss. Die Herren Beck und Schmid bewähr<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00047"/>ten sich in früherer Tüchtigkeit und Tadellosigkeit, ja, der<lb facs="P8_TL00048"/>Letztere schien uns den König nie mit mehr Würde und<lb facs="P8_TL00049"/>Majestät in Gesang und Spiel repräsentirt zu haben. Be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00050"/>ziehungsweise schwach und nur ein Schatten von ehemals<lb facs="P8_TL00051"/>war Herr Ander als Held desDrama's. Es ist in der That</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00003">
+                                    <lb facs="P8_TL00052"/>bedauernswert!), zu sehen, mit welcher peinlichen Mühe<lb facs="P8_TL00053"/>und Anstrengung dieser Künstler ringt, um seine frühere<lb facs="P8_TL00054"/>Höhe nur einiger Maassen zu behaupten, und doch vermag<lb facs="P8_TL00055"/>er seiner Kehle kaum mehr einen hellen, freien Ton ab<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00056"/>zugewinnen. Alles klingt so gedämpft, gedrückt.<lb facs="P8_TL00057"/>Fräulein Destinn sang zum ersten Male die Or<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00058"/>trud, und hatte mit dieser Rolle eine Partie übernommen,<lb facs="P8_TL00059"/>der sie denn doch—wenigstens vorläufig—nicht gewach<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00060"/>sen ist.<lb facs="P8_TL00061"/>Das Ensemble der Vorstellung, von je her tüchtig,<lb facs="P8_TL00062"/>war es auch diesmal, mit Ausnahme des ersten Chors im<lb facs="P8_TL00063"/>zweiten Acte. Sehr zweckmässig hat man (wahrscheinlich<lb facs="P8_TL00064"/>auch schon bei früheren Vorstellungen) einige Kürzungen<lb facs="P8_TL00065"/>angebracht, die wirklich noth thaten, denn auch so nimmt<lb facs="P8_TL00066"/>die Aufführung dieses Opern-Drama's noch über drei<lb facs="P8_TL00067"/>Stunden in Anspruch.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00005">
+                                    <lb facs="P7_TL00097"/>*) Aua den Nr. 21.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c006">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P8_TB00004">
+                           <lb facs="P8_TL00068"/>Tages- und Unterhaltungs-Blatt.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00005">
+                                    <lb facs="P8_TL00069"/>'Wien. Man versichert mit Bestimmtheit, dass Wien noch in<lb facs="P8_TL00070"/>diesem Jahre eine italienische Oper bekommen werde. Das<lb facs="P8_TL00071"/>Unternehmen geht von Privaten aus, welche an dasselbe die<lb facs="P8_TL00072"/>Summe von 100,000 Fl. wenden wollen. Das Geld soll bereits bei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00073"/>sammen sein und jede Stunde flüssig gemacht werden Die<lb facs="P8_TL00074"/>Opern-Gesellschaft würde vom 1. October ab durch vier Monate,<lb facs="P8_TL00075"/>also bis Anfang Januar 1863, Vorstellungen geben in welchem<lb facs="P8_TL00076"/>Theater, scheint noch nicht bestimmt zu sein. Dagegen soll der<lb facs="P8_TL00077"/>Opernsänger und bisherige Regisseur an der berliner Hofoper, Herr<lb facs="P8_TL00078"/>Wolf, bereits für die artistische Leitung dieser Unternehmung defi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00079"/>nitiv gewonnen und mit dem Engagement der erforderlichen Gesan<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00080"/>geskräfte betraut worden sein. Herr Wolf soll demnach auch schon<lb facs="P8_TL00081"/>mit hervorragenden Celebritäten, namentlich mit Fräulein Artot,<lb facs="P8_TL00082"/>Trebelli und den Geschwistern Marchisio, Tamberlik und<lb facs="P8_TL00083"/>Angelini in Unterhandlungen getreten sein.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div type="SponsoredAdvertisement">
+                  <div type="SponsoredAd" corresp="c007">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00007">
+                        <lb facs="P8_TL00094"/>Alle in dieser Musik-Zeitung besprochenen und eingehändigten<lb facs="P8_TL00095"/>Musicalien etc. sind zu erhalten in der stets vollständig assortirten<lb facs="P8_TL00096"/>Musicalien-Handlung und Leihanstalt von BERNHARD BREUER<lb facs="P8_TL00097"/>in Köln, grosse Budengasse Nr. 1, so wie bei J. FR. WEBER,<lb facs="P8_TL00098"/>*Appellhofsplatz Nr. 22.</ab>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

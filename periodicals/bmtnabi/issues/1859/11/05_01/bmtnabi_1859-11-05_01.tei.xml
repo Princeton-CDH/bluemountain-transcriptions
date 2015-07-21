@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+        Transcription of
+        <biblStruct>
+                  <monogr>
+                     <title level="j">
+                        <seg type="main">Niederrheinische Musik</seg>
+                     </title>
+                     <imprint>
+                        <biblScope unit="vol"/>
+                        <biblScope unit="issue"/>
+                        <date when="1859-11-05">5. November 1859</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Princeton University</publisher>
+            <idno type="bmtnid">urn:PUL:bluemountain:bmtnabi_1859-11-05_01</idno>
+         </publicationStmt>
+         <seriesStmt>
+            <title level="s">The Blue Mountain Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title level="j">
+                     <seg type="main">Niederrheinische Musik</seg>
+                     <seg type="sub">Zeitung für Kunstfreunde und Künstler</seg>
+                  </title>
+                  <imprint>
+                     <biblScope unit="vol"/>
+                     <biblScope unit="issue"/>
+                     <date when="1859-11-05"/>
+                  </imprint>
+               </monogr>
+               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnabi"/>
+               <relatedItem type="constituent" xml:id="c001">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Inhalt.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page">1</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c002">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Ludwig Spohr</seg>
+                        </title>
+                        <respStmt>
+                           <persName>C. A</persName>
+                           <resp>cre</resp>
+                        </respStmt>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="1" to="3">1-3</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c003">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Uebersicht der Abtheilungen des Vereins zur Beförderung der Tonkunst in Niederland im Jahre 1858-1859.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="3" to="5">3-5</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c004">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Jakob Andreas Romberg.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page">5</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c005">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="nonSort">Die</seg>
+                           <seg type="main">Deutsche Schiller-Stiftung an die Deutschen</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="5" to="6">5-6</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c006">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Ludwig Spohr’s Begräbnik.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="6" to="7">6-7</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c007">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Tages- und Unterhaltungs-Blatt.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="7" to="8">7-8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c008">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c009">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c010">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="Magazine">
+            <div type="Issue">
+               <div type="PublicationInfo">
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00001">
+                        <lb facs="P1_TL00001"/>Niedeniieinischc Musik-Zeitung<lb facs="P1_TL00002"/>für Kunstfreunde und Künstler.<lb facs="P1_TL00003"/>Herausgegeben von Professor L. Bischoff. Verlag der Buchhandlung.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00002">
+                        <lb facs="P1_TL00004"/>Nr. 45.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00003">
+                        <lb facs="P1_TL00005"/>KÖLN, 5. November 1859.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00004">
+                        <lb facs="P1_TL00006"/>VII. Jahrgang.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00012">
+                        <lb facs="P1_TL00084"/>45</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00009">
+                        <lb facs="P8_TL00092"/>fißie <lb facs="P8_TL00093"/>erscheint jeden Samstag in einem ganzen Bogen mit zwanglosen<lb facs="P8_TL00094"/>Beilagen. Der Abonnementspreis beträgt für das Halbjahr 2 Thlr.,<lb facs="P8_TL00095"/>bei den K. preuss. Post-Anstalten 2Thlr.s Sgl*. Eine einzelneNum<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P8_TL00096"/>mer 4 Sgl*. Einrückungs Gebühren per Petitzeile 2 Sgr.<lb facs="P8_TL00097"/>Briefe und Zusendungen aller Art werden unter der Adresse der<lb facs="P8_TL00098"/>M. L&gt;uMont-Sehaubel•g,sehen Buchhandlung in Köln erbeten.<lb facs="P8_TL00099"/>Verantwortlicher Herausgeber: Prof. JL. Bischoil' iri Köln.<lb facs="P8_TL00100"/>Verleger: M. DuMont-SchaubeiVsche Buchhandlung in Köln.<lb facs="P8_TL00101"/>Drucker* \I. DuMont-Sehauberg in Köln, Breilslrassc 76 u. 78.</ab>
+                  </div>
+               </div>
+               <div type="EditorialContent">
+                  <div type="TextContent" corresp="c001">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00006">
+                           <lb facs="P1_TL00011"/>Inhalt.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00005">
+                                    <lb facs="P1_TL00007"/>Ludwig Spohr (Biographische Uebersicht). Von C. A. Uebersicht der Abtheilungen des Vereins zur Beförderung der<lb facs="P1_TL00008"/>Tonkunst in Niederland im Jahre 1858—1859. Jakob Andreas Romberg Die deutsche Schiller-Stiftung an die Deutschen. <lb facs="P1_TL00009"/>Ludwig Spohr's Begräbniss. Tages- und Unterhaltungsblatt (Hannover, H. Marschner Dresden Ludwig Wolf f Stutt<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00010"/>gart, Schiller-Fest Regensburg Heilbronn, Schiller-Fest Wien Brüssel).</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c002">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00007">
+                           <lb facs="P1_TL00012"/>Ludwig Spohr</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00004">
+                           <lb facs="P3_TL00067"/>C. A.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00008">
+                                    <lb facs="P1_TL00013"/>*)•</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00009">
+                                    <lb facs="P1_TL00014"/>Durch das ganze Deutschland, ja, durch die ganze<lb facs="P1_TL00015"/>civilisirte Welt wird die Kunde gehen, dass Ludwig Spohr<lb facs="P1_TL00016"/>nicht mehr unter den Lebenden weilt, und überall wird<lb facs="P1_TL00017"/>sie das Echo der Trauer wecken. Denn wir verlieren auch<lb facs="P1_TL00018"/>die ungern und mit schmerzlichem Bewusstsein von der<lb facs="P1_TL00019"/>Flüchtigkeit des Irdischen, deren Tagewerk geendet war,<lb facs="P1_TL00020"/>die nur noch als Person, als leibhaftige Menschen mit uns<lb facs="P1_TL00021"/>wandelten und durch ihre Erscheinung an die Tage ihrer<lb facs="P1_TL00022"/>Schaffenskraft erinnerten. Die Zeit, in der Ludwig Spohr<lb facs="P1_TL00023"/>sich Denkmale unvergänglicher Dauer im Gebiete der Kunst<lb facs="P1_TL00024"/>schuf, liegt dahinten, er selbst aber war uns bis dahin ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00025"/>blieben als einer der grossen Genien, die aus vergangenen<lb facs="P1_TL00026"/>Tagen in die unseren ragen, von denen der Tod nach der<lb facs="P1_TL00027"/>reichen Aernte, die er in den letzten Jahren gehalten, nur<lb facs="P1_TL00028"/>noch wenige zu sammeln hat. Wir nun, die ihn persönlich<lb facs="P1_TL00029"/>den Unsrigen nennen durften, haben besondere Ursache,<lb facs="P1_TL00030"/>nun, da er abgerufen, daran zu erinnern, was er uns ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00031"/>wesen. Seit mehr als siebenunddreissig Jahren hat der<lb facs="P1_TL00032"/>Haupttheil seines Wirkens unserer Stadt angehört, sein<lb facs="P1_TL00033"/>Ruhm ist in gewissem Betracht mit ihr verknüpft, denn die<lb facs="P1_TL00034"/>Stätte, die ein grosser Mensch betrat, ist ja geweiht für<lb facs="P1_TL00035"/>alle Zeiten. In aller Welt leben ihm Bewunderer; bei uns<lb facs="P1_TL00036"/>lebte ihm und wird ihm leben Liebe und dankbare Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00037"/>ehrung. War auch sein äusserliches Wesen schroffer, als<lb facs="P1_TL00038"/>die seelenvolle Zartheit, die elegische Weichheit seiner<lb facs="P1_TL00039"/>Tongebilde vermuthen liess, so sind doch nicht Wenige,<lb facs="P1_TL00040"/>denen es vergönnt war, die herrliche Innerlichkeit seiner<lb facs="P1_TL00041"/>Seele auch in nicht künstlerischen Beziehungen leuchten zu<lb facs="P1_TL00042"/>sehen. Wer solche wunderbare Lieblichkeit in Töne zu<lb facs="P1_TL00043"/>hauchen verstand, wer so schöne Lieder aus der Fülle sei-</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00011">
+                                    <lb facs="P1_TL00048"/>nes Innern hervorströmen lassen konnte, der konnte auch<lb facs="P1_TL00049"/>im Leben der Liebe und Herzlichkeit nicht baar sein. Tau<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00050"/>sende wissen zu rühmen von der thätigen, uneigennützigen<lb facs="P1_TL00051"/>Bereitwilligkeit Spohr's, dem unbemittelten Talent Förde<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00052"/>rung, der Dürftigkeit Unterstützung zu gewähren, und an<lb facs="P1_TL00053"/>seinen Früchten mag man auch ihn besser erkennen, als<lb facs="P1_TL00054"/>an dem, was er äusserlich Vielen schien.<lb facs="P1_TL00055"/>Werfen wir einen flüchtigen Blick auf das reiche Le<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00056"/>ben, das nun zum Abschluss gekommen. Ludwig Spohr<lb facs="P1_TL00057"/>ward am 5. April 1784 zu Braunschweig geboren. Die<lb facs="P1_TL00058"/>Rindheitsjahre verbrachte er nach des Vaters, der als Arzt<lb facs="P1_TL00059"/>wirkte, Versetzung grösstenteils in dem Städtchen Seesen.<lb facs="P1_TL00060"/>Dort hatte der Bector Biemenschneider die erste Leitung<lb facs="P1_TL00061"/>des musicalischen Unterrichts, nachdem der Vater wider<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00062"/>strebend, da er den Sohn der Wissenschaft bestimmte,<lb facs="P1_TL00063"/>dem früh erwachten künstlerischen Triebe des Knaben<lb facs="P1_TL00064"/>und den Bitten der Mutter nachgab und den Unterricht im<lb facs="P1_TL00065"/>Geigenspiel neben ernsthaften wissenschaftlichen Studien<lb facs="P1_TL00066"/>gestattete. Ein Befugie, Dufour, trat dem Bector als Leh<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00067"/>rer zur Seite, um Weniges befähigter, als dieser. Nach<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00068"/>dem der achtjährige Knabe bereits durch Compositions-<lb facs="P1_TL00069"/>Versuche entschiedenste Begabung gezeigt, verstand sich<lb facs="P1_TL00070"/>der Vater selbst dazu, die weitere Ausbildung in der Be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00071"/>sidenz zu ermöglichen. In Braunschweig genoss Ludwig<lb facs="P1_TL00072"/>Spohr einen kurzen theoretischen Unterricht, den einzigen,<lb facs="P1_TL00073"/>den er im Leben hatte, beim Organisten Härtung, wäh<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00074"/>rend das Geigenspiel unter Leitung von Kanisch, Maucourt<lb facs="P1_TL00075"/>und Franz Eck nach einander weitergeübt wurde. Am 23.<lb facs="P1_TL00076"/>Oclober 1799 also vor sechszig Jahren erhielt der<lb facs="P1_TL00077"/>fünfzehnjährige Knabe das Bescript als herzoglicher Kam<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00078"/>mermusicus. Einer Kunstreise mit seinem Lehrer Eck nach<lb facs="P1_TL00079"/>Bussland (1803) folgte 1804 die erste selbstständigo<lb facs="P1_TL00080"/>Kunstfahrt durch Deutschland, die dem jungen Künstler<lb facs="P1_TL00081"/>sofort Buhm und Ehren die Fülle eintrug. Der Herzog<lb facs="P1_TL00082"/>von Gotha berief im nächsten Jahre Ludwig Spohr zu sich<lb facs="P1_TL00083"/>als Concertmeister. In Gotha vermählte sich Spohr mit</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00002">
+                                    <lb facs="P2_TL00002"/>Dorothea, geborenen Scheidler, einer alsllarfen-Vir<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00003"/>tuosin berühmt gewordenen Künstlerin. Er fand in ihr das<lb facs="P2_TL00004"/>treueste Weib neben kunstverwandter Begabung. Um jene<lb facs="P2_TL00005"/>Zeit entstand ausser zahlreichen anderen Werken das Ora<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00006"/>torium „Das jüngste Gericht" und die Oper „Der Zwei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00007"/>kampf mit der Geliebten". 1813 ward Spohr in die Kai<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00008"/>serstadt an das Theater an der Wien berufen. Während<lb facs="P2_TL00009"/>des folgenden Jahres zur Congress-Zeit entzückte sein Gei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00010"/>genspiel die versammelte Menge von Berühmtheiten, Macht<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00011"/>habern und Notabilitäten an Geist und Körper. Spohr's<lb facs="P2_TL00012"/>Weltruhm stammt aus jenen Tagen. Damals schrieb er<lb facs="P2_TL00013"/>seinen „Faust", aus dem einzelne Stücke, namentlich die<lb facs="P2_TL00014"/>Fest-Polonaise, die Bunde durch Europa machten, und<lb facs="P2_TL00015"/>ausser vielen Instrumentalwerken das Oratorium „Das be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00016"/>freite Deutschland", das der Zeitstimmung begeisterten<lb facs="P2_TL00017"/>Ausdruck lieh. Einer Reise nach Italien (im Jahre 1817)<lb facs="P2_TL00018"/>folgte die Anstellung Spohr's als Musik-Direclor am Stadt<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00019"/>theater zu Frankfurt am Main, in welcher Stadt die wun<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00020"/>derbar anmuthige Composition von „Zemire und Azor"<lb facs="P2_TL00021"/>gedichtet wurde. Die Wanderneigung des Künstlers liess<lb facs="P2_TL00022"/>ihn bald darauf seine Stellung aufgeben und eine Reise<lb facs="P2_TL00023"/>nach England unternehmen. Dort wurde er gefeiert, wie<lb facs="P2_TL00024"/>seit Händel kein deutscher Tonmeister. Glänzende Aner<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00025"/>bietungen von Seiten des königlichen Hofes vermochten<lb facs="P2_TL00026"/>aber seine lleimatsliebe nicht zu überstimmen; nach der<lb facs="P2_TL00027"/>Vollendung seiner zweiten Sinfonie in London kehrte er<lb facs="P2_TL00028"/>nach Deutschland zurück und begab sich zunächst nach<lb facs="P2_TL00029"/>Dresden, bis er 1822 auf den Ruf Kurfürst Wilhelm's 11.,<lb facs="P2_TL00030"/>des unvergesslichen Förderers der Künste, an die Spitze<lb facs="P2_TL00031"/>unserer kasseler Hofcapelle trat.<lb facs="P2_TL00032"/>In den Beginn seiner Wirksamkeit hier fällt gleich<lb facs="P2_TL00033"/>eine That, deren dauernde Erfolge für Spohr noch eine<lb facs="P2_TL00034"/>andere ruhmreiche Erinnerung begründen, als seine Künst<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00035"/>lerschalt. Mit Zurücksetzung eigenen Vortheils, indem er<lb facs="P2_TL00036"/>aul ein ihm für jedes Jahr bewilligtes Benefiz-Concert ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00037"/>zichtete, begründete er den Unterstützungs-Fonds für Wit<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00038"/>wen und Waisen des Hof-Orchesters. Auch die Stiftung<lb facs="P2_TL00039"/>des Cäcilien-Vereins fällt in das Jahr seiner Berufung Die<lb facs="P2_TL00040"/>Uebersiedelung in unsere Stadt scheint bald günstig auf<lb facs="P2_TL00041"/>das schöpferische Vermögen Spohr's gewirkt zu haben;<lb facs="P2_TL00042"/>denn kurz nachdem er unser Mitbürger geworden, schuf<lb facs="P2_TL00043"/>er dasjenige Opernwerk, das am dauerndsten Besitz vom<lb facs="P2_TL00044"/>deutschen Opern-Repertoire unter allen seinen dramati<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00045"/>schen Compositionen genommen, das viele Tausend Herzen<lb facs="P2_TL00046"/>entzückte und wie oft noch entzücken wird: seine „Jes<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00047"/>sonda" (1822). Fünfunddreissig Jahre später nahm der<lb facs="P2_TL00048"/>Meister mit dieser Oper, die gleichsam sein Willkomm<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00049"/>gruss an Kassel gewesen, Abschied von dem Dirigenten<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00050"/>pulte, an dem er so lange das Orchester geleitet. Wie<lb facs="P2_TL00051"/>„Jessonda", so entstanden die meisten übrigen Opern</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00003">
+                                    <lb facs="P2_TL00052"/>Spohr's in der kasseler Zeit: der „Berggeist" (1824),<lb facs="P2_TL00053"/>„Pietro von Abano" (1827), „Der Alchymist" (1830),<lb facs="P2_TL00054"/>„Die Kreuzfahrer" (1844). Ueberhaupt dürfen wir die<lb facs="P2_TL00055"/>Entstehung der meisten grösseren Compositionen Spohr's<lb facs="P2_TL00056"/>örtlich nach Kassel verlegen. Von den Oratorien: „Die<lb facs="P2_TL00057"/>letzten Dinge", „Des Heilands letzte Stunden", „Der Fall<lb facs="P2_TL00058"/>Babylons", „Vater-Unser" u.s.w.; ferner sechs Sinfo<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00059"/>nieen, die Mehrzahl der Violin-Concerte, zahlreiche Quar<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00060"/>tette und Quintette, eine Fülle wunderschöner Lieder<lb facs="P2_TL00061"/>u. s. w.<lb facs="P2_TL00062"/>Den stillen Frieden des Hauses, das wir alle kennen,<lb facs="P2_TL00063"/>das als Asyl eines in Zurückgezogenheit schaffenden gros<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00064"/>sen Genius für alle Zukunft uns Kasselanern geweiht sein<lb facs="P2_TL00065"/>wird, brach nach zwölf Jahren ungestörten Familienglückes<lb facs="P2_TL00066"/>der Tod. Dorothea Spohr starb zum unendlichen Schmerze<lb facs="P2_TL00067"/>des Meisters (1834, den 20. November). Ihr Harfenspiel<lb facs="P2_TL00068"/>war längst nicht mehr erklungen, da die angestrengten<lb facs="P2_TL00069"/>Uebungen und Productionen noch in London (1819) sie<lb facs="P2_TL00070"/>so erschöpft hatten, dass sie das geliebte Instrument ganz<lb facs="P2_TL00071"/>aufgeben und sich mehr als früher dem Ciavier zuwenden<lb facs="P2_TL00072"/>musste. Ihr Verlust raubte dem Gatten die treu bewährte<lb facs="P2_TL00073"/>Gefährtin in Leben und Kunst. Die letztere, nun in einsa<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00074"/>mer Trauer gepflegt, übte aber bald ihre wunderbare<lb facs="P2_TL00075"/>Macht und wirkte zugleich abziehend und aufrichtend auf<lb facs="P2_TL00076"/>den gebeugten Meister. Nach einigen Jahren fand er die<lb facs="P2_TL00077"/>hingebende Liebe einer zweiten, ebenfalls kunstbegeisterten<lb facs="P2_TL00078"/>Gattin in der Tochter des ausgezeichneten Rechtsgelehrten<lb facs="P2_TL00079"/>B. W. Pfeiffer, mit der er s'ch 1836 im Januar vermählte.<lb facs="P2_TL00080"/>In der Folge ist Spohr's häusliches Leben bis auf einen<lb facs="P2_TL00081"/>schweren Verlust, der ihn (1838) im Tode der jüngsten<lb facs="P2_TL00082"/>unter den drei Töchtern, die ihm die erste Ehe geschenkt,<lb facs="P2_TL00083"/>hart traf, äusserlich ungetrübt geblieben. Die letzten zwan<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00084"/>zig Jahre seines Lebens waren reich an höchsten künstle<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00085"/>rischen Ehren. Am lautesten erhoben sich die Engländer<lb facs="P2_TL00086"/>bei ihren Huldigungen. Im September 1839 dirigirte<lb facs="P2_TL00087"/>Spohr, einer Einladung folgend, das grosse Musikfest zu<lb facs="P2_TL00088"/>Norwich, auf dem sein Oratorium „Des Heilands letzte<lb facs="P2_TL00089"/>Stunden" so grossen Enthusiasmus hervorrief, dass man<lb facs="P2_TL00090"/>den Künstler um die Composition eines ähnlichen Werkes<lb facs="P2_TL00091"/>für das nächste Fest (1842) anging. Das dadurch hervor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00092"/>gerufene und gleich in der Anlage auf die bedeutenden<lb facs="P2_TL00093"/>Massen der Ausführenden berechnete Oratorium, eines der<lb facs="P2_TL00094"/>grossartigsten, die überhaupt je geschrieben sind, ist „Der<lb facs="P2_TL00095"/>Fall Babylons". An der Leitung des Fest-Concertes ward<lb facs="P2_TL00096"/>Spohr durch mangelnden Urlaub gehindert. Im Juli des<lb facs="P2_TL00097"/>folgenden Jahres entschädigten ihn für das Versäumte zwei<lb facs="P2_TL00098"/>grandiose Concerte in London (in und in<lb facs="P2_TL00099"/>nover Square), die zwei Mal das Oratorium zur Auffüh<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00100"/>rung und dem Componisten den begeistertsten Beifall<lb facs="P2_TL00101"/>brachten. 1847 erlebte der Meister auf deutscher, insbe<pc type="endhypen" pre="false">-</pc>
+                                 </ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00002">
+                                    <lb facs="P3_TL00002"/>sondere auf hessischer Erde eine Verherrlichung, bei der,<lb facs="P3_TL00003"/>was ihr an stürmischer, geräuschvoller Massenhaftigkeit<lb facs="P3_TL00004"/>abging, durch innige Theilnahme und sinnige Anordnung<lb facs="P3_TL00005"/>ersetzt wurde. Den Bewohnern Kassels werden die Tage<lb facs="P3_TL00006"/>des 20. und 22. Januar 1847, an denen man das fünf<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00007"/>undzwanzigjährige Amts-Jubiläum Spohr's, als des Leiters<lb facs="P3_TL00008"/>unserer Capelle, feierte, in treuer Erinnerung sein. Seit<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00009"/>dem gehörte der Meister auch als Bürger unserer Stadt<lb facs="P3_TL00010"/>an, nachdem der Magistrat ihn und sich durch Verleihung<lb facs="P3_TL00011"/>des Ehren-Bürgerrechts geehrt. Der vaterländischen Hul<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00012"/>digung folgte im Juni desselben Jahres wiederum eine in<lb facs="P3_TL00013"/>England, wo Spohr, zufolge erhaltener Aufforderung, in drei<lb facs="P3_TL00014"/>Concerten eben so viele seiner Oratorien zur Aufführung<lb facs="P3_TL00015"/>brachte. Die stürmischen Revolutionszeiten überstand er<lb facs="P3_TL00016"/>dann in zurückgezogener künstlerischer Thätigkeit; im März<lb facs="P3_TL00017"/>1848 schrieb er sein herrliches Sextett für zwei Violinen,<lb facs="P3_TL00018"/>zwei Bratschen, zwei Violoncello's, und war dann in der<lb facs="P3_TL00019"/>folgenden Zeit hauptsächlich damit beschäftigt, den Dialog<lb facs="P3_TL00020"/>im „Faust" durch Recitative zu ersetzen und die zwei<lb facs="P3_TL00021"/>Acte der Oper in drei umzuwandeln. Seit 1853, wo er<lb facs="P3_TL00022"/>mit staunenswerther Jugendlichkeit und Frische noch ein<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00023"/>mal seine ganze schöpferische Begabung in dem Septett<lb facs="P3_TL00024"/>für Ciavier, zwei Streich- und vier Blas-Instrumente be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00025"/>kundete, schriebSpohr noch Verschiedenes, ohne dass ihm<lb facs="P3_TL00026"/>selbst die damals entstandenen Arbeiten genügt hätten, da<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00027"/>her er sie nicht veröffentlichte. Seine Dirigenten-Thätigkeit<lb facs="P3_TL00028"/>beschränkte sich, nachdem er (1857, den 22. November)<lb facs="P3_TL00029"/>in den Ruhestand versetzt worden, auf die Leitung einer<lb facs="P3_TL00030"/>Aufführung seiner „Jessonda" auf dem prager Musikfeste<lb facs="P3_TL00031"/>(8. Juli 1858) und auf die Direction eines von seinem<lb facs="P3_TL00032"/>Schüler J. J. Bott, Capellmeister in Meiningen, zu seinen<lb facs="P3_TL00033"/>Ehren veranstalteten Concerts (12. April 1859), in dem<lb facs="P3_TL00034"/>nur Spohr'sche Compositionen aufgeführt wurden.<lb facs="P3_TL00035"/>Die Folgen eines Armbruches (Januar 1858) zwan<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00036"/>gen den Meister, dem geliebten Geigenspiel zu entsagen.<lb facs="P3_TL00037"/>Oeffentlich, in eigentlichen Solo-Vorträgen, war freilich<lb facs="P3_TL00038"/>sein Zauberspiel seit langen Jahren nicht mehr gehört wor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00039"/>den; nur im Privatkreise hat es noch Viele entzückt. Auch<lb facs="P3_TL00040"/>die Compositions-Versuche wurden nach jenem Unfälle<lb facs="P3_TL00041"/>aufgegeben, insbesondere ein begonnenes unvoll<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00042"/>endet gelassen, da der Meister selbst an sich spürte, dass<lb facs="P3_TL00043"/>ihm der Abend des Lebens hereingebrochen sei, an dem<lb facs="P3_TL00044"/>Niemand wirken kann.<lb facs="P3_TL00045"/>Nun ist dieser Abend zur kurzen Nacht geworden.<lb facs="P3_TL00046"/>Aber vom Tage her glänzt noch der lichte Schein über<lb facs="P3_TL00047"/>uns alle, wie von der gesunkenen Sonne, und wir dürfen<lb facs="P3_TL00048"/>wohl sagen, dass dieser Schein nimmermehr verbleichen<lb facs="P3_TL00049"/>wird. Was Meister Ludwig geschaffen, das ist das Erbe,<lb facs="P3_TL00050"/>das viele Tausende antreten und den Enkeln überliefern<lb facs="P3_TL00051"/>werden. Seine Melodieen tönen fort, und sein Name steht</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00003">
+                                    <lb facs="P3_TL00052"/>wie eine klingende Memnonssäule in der Geschichte der<lb facs="P3_TL00053"/>Musik aufgerichtet. Dankbare Jünger, die selbst schon zu<lb facs="P3_TL00054"/>Meistern geworden, blicken dem Geschiedenen aus vielen<lb facs="P3_TL00055"/>deutschen Gauen, ja, aus fernen Ländern nach, sein uner<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00056"/>reichbares Vorbild, zum Streben lockend, in ihrer Erin<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00057"/>nerung. Unzählige, die seine Tongebilde, deren Adel von<lb facs="P3_TL00058"/>keinem deutschen, von keinem Tonmeister der Welt über<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00059"/>treffen ward, vernommen haben und vernehmen werden,<lb facs="P3_TL00060"/>gedenken in begeisterter Verehrung dessen, der so Lieb<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00061"/>liches, Herrliches schuf. Und wir, seine Mitbürger, werden<lb facs="P3_TL00062"/>uns freudig erinnern, dass er in vielem Betracht derUnsrice<lb facs="P3_TL00063"/>o<lb facs="P3_TL00064"/>gewesen, dass auf dem Boden unserer Heimat von ihm so<lb facs="P3_TL00065"/>Wunderherrliches gezeugt ward, dass wir einen hochbe<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00066"/>gabten Genius lange unter uns wandeln sahen.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00010">
+                                    <lb facs="P1_TL00044"/>*) Wir entnehmen der Kasseler Zeitung (Nr. 230) diesen Artikel,<lb facs="P1_TL00045"/>weil er, neben der kurzen biographischen Uebersicht, der Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00046"/>ehrung der nächsten Umgebung des Verewigten einen so<lb facs="P1_TL00047"/>warmen Ausdruck gibt. Die Kedaction.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c003">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00005">
+                           <lb facs="P3_TL00068"/>Uebersicht der Abtheilungen des Vereins zur Beför<pc type="endhypen" pre="false">-</pc>
+                           <lb facs="P3_TL00069"/>derung der Tonkunst in Niederland im Jahre<lb facs="P3_TL00070"/>1858-1859.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00006">
+                                    <lb facs="P3_TL00071"/>Amsterdam. 616 Mitglieder, 21 beitragende Künst<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00072"/>ler, 25 Ehren-Mitglieder. Vorstand 9 Mitglieder. Vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00073"/>sitzender Herr P. C. Stadniski.<lb facs="P3_TL00074"/>Gesang-Verein von 300 Mitgliedern, Dirigent Ri<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00075"/>chard Hol.—Aufführungen mit Orchester den 18. De<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00076"/>cember und 9. April. I. Lobgesang von Mendelssohn; Co<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00077"/>mala von Gade. 11. Messias von Händel; Einleitungen und<lb facs="P3_TL00078"/>Chöre zu Vondel's Lucifer von van Eyken. Den 28.<lb facs="P3_TL00079"/>Februar grosses Concert zum Besten einer Stiftung für<lb facs="P3_TL00080"/>hülfsbedürftige inländische Künstler: Joseph von Mehul;<lb facs="P3_TL00081"/>Stabat Mater von Rossini.<lb facs="P3_TL00082"/>Arnheim. 142 Mitglieder, 3 beitragende Künstler,<lb facs="P3_TL00083"/>1 Ehren-Mitglied. Vorstand 7 Mitglieder. Vorsitzender<lb facs="P3_TL00084"/>Baron von Pallandt von Westervoort.<lb facs="P3_TL00085"/>Gesang-Verein 96 Mitglieder, 8 Ehren-Mitglieder.<lb facs="P3_TL00086"/>Dirigent C. H. Marx, Stellvertreter J. van der Düssen.<lb facs="P3_TL00087"/>—Aufführungen den 28. December und 5. April. I. Lob<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00088"/>gesang von Mendelssohn und Fragmente des Paulus. 11.<lb facs="P3_TL00089"/>Graun's Tod Jesu; Gade's Comala.<lb facs="P3_TL00090"/>Dordrecht. 17 Mitglieder, 3 beitragende Künstler,<lb facs="P3_TL00091"/>4 Ehren-Mitglieder. Vorstand 3 Mitglieder. Vorsitzender<lb facs="P3_TL00092"/>Herr J. J. E. van den Brandeier. Musiklehrer Böhm.<lb facs="P3_TL00093"/>Enkhuizen. 25 Mitglieder, 1 beitragender Künstler,<lb facs="P3_TL00094"/>2 Ehren-Mitglieder. Vorstand 6 Mitglieder. Vorsitzender<lb facs="P3_TL00095"/>IL A. van Bleiswyk. Singschule (24 Schüler, davon<lb facs="P3_TL00096"/>17 Freischüler, 6 Stunden wöchentlich); Instrumental<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00097"/>schule (3 Schüler). Gesang-Verein 42 Mitglieder (3 Stun<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00098"/>den wöchentlich). DirigentG.ll.Meyroos. Aufführung:<lb facs="P3_TL00099"/>der 84. Psalm von van Bree; Beethoven's Messe (3 Hym<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00100"/>nen) in C-dur.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00002">
+                                    <lb facs="P4_TL00002"/>Gertrui den bürg. 4 Mitglieder. Vorsitzender Dr.<lb facs="P4_TL00003"/>Titsing.<lb facs="P4_TL00004"/>Goes. 54 Mitglieder, 1 beitragender Künstler, 7 Eh<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00005"/>ren-Mitglieder. Vorstand 5 Mitglieder. Vorsitzender Dr.<lb facs="P4_TL00006"/>R. B. van den Bosch. Singschule von 33 Schülern (14<lb facs="P4_TL00007"/>frei), 9 Stunden wöchentlich. Gesang-Verein von 62 Mit<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00008"/>gliedern. Dirigent J. F. Ahrensmann. Aufführungen:<lb facs="P4_TL00009"/>I. Spohr's „Die letzten Dinge". 11. Mendelssohn's Paulus.<lb facs="P4_TL00010"/>'s Gravenhage. 199 Mitglieder, 15 beitragende<lb facs="P4_TL00011"/>Künstler, 32 Ehren-Mitglieder. Vorstand 7 Mitglieder.<lb facs="P4_TL00012"/>Vorsitzender Herr P. N. Roche.<lb facs="P4_TL00013"/>Gesang-Verein von 104 Mitgliedern. Dirigent Capell<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00014"/>meister J. 11. Lübeck; Vice-Dirigenten: J. FI. Verhülst,<lb facs="P4_TL00015"/>W. F. G. N icolai.—Aufführungen: den 21. December,<lb facs="P4_TL00016"/>3. Februar und 9. März. I. Mendelssohn's Paulus. 11. Men<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00017"/>delssohn's Lorelei; Nicolai, Sonate für Piano und Violon<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00018"/>cell; Schumann, Requiem für Mignon; Gade, Erlkönigs<lb facs="P4_TL00019"/>Tochter. 111. Der 95. Psalm von Mendelssohn; Lauda Sion<lb facs="P4_TL00020"/>von demselben; F. Hiller, „0 weint um sie"; Beethoven,<lb facs="P4_TL00021"/>Die Maccabäer (Christus am Oelberge).<lb facs="P4_TL00022"/>Haarlem. 110 Mitglieder, 7 beitragende Künstler,<lb facs="P4_TL00023"/>3 Ehren-Mitglieder. Vorstand 6 Mitglieder. Vorsitzender<lb facs="P4_TL00024"/>N. J. A. Travaglino.<lb facs="P4_TL00025"/>Singschule, 60 Schüler (6 frei), 8 Stunden wöchent<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00026"/>lich. Gesang-Verein 34 Mitgl. Dirigent W. B. Weidner.<lb facs="P4_TL00027"/>Ileusden. 11 Mitglieder, 1 beitragender Künstler,<lb facs="P4_TL00028"/>2 Ehren-Mitglieder. Vorstand 6 Mitglieder. Vorsitzender<lb facs="P4_TL00029"/>J. A. Gerlach. Musiklehrer: J. Broers.<lb facs="P4_TL00030"/>Rotterdam. 253 Mitglieder, 15 beitragende Künst<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00031"/>ler, 16 Ehren-Mitglieder. Vorstand 8 Mitglieder. Vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00032"/>sitzender C. G. Schütze van Houten.<lb facs="P4_TL00033"/>Gesang-Verein 153 Mitglieder, 26 Ehren-Mitglieder.<lb facs="P4_TL00034"/>ChoiÜbung: 17 Mitglieder. 2 Stunden wöchentlich.—<lb facs="P4_TL00035"/>Musikschule 277 Schüler (Gesang 128, Ciavier 138,<lb facs="P4_TL00036"/>Violine 7, Violoncell 4; Gesang 18 Stunden, Instrumente<lb facs="P4_TL00037"/>44 Stunden wöchentlich.)<lb facs="P4_TL00038"/>Lehrer: Joh. J. H. Verhülst (Dirigent des Gesang-<lb facs="P4_TL00039"/>Vereins und der Chorübung), B. Tours, J. 11. Paling,<lb facs="P4_TL00040"/>S. de Lange, W. Hutschenruyter, S. Ganz, J. ß.<lb facs="P4_TL00041"/>11. Bremer.<lb facs="P4_TL00042"/>Aufführungen: I. Oeffentlicher Gesang-Verein (einge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00043"/>ladenes Publicum): 1. Vier Chöre von Palestrina, Orlando<lb facs="P4_TL00044"/>Lasso undLotti. 2. „Jesus, meine Freude" von J. S.Bach.<lb facs="P4_TL00045"/>3. „Des Staubes eitle Sorgen" von J. Haydn. 4. Vier<lb facs="P4_TL00046"/>geistliche Gesänge aus Op. 38 von Verhülst. 5. Hymne<lb facs="P4_TL00047"/>für Sopran, Chor und Orgel von Mendelssohn. 6. Advent<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00048"/>lied von Schumann.— 11. Inländisches Musikfest: 1. Elias<lb facs="P4_TL00049"/>auf Iloreb von F. Coenen (von den Preisrichtern des Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00050"/>eins ehrenvoll erwähnt). 2. Der 84. Psalm von Verhülst.<lb facs="P4_TL00051"/>3. Sinfonie in C-dur von W. F. G. Nicolai. 4. Ouvertüre,</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00003">
+                                    <lb facs="P4_TL00052"/>Einleitungen und Chöre zu Lucifer von J. A. van Eyken<lb facs="P4_TL00053"/>(ebenfalls ehrenvoll erwähnt). Alle diese Musikstücke wur<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00054"/>den mit Orchester und unter Leitung ihrer Componisten<lb facs="P4_TL00055"/>ausgeführt (den 7. Januar 1859).—111. Zum Besten der<lb facs="P4_TL00056"/>oben bereits erwähnten Stiftung, unter Leitung von Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00057"/>hülst: der 95. Psalm von Mendelssohn; Samson von Hän<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00058"/>del (den 25. März 1859; 200 Mitwirkende).—IV. Prü<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00059"/>fung und Preis-Vertheilung in der Musikschule den 8. Fe<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00060"/>bruar 1859.<lb facs="P4_TL00061"/>Utrecht. 92 Mitglieder, 24 beitragende Künstler, 14<lb facs="P4_TL00062"/>Ehren-Mitglieder. Vorstand 5 Mitglieder. Vorsitzender Dr.<lb facs="P4_TL00063"/>F. C. Kist, Redacteur der Musik-Zeitung „Cäcilia". <lb facs="P4_TL00064"/>Gesangschule 40 Schüler, 3 Stunden wöchentlich; Leh<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00065"/>rer: J. van den Berg.<lb facs="P4_TL00066"/>Zierikzee. 35 Mitglieder, 1 beitragender Künstler.<lb facs="P4_TL00067"/>Vorstand 5 Mitglieder. Vorsitzender M. J. Schüürbeque<lb facs="P4_TL00068"/>Boeije. Gesangschule 31 Schüler (3 frei), 4 Stunden<lb facs="P4_TL00069"/>wöchentlich. Gesang-Verein 61 Mitglieder, 7 Ehren-Mit<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00070"/>glieder. Dirigent Karl Eisner. Aufführung (den 28. April<lb facs="P4_TL00071"/>1859): „Die Jahreszeiten" von J. Haydn mit Orchester.<lb facs="P4_TL00072"/>Zütphen. 10 Mitglieder, 2 beitragende Künstler.<lb facs="P4_TL00073"/>Vorstand 5 Mitglieder. Vorsitzender W. J. C. Putman<lb facs="P4_TL00074"/>Cramer.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00004">
+                                    <lb facs="P4_TL00075"/>Alle diese Abtheilungen sind Filial-Vereine der gros<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00076"/>sen Maatschappij tot Bevordering der 2'oonkunst, deren<lb facs="P4_TL00077"/>Hauptzweck übrigens nicht die Aufführungen sind, son<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00078"/>dern die Hebung der Musik durch Preisausschreiben für<lb facs="P4_TL00079"/>inländische Componisten, Herausgabe von älteren Werken<lb facs="P4_TL00080"/>und von gekrönten Compositionen neuerer Tonsetzer, Er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00081"/>richtung von Musik-, besonders Gesangschulen, Gesang-<lb facs="P4_TL00082"/>Vereinen u. s. w. Man darf desshalb das Musikleben in<lb facs="P4_TL00083"/>Holland in Bezug auf öffentliche Aufführungen nicht bloss<lb facs="P4_TL00084"/>nach der obigen Uebersicht beurtheilen; denn jede einiger<lb facs="P4_TL00085"/>Maassen bedeutende Stadt hat ausserdem noch ihr von der<lb facs="P4_TL00086"/>Maatschappij unabhängiges Concert-Institut die<lb facs="P4_TL00087"/>grösseren Städte oft mehr als eines —, welches, ebenfalls<lb facs="P4_TL00088"/>auf Association und Abonnement beruhend, des Winters<lb facs="P4_TL00089"/>eine mehr oder weniger umfassende Reihe von Concerten<lb facs="P4_TL00090"/>veranstaltet.<lb facs="P4_TL00091"/>Wir müssen diesen Bericht leider mit einer Trauer-<lb facs="P4_TL00092"/>Nachricht schliessen. Holland hat in diesem Sommer eine<lb facs="P4_TL00093"/>sehr talentvolle junge Sängerin verloren, die auf dem Wege<lb facs="P4_TL00094"/>war, als ausgezeichnete Künstlerin sich einen berühmten<lb facs="P4_TL00095"/>Namen zu machen. Helena Margare tha Hutschen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00096"/>ruyter, geboren zu Rotterdam den 29. Januar 1832,<lb facs="P4_TL00097"/>Tochter des dortigen, oben genannten Musik-Directors, ist<lb facs="P4_TL00098"/>am 11. August dieses Jahres nach einer längeren Krank<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00099"/>heit, die nach und nach immer weniger Hoffnung auf Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00100"/>nesung liess, gestorben. Sie hatte eine wohllautende, um<pc type="endhypen" pre="false">-</pc>
+                                 </ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00002">
+                                    <lb facs="P5_TL00002"/>fangreiche Sopranstimme und führte bereits auch grössere<lb facs="P5_TL00003"/>Partieen in Oratorien mit wohlverdientem Erfolg aus.<lb facs="P5_TL00004"/>Schülerin ihres Vaters und der Musikschule zu Rotterdam,<lb facs="P5_TL00005"/>hatte ihr Talent auch die Theilnahme der berühmten Sän<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00006"/>gerinnen Frau Goldschmidt-Lind und Fräul. Bochkoltz-<lb facs="P5_TL00007"/>Falconi erregt, die sie durch ihren wohlwollenden Rath<lb facs="P5_TL00008"/>begünstigten, Bei dem jetzigen Mangel an guten Sänge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00009"/>rinnen ist ihr Tod ein Verlust für die Kunst.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00007">
+                                    <lb facs="P3_TL00101"/>[*J</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c004">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00003">
+                           <lb facs="P5_TL00010"/>Jakob Andreas Romberg.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00004">
+                                    <lb facs="P5_TL00011"/>Die Compositionen Schiller'scher Gedichte von An<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00012"/>dreas Romberg, die in vielen Städten in das Programm<lb facs="P5_TL00013"/>des Schiller-Festes aufgenommen sind, namentlich „Die<lb facs="P5_TL00014"/>Glocke", für Soli, Chor und Orchester (hier in Köln aus<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00015"/>serdem auch noch „Die Sehnsucht" für eine Tenor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00016"/>stimme), haben, abgesehen von ihrem musicalischen, be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00017"/>sonders melodischen Werth, der von Unbefangenen stets<lb facs="P5_TL00018"/>noch anerkannt wird, durch die ausserordentliche Popula<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00019"/>rität, welche sie in den ersten Jahrzehenden unseres Jahr<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00020"/>hunderts erlangt hatten, und durch die grosse Verbreitung,<lb facs="P5_TL00021"/>welche sie durch die Musik den Gedichten Schiller's auch<lb facs="P5_TL00022"/>jn Kreisen verschafften, wohin sie noch nicht gedrungen<lb facs="P5_TL00023"/>waren, ein volles historisches Anrecht auf die Wahl zur<lb facs="P5_TL00024"/>Aufführung an der Jahrhundertfeier von Schiller's Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00025"/>burtstag. Merkwürdig genug tritt aber noch hinzu, dass<lb facs="P5_TL00026"/>der 10. November, Schiller's Geburtstag, der Todes<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00027"/>tag A. Romberg's (im Jahre 1821) ist! Für Rheinland<lb facs="P5_TL00028"/>und Westfalen liegt dann ferner noch eine nähere Veran<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00029"/>lassung zur Wahl jener Musikstücke darin, dass die Künst<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00030"/>lerfamilie Romberg aus Westfalen stammt und in Mün<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00031"/>ster und in der kurkölnischen Capelle zu Bonn mit Aus<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00032"/>zeichnung wirkte. Der Vater von Andreas Romberg, Geb<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00033"/>hard Heinrich Romberg, warMusik-Director in Mün<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00034"/>ster und berühmter Clarinettist, und dessen Bruder Anton<lb facs="P5_TL00035"/>Romberg eben so trefflicher Fagottist; beide waren mit<lb facs="P5_TL00036"/>ihren Söhnen Andreas und Bernhard (die also Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00037"/>schwisterkinder, nicht Brüder waren) Mitglieder der kur<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00038"/>kölnischen Capelle. Als diese 1793 sich auflös'te, gingen<lb facs="P5_TL00039"/>die beiden Vettern nach Hamburg; Andreas war Meister<lb facs="P5_TL00040"/>auf der Violine, Bernhard auf dem Violoncell. Nach einem<lb facs="P5_TL00041"/>fast dreijährigen Aufenthalt in Italien (1795 —1797) ging<lb facs="P5_TL00042"/>Andreas nach Hamburg zurück, Bernhard bereis'te noch<lb facs="P5_TL00043"/>England, Spanien und Portugal. Im Jahre 1800 trafen<lb facs="P5_TL00044"/>Beide wieder in Paris zusammen, wo sie eine komische<lb facs="P5_TL00045"/>Oper: Don Mendose, schrieben, die im Theätre Feydeau<lb facs="P5_TL00046"/>aufgeführt wurde. Seit 1801 hatte Andreas Romberg sei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00047"/>nen bleibenden Wohnsitz in Hamburg aufgeschlagen,<lb facs="P5_TL00048"/>machte von da Kunstreisen und hielt sich auch oft längere</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00005">
+                                    <lb facs="P5_TL00049"/>Zeit in Münster auf. Als Ludwig Spohr sein Amt in Gotha<lb facs="P5_TL00050"/>als herzoglicher Concertmeister aufgab und nach Wien<lb facs="P5_TL00051"/>ging, wurde Andreas Romberg berufen und nahm von<lb facs="P5_TL00052"/>1815 an in Gotha dieselbe Stellung ein. Dort raffle ihn<lb facs="P5_TL00053"/>schon nach sechs Jahren, am 10. November 1821, der<lb facs="P5_TL00054"/>Tod dahin. Er war den 27. April 1767 zu Vechte im<lb facs="P5_TL00055"/>Stift Münster geboren.<lb facs="P5_TL00056"/>A. Romberg war ein sehr fruchtbarer Componist. In<lb facs="P5_TL00057"/>seinen Instrumentalwerken (Sinfonieen, Quintetten, Quar<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00058"/>tetten) erkennt man Haydn's Vorbild, das er, wenn auch<lb facs="P5_TL00059"/>nicht in genialer Erfindung, doch in anmuthig melodischem<lb facs="P5_TL00060"/>Huss und in Klarheit und Reinheit des Satzes erreichte.<lb facs="P5_TL00061"/>Allgemeineren Beifall fanden seine Gesang-Compositionen<lb facs="P5_TL00062"/>und unter diesen vorzüglich die Compositionen der Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00063"/>dichte: „Die Glocke" und: „Die Macht des Gesanges" von<lb facs="P5_TL00064"/>Schiller, für Solostimmen, Chor und Orchester. Von seinen<lb facs="P5_TL00065"/>Opern (z. ß. „Die Ruinen von Paluzzo") hat ihn keine<lb facs="P5_TL00066"/>überlebt. Durch jene Gesangstücke aber (in ähnlicher Form<lb facs="P5_TL00067"/>componirte er auch noch Gedichte von Anderen, z. B. „Die<lb facs="P5_TL00068"/>Harmonie der Sphären" von Rosegarten) hat er sehr viel<lb facs="P5_TL00069"/>zur Errichtung, Anregung und Belebung der Gesang-Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00070"/>eine von Dilettanten beigetragen, denen Deutschland jetzt<lb facs="P5_TL00071"/>die in keinem Lande übertroffenen Chor-Aufführungen<lb facs="P5_TL00072"/>von Oratorien und Cantaten verdankt.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c005">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00006">
+                           <lb facs="P5_TL00073"/>Die Deutsche Schiller-Stiftung an die Deutschen</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00008">
+                                    <lb facs="P5_TL00075"/>Am heutigen Tage hat sich die Deutsche Schiller-<lb facs="P5_TL00076"/>Stiftung constituiit zu dem in §. 1 der Satzungen ausge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00077"/>sprochenen Zwecke:<lb facs="P5_TL00078"/>„Deutsche Schriftsteller und Schriftstellerinnen, welche<lb facs="P5_TL00079"/>für die National-Literatur (mit Ausschluss der strengen<lb facs="P5_TL00080"/>Fach-Wissenschaften) verdienstlich gewirkt, vorzugsweise<lb facs="P5_TL00081"/>solche, die sich dichterischer Formen bedient haben, da<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00082"/>durch zu ehren, dass sie ihnen oder ihren nächstangehöri<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00083"/>gen Ilinterlassenen in Fällen über sie verhängter schwerer<lb facs="P5_TL00084"/>Lebenssorge Hülfe und Beistand darbietet.<lb facs="P5_TL00085"/>„Sollten es die Mittel erlauben und Schriftsteller oder<lb facs="P5_TL00086"/>Schriftstellerinnen, auf welche obige Merkmale nicht sämmt<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00087"/>lich zutreffen, zu Hülfe und Beistand empfohlen werden,<lb facs="P5_TL00088"/>so bleibt deren Berücksichtigung dem Ermessen des Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00089"/>waltungsrathes überlassen."<lb facs="P5_TL00090"/>Die Constituirung dieser Stiftung fällt nahe zusammen<lb facs="P5_TL00091"/>mit dem hundertjährigen Geburtsfeste des unsterblichen<lb facs="P5_TL00092"/>Dichters, zu dessen würdiger, nationaler Feier, so weit</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00002">
+                                    <lb facs="P6_TL00002"/>die deutsche Zunge klingt, die grossartigsten Vorbereitun<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00003"/>gen getroffen werden.<lb facs="P6_TL00004"/>Deutsche! Bei dem festlichen Klange jener Glocke, die<lb facs="P6_TL00005"/>in ewiger Höhe tönt, sammelt Euch, nicht bloss, um zu<lb facs="P6_TL00006"/>seinen Ehren ein begeistertes Gedächtnissfest zu begehen,<lb facs="P6_TL00007"/>sondern auch, um ein bleibendes Denkmal werkthäti ger<lb facs="P6_TL00008"/>Liebe für unseren volkstümlichsten Dichter auf alle Zei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00009"/>ten zu stiften.<lb facs="P6_TL00010"/>Wie er selbst gesungen:<lb facs="P6_TL00011"/>Göttern kann man nicht vergelten;<lb facs="P6_TL00012"/>Schön ist's, ihnen gleich zu sein.<lb facs="P6_TL00013"/>Gram und Armuth soll sich melden,<lb facs="P6_TL00014"/>Mit den Frohen sich erfreu'n, <lb facs="P6_TL00015"/>so können wir auch ihm selbst nicht vergelten, wohl aber<lb facs="P6_TL00016"/>durch die mit seinem Namen geschmückte Stiftung den<lb facs="P6_TL00017"/>Dank seines Volkes dadurch abtragen, dass wir geistig Stre<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00018"/>bende, die von schwerer Lebenssorge heimgesucht sind,<lb facs="P6_TL00019"/>durch Beistand und Hülfe ehren.<lb facs="P6_TL00020"/>Deutsche! Keinen Ort gibt es im Vaterlande, so abge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00021"/>schieden von den grossen geistigen Besitzthümern unseres<lb facs="P6_TL00022"/>Daseins, dass nicht Männer und Frauen, Jünglinge und<lb facs="P6_TL00023"/>Jungfrauen darin lebten, in denen die Dankbarkeit glüht<lb facs="P6_TL00024"/>für das, was Schiller uns allen geworden. In der Fremde<lb facs="P6_TL00025"/>lebt kein Deutscher, dem nicht der Name Schiller ein<lb facs="P6_TL00026"/>heiliger Heimatsruf ist, so dass in diesem Namen eine<lb facs="P6_TL00027"/>Weihestimmung, einzig in ihrer Art, und ein Gesammtbe<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00028"/>wusstsein, auf so vielen Gebieten des öffentlichen Lebens<lb facs="P6_TL00029"/>schmerzlich vermisst, zur erhebenden Erscheinung kommt.<lb facs="P6_TL00030"/>So tretet denn am 10. November zur Bildung von<lb facs="P6_TL00031"/>Schiller-Stiftungen überall zusammen; wo eine solche sich<lb facs="P6_TL00032"/>nicht gründen lässt, sammelt Beiträge; wo sich frohe Her<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00033"/>zen zum Festmahle vereinigen, verkündet diese unsere<lb facs="P6_TL00034"/>Worte und lasstnach dem Festgrusse für den Dichter durch<lb facs="P6_TL00035"/>die Hände Eurer Frauen und Jungfrauen Spenden der Liebe<lb facs="P6_TL00036"/>in Empfang nehmen. Wo Gesang-Vereine und Liederta<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00037"/>feln, wo Capellen und Theater seinem Andenken huldigen,<lb facs="P6_TL00038"/>opfert ihm den Ertrag seines Ehrentages.<lb facs="P6_TL00039"/>Und du, deutsche Jugend, in deren frische Herzen er<lb facs="P6_TL00040"/>die ersten Keime edler Begeisterung senkt, fehle auch du<lb facs="P6_TL00041"/>nicht in den Reihen der Opfernden. Die kleinste Gabe ist<lb facs="P6_TL00042"/>willkommen.<lb facs="P6_TL00043"/>Auf, Deutsche! Lasset uns ein Beispiel geben zur Ehre<lb facs="P6_TL00044"/>für uns und unsere dass der Freude schö<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00045"/>ner Götterfunken, der Begeisterung Flamme nicht wir<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00046"/>kungslos verlodere, sondern dass die hundertjährige Jubel<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00047"/>feier von Schiller's Geburt als der Geburtstag der in sei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00048"/>nem Namen gegründeten Stiftung ein Lichtpunkt sei und<lb facs="P6_TL00049"/>bleibe, tröstlich hineinleuchtend in die Nacht der Sorge<lb facs="P6_TL00050"/>und der Noth.<lb facs="P6_TL00051"/>Die bis jetzt bestehenden Schiller-Stiftungen befinden<lb facs="P6_TL00052"/>sich in Berlin, Breslau, Coburg, Darmstadt, Dresden, Frank-</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00003">
+                                    <lb facs="P6_TL00053"/>Furt a. M., Gratz, Hamburg, Leipzig, München, Nienburg,<lb facs="P6_TL00054"/>Nürnberg, Offenbach, Stuttgart, Weimar (als Vorort für<lb facs="P6_TL00055"/>die nächsten fünf Jahre gewählt), Wien.<lb facs="P6_TL00056"/>An eine derselben wollen die Beiträge für die Stiftung<lb facs="P6_TL00057"/>eingesandt werden.<lb facs="P6_TL00058"/>Dresden, den 10. October 1859.<lb facs="P6_TL00059"/>Die constituirende Versammlung der Deutschen<lb facs="P6_TL00060"/>Schiller- Stiftung:<lb facs="P6_TL00061"/>Dr. Berthold Auerbach aus Dresden. Dr. Ludwig Blum<lb facs="P6_TL00062"/>aus Stuttgart. Dr. Ludwig Braunfels aus Frank<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00063"/>furt a. M. Heinrich Brockhaus aus Leipzig. Geh.<lb facs="P6_TL00064"/>Medicinalrath Dr. Karl Gustav Carusaus Dresden.<lb facs="P6_TL00065"/>General-Intendant Dr. Franz Dingelstedt aus Wei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00066"/>mar. Dr. Johann Georg Fischer aus Stuttgart. Dr.<lb facs="P6_TL00067"/>Ernst Förster aus München. Advocat Adolar Ger<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00068"/>hard aus Leipzig. Dr. Karl Gutzkow aus Dresden.<lb facs="P6_TL00069"/>Professor Dr. Friedrich Haase aus Breslau. Dr.<lb facs="P6_TL00070"/>Julius Hammer aus Dresden. Dr. Gustav Haubold<lb facs="P6_TL00071"/>aus Leipzig. Graf Stanislaus Kalckreuth aus Wei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00072"/>mar. Dr. Moriz Lazarus aus Berlin. General-Con<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00073"/>sul Ernst Merck aus Hamburg. Hoftheater-Re<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00074"/>gisseur Ferdinand Pirscher aus Darmstadt. Karl<lb facs="P6_TL00075"/>Rick aus Wien. Major Serre auf Maxen aus Dres<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00076"/>den. Karl Voigt aus Weimar. Staats-Minister a. D.<lb facs="P6_TL00077"/>Dr. Ernst von Wietersheim aus Dresden. Dr. Fried<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00078"/>rich Zabel aus Berlin. Dr. Georg Zimmermann<lb facs="P6_TL00079"/>aus Darmstadt.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00009">
+                                    <lb facs="P5_TL00093"/>*) V Red. wird durch den von der constituirenden Versainnjlung<lb facs="P5_TL00094"/>der Deutschen Schiller Stiftung erwählten Vorort derselben er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00095"/>sucht u. s w. Weimar, den 25. October 1859. (Gez.) Franz<lb facs="P5_TL00096"/>Dingelsted t.</ab>
+                              </div>
+                           </div>
+                           <div type="Text">
+                              <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                  xmlns:mods="http://www.loc.gov/mods/v3"
+                                  facs="P5_TB00007">
+                                 <lb facs="P5_TL00074"/>*)•</ab>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c006">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P6_TB00004">
+                           <lb facs="P6_TL00080"/>Ludwig Spohr’s Begräbnik.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00005">
+                                    <lb facs="P6_TL00081"/>Kassel, den 25. October 1859.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00006">
+                                    <lb facs="P6_TL00082"/>Heute um 3 Uhr Nachmittags wurden Spöhr's irdische Ueber<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00083"/>reste feierlich und in einer so zahlreichen Begleitung, wie sie hier<lb facs="P6_TL00084"/>wohl selten bei einem Leichenbegängnisse gesehen worden, zur Erde<lb facs="P6_TL00085"/>bestattet. Schon lange vor dem Abgange des Trauerzuges füllten<lb facs="P6_TL00086"/>sich die dem Spohr'schen Hause benachbarten Strassen und Plätze<lb facs="P6_TL00087"/>und auch die, welche der Zug zu passiren hatte, mit Menschen, Ein<lb facs="P6_TL00088"/>Trauergesang von Frauenstimmen mit Instrumental-Begleitung be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00089"/>zeichnete die Versetzung des Sarges auf den Leichenwagen. Den<lb facs="P6_TL00090"/>Zug eröffneten zwei Trauermarschälle; darauf folgten die Mitglieder<lb facs="P6_TL00091"/>des kurfürstlichen Hof-Orchesters mit umflorten Instrumenten; sie<lb facs="P6_TL00092"/>spielten Beethoven's Trauermarsch; sodann die Prediger der lutheri<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00093"/>schen Gemeinde; wieder zwei Trauermarschälle; alsdann der mit<lb facs="P6_TL00094"/>vier Pferden bespannte Trauerwagen; hinter demselben das älteste<lb facs="P6_TL00095"/>(emeritirte) Mitglied des Sänger-Personals (Herr FöppelJ, welcher auf<lb facs="P6_TL00096"/>einem weissatlassenen Kissen den goldenen Lorberkranz trug, der<lb facs="P6_TL00097"/>dem gefeierten Meister einst bei seinem fünfundzwanzigjährigen<lb facs="P6_TL00098"/>Dienst-Jubiläum verehrt worden, so wie den Dirigentenstab, und das<lb facs="P6_TL00099"/>älteste Mitglied des Orchesters (Herr Schubank), welcher auf einem<lb facs="P6_TL00100"/>eben solchen Kissen die Ordens-Decorationen des Verblichenen trug*);</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00002">
+                                    <lb facs="P7_TL00002"/>alsdann die Mitglieder seiner Familie, voran seine beiden Prüder;<lb facs="P7_TL00003"/>ein Fiauermarschall ; hierauf der General-Intendant des kurfürstlichen<lb facs="P7_TL00004"/>Hoftheaters, Holmarschall v. Heringen, und sämmtliche Beamte und<lb facs="P7_TL00005"/>Officianten dei Hoftheater-Bureaux j der Hof-Capellmeister Reiss und<lb facs="P7_TL00006"/>sämmtliche Mitglieder des Hof-Orchesters, das männliche Personal<lb facs="P7_TL00007"/>der Oper, des Schauspiels und des Gesangchors; ein Trauermar<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00008"/>schall ; die anwesenden fremden Künstler und Schüler des verewig<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00009"/>ten Meisters, darunter die Capellmeister Bott aus Meiningen, Wehner<lb facs="P7_TL00010"/>aus Hannovei, Musik-Director Grimm aus Göttingen, Kammermusi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00011"/>cus Kömpel aus Hannover; wieder ein Trauermarschall, die Mitglie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00012"/>der der hiesigen Gesang-Vereine; ein Trauermarschall, die Mitglieder<lb facs="P7_TL00013"/>des Stadtrathes und hierauf die unabsehbare Reihe der anderen Be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00014"/>wohner Kassels, welche sich eingefunden hatten, um ihrem hochbe<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00015"/>lühmten und würdigen Mitbürger die letzte Ehre zu erweisen; ein<lb facs="P7_TL00016"/>Ilaueimarschall schloss diesen Zug. Hierauf folgte der achtspännige<lb facs="P7_TL00017"/>Staats wagen Sr. K. Hoheit des Kurfürsten mit Livree-Begleitung und<lb facs="P7_TL00018"/>darauf eine lange Reihe von Ecjuipagen. Der Zug ging durch die<lb facs="P7_TL00019"/>Kölnische Strasse, um den Königsplatz herum, die Königsstrasse<lb facs="P7_TL00020"/>hinunter, zum Holl/indischen Thore hinaus durch ein dichtgedräng<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00021"/>tes Spalier von Mensehen; alle Fenster waren mit Zuschauern be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00022"/>setzt. Se. K. Hoheit der Kurfürst nebst Allerhöchstseiner Gemahlin,<lb facs="P7_TL00023"/>der Fürstin von Hanau, waren mit Gefolge in den Fenstern des er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00024"/>sten Stockes des kurfürstlichen Postgebäudes zu erblicken, um den<lb facs="P7_TL00025"/>Trauerzug durch hohe Gegenwart zu ehren. Die meisten Läden in<lb facs="P7_TL00026"/>der Königssti asse waren geschlossen; beim Vorüberziehen des Trauer<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00027"/>wagens entblössten zu beiden Seiten die Zuschauer ihre Häupter.<lb facs="P7_TL00028"/>Vom Thoie bis zum Friedhofe war keine geringere Alenschenmenge<lb facs="P7_TL00029"/>theils aufgestellt, thcils in Bewegung. Auf dem Friedhofe angekom<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00030"/>men, wurde der Trauerzug, von welchem inzwischen die Hofsänger,<lb facs="P7_TL00031"/>der Hoftheater-Chor und die Gesang-Vereine sich getrennt hatten,<lb facs="P7_TL00032"/>mit einem Chorgesang unter Instrumental-Begleitung von der Com<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00033"/>position des Verewigten (aus der Oper Pietro von Abano) empfan<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00034"/>gen, der Sarg in die gewölbte Halle getragen und daselbst in der<lb facs="P7_TL00035"/>bestimmten Gruft*) beigesetzt. Rührend war es, wie hier die als<lb facs="P7_TL00036"/>Zeichen inniger Verehrung eingeschickten Kränze vom Sarge genom<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00037"/>men wurden; es waren ihrer eilf, darunter zwei Palmzweige von<lb facs="P7_TL00038"/>Seiner Majestät dem Könige von Hannover, ein Kranz von Ihrer<lb facs="P7_TL00039"/>Majestät der Königin von Hannover Kränze der Liedertafeln und<lb facs="P7_TL00040"/>Gesang-Vereine zu Kassel, Braunschweig Leipzig, Göttingen, eine<lb facs="P7_TL00041"/>reiche Lorber-Guirlande von Seiten des Friedhofs-Inspectors Junk<lb facs="P7_TL00042"/>u. s. w. Hierauf hielt Pfarrer Jatho dem Verblichenen die Grabrede.<lb facs="P7_TL00043"/>Er wiederholte in kurzen Umrissen die Züge dieses denkwürdigen<lb facs="P7_TL00044"/>und herrlichen Künstlerlebens und hob dann mit kräftigen, zu allen<lb facs="P7_TL00045"/>Herzen dringenden Worten hervor, wie dieser grosse Meister zugleich<lb facs="P7_TL00046"/>durch und durch ein edler Mann, erfüllt von Wohlwollen und thä<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00047"/>tiger, hülfreicher Menschenliebe war, wie sein ganzes Leben durch<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00048"/>drungen war von deutschem Ernste und reinem, rastlosem Streben,<lb facs="P7_TL00049"/>wie er in der Einfachheit und Zurückg'ezogenheit des Familienlebens<lb facs="P7_TL00050"/>allein hienieden sein Glück und seine Genugthuung fand, und wie<lb facs="P7_TL00051"/>auch der Sänger so trefflicher Oratorien, der Componist eines „Va<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00052"/>ter Unser", von „Des Heilands letzte Stunden44, der „Letzten Dinge"<lb facs="P7_TL00053"/>und anderer heiliger Tonschöpfungen, auch abgesehen von jedem be-</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00004">
+                                    <lb facs="P7_TL00065"/>sonderen Bekenntmss, erfüllt war von echt religiösem und frommem<lb facs="P7_TL00066"/>Wesen Hierauf trugen die Sänger-Chöre eine Trauer-Cantate, com<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00067"/>ponirt von Hof-Capellmeister Keiss, unter Instruraental-Begleitunjr<lb facs="P7_TL00068"/>vor, und die Gruft sehloss sich über der Ruhestätte eines Mannes,<lb facs="P7_TL00069"/>dessen Andenken im Herzen der Seinigen fortleben und in der Dank<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00070"/>barkeit der Menschen und in der Geschichte der Kunst unvergän<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00071"/>lieh sein wird. °</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00007">
+                                    <lb facs="P6_TL00101"/>*) Spolir war Ritter des kurfürstlich hessischen Wilhelms-Ordens,<lb facs="P6_TL00102"/>des k. Preussischen Rothen Adler-Ordens und des Ordens poar<lb facs="P6_TL00103"/>le merile für die Friedensciasse, des k. baierischen Maximilians-<lb facs="P6_TL00104"/>und des herzoglich sächsischen Ernestinischen Ordens.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00003">
+                                    <lb facs="P7_TL00054"/>*) Die nächsten Angehörigen des Verewigten hatten die Absicht,<lb facs="P7_TL00055"/>ihn in einem der Grabgewölbe auf dem neuen Kirchhofe bei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00056"/>setzen zu lassen, uni es waren zur Erwerbung eines solchen<lb facs="P7_TL00057"/>als Familiengruft schon die Unterhandlungen dem Abschlüsse<lb facs="P7_TL00058"/>nahe, als ein aus Spohr's Freunden und Verehrern gebildetes<lb facs="P7_TL00059"/>Comite dieselben ersuchte, zu gestatten, dass für diesen Zweck<lb facs="P7_TL00060"/>das grosse mittlere Gewölbe von unseren Mitbürgern angekauft<lb facs="P7_TL00061"/>würde, welchem Wunsche die Familie in der Wreise gern bei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00062"/>stimmte, dass sie ihrerseits die bereits bestimmte Summe bei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00063"/>tragen dürfe, um somit ihr nächstes Anrecht auf diese für sie<lb facs="P7_TL00064"/>geheiligte Stätte zu bewahren.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c007">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00005">
+                           <lb facs="P7_TL00072"/>Tages- und Unterhaltungs-Blatt. </ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00006">
+                                    <lb facs="P7_TL00073"/>Hannover, 26. October. Gestern wurde Marschner's<lb facs="P7_TL00074"/>„Hans Heiling" gegeben. Zum ersten Male nach seiner Pensioniruntr<lb facs="P7_TL00075"/>trat der Meister wieder an das Directionspult, um die Aufführun<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00076"/>der Oper zu leiten, da ihm bekanntlich bei seiner Ernennung zum<lb facs="P7_TL00077"/>General-Musik-Director die Direction seiner eigenen Opern vorbehal<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00078"/>ten worden. Der berühmte Componist, den man ungern so früh aus<lb facs="P7_TL00079"/>der amtlichen Wirksamkeit scheiden sah, wurde mit brausendem<lb facs="P7_TL00080"/>Jubel und Tusch des Orchesters und mit einem Strom von Blumen<lb facs="P7_TL00081"/>und Kränzen empfangen und fand auf seinem Pulte einen silbernen,<lb facs="P7_TL00082"/>mit Edelsteinen verzierten Tactstock, der die Inschrift trägt: „Von<lb facs="P7_TL00083"/>den deutschen Verehrern der Marschner'schen Musik<lb facs="P7_TL00084"/>Den 25. October 1859." - Diese Worte stehen wohl in Bezie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00085"/>hung auf die glänzenden Anträge, welche dem General-Musik-Diree<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00086"/>tor Marschner von seinen Verehrern in America gemacht worden<lb facs="P7_TL00087"/>sind Die Unternehmer der Academy of Music in New-York haben<lb facs="P7_TL00088"/>ihn dringend eingeladen, seine drei Haupt-Opern „Vampyr", „Hans<lb facs="P7_TL00089"/>Heiling" und „Templer" für die italiänische Oper daselbst einzu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00090"/>richten und die Aufführungen derselben zu dirigiren. Ferner: die<lb facs="P7_TL00091"/>Direction eines Goncert-Instituts zu übernehmen, das zu seinen Eh<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00092"/>len dtn Namen .1/ arsch tt c r lii/ h t tritt ott ic führen soll* Diese<lb facs="P7_TL00093"/>neue Coneert-Gesellsehaft würde in New-York, Boston und Philadel<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00094"/>phia Concerte geben. An namhafte deutsche Künstler und Künstle<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00095"/>rinnen, unter Anderen an Frau Clara Schumann, sind bereits Einla<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00096"/>dungen ergangen, in diesen Concerten aufzutreten.<lb facs="P7_TL00097"/>Es ist ein sonderbares Spiel des Zufalls, dass die Ovation für<lb facs="P7_TL00098"/>Marschner in Hannover gerade an demselben Tage den 25. Octo<lb facs="P7_TL00099"/>bei Statt fand, an welchem in Kassel das oben beschriebene feier<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00100"/>liche Begräbniss Spohr's gehalten wurde. Von den grossen deutschen<lb facs="P7_TL00101"/>Componisten ist nun Heinrich Marschner der Nestor; mögen seine<lb facs="P7_TL00102"/>Zeitgenossen in allen Ländern und besonders in Deutschland wett<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00103"/>eifern, ihm den Abend seines Lebens, das noch von so frischer Schö<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00104"/>pfungskraft überströmt, auf alle Weise zu verschönern! Mahnt doch<lb facs="P7_TL00105"/>die bevorstehende Schiller-Feier die deutschen Fürsten und Völker<lb facs="P7_TL00106"/>lecht ernstlich daian, mit der nicht bloss ehrenvollen, sondern auch<lb facs="P7_TL00107"/>thatsächlichen Anerkennung unserer grossen Männer nicht bis nach<lb facs="P7_TL00108"/>ihrem Tode zu warten !</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00007">
+                                    <lb facs="P7_TL00109"/>Dl'esdeil. An der vielverbreiteten Notiz über angebliche Pen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00110"/>sionirung Reissiger's ist kein wahres Wort. Die k. Hof-Opern<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00111"/>sängerin Fräul. Krall hat sich am 2. October mit dem k. Hof<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00112"/>schauspieler Herrn Jauner ehelich verbunden.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00008">
+                                    <lb facs="P7_TL00113"/>Die Neue Zeitschrift für Musik enthält einen Nekrolog des Com<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00114"/>ponisten Ludwig Wolf, der am G. August d. J. in Wien ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00115"/>storben ist. Ludwig Wolf, der Sohn eines frankfurter Orchester Mit<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00116"/>; gliedes, gehörte zuerst dem Kaufmannsstande an und begann unge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00117"/>fähr in seinem zweiundzwanzigsten Jahre zu componiren. Nach Wien<lb facs="P7_TL00118"/>! übergesiedelt, erhielt er Unterricht bei Seyfried und widmete sich<lb facs="P7_TL00119"/>ganz der Kunst. ~Manche seiner Compositionen fanden ihre Verleger,<lb facs="P7_TL00120"/>j und ein grosses Trio wurde in Mannheim mit einem Preise gekrönt.<lb facs="P7_TL00121"/>Er war ein vortrefflicher Geiger und Pianist Das nur zu häufige<lb facs="P7_TL00122"/>Schicksal der Tonkünstler ward jedoch auch Wolf; unter Componi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00123"/>ren, Concert- und Stundengeben \ erstrich seine Zeit geräusch- und</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00002">
+                                    <lb facs="P8_TL00002"/>anspruchslos. Er gehörte zu den Künstlern, die, beglückt während<lb facs="P8_TL00003"/>des Schaffens, mit dem Geschaffenen nur nicht speculiren können,<lb facs="P8_TL00004"/>und deren Sanctum nicht der geräuschvolle Markt, sondern die stille<lb facs="P8_TL00005"/>Zelle ist." Er war geboren zu Frankfurt 1804. Die Neue Zeitschrift<lb facs="P8_TL00006"/>bringt zugleich ein Verzeichniss von Wolfs Compositionen. Es sind<lb facs="P8_TL00007"/>Messen, Ouvertüren, Märsche, Streich-Quartette, Quartette und Trios,<lb facs="P8_TL00008"/>Clavier-Trios, Sonaten für Ciavier mit und ohne Begleitung, Lieder<lb facs="P8_TL00009"/>und vierstimmige Gesänge.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00003">
+                                    <lb facs="P8_TL00010"/>Das Schiller-Jubiläum wird hier am 9. November<lb facs="P8_TL00011"/>Nachmittags beginnen mit einer Begrüssung der einzuladenden Fest<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00012"/>gäste. Abends wird im Hoftheater ein Prolog gesprochen und sodann<lb facs="P8_TL00013"/>„Wallenstein's Lager" und die „Piccolomini" aufgeführt. Am 10.<lb facs="P8_TL00014"/>wird ein grosser Festzug, an dem alle Stände Theil nehmen sollen,<lb facs="P8_TL00015"/>die Hauptstrassen der Stadt durchziehen und Mittags die Hauptfeier<lb facs="P8_TL00016"/>im k. Reithause Statt haben. Capellmeister Kücken hat eine Can<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00017"/>tate zur Einleitung der Feier geschrieben, der bekannte Lyriker<lb facs="P8_TL00018"/>J. G. Fischer wird die Festrede halten, der Regisseur Grunert<lb facs="P8_TL00019"/>Schiller's „Glocke" sprechen und zum Schlüsse Beethoven's neunte<lb facs="P8_TL00020"/>Sinfonie mit den Chören aufgeführt werden Abends Festzug an das<lb facs="P8_TL00021"/>erleuchtete Schiller-Denkmal, wo unter Mo/.art'sehen Klängen Schiller<lb facs="P8_TL00022"/>ein Hoch gebracht wird. Am 11. wird in Marbach das in seiner al<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00023"/>ten Gestalt wieder hergestellte Geburtshaus Schiller's eingeweiht und<lb facs="P8_TL00024"/>zum Schlüsse des Festes hier im Hoftheater „Wallenstein's Tod"<lb facs="P8_TL00025"/>gegeben.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00004">
+                                    <lb facs="P8_TL00026"/>jj RegeilsVlurg? im October. Im Interesse der Kirche, welche<lb facs="P8_TL00027"/>nur solche Musik bei ihrem Gottesdienste dulden kann und darf,<lb facs="P8_TL00028"/>durch welche die Gläubigen erbaut werden, muss ich offen eine Ein<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00029"/>sprache erheben gegen Compositionen wie die nachstehenden: 4 Tan<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00030"/>tum ergo von Moll; 12 Tantum ergo von Ennemoser; Harmonie-Messe<lb facs="P8_TL00031"/>von Zangl (sämmtlich bei Möst in Innsbruck); Sebast. Higner, Mes<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00032"/>sen etc. für eine Singstimme, Orgel und Instrumente (Straubing). Man<lb facs="P8_TL00033"/>thut sehr unrecht, wenn man solche Compositionen empfiehlt; noch<lb facs="P8_TL00034"/>übler ist es, wenn man sie producirt. Jeder Text, darunter gelegt,<lb facs="P8_TL00035"/>lässt sich leichter dazu singen, als der heilige des Kyrie, Gloria<lb facs="P8_TL00036"/>u. s. w. Die Ausstattung mit allem Klingklang von Instrumenten<lb facs="P8_TL00037"/>verschlechtert die üble Sache noch mehr. Es ist eine arge Ent<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00038"/>weihung, solche Musik in der Kirche zu machen. Das Aushänge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00039"/>schild: ~Für Land-Chöre", zieht bei Verständigen nicht mehr; die<lb facs="P8_TL00040"/>Landleute haben viel besseren Geschmack, als man glauben sollte.<lb facs="P8_TL00041"/>Die alles Unheil stiften, sind lediglich diejenigen Musiker und Mu.<lb facs="P8_TL00042"/>sicanten, die für etwas Ernstes keinen Sinn haben und nebenbei be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00043"/>flissen sind, ihre Machwerke um Geld an den Mann zu bringen und<lb facs="P8_TL00044"/>sich horribile dictu einen Namen zu machen. Dr. M*</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00005">
+                                    <lb facs="P8_TL00045"/>lleilädA'OHift* Auch unserer Stadt ist es vergönnt, angeregt<lb facs="P8_TL00046"/>durch ein besonderes Comite, unseren gesangreichsten deutschen<lb facs="P8_TL00047"/>Dichter Schiller durch eine musicalisch-declamatorische Production<lb facs="P8_TL00048"/>am 10. November zu feiern. Es wird die „Glocke" mit Musik von<lb facs="P8_TL00049"/>A. Romberg, der Chor ~An die Künstler" von Mendelssohn<lb facs="P8_TL00050"/>nebst anderen Stücken zur Aufführung kommen, und bei dem Eifer<lb facs="P8_TL00051"/>und der Energie unseres trefflichen Directors Herrn Ernst Ma<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00052"/>scheck dürfen wir nicht weniger Vorzügliches erwarten, als er uns<lb facs="P8_TL00053"/>durch den 0 ratorien-Verein leistet, unter dessen Aufführungen in<lb facs="P8_TL00054"/>diesem Jahre besonders die tadelfreie Aufführung des ~Messiasu mit<lb facs="P8_TL00055"/>Unterstützung der ersten Solisten und der k. Hofcapelle von Stutt<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00056"/>gart rühmlich ausgezeichnet werden muss. Wenn wir so Ursache<lb facs="P8_TL00057"/>haben, mit unseren musicalischen Zuständen im Allgemeinen immer<lb facs="P8_TL00058"/>mehr befriedigt zu sein, so macht es uns noch besondere Freude,<lb facs="P8_TL00059"/>dass wir auch im Solospiel einen Kunstjünger der Musik weit ankün<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00060"/>digen können, der die volle Aufmerksamkeit derselben verdient. Die<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00061"/>ses ist der kaum sechszehn Jahre alte Hugo Heer mann, der<lb facs="P8_TL00062"/>seit drei Jahren am k. Conservatorium in Brüssel seine Studien<lb facs="P8_TL00063"/>macht und bei dem letzten Violin Concurs mit dem ersten Preise ge<pc type="endhypen" pre="false">-</pc>
+                                 </ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00006">
+                                    <lb facs="P8_TL00064"/>krönt worden ist. Derselbe hat hier und auf dem k. Hoftheater in<lb facs="P8_TL00065"/>Stuttgart ein für ihn componirtes Concert von Prof. Meerts gespielt<lb facs="P8_TL00066"/>und sowohl bei Kunstkennern als beim Publicum den ungetheiltesten<lb facs="P8_TL00067"/>Beifall geärntet. Sein Spiel ist glockenrein, der Ton schön und die<lb facs="P8_TL00068"/>Auffassung eine poetische und das Wesen der Musik erfassende. Das<lb facs="P8_TL00069"/>Concert von Meerts enthält bei grossen Schwierigkeiten die Schön<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00070"/>heiten einer classischen Violin-Composition, und der jugendliche und<lb facs="P8_TL00071"/>bescheidene Künstler lös'te die schwierige Aufgabe auf eine solche<lb facs="P8_TL00072"/>Weise, dass wir überzeugt sind, er werde sehr bald zu den ersten<lb facs="P8_TL00073"/>Yiolinspielern gezählt werden.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00007">
+                                    <lb facs="P8_TL00074"/>Schiller-Stiftung. Die wiener Blätter enthalten einen Auf<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00075"/>ruf zur Betheiligung Wiens an der Schiller-Stiftung entweder<lb facs="P8_TL00076"/>durch eine einmalige Gabe oder durch Zeichnung eines Jahres-<lb facs="P8_TL00077"/>Beitrages. Se. Majestät der Kaiser haben derselben Stiftung schon<lb facs="P8_TL00078"/>vor längerer Zeit einen namhaften Beitrag zuzuwenden und die Con<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00079"/>stituirung eines Filial-Comite's zu genehmigen geruht Unter<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00080"/>zeichnet ist der Aufruf von Aloys Auer, Ed. von Bauern fei d,<lb facs="P8_TL00081"/>Herrn Bonitz, Dr. Castelli, Fürst Konstantin Czarto<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00082"/>ryski, L. A. Frank 1, Mor. Gerold, Franz Grillparzer,<lb facs="P8_TL00083"/>Friedr. Pia Im (Eligius von Münch-Bellinghausen), Dr. Friedr.<lb facs="P8_TL00084"/>Hebbel, Leopold Komp er t, Kuranda, la Roche, Dr. H.<lb facs="P8_TL00085"/>Laube, Dr. Mosenthal, Dr. Pachler, O. Prechtler, K.<lb facs="P8_TL00086"/>Rick, J. G. Sei dl, Ritter yon Seiller (Bürgermeister), J. H.<lb facs="P8_TL00087"/>Streicher, Franz Graf T h un-H oh enst ei n, Dr. v. Wurz<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00088"/>bach, Christ. Frhr. v. Zedlitz.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00008">
+                                    <lb facs="P8_TL00089"/>£Sft*ii3Sel« Herr Fdtis, Director des Conservatoires u. s. w,<lb facs="P8_TL00090"/>ist zum Commandeur des Leopold-Ordens vom Könige der Belgier<lb facs="P8_TL00091"/>ernannt worden.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div type="SponsoredAdvertisement">
+                  <div type="SponsoredAd" corresp="c008">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00010">
+                        <lb facs="P8_TL00102"/>Ankündigung eil.<lb facs="P8_TL00103"/>Bei Fr. W. XVolff § Comp, in Kreuznach erschien und ist<lb facs="P8_TL00104"/>durch alle Buch- und Musicalienhandlungen zu beziehen:<lb facs="P8_TL00105"/>Fett weiss, Charles, Op. 9, „Sur le lue", Barcarole pour Piano.<lb facs="P8_TL00106"/>Preis 15 Sgr.<lb facs="P8_TL00107"/>Op. 10, Nocturne pour Piano. Preis 121/2 Sgr.</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c009">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00011">
+                        <lb facs="P8_TL00108"/>In meinem Verlage sind erschienen:<lb facs="P8_TL00109"/>Baumgartner, YVilh., Op. 14, Salon- Walzer und Galopp für das<lb facs="P8_TL00110"/>Piano forte, Nr, /. Walzer, 15 Ngr, Nr. 2. Galopp.<lb facs="P8_TL00111"/>12'/12 Ngr.<lb facs="P8_TL00112"/>Köhler, L , Op 72, Das Orakel. Concert-Lied für Sopran und Piano-<lb facs="P8_TL00113"/>forle. 20 Ngr.<lb facs="P8_TL00114"/>Op. 73, Tief drunten. Concert-Lied für Bass oder Contra-Alt<lb facs="P8_TL00115"/>und Pianoforle. 20 Ngr.<lb facs="P8_TL00116"/>Panofka, IL, Op. 85, 24 Vocalises progressives dans l'Elendue d'une<lb facs="P8_TL00117"/>Oclaoe et demie pour toutes les Voix la Voix de Basse<lb facs="P8_TL00118"/>exceplee. Suite de l'Abecedaire vocal. Call. 1. 1 Thlr.<lb facs="P8_TL00119"/>5 Ngr, Cah. 2. 1 Thlr. 15 Ngr.<lb facs="P8_TL00120"/>Winterthur, October 1859.<lb facs="P8_TL00121"/>•F.</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c010">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00012">
+                        <lb facs="P8_TL00122"/>Alle in dieser Mtisik-Zcilu/i/, )esjjrochene/i una a/iyt ku?idi(,teu Mu-<lb facs="P8_TL00123"/>siatlien elc. sind zu erhallen in der st eis oollsliindir assurtii leu Musi*<lb facs="P8_TL00124"/>calien-Handlung nebst LeilicinslaU von BERJSIJARD BREUER in<lb facs="P8_TL00125"/>Kölns Höchst rasse Ar. 97.</ab>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

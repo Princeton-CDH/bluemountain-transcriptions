@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+        Transcription of
+        <biblStruct>
+                  <monogr>
+                     <title level="j">
+                        <seg type="main">Niederrheinische Musik</seg>
+                     </title>
+                     <imprint>
+                        <biblScope unit="vol"/>
+                        <biblScope unit="issue"/>
+                        <date when="1860-06-09">9. Juni 1860</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Princeton University</publisher>
+            <idno type="bmtnid">urn:PUL:bluemountain:bmtnabi_1860-06-09_01</idno>
+         </publicationStmt>
+         <seriesStmt>
+            <title level="s">The Blue Mountain Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title level="j">
+                     <seg type="main">Niederrheinische Musik</seg>
+                     <seg type="sub">Zeitung für Kunstfreunde und Künstler</seg>
+                  </title>
+                  <imprint>
+                     <biblScope unit="vol"/>
+                     <biblScope unit="issue"/>
+                     <date when="1860-06-09"/>
+                  </imprint>
+               </monogr>
+               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnabi"/>
+               <relatedItem type="constituent" xml:id="c001">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Inhalt.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page">1</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c002">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="nonSort">Das</seg>
+                           <seg type="main">siebenunddreissigste niederrheinische Musikfest.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="1" to="3">1-3</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c003">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Aus Münster.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="3" to="4">3-4</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c004">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="nonSort">Die</seg>
+                           <seg type="main">musicalische Thätigkeit Münchens in den Monaten März, April und Mai.</seg>
+                        </title>
+                        <respStmt>
+                           <persName>X</persName>
+                           <resp>cre</resp>
+                        </respStmt>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="4" to="5">4-5</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c005">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Beurtheilungen.</seg>
+                           <seg type="main">Für Pianoforte.</seg>
+                        </title>
+                        <respStmt>
+                           <persName>L</persName>
+                           <resp>cre</resp>
+                        </respStmt>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="5" to="6">5-6</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c006">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Beethoven und Paer.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="6" to="7">6-7</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c007">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Tages- und Unterhaltungs-Blatt.</seg>
+                        </title>
+                        <respStmt>
+                           <persName>Die Redaction</persName>
+                           <resp>cre</resp>
+                        </respStmt>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="7" to="8">7-8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c008">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c009">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="Magazine">
+            <div type="Issue">
+               <div type="PublicationInfo">
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00001">
+                        <lb facs="P1_TL00001"/>\iederrhcinisclie Musik-Zeitung<lb facs="P1_TL00002"/>■ für Hiutatfrettttiie traft iiiraatk.<lb facs="P1_TL00003"/>Herausgegeben von Professor L. Bischoff. Verlag der M. DuMont-Schauberg'sehen Buchhandlung.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00011">
+                        <lb facs="P1_TL00082"/>Nr. 24.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00012">
+                        <lb facs="P1_TL00083"/>KÖLN, 9. Juni 1860.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00010">
+                        <lb facs="P1_TL00081"/>VIII. Jahrgang.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00009">
+                        <lb facs="P1_TL00080"/>24</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00007">
+                        <lb facs="P8_TL00084"/>J)ie <lb facs="P8_TL00085"/>erscheint jeden Samstag in einem ganzen Bogen mit zwanglosen<lb facs="P8_TL00086"/>Beilagen. Der Abonnementspreis beträgt für das .Halbjahr 2 Thlr.,<lb facs="P8_TL00087"/>bei den K. preuss. Post-Anstalten 2 Thlr. 5 Sgr. Eine einzelne Num<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P8_TL00088"/>mer 4 Sgr» Einrückungs-Gebühren per Petitzeile 2 Sgr.<lb facs="P8_TL00089"/>Briefe und Zusendungen aller Art werden unter der Adresse de<lb facs="P8_TL00090"/>M. DuMont-Schauberg1 sehen Buchhandlung in Köln erbeten.<lb facs="P8_TL00091"/>Verantwortlicher Herausgeber: Prof. £♦ Bischoff in Köln.<lb facs="P8_TL00092"/>Verleger: M. DuMont-Schauberg'sehe Buchhandlung in Köln.<lb facs="P8_TL00093"/>Drucker: M. DuMont-Schauberg in Köln, Breitstrasse 7G u. 78.</ab>
+                  </div>
+               </div>
+               <div type="EditorialContent">
+                  <div type="TextContent" corresp="c001">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00002">
+                           <lb facs="P1_TL00004"/>Inhalt. </ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00003">
+                                    <lb facs="P1_TL00005"/>Das siebenunddreissigste niederrheinische Musikfest. I. Aus Münster (Rückblick auf die letzte Concert-Saison. Von</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00004">
+                                    <lb facs="P1_TL00006"/>***. Die musicalische Thätigkeit Münchens in den Monaten März, April und Mai. YonX. —Beurtheilun gen Für Pianoforte: Hall<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00007"/>berger's Salon 11. Jahrg. 1. 2. Heft. Von M. Für Organisten: Der katholische und protestantische Organist. Herausgegeben von G. W.<lb facs="P1_TL00008"/>Körner. Von L. Beethoven und Paer Tages- und Unterhaltungsblatt (Fr. Schneider's Musikschule in Dessau u. s. w.)</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c002">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00005">
+                           <lb facs="P1_TL00009"/>Das siebenunddreissigste niederrheinische Musikfest.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="MinorHead">
+                              <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                  xmlns:mods="http://www.loc.gov/mods/v3"
+                                  facs="P1_TB00006">
+                                 <lb facs="P1_TL00010"/>I.</ab>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00007">
+                                    <lb facs="P1_TL00011"/>Die Feier des niederrheinischen Musikfestes, welche<lb facs="P1_TL00012"/>im vorigen Jahre der kriegerischen Verhältnisse wegen<lb facs="P1_TL00013"/>nicht Statt fand, ist dieses Jahr wie gewöhnlich an den drei<lb facs="P1_TL00014"/>Pfingsttagen, 27. 29. Mai, begangen worden, und zwar<lb facs="P1_TL00015"/>mit einem in jeder Hinsicht glänzenden Erfolge, mit Aus<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00016"/>nahme des Wetters, das den Mai völlig verläugnete und<lb facs="P1_TL00017"/>uns schier durch Sturm und Regen in den März zurück<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00018"/>versetzen wollte. Das war aber auch die einzige düstere<lb facs="P1_TL00019"/>Partie am Feste; alles Uebrige, Herbeiströmen der musi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00020"/>calischen und poetischen und neugierigen Menschen zum<lb facs="P1_TL00021"/>Singen, Spielen und Zuhören, treffliche Ausführung guter<lb facs="P1_TL00022"/>Musik, geselliges Zusammenleben unter Dach und Fach,<lb facs="P1_TL00023"/>denn im Freien duldete der Himmel uns nicht, brachte<lb facs="P1_TL00024"/>trotz alledem die fröhliche, festliche Stimmung in Gang,<lb facs="P1_TL00025"/>welche an diesen der Tonkunst und ihrem Gefolge geweih<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00026"/>ten Tagen am Rheine stets zu herrschen pflegt, und dieses<lb facs="P1_TL00027"/>Mal um so mehr, als drei wohlthätige Traubenjahre dafür<lb facs="P1_TL00028"/>gesorgt haben, dass man das classische Sprüchwort: Can<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00029"/>tores amant humores", mit: „Der Humor verlässt die Mu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00030"/>siker nicht!" übersetzen kann.<lb facs="P1_TL00031"/>Die Stadt Düsseldorf, die Wiege des niederrheini<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00032"/>schen Musikfestes, hat seit dem Jahre 1818 dessen Feier<lb facs="P1_TL00033"/>dreizehn Mal veranstaltet, einmal sogar an zwei auf einan<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00034"/>der folgenden Jahren (1855 und 1856); sie darf sich also<lb facs="P1_TL00035"/>mit Recht als eine Hauptstütze dieses Kunst-Instituts be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00036"/>trachten, und es ist dem dort zusammengetretenen Comite<lb facs="P1_TL00037"/>gelungen, auch zum vierzehnten Male eine recht schöne<lb facs="P1_TL00038"/>Feier zu veranstalten.<lb facs="P1_TL00039"/>Da bei den ausserordentlichen Kosten, welche die Mu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00040"/>sikfeste verursachen, die Einnahme keineswegs gleichgültig<lb facs="P1_TL00041"/>ist, so wollen wir zunächst bestätigen, dass sie ein sehr er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00042"/>freuliches Resultat gegeben und die Auslagen überreich<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00043"/>lich gedeckt hat. Es ist dies um so bemerkenswerther, als</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00008">
+                                    <lb facs="P1_TL00044"/>das wahrhaft umgestüme Wetter wahrlich nicht zu Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00045"/>gnügungsreisen einlud; und doch waren alle Gasthöfe über<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00046"/>füllt, Privat-Quartiere stark gesucht, mitunter nur zu theu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00047"/>ren Preisen zu haben, und in der Tonhalle an zwei tau<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00048"/>send Zuhörer!<lb facs="P1_TL00049"/>Diese zahlreiche Theilnahme, welche sich bei den sie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00050"/>ben Festen, die seit der Wieder-Aufnahme derselben im<lb facs="P1_TL00051"/>Jahre 1851 nach einer dreijährigen Unterbrechung (1848<lb facs="P1_TL00052"/>bis 1850) sich stets gesteigert hat, ist ein sicherer Beweis<lb facs="P1_TL00053"/>dafür, dass die Musikfeste mit dem Kunstleben am Rheine<lb facs="P1_TL00054"/>innig verwachsen sind, die Liebe zur Tonkunst ihre vollen<lb facs="P1_TL00055"/>Blüthen treibt und der Sinn für das wahre Musicalisch-<lb facs="P1_TL00056"/>Schöne, wie es die reinste und edelste Kunstgattung im<lb facs="P1_TL00057"/>Oratorium und in der Sinfonie darbietet, vollkommen stark,<lb facs="P1_TL00058"/>lebendig und unangefochten von den prahlerischen Lockun<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00059"/>gen der Werber für die Zukunft geblieben ist. Denn mö<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00060"/>gen immerhin, wie es ganz recht und billig, ja, notwen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00061"/>dig ist, auch bewährte Werke neuerer Componisten ihre<lb facs="P1_TL00062"/>ehrenvolle Stelle an unseren Musikfesten finden, so ist es<lb facs="P1_TL00063"/>doch ausgemacht, dass hauptsächlich die Aufführung der<lb facs="P1_TL00064"/>monumentalen Meisterwerke, deren Grösse aus der Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00065"/>gangenheit in die Gegenwart und in die Zukunft hinein<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00066"/>ragt, die bei Weitem grösste Menge der Zuhörerschaft an<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00067"/>zieht und Tausenden ein wahres Fest ist, von dem sie so<lb facs="P1_TL00068"/>leicht keine äusseren Hemmnisse zurückhalten.<lb facs="P1_TL00069"/>Man betrachte ein Publicum, wie es an den Pfingst<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00070"/>tagen in der Tonhalle zu Düsseldorf versammelt war, in<lb facs="P1_TL00071"/>seiner gespannten Aufmerksamkeit, man sehe, wie es mit<lb facs="P1_TL00072"/>gebildetem Sinne und richtigem Tact die ernstesten Chöre<lb facs="P1_TL00073"/>des Händei'schen Oratoriums und jeden Satz der Beetho<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00074"/>ven'schen Sinfonie durch einen Applaus auszeichnet, der<lb facs="P1_TL00075"/>sonst nur Virtuosen-Leistungen zu Theil wird; wie es dann<lb facs="P1_TL00076"/>wieder keineswegs verrannt in Sonderbündelei oder in<lb facs="P1_TL00077"/>überclassische Ausschliesslichkeit—die Sinfonie von Schu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00078"/>mann, den Ver sacrum von I I iiier, das Violin-Concert von<lb facs="P1_TL00079"/>Joachim, neue und neueste Schöpfungen begabter Geister,</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00002">
+                                    <lb facs="P2_TL00002"/>aufnimmt und in ihnen den Anschluss an die hohen Mei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00003"/>ster in Verbindung mit dem Einflüsse unserer Zeit und<lb facs="P2_TL00004"/>ihrer vermehrten Tonmittel und fortgeschrittenen Technik<lb facs="P2_TL00005"/>mit Freuden begrüsst: und man wird Achtung bekom<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00006"/>men vor einer solchen Zuhörerschaft und in den Musik<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00007"/>festen wahre Stützen, ja, recht eigentliche Conservatorien<lb facs="P2_TL00008"/>der Musik erblicken. Gewiss, ihre Aufführungen wirken<lb facs="P2_TL00009"/>lange nach und bewahren vor dem Behagen an unechtem<lb facs="P2_TL00010"/>Flitterglanz und modischem Klang-Luxus ohne musicali<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00011"/>schen Gedanken-Inhalt.<lb facs="P2_TL00012"/>Die Kräfte, welche das diesjährige Fest zur Ausfüh<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00013"/>rung vereinigt hatte, waren an Zahl und Tüchtigkeit be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00014"/>deutend.<lb facs="P2_TL00015"/>Nach dem Textbuche zählte der Chor 165 im Sopran,<lb facs="P2_TL00016"/>112 im Alt, 137 im Tenor, 216 im Gass, zusammen<lb facs="P2_TL00017"/>630 Sängerinnen und Sänger; waren nun auch mehrere<lb facs="P2_TL00018"/>der angemeldeten verhindert, so bleibt immer noch ein<lb facs="P2_TL00019"/>Verein von 550 bis 600 Stimmen übrig. Uebrigens war<lb facs="P2_TL00020"/>der Chor der weiblichen Stimmen klangvoller und kräfti<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00021"/>ger, als der Männerchor; vielleicht hinderte die Stellung<lb facs="P2_TL00022"/>des letzteren, weit getrennt und auf beiden Seiten tief in<lb facs="P2_TL00023"/>den Hintergrund, ohne genügende Erhöhung, geschoben,<lb facs="P2_TL00024"/>die volle Entwicklung der Stimmen.<lb facs="P2_TL00025"/>Das Orchester vereinigte 62 Violinen, 26 Bratschen,<lb facs="P2_TL00026"/>24 Violoncelle, 15 Contrabässe, 4 Flöten, 4 lloboen, 4<lb facs="P2_TL00027"/>Clarinetten, 4 Fagotte, 6 Horner,* 4 Trompeten, 3 Po<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00028"/>saunen, 2 Paukenschläger und 2 Janitscharen zu einer<lb facs="P2_TL00029"/>Masse von 160 Instrumentalisten unter der Anführung<lb facs="P2_TL00030"/>der beiden Concertmeister Julius Grunwald und Otto<lb facs="P2_TL00031"/>von Königslöw aus Köln.<lb facs="P2_TL00032"/>Das Quartett der Saiten-Instrumente war vortrefflich.<lb facs="P2_TL00033"/>Unter den Violinisten bemerkten wir die Herren Böie aus<lb facs="P2_TL00034"/>Altona, Gerh. Brassin aus Düsseldorf, Engels aus Mül<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00035"/>heim an der Ruhr, Langenbach aus Elberfeld, Lar<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00036"/>ronde aus Brüssel, C. Müll e r aus Braunschweig, Schmidt<lb facs="P2_TL00037"/>aus Bremen, Seiss aus Barmen, Tours aus Rotterdam,<lb facs="P2_TL00038"/>Venth aus Köln. An den Bratschen wirkten unter Ande<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00039"/>ren die Herren Franz Weber, Breunung, Bram<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00040"/>bach, Hülle, Kufferath, Mecum und Rumpen aus<lb facs="P2_TL00041"/>Köln, Kochner aus Düsseldorf, zur Nieden aus Duis<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00042"/>burg, Wollf aus Crefeld mit. Bei den Violoncellen die<lb facs="P2_TL00043"/>Herren Breidenstein aus Dortmund, B. Breuer aus<lb facs="P2_TL00044"/>Köln, Brinkmann aus Frankfurt a. M., Buchet aus<lb facs="P2_TL00045"/>Verviers, Cabisius aus Bremen, Des wert aus Brüssel,<lb facs="P2_TL00046"/>Forberg aus Düsseldorf, Hankel aus Dessau, H. Geul<lb facs="P2_TL00047"/>aus Crefeld, Jäger aus Elberfeld, Müller aus Braun<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00048"/>schweig, J. Wenigmann aus Aachen, Werner aus<lb facs="P2_TL00049"/>Hannover. Bei den Contrabässen die Herren A. Breuer<lb facs="P2_TL00050"/>aus Köln, Ba uwers aus Brüssel, Schauseil aus Düssel-</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00003">
+                                    <lb facs="P2_TL00051"/>Dorf, Simon aus Sondershausen u.s. w. Unter den Blas<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00052"/>instrumenten war nichts Ausgezeichnetes.<lb facs="P2_TL00053"/>Diesen Verein von Vocal- und Instrumentalkräften<lb facs="P2_TL00054"/>leitete Capellmeister Ferdinand Hill er von Köln mit<lb facs="P2_TL00055"/>feuriger Anregung, meisterhafter Umsicht, Sachkenntniss<lb facs="P2_TL00056"/>und Energie.<lb facs="P2_TL00057"/>Se. Hoheit der Herr Fürst zu Hohenzoliern und sein<lb facs="P2_TL00058"/>Hof verherrlichten sämmtliche Concert-Abende des Festes<lb facs="P2_TL00059"/>durch Ihre hohe Gegenwart und sichtbare Theilnahme an<lb facs="P2_TL00060"/>den gelungenen Ausführungen.<lb facs="P2_TL00061"/>Von Künstlern und Kunstfreunden, besonders auch von<lb facs="P2_TL00062"/>Orchester- und Singvereins-Dirigenten, sahen wir ausser<lb facs="P2_TL00063"/>den bereits unter den Mitwirkenden genannten: Frau<lb facs="P2_TL00064"/>Schumann, die Herren Gouvy, J. Rosenhain, Du<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00065"/>puys aus Paris, Nikol. Rubinstein aus Moskau, Alfr.<lb facs="P2_TL00066"/>Jaell, L. B rassin, B rahms aus Hamburg, Graf von<lb facs="P2_TL00067"/>Stainlein aus München, Soubre aus Brüssel, Baron v.<lb facs="P2_TL00068"/>Perfall aus München, Reinthaler aus Bremen, Litolff<lb facs="P2_TL00069"/>aus Braunschweig, Verhulst aus Rotterdam, Radecke,<lb facs="P2_TL00070"/>v. Saar aus Berlin, B. Scholz aus Hannover, Dietrich<lb facs="P2_TL00071"/>aus Bonn, Wüllner aus Aachen, Marpurg aus Mainz,<lb facs="P2_TL00072"/>Hartmann ausNeuss, Schindelmeisser ausDarmstadt,<lb facs="P2_TL00073"/>Leibi, Böhme, Max Bruch, Bargiel, Hompesch<lb facs="P2_TL00074"/>aus Köln, Lenz aus Coblenz, Müller Ackens<lb facs="P2_TL00075"/>aus Aachen, Schornstein, van Eyken, Weinbren<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00076"/>ner aus Elberfeld, Rieh. Hol aus Amsterdam, O. Jahn<lb facs="P2_TL00077"/>aus Bonn, die Musikverleger Dr. Arnold aus Elberfeld,<lb facs="P2_TL00078"/>Rieter-Biedermann aus Winterthur, Schloss aus<lb facs="P2_TL00079"/>Köln u. s. w.<lb facs="P2_TL00080"/>In der Feststellung des Programms erkannte man die<lb facs="P2_TL00081"/>Grundsätze wieder, welche durch langjährige Ueberliefe<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00082"/>rung für das niederrheinische Musikfest geheiligt und, so<lb facs="P2_TL00083"/>viel wir uns erinnern, nur ein einziges Mal verkannt wor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00084"/>den sind. Die Grundlage der Feier bildeten stets und auch<lb facs="P2_TL00085"/>jetzt wieder mit Hecht monumentale Werke der Tonkunst,<lb facs="P2_TL00086"/>welche die Namen Händel, Gluck, Mozart, Beetho<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00087"/>ven, Cherubini an der Stirn tragen. Ihnen schlössen<lb facs="P2_TL00088"/>sich Schumann und Hiller, jener mit der Sinfonie in<lb facs="P2_TL00089"/>B-dur, dieser mit dem Gesangwerke an, die<lb facs="P2_TL00090"/>neben und nach Mendelssohn die würdigsten Vertreter der<lb facs="P2_TL00091"/>zwei grössten und ernstesten Gattungen von Tonwerken in<lb facs="P2_TL00092"/>der nacbbeethoven'schen Zeit sind auch dieses Mal wie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00093"/>der ein Beweis, dass unsere Musikfeste keineswegs das<lb facs="P2_TL00094"/>Neue bloss desshalb, weil es neu ist, ausschliessen wollen.<lb facs="P2_TL00095"/>Nichts ist ungerechter, als dieser Vorwurf. Von den<lb facs="P2_TL00096"/>151 Werken, welche von 1818 bis 1847 auf den nie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00097"/>derrheinischen Festen aufgeführt wurden, gehörten neun<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00098"/>undfünfzig zur Zeit lebenden Componisten an, und seit<lb facs="P2_TL00099"/>Wiederaufnahme des Festes im Jahre 1851 bis heute<lb facs="P2_TL00100"/>kommen auf sechsunddreissig Werke älterer Meister (We<pc type="endhypen" pre="false">-</pc>
+                                 </ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00002">
+                                    <lb facs="P3_TL00002"/>ber und Mendelssohn mit inbegriffen) vierzehn von zeit<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00003"/>genössischen Componisten, ein Verhältniss des Neuen zum<lb facs="P3_TL00004"/>Alten, welches 1 : 3 übersteigt.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c003">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00003">
+                           <lb facs="P3_TL00005"/>Aus Münster.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00004">
+                                    <lb facs="P3_TL00006"/>Den 29: Mai 1860.<lb facs="P3_TL00007"/>Das Concert vom 12. Mai schloss die Reihe der vom<lb facs="P3_TL00008"/>hiesigen Musik-Vereine in der verflossenen Winter-Periode<lb facs="P3_TL00009"/>gegebenen achtzehn Concerte. In denselben kamen, ausser<lb facs="P3_TL00010"/>kleineren Vorträgen für Gesang und Instrumente, folgende<lb facs="P3_TL00011"/>Musikwerke zur Aufführung: Sinfonieen: Ilavdn in<lb facs="P3_TL00012"/>dur (Nr. 1); Mozart in D-dur (in drei Sätzen) zwei Mal,<lb facs="P3_TL00013"/>in C-dur (Nr. 6) und in B-dur (Nr. 11 der BreitkopPschen<lb facs="P3_TL00014"/>Ausgabe); Beethoven in D-dur (Nr. 2), Eroica (Nr. 3),<lb facs="P3_TL00015"/>B-dur (Nr. 4), C-moll(Nr. 5), (Nr. 6),<lb facs="P3_TL00016"/>(Nr. 7); Schumann D-molb,Gade (Nr. 1). Ouver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00017"/>türen: Cherubini: „Der portugiesische Gasthof", „Ali<lb facs="P3_TL00018"/>Baba", „Lodoisca", „Elise"; Mozart: „Zauberflöte",<lb facs="P3_TL00019"/>„Cosifan tutte", „Figaro"; Beethoven: Op. 124, die vier<lb facs="P3_TL00020"/>Ouvertüren zu Fidelio; Weber: „Freischütz", „Pretiosa",<lb facs="P3_TL00021"/>„Euryanthe", „Beherrscher der Geister", „Oberon";<lb facs="P3_TL00022"/>Spohr: „Jessonda"; Mendelssohn: „Die schöne Melusine",<lb facs="P3_TL00023"/>„Meeresstille und glückliche Fahrt", „Ruyßlas"; Boildieu:<lb facs="P3_TL00024"/>„Weisse Dame"; Gluck: „Iphigenie in Aulis"; Nicolai:<lb facs="P3_TL00025"/>„Die lustigen Weiber von Windsor"; Rossini: „Wilhelm<lb facs="P3_TL00026"/>Teil"; Bennett: „Najaden"; Spontini: „Vestalin"; Mehul:<lb facs="P3_TL00027"/>„Joseph in Aegypten". Gesangstüke: Lorelei von Hiller;<lb facs="P3_TL00028"/>die erste Walpurgisnacht von Mendelssohn; der zweite Act<lb facs="P3_TL00029"/>aus der Oper „Orpheus" von Gluck; „An die Künstler"<lb facs="P3_TL00030"/>von Mendelssohn; Dithyrambe von Rietz; Die Ruinen von<lb facs="P3_TL00031"/>Athen von Beethoven (mit Sternau's verbindendem Gedicht);<lb facs="P3_TL00032"/>Frühlingsbotschaft von Gade; Zigeunerleben von Schumann;<lb facs="P3_TL00033"/>„Beim Abschied zu singen" von Schumann; Introduction,<lb facs="P3_TL00034"/>Recitativ, Arie und Duett, Morgengesang der Vestaiinnen<lb facs="P3_TL00035"/>aus der Oper „Die Vestalin" von Spontini (anschliessend<lb facs="P3_TL00036"/>an die Ouvertüre); Hochzeitsmusik und Hochzeitslied aus<lb facs="P3_TL00037"/>der Oper „Lohengrin" von Wagner; Introduction (Nr. 1),<lb facs="P3_TL00038"/>Arie (Nr. 2), Quartett, Chor (Nr. 11), Chor mit Solo (Nr.<lb facs="P3_TL00039"/>12), Finale des zweiten Actes (Nr. 15), Finale des dritten<lb facs="P3_TL00040"/>Actes (Nr. 22) aus der Oper „Oberon" von Weber (an<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00041"/>schliessend an die Ouvertüre); Terzett mit Chor (0, diese<lb facs="P3_TL00042"/>Sonne!); Duett (Schelm, halt' fest); Finale des dritten Actes<lb facs="P3_TL00043"/>aus der Oper „Freischütz" von Weber (im Anschluss an<lb facs="P3_TL00044"/>die Ouvertüre); Concert-Arie mit Orchester-Begleitung von<lb facs="P3_TL00045"/>Mendelssohn; Arie für Sopran aus „Saul" von Hiller; Scene<lb facs="P3_TL00046"/>und Arie aus „Hans Heiling" von Marschner; Recitativ und<lb facs="P3_TL00047"/>Arie aus „Jessonda" von Spohr; Arie „Ach, welche Lust"<lb facs="P3_TL00048"/>aus der Weissen Dame von Boieldieu; Arie des Pizarro mit</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00005">
+                                    <lb facs="P3_TL00049"/>Chor, Duett des Pizarro und Rocco und erstes Finale aus<lb facs="P3_TL00050"/>„Fidelio" von Beethoven; Arie des Simon: „Nun schreitet<lb facs="P3_TL00051"/>froh der Ackersmann", aus Haydn's „Jahreszeiten"; Arie<lb facs="P3_TL00052"/>des Faust aus der Oper „Faust" von Spohr; Arie „In die<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00053"/>sen heiligen Hallen" von Mozart; Lieder und vierstimmige<lb facs="P3_TL00054"/>Männerchöre von Mendelssohn, Marschner, Schumann,<lb facs="P3_TL00055"/>Lachner, Dürrner, Lenz, Bansi, Heiser, Woyna u. s. w.<lb facs="P3_TL00056"/>Concertstiicke: Violoncell-Concert [C-dur, Nr. 7) von<lb facs="P3_TL00057"/>Romberg; Phantasie für Cello von Servais; Präludium in<lb facs="P3_TL00058"/>C-clur von J. S. Bach, in der bekannten Weise von Gounod<lb facs="P3_TL00059"/>eingerichtet für Ciavier, Yioloncell und Orgel; Concert für<lb facs="P3_TL00060"/>Pianoforte (A-molt)von Schumann; Rondo in von<lb facs="P3_TL00061"/>Mendelssohn; Concert für Pianoforte von Th.<lb facs="P3_TL00062"/>Krausse; Concert für Waldhorn von Lübeck; Phantasie<lb facs="P3_TL00063"/>für Waldhorn von Lorenz; Solo für Flöte von Briccialdi;<lb facs="P3_TL00064"/>Concert für Violine von Mendelssohn; Phantasie für Violine<lb facs="P3_TL00065"/>von Leonard; Concert für Violine von Beethoven.<lb facs="P3_TL00066"/>Was die Zustände des hiesigen Musik-Vereins im All<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00067"/>gemeinen betrifft, so hat sich derselbe auf seiner früheren<lb facs="P3_TL00068"/>Höhe erhalten. Insbesondere waren die Leistungen des Or<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00069"/>chesters nach allen Seiten hin der vollsten Anerkennung<lb facs="P3_TL00070"/>würdig. Die Stabilität des Bestandes seiner Mitglieder, un<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00071"/>ter denen seit Jahren nur geringer Wechsel Statt gefun<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00072"/>den, der gute, feste Stamm eines soliden Quartetts, die<lb facs="P3_TL00073"/>grosse Zahl der Proben und Ausführungen, welche die un<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00074"/>gewöhnlich lange Reihe der Concerte erfordert und durch<lb facs="P3_TL00075"/>welche die Kräfte des Orchesters in steter einheitlicher<lb facs="P3_TL00076"/>Uebung erhalten werden, insbesondere aber die vorzügliche<lb facs="P3_TL00077"/>Leitung desselben unter seinem nach allen Seiten hin tüch<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00078"/>tigen Dirigenten, Herrn Musik-Director Karl Müller, ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00079"/>ben ihm eine unerschütterliche Sicherheit, verbunden mit<lb facs="P3_TL00080"/>grosser Leichtigkeit und Feinheit in der Ausführung, ia<lb facs="P3_TL00081"/>welcher die zartesten Nuancirungen und Schatlirungen<lb facs="P3_TL00082"/>ihren Ausdruck finden. Auch die Auswahl der aufgeführ<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00083"/>ten Musikwerke zeugt davon, dass die Richtung des Vereins<lb facs="P3_TL00084"/>die seit Jahren festgehaltene geblieben ist. Diese Richtung<lb facs="P3_TL00085"/>auf das Beste und Höchste unserer classischen Musik wird<lb facs="P3_TL00086"/>\<lb facs="P3_TL00087"/>aufs entschiedenste durch Herrn Müller vertreten, und sie<lb facs="P3_TL00088"/>ist die beste Gewähr für die fortdauernde Blüthe des<lb facs="P3_TL00089"/>Vereins.<lb facs="P3_TL00090"/>Freilich droht demselben von anderer Seite ein nicht<lb facs="P3_TL00091"/>unerheblicher Uebelstand. Seit Jahr und Tag wurde die<lb facs="P3_TL00092"/>zur Aufführung der musicalischen Messen im hiesigen Dom<lb facs="P3_TL00093"/>bestandene, aus Mitteln des Dom-Capitels unterhaltene<lb facs="P3_TL00094"/>Dom-Capelle aufgelöst. Die besoldeten Mitglieder die<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00095"/>ser Capelle waren grösstentheils auch mitwirkende Mitglie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00096"/>der des Musik-Vereins; dadurch, dass die erstere ein Tun-<lb facs="P3_TL00097"/>V 7<lb facs="P3_TL00098"/>dirtes Institut blieb, wurden dem letzteren nicht nur tüch<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00099"/>tige Kräfte erhalten, sondern auch neue zugeführt, ohne<lb facs="P3_TL00100"/>dass es Seitens des Vereins der Aufwendung besonders<lb facs="P3_TL00101"/>[*J</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00002">
+                                    <lb facs="P4_TL00002"/>kostspieliger Mittel bedurfte. Mit dem Aufhören der Ca<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00003"/>pelle hat diese Hilfsquelle für den Verein aufgehört, und<lb facs="P4_TL00004"/>kann es nicht fehlen, dass ihm auf die Dauer daraus ein<lb facs="P4_TL00005"/>merklicher Nachtheil erwachsen wird. Hoffentlich wird<lb facs="P4_TL00006"/>derselbe jedoch die Mittel finden, etwaige Verluste, welche<lb facs="P4_TL00007"/>ihn auf diese Weise treffen, in anderer Art zu ersetzen.<lb facs="P4_TL00008"/>Eben so, wie das Orchester, befriedigte auch der Chor<lb facs="P4_TL00009"/>vollständig durch klangvolle, reine Stimmen und durch<lb facs="P4_TL00010"/>präeisen und feinen Vortrag. Leider wurde während der<lb facs="P4_TL00011"/>verflossenen Concert-Periode das Zusammenwirken von<lb facs="P4_TL00012"/>Chor und Orchester, wie solches bisher in jedem Jahre am<lb facs="P4_TL00013"/>Cäcilien-Tage durch Aufführung eines Oratoriums geschah,<lb facs="P4_TL00014"/>verhindert, obwohl die Aufführung von Haydn's „Jahres<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00015"/>zeiten" in den erforderlichen Proben bereits vollständig<lb facs="P4_TL00016"/>vorbereitet war. Der Vereins-Vorstand beabsichtigte, für<lb facs="P4_TL00017"/>einzelne Solo-Partieen auswärtige Kräfte zu gewinnen ; die<lb facs="P4_TL00018"/>desfallsigen Verhandlungen überdauerten jedoch den Cä<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00019"/>cilien-Tag, und die Aufführung unterblieb.<lb facs="P4_TL00020"/>Der grössere Theil der Solo-Vorträge wurde durch<lb facs="P4_TL00021"/>hiesige Dilettanten ausgeführt. V on auswärtigen Künstlern<lb facs="P4_TL00022"/>sang Fräul. E. Saart aus Köln die Lorelei und die Arien<lb facs="P4_TL00023"/>von Mendelssohn, Ililler (aus Saul), Maischner (Heiling)<lb facs="P4_TL00024"/>und von Spohr (Jessonda) mit schöner, wohlklingender<lb facs="P4_TL00025"/>Stimme und vollem Beifalle. Das Cello-Concert von Rom<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00026"/>berg und die Phantasie von Servais trug Elerr Valentin<lb facs="P4_TL00027"/>Müller, Schüler von Menter und Servais, jetzt in Paris,<lb facs="P4_TL00028"/>ganz vorzüglich vor. Das von Schumann<lb facs="P4_TL00029"/>und das jEk-tfer-Rondo von Mendelssohn spielte Herr II a r<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00030"/>necke aus Arnsberg, ein junger Pianist, der mit guter<lb facs="P4_TL00031"/>Technik gute Richtung verbindet. Derselbe bestätigte die<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00032"/>ses auch in einem besonderen Concerte, in welchem er die<lb facs="P4_TL00033"/>Sonate von Beethoven, Op. 106, und Mendelssohn's<lb facs="P4_TL00034"/>moll-Concert mit grossem Beifalle vortrug. Das Clavier-<lb facs="P4_TL00035"/>Concert vonTh. Krausse, eine Composition, welche man<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00036"/>ches Interessante und Schöne bietet, wurde vom Compo<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00037"/>nisten gut ausgeführt und sehr beifällig aufgenommen.<lb facs="P4_TL00038"/>Der erste Hornist des Orchesters, Herr Heck, brachte die<lb facs="P4_TL00039"/>Compositionen für Waldhorn vortrefflich zur Geltung. Der<lb facs="P4_TL00040"/>schöne Ton, die reine, fehlerlose Intonation und die grosse<lb facs="P4_TL00041"/>Bravour, welche ihm zu Gebote stehen, geben ihm für das<lb facs="P4_TL00042"/>Orchester einen besonderen Werth, lieber den Herrn Con<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00043"/>certmeister Maximilian Wolff aus Frankfurt am Main,<lb facs="P4_TL00044"/>welcher das Concert von Mendelssohn und die Phantasie<lb facs="P4_TL00045"/>von Leonard für Violine vortrug, hat bereits die Nummer<lb facs="P4_TL00046"/>"20 dieser Zeitung von hier aus berichtet. Derselbe spielte<lb facs="P4_TL00047"/>auch das Beethoven-Concert und bewährte durch den Vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00048"/>trag dieser grossartigen Composition, dieses Probiersteines<lb facs="P4_TL00049"/>der Violin-Virtuosen, aufs rühmlichste das früher über ihn<lb facs="P4_TL00050"/>ausgesprochene Urtheil/</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00003">
+                                    <lb facs="P4_TL00051"/>Die hiesigen musicalischen Zustände gewähren hier<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00052"/>nach ein recht zufriedenstellendes Resultat. Es kann ohne<lb facs="P4_TL00053"/>die geringste Ueberlreibung gesagt werden, dass aus den<lb facs="P4_TL00054"/>vorhandenen musicalischen Elementen alles geschaffen wird,<lb facs="P4_TL00055"/>was mit denselben irgend zu erreichen ist. Dieses verdient<lb facs="P4_TL00056"/>volle Anerkennung, und soll damit zugleich sowohl den<lb facs="P4_TL00057"/>mitwirkenden Mitgliedern des Vereins, als insbesondere<lb facs="P4_TL00058"/>seinem verdienstvollen, strebsamen, keine Mühe und Ar<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00059"/>beit scheuenden Dirigenten der herzlichste Dank ausge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00060"/>sprochen sein.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c004">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P4_TB00004">
+                           <lb facs="P4_TL00061"/>Die musicalische Thätigkeit Münchens in den Monaten<lb facs="P4_TL00062"/>März, April und Mai.</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00004">
+                           <lb facs="P5_TL00017"/>X.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00005">
+                                    <lb facs="P4_TL00063"/>Die musicalische Akademie unter Lachner's Leitung<lb facs="P4_TL00064"/>eröffnete nach dem Carneval ihren zweiten Concert-Cyklus<lb facs="P4_TL00065"/>mit einem historischen Concerte von Werken baierischer<lb facs="P4_TL00066"/>Capellmeister. Dasselbe begann mit einer Composition von<lb facs="P4_TL00067"/>L. Senfl, geboren um 1490, ihr folgten Werke von Or<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00068"/>lando di Lasso, Joh. C. Kherl, G. A. Bernabei, A. Stef<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00069"/>fani, A. Bernasconi, C. Canabich, Winter, Elt, Chelard.,<lb facs="P4_TL00070"/>Aiblinger und es schloss mit einer Volks-Hymne von Stünz.<lb facs="P4_TL00071"/>Das Palmsonntag-Concert brachte die „Schöpfung" von<lb facs="P4_TL00072"/>Haydn, die übrigen drei Concerte die Sinfonia JEroica und<lb facs="P4_TL00073"/>die in Cvon Beethoven, die 6r-mo//-Sinfonie - von Mozart,<lb facs="P4_TL00074"/>ein Octett für Blas-Instrumente von demselben Meister<lb facs="P4_TL00075"/>und das Clavier-Concert in Gvon Beethoven. Von Ouver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00076"/>türen und Gesangstücken kamen in denselben zur Auffüh<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00077"/>rung: die Ouvertüre zu Anakreon von Cherubini, die zu<lb facs="P4_TL00078"/>Athalia von Mendelssohn und die zu König Stephan von<lb facs="P4_TL00079"/>Beethoven; ferner die Arie: „Mein gläubiges Herze froh<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00080"/>locke", von Seb. Bach, eine Sopran-Arie aus Iphigenie in<lb facs="P4_TL00081"/>Aulis von Gluck und eine aus Händel's Cacilia: „0, welche<lb facs="P4_TL00082"/>Kunst erreicht"; schliesslich irische Lieder für Ciavier,<lb facs="P4_TL00083"/>Violine, Violoncell und zwei Singstimmen von Beethoven.<lb facs="P4_TL00084"/>Im Oratorien-Verein unter von Perfall's Leitung<lb facs="P4_TL00085"/>kam in zwei Concerten zur Aufführung das Oratorium<lb facs="P4_TL00086"/>„Israel in Aegypten" von Händel (nach der Original-Par<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00087"/>titur mit Orgel) und zum ersten Male der zweite Theil aus<lb facs="P4_TL00088"/>dem Weihnachts-Oratorium von Seb. Bach; der dritte Act<lb facs="P4_TL00089"/>aus dem von der deutschen Händel-Gesellschaft herausge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00090"/>gebenen Oratorium „Susanna" von Händel und die „Un<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00091"/>dirie", Gedicht von Bon, Musik für Soli, Chor und Or<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00092"/>chester von Perfall, eine Composition, über deren glänzen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00093"/>den Erfolg ich Ihnen schon berichtet habe. Ein Haydn'-<lb facs="P4_TL00094"/>sches Quartett in F-dur, die D-dur-Sonate für Cello und<lb facs="P4_TL00095"/>Ciavier von Mendelssohn und das Quintett in von<lb facs="P4_TL00096"/>Beethoven vertraten endlich nach langer Pause in einer<lb facs="P4_TL00097"/>Lauterbach'schen Soiree wieder die Kammermusik. Zwei</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00002">
+                                    <lb facs="P5_TL00002"/>andere Soireen, von denen die eine der Violinist Herr Pe<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00003"/>ter Moralt, die andere der Pianist J. V. Kolb veran<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00004"/>staltete, brachten an Belangreichem ein Geigen-Quintett<lb facs="P5_TL00005"/>von Franz Lachner mit grosser Besetzung, das italienische<lb facs="P5_TL00006"/>Concert für Ciavier allein von Seb. Bach und das Trio in<lb facs="P5_TL00007"/>B-clur (Op. 97) für Ciavier, Violine und Violoncell von<lb facs="P5_TL00008"/>Beethoven. Von Virtuosen hörten wir Fräul. Eichberg,<lb facs="P5_TL00009"/>Harfenistin aus Stuttgart, unseren Clarinett-Virluosen Bär<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00010"/>mann und die Sängerin Frau Kapp-Young aus Wien<lb facs="P5_TL00011"/>in zahlreich besuchten Concerten, die sie selbst veranstaltet<lb facs="P5_TL00012"/>hatten. Schliesslich ist noch einer Composition für Soli,<lb facs="P5_TL00013"/>Chor und Orchester, „Die Rückkehr des Odysseus", zu<lb facs="P5_TL00014"/>gedenken, welche ein junger einheimischer Componist,<lb facs="P5_TL00015"/>Herr J. Urban, in einem von ihm gegebenen Concerte</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00003">
+                                    <lb facs="P5_TL00016"/>unter seiner Direction zur Aufführung brachte.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c005">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00005">
+                           <lb facs="P5_TL00018"/>Beurtheilungen.</ab>
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00006">
+                           <lb facs="P5_TL00019"/>Für Pianoforte.</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P6_TB00004">
+                           <lb facs="P6_TL00041"/>L.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00007">
+                                    <lb facs="P5_TL00020"/>1. Hallberger's Salon. Ausgewählte Sammlung<lb facs="P5_TL00021"/>von Original-Compositionen für das Pianolorle.<lb facs="P5_TL00022"/>11. Jahrgang. 1. 2. Heft, ä 7 % Sgr. Subscr.-Pr.<lb facs="P5_TL00023"/>2. Pracht-Ausgabe der Sonaten von Haydn, Clementi,<lb facs="P5_TL00024"/>Mozart, Beethoven. 13.—20. Heft, ä Bogen 1 Sgr.<lb facs="P5_TL00025"/>Von den letzteren Componisten, die hier in schöner<lb facs="P5_TL00026"/>Gestalt neu erscheinen, Umgang nehmend sie stehen<lb facs="P5_TL00027"/>gross da und unerreicht und werden ewig die Grundlage<lb facs="P5_TL00028"/>eines guten Ciavierspiels und der Gipfelpunkt eines geläu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00029"/>terten Geschmacks sein —, beschränke ich mich, Einiges<lb facs="P5_TL00030"/>über Nr. 1 zu sagen. Die ausgebildete Technik des Ciavier<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00031"/>spiels, welche mit der vorwärts geschrittenen Vervollkomm<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00032"/>nung des Pianolorle Hand in Hand geht, macht neue Com<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00033"/>positionen unumgänglich nothwendig. Dazu tritt dann noch<lb facs="P5_TL00034"/>die Thatsache, dass das Clavierspielen mehr als je zur Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00035"/>wohnheit aller nur auf einige Bildung Anspruch Machen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00036"/>den geworden ist; ob zum Vortheil der Musik oder zum<lb facs="P5_TL00037"/>Nachtheil, weiss der Kenner gar leicht zu beurtheilen. Ein<lb facs="P5_TL00038"/>Unternehmen wie das des Hallberger'scben Salons kann<lb facs="P5_TL00039"/>daher von diesem Gesichtspunkte aus nur gebilligt werden.<lb facs="P5_TL00040"/>Es verdient aber mehr, nämlich Lob und Unterstützung,<lb facs="P5_TL00041"/>wenn dem vorgesetzten guten Zwecke auch eben so gute<lb facs="P5_TL00042"/>Mittel entsprechen. Das aber ist hier der Fall. Können auch<lb facs="P5_TL00043"/>alle Compositionen nicht vertreten werden, wenn man den<lb facs="P5_TL00044"/>strengen Maassstab der Aesthetik anlegt, erscheinen manche<lb facs="P5_TL00045"/>des ersten Jahrganges als unreife Früchte, findet sich man<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00046"/>ches rein Virtuosenthümliche, so ist doch bei Weitem die<lb facs="P5_TL00047"/>Mehrzahl der Piecen sehr gut. Um aber auf die zwei vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00048"/>liegenden Hefte des zweiten Jahrganges zu kommen, so ist<lb facs="P5_TL00049"/>der Fortschritt zum Bessere» unverkennbar. Die Compo<pc type="endhypen" pre="false">-</pc>
+                                 </ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00008">
+                                    <lb facs="P5_TL00050"/>sition von Moscheies ist eine süsse Träumerei als Nach<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00051"/>klang wohlthuenden Genusses herzinniger Freundschaft.<lb facs="P5_TL00052"/>In Rrüger's Pastorale weht die stilie Ruhe einer Land<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00053"/>schaft bei Sonnen-Untergang. J. Duprato erzählt uns die<lb facs="P5_TL00054"/>Schmerzen eines Herzens, welches endlich in frommer Re<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00055"/>signation den lange vermissten Frieden fand. J. Abenheim<lb facs="P5_TL00056"/>weckt in uns auf die trauten Märchen, mit welchen unsere<lb facs="P5_TL00057"/>Mutter an der Wiege uns in den Schlaf sang. Egmont<lb facs="P5_TL00058"/>Fröhlich zaubert uns die Feen und Elfen, welche darin<lb facs="P5_TL00059"/>spielen, selbst vor unsere trunkenen Augen; wir sehen sie<lb facs="P5_TL00060"/>hüplen und tanzen, necken und kosen; wir fühlen uns von<lb facs="P5_TL00061"/>ihnen gehoben und drehen uns selbst mit im frohen Wir<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00062"/>bel. F. Hiller endlich, der begabte Liebling der kölner<lb facs="P5_TL00063"/>Muse, fesselt uns durch den Liebreiz einer zarten Melodie,<lb facs="P5_TL00064"/>welche er durch vielfach verschlungene Wege der Har<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00065"/>monie wie ein Flötenspiel über einer Guitarren-Begleitung<lb facs="P5_TL00066"/>dahinführt. Dabei sind sämmtliche Compositionen ziemlich<lb facs="P5_TL00067"/>leicht auszuführen, ohne dass sie jedoch den Reiz ernste<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00068"/>rer Mühe ausschlössen. M.<lb facs="P5_TL00069"/>Für Organisten.<lb facs="P5_TL00070"/>Der unermüdlich thälige Verleger G. W. Körner in<lb facs="P5_TL00071"/>Erfurt hat wieder ein recht praktisches Hülfsbuch für<lb facs="P5_TL00072"/>kirchliches Orgelspiel herausgegeben, dessen Titel aber<lb facs="P5_TL00073"/>dermaassen ausführlich ist, dass wir nur die Hauptzeilen<lb facs="P5_TL00074"/>davon hersetzen:<lb facs="P5_TL00075"/>Der katholische und protestantische Orga -<lb facs="P5_TL00076"/>nist oder der praktische Organist. In Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00077"/>bindung mit A. W. Gottschaig, J. N. W.<lb facs="P5_TL00078"/>Kühne und J. G. Lehmann herausgegeben von<lb facs="P5_TL00079"/>G. W. Körner. Mit Angabe der Pedal-Applica<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00080"/>tur von A. G. Ritter.<lb facs="P5_TL00081"/>Das Buch, klein Quer-Folio mit hübsch gestochenen<lb facs="P5_TL00082"/>Noten auf schönem weissem Papier, enthält auf 185 Sei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00083"/>ten 646 meist kurze Orgel-Präludien, die als Vor-,<lb facs="P5_TL00084"/>Zwischen- und Nachspiele bei Chorälen und bei gottes<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00085"/>dienstlichen Handlungen gebraucht werden können. Sie<lb facs="P5_TL00086"/>sind sämmtlich aus Werken guter Orgel-Componisten ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00087"/>nommen, und jedes Stück, sei es auch noch so klein, trägt<lb facs="P5_TL00088"/>den Namen seines Verfassers. Das ist sehr gut; denn die<lb facs="P5_TL00089"/>Eitelkeit der Organisten und Orgel spielenden Lehrer, die<lb facs="P5_TL00090"/>da gar zu gern meinen: „Das können wir alles allein eben<lb facs="P5_TL00091"/>so gut oder noch besser machen!" beugt sich doch viel<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00092"/>leicht vor den hier stehenden Namen älterer und neuerer<lb facs="P5_TL00093"/>Meister, wie Bach, Brähmig, van Eyken, Freyer, Geb<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00094"/>hardi, Händel, Herzog, Hesse, Kühmstedt, Löwe, Meisler,<lb facs="P5_TL00095"/>Mendelssohn, Rink, Ritter, Joh. und Fr. Schneider, Theile,<lb facs="P5_TL00096"/>Töpfer, Wedemann u. s. w.—es sind ihrer 117!—, und<lb facs="P5_TL00097"/>lässt sich herab, sich aus dieser Sammlung vorzubereiten<lb facs="P5_TL00098"/>und, was noch besser ist, nach und nach diejenigen Sätze</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00002">
+                                    <lb facs="P6_TL00002"/>aus jeder Tonart, die dem Spieler am meisten zusagen,<lb facs="P6_TL00003"/>auswendig zu lernen. Die jedesmalige Wahl wird dadurch<lb facs="P6_TL00004"/>erleichtert, dass sämmtliche Stücke nach den Tonarten ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00005"/>ordnet sind. So hat z. B. C-d62, 16,<lb facs="P6_TL00006"/>40, D-mott 29 Präludien u. s. w.<lb facs="P6_TL00007"/>In Beziehung auf das Wünschenswerte und Nützliche<lb facs="P6_TL00008"/>einer solchen Sammlung sagt Fr. Schneider in seiner Or<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00009"/>gelschule (S. 103): „Die freie Phantasie ist hier wohl am<lb facs="P6_TL00010"/>rechten Orte, aber wem diese nicht auf eine den Zweck<lb facs="P6_TL00011"/>erfüllende, würdige Weise zu Gebote steht (und dieses ist<lb facs="P6_TL00012"/>ja auch bei dem besten Künstler nicht immer der Fall),<lb facs="P6_TL00013"/>der wähle doch lieber vorhandene gute Werke. Der Wahn,<lb facs="P6_TL00014"/>den fast die meisten mittelmässigen und sogar schlechte<lb facs="P6_TL00015"/>Organisten haben, es müsse alles, was sie spielen, aus<lb facs="P6_TL00016"/>eigener Erfindung herkommen, ist ein ganz falscher, wo<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00017"/>durch sie weder Gott noch Menschen gefälliges Werk aus<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00018"/>üben. Anstatt ihrer nichtssagenden, oft sagar falschen Ac<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00019"/>cordenfolge, verbrämt mit allerhand alltäglichen, gemeinen<lb facs="P6_TL00020"/>Floskeln u. dgl., sollten sie sich lieber bemühen, gute vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00021"/>handene Compositionen, deren es für alle Zwecke und Aus<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00022"/>führung aller Art gibt, tüchtig einzuüben, wodurch auch<lb facs="P6_TL00023"/>ihnen selbst der grösste Vortheil für ihre Ausbildung er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00024"/>wüchse, abgesehen davon, dass sie dadurch den Haupt<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00025"/>zweck, der Erbauung förderlich zu sein, mehr<lb facs="P6_TL00026"/>erreichen würden."<lb facs="P6_TL00027"/>Eben so wahr und zweckmässig sagen über diesen<lb facs="P6_TL00028"/>Punkt die vielbesprochenen preussischen Regulative vom<lb facs="P6_TL00029"/>1. October 1854: „Nach diesem Gesichtspunkte ist ... .<lb facs="P6_TL00030"/>der Unterricht im Orgelspiel zu gestalten und die Aufgabe<lb facs="P6_TL00031"/>des künftigen Organisten mehr in das sichere und bewusste<lb facs="P6_TL00032"/>Wiedergeben des Bewährten und in kirchlicher Anerken<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00033"/>nung Stehenden, als in die Fähigkeit, selbst Neues zu bil<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00034"/>den und eigene Wege zu gehen, zu setzen."<lb facs="P6_TL00035"/>Dazu ist nun Körner's „praktischer Organist" ein vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00036"/>treffliches Hülfsmittel. Die Anschaffung wird für Kirchen-<lb facs="P6_TL00037"/>Vorstände, ganze Sprengel u. s. w. dadurch erleichtert,<lb facs="P6_TL00038"/>dass bei directem Bezüge von 30 Exemplaren der Preis<lb facs="P6_TL00039"/>eines jeden auf 2 Thlr. gestellt ist, bei 12 Exemplaren auf</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00003">
+                                    <lb facs="P6_TL00040"/>22/3 Thlr., für jedes einzelne auf 3 Thlr.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c006">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P6_TB00005">
+                           <lb facs="P6_TL00042"/>Beethoven und Paer.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00006">
+                                    <lb facs="P6_TL00043"/>An die Redaclion der Niederrheinischen Musik-<lb facs="P6_TL00044"/>Zeitung.<lb facs="P6_TL00045"/>In einer Anmerkung zum Berichte über Beethoven's<lb facs="P6_TL00046"/>Fidelio in Paris*) wird die Frage aufgeworfen, woher<lb facs="P6_TL00047"/>Berlioz den Spass genommen habe, Beethoven ein dort<lb facs="P6_TL00048"/>näher bezeichnetes Witzwort zuzuschreiben. Ich habe ihm</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00008">
+                                    <lb facs="P6_TL00050"/>dasselbe vor längeren Jahren mitgetheilt, und mir selbst<lb facs="P6_TL00051"/>wurde es von jemandem erzählt, der es gewiss nicht er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00052"/>funden, nämlich vom alten Paer selbst. Dieser, welchen<lb facs="P6_TL00053"/>ich in meinen Jünglingsjahren in Paris häufig sah und in<lb facs="P6_TL00054"/>dessen Charakter es lag, gegen Jedermann mehr als freund<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00055"/>lich zu sein, sprach mir viel von seiner Bekanntschaft mit<lb facs="P6_TL00056"/>Beethoven in Wien und legte eine grosse Verehrung für<lb facs="P6_TL00057"/>letzteren an den Tag. Und so erzählte er mir auch, wie<lb facs="P6_TL00058"/>Beethoven eines Abends mit ihm ins Theater an der Wien<lb facs="P6_TL00059"/>gegangen, wo seine, Paer's, Leonora gegeben wurde. Beet<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00060"/>hoven habe neben ihm gesessen und, nachdem er ein Mal<lb facs="P6_TL00061"/>über das andere Mal ausgerufen:<lb facs="P6_TL00062"/>c'est interessant!11 endlich gesagt:<lb facs="P6_TL00063"/>pose cela.u Paer schien ganz stolz darauf, auf diese Weise<lb facs="P6_TL00064"/>die Veranlassung zu Beethoven's Composilion des Fidelio<lb facs="P6_TL00065"/>gegeben zu haben, und es ist an der Wahrhaftigkeit die<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00066"/>ser Erzählung aus seinem Munde wohl nicht zu zweifeln.<lb facs="P6_TL00067"/>Ferd. Hi 11er. -<lb facs="P6_TL00068"/>N achschrift der Redaction. Sehr dankbar für die<lb facs="P6_TL00069"/>Mittheilung; jeder Zug, der zur Charakteristik Beethoven's<lb facs="P6_TL00070"/>und zur Entstehungsgeschichte seiner Werke beitragen<lb facs="P6_TL00071"/>kann, wird uns und jedem Leser willkommen sein. Wie<lb facs="P6_TL00072"/>Paer selbst die Sache erzählt hat, erscheint sie übrigens<lb facs="P6_TL00073"/>ganz anders, als bei Berlioz. Dort zeigt sich Beethoven un<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00074"/>befangen, ergriffen von dem, was er sieht und hört, und<lb facs="P6_TL00075"/>unwillkürlich sein Gefühl und seine Neigung, denselben<lb facs="P6_TL00076"/>Stoff zu componiren, aussprechend. Wie weit ist das ent<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00077"/>fernt von der „rudesse humoriste",die Berlioz ihm zu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00078"/>schreibt, und von der malitiösen Ironie der Worte nach<lb facs="P6_TL00079"/>dessen Version: „ Votre opera<lb facs="P6_TL00080"/>mettre en musique/"<lb facs="P6_TL00081"/>Zur Sache selbst fügen wir hinzu, was Friedrich<lb facs="P6_TL00082"/>Treitschke, in jenen Jahren Regisseur und Theater-<lb facs="P6_TL00083"/>Dichter der beiden Hofbühnen in Wien und auf Beetho<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00084"/>ven's Wunsch Bearbeiter des Textes des Fidelio für die<lb facs="P6_TL00085"/>Wiederaufnahme der Oper im Jahre 1814, in seinem<lb facs="P6_TL00086"/>Aufsatze „Fidelio" in „Orpheus, musicalisches Ta<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00087"/>schenbuch für 1841", herausgegeben von Aug. Schmidt<lb facs="P6_TL00088"/>in Wien sagt:<lb facs="P6_TL00089"/>„Es war Ende 1804, als Freiherr von Braun, der<lb facs="P6_TL00090"/>neue Eigenthümer des k. k. privilegirten Theaters an der<lb facs="P6_TL00091"/>Wien, dem eben in voller Jugendkraft stehenden Ludwig<lb facs="P6_TL00092"/>van Beethoven antrug, eine Oper für jene Bühne zu<lb facs="P6_TL00093"/>schreiben. Durch das Oratorium „Christus am Oelberg"<lb facs="P6_TL00094"/>hegte man den Glauben, dass der Meister auch für die<lb facs="P6_TL00095"/>darstellende Musik, wie seither für Instrumente, Grosses<lb facs="P6_TL00096"/>zu leisten im Stande sei. Ausser einem Honorar bot man<lb facs="P6_TL00097"/>ihm freie Wohnung im Theater-Gebäude. Joseph Sonn<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00098"/>lei thn er übernahm die Besorgung des Textes und<lb facs="P6_TL00099"/>wählte das französische Buch „L'Amour [von</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00002">
+                                    <lb facs="P7_TL00002"/>Bouilly j, obgleich es schon mit Musik von Gaveaux ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00003"/>sehen, auch italienisch als Leonora von Paer componirt,<lb facs="P7_TL00004"/>nach beiden Bearbeitungen aber ins Deutsche übersetzt<lb facs="P7_TL00005"/>war. Beethoven lürchtete seine Vorgänger nicht und ging<lb facs="P7_TL00006"/>mit Lust und Liebe an die Arbeit, die Mitte 1805 ziem<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00007"/>lich zu Ende gelangte."<lb facs="P7_TL00008"/>Die erste Aufführung fand am 20. November Statt<lb facs="P7_TL00009"/>unter ungünstigen Verhältnissen: der Adel hatte die Resi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00010"/>denz verlassen, die städtische Bevölkerung mied die Thea<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00011"/>ter, so dass bei jenen ersten drei Vorstellungen das Publi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00012"/>cum meist aus französischem Militär bestand. (Vergleiche<lb facs="P7_TL00013"/>Schindler, Biographie Beethoven's, 1., S. 118 ff.)<lb facs="P7_TL00014"/>Es fragt sich nun: Wann wurde Paer's Leonora ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00015"/>schrieben und in Wien bei Anwesenheit Paer's aufgeführt?<lb facs="P7_TL00016"/>Im Herbste 1708 erschien Gaveaux's Amour conjugal<lb facs="P7_TL00017"/>zum ersten Male in Paris. Dazumal lebte Paer in Wien,<lb facs="P7_TL00018"/>wo Beethoven seit 1792 sich ebenfalls befand. Paer blieb<lb facs="P7_TL00019"/>dort bis 1802; denn schon Ostern dieses Jahres trat er<lb facs="P7_TL00020"/>seine Stelle als Capellmeister in Dresden an, wo zugleich<lb facs="P7_TL00021"/>seine Gattin, geborene Riccardi, als erste Sängerin an<lb facs="P7_TL00022"/>der italiänischen Oper angestellt wurde. Von da folgte er<lb facs="P7_TL00023"/>im Jahre 1806 dem Kaiser Napoleon nach Warschau und<lb facs="P7_TL00024"/>nach dem tilsiter Frieden nach Paris, wo er bis an seinen<lb facs="P7_TL00025"/>Tod, den 3. Mai 1839, in sehr ehrenvoller Stelluno blieb.<lb facs="P7_TL00026"/>o<lb facs="P7_TL00027"/>Seine „Leonora" kann also nur in den Jahren 1799<lb facs="P7_TL00028"/>bis 1801 in Wien bei seiner eigenen Anwesenheit aufge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00029"/>führt worden sein, oder allenfalls im Jahre 1803, zu An<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00030"/>fang dessen nach Gerber's Lexikon Paer Wien<lb facs="P7_TL00031"/>„wieder auf kurze Zeit besuchte und zu der dasigen Wit<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00032"/>wen-Akademie in den Fasten 1803 ein neues Oratorium<lb facs="P7_TL00033"/>schrieb."<lb facs="P7_TL00034"/>In der Liste seiner Opern von 1799 bis 1803 bei<lb facs="P7_TL00035"/>Gerber fehlt die Leonora (1799 Camilla; 1800 Griselda,<lb facs="P7_TL00036"/>II Morto vivo; 1801 Achilles, Poche mct hone, Der Brau<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00037"/>sekopf, Der lustige Schuster; 1802 L'lntrigo amoroso,<lb facs="P7_TL00038"/>sein Debüt in Dresden; 1803 Die Wegelagerer, Sargino);<lb facs="P7_TL00039"/>danach könnte die Leonora 1802 geschrieben und Anfang<lb facs="P7_TL00040"/>1803 in Wien aufgeführt worden sein, wo dann Beet<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00041"/>hoven den Eindruck, von welchem Paer später erzählte,<lb facs="P7_TL00042"/>erhalten, ihn bis zum folgenden Jahre bewahrt und dann<lb facs="P7_TL00043"/>den Stoff Sonnleithner für die von Herrn von Braun ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00044"/>wünschte Oper vorgeschlagen haben könnte.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00007">
+                                    <lb facs="P6_TL00049"/>*) Nr. 22, S. 173.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c007">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00003">
+                           <lb facs="P7_TL00045"/>Tages- und Unterhaltungs-Blatt.</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P8_TB00006">
+                           <lb facs="P8_TL00083"/>Die Redaction.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00004">
+                                    <lb facs="P7_TL00046"/>Ein Buch von Kempe: „Friedrich Schneid er's Musik<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00047"/>schule in Dessau'4, gibt interessante Nachrichten über dieses<lb facs="P7_TL00048"/>Institut, das nach Fr. Schncider's Tode noch eine Zeit lang von<lb facs="P7_TL00049"/>dessen Sohne Theodor Schneider fortgeführt worden, jetzt aber<lb facs="P7_TL00050"/>eingegangen ist, da Herr Theodor Schneider die Stelle eines Musik-<lb facs="P7_TL00051"/>Directors in Chemnitz angenommen hat. Kempe's Buch enthält</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00005">
+                                    <lb facs="P7_TL00052"/>auch ein vollständiges Yerzeichniss der Schüler Fr. Schneidens; es<lb facs="P7_TL00053"/>sind deren 135, von denen merkwürdig genug schon 25 als<lb facs="P7_TL00054"/>bereits gestorben bezeichnet sind, die gegenwärtig kaum das 40. bis<lb facs="P7_TL00055"/>45. Lebensjahr erreicht haben würden. Daraus aber den Schluss zu<lb facs="P7_TL00056"/>ziehen, dass die Musiker zumeist kein hohes Alter erreichten, ist<lb facs="P7_TL00057"/>nicht stichhaltig, da sich eben so viel Beispiele eines hohen Alters<lb facs="P7_TL00058"/>von Musikern gegen den frühen Tod von Mozart, F. Schubert, Men<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00059"/>delssohn, Schumann u. s. w. aufstellen lassen, z. B. Albreehtsber<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00060"/>ger, Clementi, Gluck, Haydn, Spohr u s. w. Unter den Lebenden<lb facs="P7_TL00061"/>finden wir iru dem gedachten Verzeichnisse unter Anderen Volk<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00062"/>mann,M a r k u 11, Stade, tranz, W illmers, Derc k u m ,<lb facs="P7_TL00063"/>Saloman u. s. w. Ueber Schneidens Umgang mit seinen Schülern<lb facs="P7_TL00064"/>äussert sich Kempe also: Schneider war ein Verehrer strenger Sitt<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00065"/>lichkeit, veiachtete aber alle Kopfhängerei. Ein sittlich freier Ton<lb facs="P7_TL00066"/>belebte seinen Unterricht; mit Strenge, ja, mit Härte verfolgte er<lb facs="P7_TL00067"/>jede Unanständigkeit. Betrug war ihm im höchsten Grade zuwider,<lb facs="P7_TL00068"/>und der Schüler, der nur Ein Mal seine Arbeit von einem anderen<lb facs="P7_TL00069"/>sich machen liess oder abschrieb, verlor sein Vertrauen auf immer.<lb facs="P7_TL00070"/>Niemals, selbst nicht beim heitersten Gelage, vergass er seine Stel<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00071"/>lung. Das Institut besass eine so genannte Quinten-Casse, d. h. eine<lb facs="P7_TL00072"/>Straf-Casse, in die für jede falsche Quinte und Octave eine Kleinig<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00073"/>keit gezahlt werden musste. In bsstimmten Perioden fand ein Quin<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00074"/>tenschmaus Statt, wo es manchmal gar lustig herging und über die<lb facs="P7_TL00075"/>Policeistunde hinaus traulich gezecht wurde; aber der folgende Mor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00076"/>gen um 7 Uhr sah den Meister gewiss stets zuerst in seinem Lehr<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00077"/>zimmer, und wehe dem, der wegblieb. Dass unter den 135 Zöglingen<lb facs="P7_TL00078"/>auch leichtfertige Subjecte gewesen sein mögen, ist nicht zu be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00079"/>zweifeln, wirft aber auf die Anstalt selbst keinen Schatten. Dessau<lb facs="P7_TL00080"/>bedauert heute noch das Eingehen derselben, denn auch der mate<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00081"/>rielle Nutzen war für die Stadt von Bedeutung. Auch Schneidens<lb facs="P7_TL00082"/>Lehrweise beleuchtet der Verfasser des erwähnten Werkes. Schon<lb facs="P7_TL00083"/>vor Marx sah Schneider als hohe Aufgabe der Compositionslehre an,<lb facs="P7_TL00084"/>„eine Bildungsschule für schaffende Künstler zu sein0, aber auch,<lb facs="P7_TL00085"/>„dass sie nicht allein für Componisten, dass sie vielmehr für jeder<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00086"/>mann, der sich tiefer für Musik bilden, sich nicht bloss sinnlich<lb facs="P7_TL00087"/>oder in dunkelem Fühlen und Ahnen ihr annähern, sondern in ihr<lb facs="P7_TL00088"/>Wesen tief eindringen will, dass sie namentlich für Lehrer, <lb facs="P7_TL00089"/>rende und sonstige Vorgesetzte musicalischer Anstalten das uner<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00090"/>lässliche und unersetzliche Bildungsmittel sei. Schneider war ein<lb facs="P7_TL00091"/>Vertreter der alten Kernschule u. s. w. Ihm ist die Harmonie die<lb facs="P7_TL00092"/>Basis der Musiklehre; aus der Harmonie entwickelt er die Melodie,<lb facs="P7_TL00093"/>auf den harmonischen Zusammenhang der Worte und der Töne grün<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00094"/>det er den Rhythmus. Die Ton- und Intervallen-Lehre dient ihm<lb facs="P7_TL00095"/>zunächst als Eingang in die Accordenlehre, woraus er dann die<lb facs="P7_TL00096"/>Harmonielehre weiter fördert. Sein System ist mit dem Gottfried<lb facs="P7_TL00097"/>Weber's innigst verwandt, nur viel einfacher und klarer, natürlicher<lb facs="P7_TL00098"/>und lebendiger.u<lb facs="P7_TL00099"/>Man schreibt uns vom ftlittelrheine: „Berlioz's Kritik über<lb facs="P7_TL00100"/>Wagner ist ein Curiosum sonder Gleichen. Dabei bewährt sich das<lb facs="P7_TL00101"/>in Oesterreich gebräuchliche Sprüch wort: Der Kessel straft den Ofen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00102"/>topf (Einer ist so schwarz wie der Andere). Der Franzose ignorirt<lb facs="P7_TL00103"/>das ungeheuerliche Sünden-Accumulat, das sich schon allein in sei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00104"/>nem Requiem findet, vielleicht weil er wähnt, dieses Ungeheuer selbst<lb facs="P7_TL00105"/>sei schon vergessen. Hier liegt ein Exemplar davon. Auch der von<lb facs="P7_TL00106"/>Joseph Mainzer JB3B anatomirte Hector Berlioz liegt hier. Eine<lb facs="P7_TL00107"/>kunstgeschichtliehe Merkwürdigkeit sonder Gleichen! Wahrlich, man<lb facs="P7_TL00108"/>sollte sich die Mühe geben, die Gegenwart einige Blicke in diese<lb facs="P7_TL00109"/>beiden Werke thun zu lassen, weil der Moment hierzu ein geeigne<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00110"/>ter ist. Nicht unwahrscheinlich, dass gerade die Kritik dieses weit<lb facs="P7_TL00111"/>grösseren Verbrechers an der Kunst dem Richard Wagner mehr<lb facs="P7_TL00112"/>Schaden bringen werde, als dies alle deutschen Kritiker zusammen<lb facs="P7_TL00113"/>vermocht haben, weil der Kritiker ein Franzose ist!*</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00002">
+                                    <lb facs="P8_TL00002"/>Ctftlieil. Geehrter Herr Redacteur! Abgesehen von dem Scherz*)<lb facs="P8_TL00003"/>des Capellmeisters des himmlischen Reiches, Herrn Dschin-Tschong,<lb facs="P8_TL00004"/>in Nr. 15 Ihrer Zeitung, dessen „herrliches Werku der Art ist, dass<lb facs="P8_TL00005"/>dessen „Verbot bei Todesstrafe-4 eine nicht genug zu preisende Wohl<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00006"/>that Sr. chinesischen Majestät bleibt, erlaube ich mir auf folgende<lb facs="P8_TL00007"/>Schrift aufmerksam zu machen: „Erste Wanderung der älte<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00008"/>sten Tonkunst als Vorgeschichte der Musik oder als erste Pe<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00009"/>riode derselben, dargestellt von Gott fr. Willi. Fink. Mit acht<lb facs="P8_TL00010"/>Kupfertafeln. Essen, bei G Bädeker, 1831.— Auf Seite 73 ist zu<lb facs="P8_TL00011"/>lesen: „Wunderbarer Weise findet sich nun diese älteste Tonkunst<lb facs="P8_TL00012"/>in ihrem eigentümlich rhythmischen Tacte, in Mangel an Harmonie,<lb facs="P8_TL00013"/>d. i. der Mehrstimmigkeit des Tonspiels und des Gesanges, und in<lb facs="P8_TL00014"/>der uralten fünft.önigen Tonleiter vollkommen so unter den<lb facs="P8_TL00015"/>Hochschotten wieder. Es fragt sich nun: Wie kam diese erste<lb facs="P8_TL00016"/>Tonkunst des fernen Orients in dieses westliche Bergland auf die<lb facs="P8_TL00017"/>hebridischen Inseln ?u Auch Mendelssohn soll die fünf Obertasten<lb facs="P8_TL00018"/>ein „Recept zu Volksliedern" genannt haben (vgl. N. Z , Nr. 3, S<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00019"/>-22), was auch bereits Beethoven in dem fünftönigen schottischen<lb facs="P8_TL00020"/>Liede (Nr. 7, S. 54) erkannt hat. L. Kind scher.<lb facs="P8_TL00021"/>Herr Organist Langer in Leipzig, der langjährige verdiente<lb facs="P8_TL00022"/>Dirigent des Pauliner Gesang-Vereins in Leipzig, ist bei Gelegen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00023"/>heit des vierhundertjährigen Jubiläums der Universität Leipzig von<lb facs="P8_TL00024"/>der philosophischen Facultät daselbst zum Ehren-Dootor ernannt<lb facs="P8_TL00025"/>worden.<lb facs="P8_TL00026"/>IS&amp;M&amp;lbDie hiesige Bach-Gesellschaft unter der Leitung<lb facs="P8_TL00027"/>des Herrn G. Armbrust führte in der St.-Petri-Kirche unter Mit<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00028"/>wirkung des Herrn Koch und des Fräul. Lüdecke aus Köln die<lb facs="P8_TL00029"/>11-moll-Messej 1. Theil, und das Weihnachts-Oratorium, 2. Cantate,<lb facs="P8_TL00030"/>auf. Es ist zu beklagen, dass sich die Bach-Gesellschaft, trotz ihres<lb facs="P8_TL00031"/>erst kurzen Bestehens, schon an das grösste und schwierigste Werk<lb facs="P8_TL00032"/>Bach's, die hohe Messe, gewagt, indem sie sich dieser Aufgabe in<lb facs="P8_TL00033"/>allen Theilen nicht gewachsen zeigte. Wenn auch die Ausführung<lb facs="P8_TL00034"/>der Chöre ein fleissiges Studium erkennen liess und den Eifer und<lb facs="P8_TL00035"/>die Umsicht des Dirigenten bethätigte, so konnten doch Schwankun<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00036"/>gen nicht vermieden werden, die um so bedauernswerther erschei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00037"/>nen, als die Vorführung eines so- riesigen Werkes nur eine ganz voll<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00038"/>endete Ausführung duldet. Dass die Chöre zu schwach waren und<lb facs="P8_TL00039"/>deren Wirkung durch die Orgel und die Bleche oft paralysirt wurde,<lb facs="P8_TL00040"/>können wir weniger zum Vorwurf machen, wohl aber, dass die<lb facs="P8_TL00041"/>Tempi, besonders des Gloria, zu langsam genommen wurden, und<lb facs="P8_TL00042"/>dass die Rouladen so ganz ohne Schwung, ohne Adel abgesungen<lb facs="P8_TL00043"/>wurden, was besonders beim „Et in terra prix* auffiel. Die Solisten<lb facs="P8_TL00044"/>waren, Herrn Koch vielleicht ausgenommen, unbefriedigend; der Bas<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00045"/>sist schlecht disponirt und das Orchester mit Kräften dritten Ranges<lb facs="P8_TL00046"/>besetzt. Zwei Orchester-Proben, darunter nur eine in der Kirche,<lb facs="P8_TL00047"/>scheinen uns doch für ein solches Werk zu wenig, wenn auch eine<lb facs="P8_TL00048"/>dritte diesmal nicht viel genützt hätte. Die Bach-Gesellschaft hat<lb facs="P8_TL00049"/>sich mit der Aufführung der hohen Messe offenbar übereilt, hätte<lb facs="P8_TL00050"/>aber jedenfalls für eine würdige Besetzung der Soli und des Or<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00051"/>chesters keine Mittel scheuen dürfen. Befriedigender war die Vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00052"/>führung der hier schon einmal gehörten zwreiten Cantate des Weih<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00053"/>nachts-Oratoriums, und die anerkannte Fähigkeit des Herrn Arm<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00054"/>brust verbürgt uns, dass die Gesellschaft inskünftige ihre Aufgaben<lb facs="P8_TL00055"/>wieder eben so zufriedenstellend lösen wird, wie es bisher gesche<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00056"/>hen ist. (Deutsche M.-Ztg. Nr. 22.)<lb facs="P8_TL00057"/>Das beliebte thüringische Volkslied: r(Ach, wie ist's möglich<lb facs="P8_TL00058"/>dann'', welches vielfach Mendelssohn zugeschrieben wurde, und</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00004">
+                                    <lb facs="P8_TL00062"/>zwar, wie uns schien, ohne Grund, soll den „Hamburger Nachrich<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00063"/>ten" zufolge von dem kürzlich verstorbenen Louis Böhner com<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00064"/>ponirt sein.<lb facs="P8_TL00065"/>Das schlesische katholische Kirchenblatt veröffentlicht eine Preis-<lb facs="P8_TL00066"/>Ausschreibung für die Composition einer leicht ausführbaren, kur<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00067"/>zen, vierstimmigen Messe (lateinischer Text) mit Orgel-Begleitung.<lb facs="P8_TL00068"/>Einsendungs-Termin: 1. September 1860. Preis: 20 Thaler. Adresse:<lb facs="P8_TL00069"/>Dom-Capellmeister M. Bros ig in Breslau.<lb facs="P8_TL00070"/>]P»i*is. Das Ministerium hat den Orgelbauern Merklin,<lb facs="P8_TL00071"/>Schütze &amp; Comp., die hier und in Brüssel ihre Etablissements<lb facs="P8_TL00072"/>haben, seine grosse Zufriedenheit mit der Ausführung des Umbaues<lb facs="P8_TL00073"/>der Orgel in der Hauptkirche zu Rouen zu erkennen gegeben, und<lb facs="P8_TL00074"/>ihnen zugleich den Bau der Orgel in der Kathedrale zu Ar ras und<lb facs="P8_TL00075"/>einer anderen für eine hiesige Capelle aufgetragen. Herr J. Merklin,<lb facs="P8_TL00076"/>früher schon mit dem belgischen Leopolds-Orden decorirt, hat von<lb facs="P8_TL00077"/>der Königin von Spanien den Isabellen-Orden erhalten.<lb facs="P8_TL00078"/>Nach Brandenburg a, d Havel. Herrn W. Sp Auf Ihre An<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00079"/>frage kann ich Ihnen nicht sagen, ob der fragliche „Apparat* in<lb facs="P8_TL00080"/>Deutschland käuflich zu haben ist. Am besten wenden Sie Sich<lb facs="P8_TL00081"/>desshalb nach London unter der Adresse: K. Mandel, Professor</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00005">
+                                    <lb facs="P8_TL00082"/>der Harmonie an der Militär-Musikschule. </ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00003">
+                                    <lb facs="P8_TL00059"/>*) Ein Scherz, der, wie wir HeÄn L. K. aus bester Quelle ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00060"/>sichern können, durchaus harmlos und unschuldig war»<lb facs="P8_TL00061"/>Die Redaction.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div type="SponsoredAdvertisement">
+                  <div type="SponsoredAd" corresp="c008">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00008">
+                        <lb facs="P8_TL00094"/>3Lnluhibtjitngen.<lb facs="P8_TL00095"/>lEIIE MUSICAMEM<lb facs="P8_TL00096"/>im Verlage von Wilhelm Bayrhoffer in Düsseldorf.<lb facs="P8_TL00097"/>B ras sin, Leop., Op. 2, Bluette pour Piano, l?1/? &amp;9r*<lb facs="P8_TL00098"/>Langhans, Willi., Op. 1, Concert-Allegro für Violine mit Or-<lb facs="P8_TL00099"/>chester *).<lb facs="P8_TL00100"/>Dasselbe mit Pianoforte. 1 Thlr. 5 Sgr.<lb facs="P8_TL00101"/>- Op. 2, Vier Lieder für eine Singstimme mit Pianof. Jl5 Sgr.<lb facs="P8_TL00102"/>St an dhe, Otto, Op. 2, „Mein Glück" für Sopran oder Tenor mit<lb facs="P8_TL00103"/>Pianoforte. 2. Auflage. 10 Sgr.<lb facs="P8_TL00104"/>Op 4, „Das einsame Blümlein" für eine Singstimme mit<lb facs="P8_TL00105"/>Pianoforte, 10 Sgr<lb facs="P8_TL00106"/>Op. 6, ~Mutterliebe" (mit deutschem und französischem Text)<lb facs="P8_TL00107"/>für eine Sing stimme mit Pianoforte. 7l/2 &amp;9r-<lb facs="P8_TL00108"/>Taubert, Otto, DrOp. 2. Thalatta! Thalatta! für eine Sing stimme<lb facs="P8_TL00109"/>mit Pianoforte. 7x/2 Sgr.<lb facs="P8_TL00110"/>Die Orchesterstimmen sind in Abschrift gegen Baar von mir zu<lb facs="P8_TL00111"/>beziehen. D. 0.</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c009">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00009">
+                        <lb facs="P8_TL00112"/>Alle in dieser Musik-Zeitung besprochenen und angekündigten<lb facs="P8_TL00113"/>Musicalien etc. sind zu erhalten in der stets vollständig assortirten<lb facs="P8_TL00114"/>Musicalien-Handlung und Leihanstalt von BERNHARD BBETJER<lb facs="P8_TL00115"/>in Kölns Hochstrasse Nr. 97.</ab>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

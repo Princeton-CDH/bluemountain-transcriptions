@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+        Transcription of
+        <biblStruct>
+                  <monogr>
+                     <title level="j">
+                        <seg type="main">Niederrheinische Musik</seg>
+                     </title>
+                     <imprint>
+                        <biblScope unit="vol"/>
+                        <biblScope unit="issue"/>
+                        <date when="1862-02-08">8. Februar 1862</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Princeton University</publisher>
+            <idno type="bmtnid">urn:PUL:bluemountain:bmtnabi_1862-02-08_01</idno>
+         </publicationStmt>
+         <seriesStmt>
+            <title level="s">The Blue Mountain Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title level="j">
+                     <seg type="main">Niederrheinische Musik</seg>
+                     <seg type="sub">Zeitung für Kunstfreunde und Künstler</seg>
+                  </title>
+                  <imprint>
+                     <biblScope unit="vol"/>
+                     <biblScope unit="issue"/>
+                     <date when="1862-02-08"/>
+                  </imprint>
+               </monogr>
+               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnabi"/>
+               <relatedItem type="constituent" xml:id="c001">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Inhalt.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page">1</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c002">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Beethoven’s Werke.</seg>
+                           <seg type="main">Neue Ausgabe von Breitkopf und Härtel.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="1" to="3">1-3</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c003">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="nonSort">Ein</seg>
+                           <seg type="main">Falsum in Mozart’s Messias-Partitur.</seg>
+                           <seg type="main">Nachgewiesen von Dr. Baumgart.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="4" to="6">4-6</biblScope>
+                        </imprint>
+                     </monogr>
+                     <relatedItem type="constituent" xml:id="c004">
+                        <biblStruct>
+                           <analytic>
+                              <title level="a">
+                                 <seg type="main">Untitled</seg>
+                              </title>
+                           </analytic>
+                           <monogr>
+                              <imprint>
+                                 <classCode scheme="CCS">Music</classCode>
+                                 <biblScope unit="page">5</biblScope>
+                              </imprint>
+                           </monogr>
+                        </biblStruct>
+                     </relatedItem>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c005">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Tages- und Unterhaltungs-Batt.</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="6" to="8">6-8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c006">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c007">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="Magazine">
+            <div type="Issue">
+               <div type="PublicationInfo">
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00001">
+                        <lb facs="P1_TL00001"/>fiir liuiistfrruuiif uriö lünstlit.<lb facs="P1_TL00002"/>Herausgegeben von Professor L. Bischoff. Verlag der M. Buchhandlung.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00012">
+                        <lb facs="P1_TL00081"/>Nr. 6.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00013">
+                        <lb facs="P1_TL00082"/>KÖLN, 8. Februar 1802.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00011">
+                        <lb facs="P1_TL00080"/>\. Jahrgang.</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00010">
+                        <lb facs="P1_TL00079"/>6</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00004">
+                        <lb facs="P8_TL00075"/>pie QTtebcrilicinifdje<lb facs="P8_TL00076"/>erscheint jeden Samstag in einem ganzen Bogen mit zwanglosen<lb facs="P8_TL00077"/>Beilagen. Der Abonnementspreis beträgt für das Halbjahr 2 Thlr.,<lb facs="P8_TL00078"/>bei den K. preuss. Post-Anstalten 2 Thlr. 5 Sgl*. Eine einzelne Num<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P8_TL00079"/>mer 4 Sgr.<lb facs="P8_TL00080"/>Briefe und Zusendungen aller Art werden unter der Adresse dei<lb facs="P8_TL00081"/>M. DuMont-Schauberg'schen Buchhandlung in Köln erbeten.<lb facs="P8_TL00082"/>Verantwortlicher Herausgeber: Prof. £♦ Bischoff in Köln.<lb facs="P8_TL00083"/>Verleger: M. DuMont-Schauberj sehe Buchhandlung in Köln.<lb facs="P8_TL00084"/>Drucker: M; DuMont-Schauberg in Köln, Breitstrasse 76 u. 78.</ab>
+                  </div>
+               </div>
+               <div type="EditorialContent">
+                  <div type="TextContent" corresp="c001">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00002">
+                           <lb facs="P1_TL00003"/>Inhalt.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00003">
+                                    <lb facs="P1_TL00004"/>Beetlioven's Werke. Neue Ausgabe von Breitkopf und Härtel. Ein Falsum in Mozart's Messias-Partitur. Mitgetheilt von</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00004">
+                                    <lb facs="P1_TL00005"/>Dr. Baumgart (Sehluss). Tages- und Unterh al tun gs b lat t (Köln, August und Emil Sauret, Vierte Soiree für Kammermusik,<lb facs="P1_TL00006"/>Städtisoher Gesangverein Bonn, 111. Abonncments-Concert Crefeld, Concert Berlin, Geschichte des k. Theaters, Ordens-Verleiliun<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00007"/>gen, Jean Beeker, „Der — Alfred Jaell Weimar, Musik-Director Götze f Gotha, Theater-Saison Leipzig).</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c002">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00005">
+                           <lb facs="P1_TL00008"/>Beethoven’s Werke.</ab>
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00006">
+                           <lb facs="P1_TL00009"/>Neue Ausgabe von Breitkopf und Härtel.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00007">
+                                    <lb facs="P1_TL00010"/>Im December vorigen Jahres kündigte die Verlags<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00011"/>handlung Breitkopf und Härtel in Leipzig eine neue<lb facs="P1_TL00012"/>„vollständige, kritisch durchgesehene, überall<lb facs="P1_TL00013"/>berechtigte Ausgabe von Beethoven'« Werken,<lb facs="P1_TL00014"/>mit Genehmigung aller Original-Verleger" an (s. Nr. 49<lb facs="P1_TL00015"/>vom 7. December des Jahrg. 1861), und schon jetzt liegt<lb facs="P1_TL00016"/>uns die erste Lieferung derselben vor.<lb facs="P1_TL00017"/>Sic enthält die ersten Hefte der Serie 1. Symphonieen:<lb facs="P1_TL00018"/>Nr. 1 (der Ausgabe), Symphonie in Serie VI. Nr.<lb facs="P1_TL00019"/>37, 38, 39, Violin-Quartette, Op. 18, in F-, G-, B<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00020"/>dur. Serie IX. Für Pianoforte und Orchester. Nr. 65.<lb facs="P1_TL00021"/>Erstes Concert, Op. 15 in —Alles in Partitur. Serie<lb facs="P1_TL00022"/>XVI. Sonaten für das Pianoforte. Nr. 124, 125. 126.<lb facs="P1_TL00023"/>Drei Sonaten, Op. 2, F-, A-, C-moll.<lb facs="P1_TL00024"/>Sämmtliche gedruckte Werke, deren Echtheit un<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00025"/>zweifelhaft ist, wird dieseGesammt-Ausgabe in 255 Num<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00026"/>mern, welche auf 24 Serien vertheilt sind, enthalten.<lb facs="P1_TL00027"/>Was von bisher ungedruckten Werken aufgenommen<lb facs="P1_TL00028"/>werden soll, ist noch nicht festgestellt; sie sollen den ein<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00029"/>zelnen Serien ihrer Gattung nach angeschlossen werden.<lb facs="P1_TL00030"/>Es ist zu erwarten, dass bei der Aufnahme die strengste<lb facs="P1_TL00031"/>diplomatische Kritik walten werde.<lb facs="P1_TL00032"/>Die Eintheilung der Serien (auf die man auch ein<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00033"/>zeln unterzeichnen kann) ist folgende:<lb facs="P1_TL00034"/>A. 0 rchesterwerke. Seriel. I—9.1—9. Die neun Sym<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00035"/>phonieen*). 11. 10 —l7. Schlacht bei Vittoria—Pro<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00036"/>metheus Egmont-Musik Märsche und Tänze. 111.<lb facs="P1_TL00037"/>18 28. Die Ouvertüren. IV. 29 31. Für Violine<lb facs="P1_TL00038"/>und Orchester: das Concert in und die Romanzen in<lb facs="P1_TL00039"/>G und F.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00009">
+                                    <lb facs="P1_TL00043"/>B. Kammermusik. V. 32 36. Septett Op. 20.<lb facs="P1_TL00044"/>Sextett Op. 81b. Quintett in . Op. 29, in Op. 4,<lb facs="P1_TL00045"/>Fuge, Op. 137, in B. VI. 37 —53. Violin-Quartelte.<lb facs="P1_TL00046"/>Nr. 1 —l6. Op. 18 bis Op. 135, einschliesslich die Fuge<lb facs="P1_TL00047"/>in B,Op. 133.—V11. 54 58. Vier Trio's für Violine,<lb facs="P1_TL00048"/>Bratsche und Violoncell, und Serenade, Op. 8, in B. <lb facs="P1_TL00049"/>VIII. 59—64. Für Blas-Instrumente. Octelt, Op. 103,<lb facs="P1_TL00050"/>in Es, Rondino dito, Sextett, Op. 71, in Es, Serenade für<lb facs="P1_TL00051"/>Flöte, Violine und Bratsche, Op. 25, Trio für 2 Oboen<lb facs="P1_TL00052"/>und englisch Horn, Op. 87, 3 Duo's für Clarinette und<lb facs="P1_TL00053"/>Fagott.<lb facs="P1_TL00054"/>C. Pianoforte-Musik. Serie IX. 65 73. Die fünf<lb facs="P1_TL00055"/>Concerte; das Concert für Pianoforte, Violine und Violon<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00056"/>cell, Op. 56; Phantasie mit Chor, Op. 80; Rondo in B.<lb facs="P1_TL00057"/>Hierbei finden wir im Prospect noch Nr. 70a: ,Ca<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00058"/>denzen zu den Pianoforte-Concerten". Von wem? Uns<lb facs="P1_TL00059"/>ist nicht bekannt, dass Beethoven, ausser den in den Text<lb facs="P1_TL00060"/>geschriebenen zum Es-dur-Concerte, Cadenzen geschrie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00061"/>ben hat. Bei Nr. 73: „Pianoforte-Stimme zu dem Vio<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00062"/>lin-Concert Op. 61", ist zweifelsohne die Solostimme zu<lb facs="P1_TL00063"/>verstehen, nicht etwa ein Arrangement des Orchesters.—<lb facs="P1_TL00064"/>X. 74 78. Quintette und Quartette. Das Quintett Op.<lb facs="P1_TL00065"/>16 im Original und als Quartett, und die drei kleinen<lb facs="P1_TL00066"/>Quartette in Es, Bund C.—XI. 79—91. Hier sind aus<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00067"/>ser den bekannten Original-Trio's auch das Trio Op. 38<lb facs="P1_TL00068"/>nach dem Septett Op. 20 und das Trio nach der B-dur-<lb facs="P1_TL00069"/>Sinfonie (Op. 36) aufgenommen. Alsdann dürfte auch das<lb facs="P1_TL00070"/>Trio nach der .4-c?wr-Sinfonie (Op. 92), das mit der Par<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P1_TL00071"/>titur zugleich bei Haslinger in Wien herauskam, nicht<lb facs="P1_TL00072"/>fehlen.—XII. 92 —lO4. Für Pianoforte und Violine. Die<lb facs="P1_TL00073"/>zehn Sonaten und drei kleinere Stücke. XIII. 105 <lb facs="P1_TL00074"/>lila. Für Pianoforte und Violoncell. Die fünf Sonaten<lb facs="P1_TL00075"/>und drei Hefte Variationen. XIV. 112 —ll9. Für<lb facs="P1_TL00076"/>Pianoforte und Blas-Instrumente. Sonate mit Horn, Op.<lb facs="P1_TL00077"/>17, und sechszehn Themen mit Flöte, Op. 105 und<lb facs="P1_TL00078"/>107. XV. 120 —123. Zu vier Händen. Sonate in</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00002">
+                                    <lb facs="P2_TL00002"/>D,Op. 0, drei Märsche, Op. 45, und zwei Themen mit<lb facs="P2_TL00003"/>Variationen.—-XVI. 124—101. Sonaten, 32, von Op. 2<lb facs="P2_TL00004"/>bis Op. 111, und 0 kleinere. XVII. 102 —lB2. Va<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00005"/>riationen. XVIII. 103 202. Kleinere Stücke und<lb facs="P2_TL00006"/>Tänze.<lb facs="P2_TL00007"/>D.Gesangmusik. SerieXlX. 203 205. Kirchen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00008"/>musik. Die beiden Messen in C und in 1); Christus am<lb facs="P2_TL00009"/>Oelberge.— Wir finden im Prospect: „Missa (3 Hymnen),<lb facs="P2_TL00010"/>Op. 30, in C". Wenn dieser Nebentitel andeuten soll, dass<lb facs="P2_TL00011"/>die Messe auch in dieser classischen Ausgabe mit<lb facs="P2_TL00012"/>dem deutschen Texte von Rochlitz abgedruckt wer<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00013"/>den soll, so müssen wir im Namen Beethoven's und zur<lb facs="P2_TL00014"/>Ehrenrettung desselben als Vocal-Componisten förmlich<lb facs="P2_TL00015"/>dagegen Verwahrung einlegen, denn diese deutsche Bear<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00016"/>c 1 o 3 o<lb facs="P2_TL00017"/>beitung steht an unzähligen Stellen dermaassen mit der<lb facs="P2_TL00018"/>Musik in Widerspruch, dass sie den Meister zu einem<lb facs="P2_TL00019"/>Schüler in der Text-Auffassung macht und ihm den wi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00020"/>dersinnigsten musicalischen Ausdruck unterschiebt.<lb facs="P2_TL00021"/>O i<lb facs="P2_TL00022"/>Wir halten es für nothwendig, diesen Protest durch<lb facs="P2_TL00023"/>Beispiele zu begründen, um schon jetzt davor zu warnen,<lb facs="P2_TL00024"/>den Unsinn durch die neue echte und prächtige Ausgabe<lb facs="P2_TL00025"/>zu verewigen.<lb facs="P2_TL00026"/>Im Kyrie lässt Rochlitz den Solo-Sopran (Tact 15)<lb facs="P2_TL00027"/>statt des jt?. auf- und dann absteigenden sin<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00028"/>gen: „Dich, den ew'gen Weltenherrscher, Dich, den All<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00029"/>gewaltigen!" Die sanfte Bitte der Solostimmen in<lb facs="P2_TL00030"/>(T. 37), welche das Volk im Tulti f. wiederholt, heilst<lb facs="P2_TL00031"/>bei Rochlitz: „p. Wer kann dich nennen? f. und wer<lb facs="P2_TL00032"/>Dich lassen?" Der Solo-Alt und nach ihm der Solo-Tenor<lb facs="P2_TL00033"/>nehmen in weicher Melodie das eldson wieder auf (R.:<lb facs="P2_TL00034"/>„Unendlicher"!), das Tulti schreit auf zum Herrn und<lb facs="P2_TL00035"/>sinkt gleich darauf mit dem „Erbarme Dich" ins leiseste<lb facs="P2_TL00036"/>piano herab; auf dieses piano fällt bei R.: „Unermessen<lb facs="P2_TL00037"/>ist Deine Macht!" Sodann erhebt sich der Ruf um Er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00038"/>barmen nach und nach bis zum foriissimo— und auf die<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00039"/>ses fortissimo singt der Chor bei R.: „Wir stammeln mit<lb facs="P2_TL00040"/>Kindeslallen den Namen". Heisst das nicht Beethoven's<lb facs="P2_TL00041"/>Musik misshandeln?<lb facs="P2_TL00042"/>Im Gloria fällt nach dem zweiten Solo des Tenors:<lb facs="P2_TL00043"/>Dornine i Deus,rex coelestis,Dens pater omnipotens, der<lb facs="P2_TL00044"/>volle Chor mit Deus omnipotensein; bei R. (Solo): Du<lb facs="P2_TL00045"/>nah'st dem Geist im stillen Denken, Du nah'st dem Würm<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00046"/>chen im Frühlingslicht,(Chor) nah'st ihm im Frühlingslicht"<lb facs="P2_TL00047"/>ff. mit Trompeten und Pauken! Weiter: (Solo): „Du siehst<lb facs="P2_TL00048"/>die Thräne u. s. w. (Chor) siehst und still'st sie!" wie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00049"/>derum ff.\ Auf das Miserere kommt: „Ach, so ferne!"<lb facs="P2_TL00050"/>u. s. w., auf das stets im forte dahinströmende Fugato<lb facs="P2_TL00051"/>(Cum saneto Spiritu in gloriam „Gott ist die<lb facs="P2_TL00052"/>Liebe"!</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00003">
+                                    <lb facs="P2_TL00053"/>Aus dem Creclowollen vir nur die Stelle hervorhe<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00054"/>ben, wo nach ante omnia seculadas eintritt und<lb facs="P2_TL00055"/>dann die einzelnen Chorslimmen nach einander das<lb facs="P2_TL00056"/>de Deo, lumen de lumine und darauf ff. alle zusammen<lb facs="P2_TL00057"/>auf g unisono mit Deum ver erschütternd einfallen.<lb facs="P2_TL00058"/>Diese herrliche Stelle gestaltet sich bei R. zu folgender<lb facs="P2_TL00059"/>Caricatur: Tenor: „Wenn Du die Fülle", Alt: „Deiner<lb facs="P2_TL00060"/>Erbarmungen", Sopran: „mir in die Seele", Rass:<lb facs="P2_TL00061"/>„mir in die Seele strömst" Tulti ff.: „0, dann däm<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00062"/>mert ein Strahl von Deiner Herrlichkeit" u. s. w.ü Und<lb facs="P2_TL00063"/>ferner: Etineama tus est,„Und schon entfesselt sich mein<lb facs="P2_TL00064"/>Geist"—crucifixns, „Verlangen glüht in mir" (!) <lb facs="P2_TL00065"/>sus et sepultus est, „Fühl' ich, dass seines Geschlechts wir<lb facs="P2_TL00066"/>sind" qui loeutus est per prophdiese prachtvollen,<lb facs="P2_TL00067"/>durch das Schmettern der Trompeten angekündigten acht<lb facs="P2_TL00068"/>Tacte des Chors auf c unisono, während das Orchester mit<lb facs="P2_TL00069"/>voller Kraft nach F-dur modulirt, Alles im ff., donnern<lb facs="P2_TL00070"/>bei R. zu den Worten: „die geheimnissvoll durch da»<lb facs="P2_TL00071"/>Dasein uns geleitet"!!<lb facs="P2_TL00072"/>Doch genug der Beweise, dass Beethoven's Intentio<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00073"/>nen durch solche Texte geradezu ins Lächerliche verkehrt<lb facs="P2_TL00074"/>werden. Wir hoffen, dass sie hinreichen werden, die Her<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00075"/>ren Verleger und die Musiker, deren Unterstützung sie sich<lb facs="P2_TL00076"/>bei der neuen Ausgabe erfreuen (Rietz, Reinecke, Richter,<lb facs="P2_TL00077"/>David, Hauptmann, O. Jahn), zu überzeugen, dass solche<lb facs="P2_TL00078"/>Textbearbeitungen nicht in die neue Pracht-Ausgabe ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00079"/>hören. Wir sind hoffentlich über die Zeiten hinweg, wo<lb facs="P2_TL00080"/>man entweder die katholische Kirchenmusik ganz und gar,<lb facs="P2_TL00081"/>oder wenigstens ihren lateinischen Text aus dem Concert<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00082"/>saale verbannt wissen wollte. Aber freilich, schon Tacitus<lb facs="P2_TL00083"/>sagt: „Die Heilmittel sind träger, als die Krankheiten,<lb facs="P2_TL00084"/>und das einmal eingewurzelte Uebel wird den Leuten am<lb facs="P2_TL00085"/>Ende lieb" und so erleben wir denn immer noch, dass<lb facs="P2_TL00086"/>hier und da diese einfach schöne C-cfcr-Messe mit dem Text<lb facs="P2_TL00087"/>der „Hymnen" gesungen und Beethoven dadurch gelästert<lb facs="P2_TL00088"/>wird, und dass überhaupt des alten Römers Spruch auch<lb facs="P2_TL00089"/>in musicalischen Dingen sich vielfach bewahrheitet. Man<lb facs="P2_TL00090"/>denke z. B. an die vier Tacte im Andante der G-moll-Sin<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00091"/>fonie von Mozart, an die zwei Tacte im Scherzo der C<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00092"/>wo//-Sinfonie von Beethoven, an die deutschen Texte von<lb facs="P2_TL00093"/>Don Juan, Figaro u. s. w.*].</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00002">
+                                    <lb facs="P3_TL00002"/>Serie XN. 200 und 207. Die Oper Fidelio und das<lb facs="P3_TL00003"/>Festspiel: Die Ruinen von Athen. —XXI. Cantaten: 208.<lb facs="P3_TL00004"/>209. „Der glorreiche Augenblick" oder Preis der Tonkunst,<lb facs="P3_TL00005"/>Op. 136. „Meeresstille und glückliche Fahrt", Op. 112.<lb facs="P3_TL00006"/>liier haben wir bei Nr. 208 dieselbe Warnung er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00007"/>gehen zu lassen, wie. bei der Messe' in Den Text<lb facs="P3_TL00008"/>der Cantate: „Der glorreiche Augenblick", hat<lb facs="P3_TL00009"/>Rochlilz in einen „Preis der Tonkunst" umgewandelt,<lb facs="P3_TL00010"/>wodurch denn das Ungeheuerliche erzeugt wird, dass Beet<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00011"/>hoven, der Hohepriester der Tonkunst, die Harmonie und<lb facs="P3_TL00012"/>ihren göttlichen Ursprung mit Janilscharen-Musik preis't,<lb facs="P3_TL00013"/>welche zum Einmarsch der rückkehrenden Besieger Na<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00014"/>o<lb facs="P3_TL00015"/>poleon's geschrieben war. Jenes Gelegenheitsstück war be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00016"/>kanntlich 1814 zum Zwecke einer festlichen Aufführung<lb facs="P3_TL00017"/>bei dem Fürsten-Congresse in Wien bestimmt. Wenn es<lb facs="P3_TL00018"/>auch schnell aufs Papier geworfen worden ist und die Spu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00019"/>ren der Flüchtigkeit und der augenblicklichen Bestimmung<lb facs="P3_TL00020"/>trägt, so ist es doch immerhin ein Werk von Beethoven<lb facs="P3_TL00021"/>und enthält auch viele Stücke so echten Beethoven (z. B.<lb facs="P3_TL00022"/>die Cavatine in G-dur),dass man ihre Bedeutung nicht<lb facs="P3_TL00023"/>verkehren darf. Der ursprüngliche Text würde sich mit<lb facs="P3_TL00024"/>geringen Aenderungen zu einer „Erinnerungsfeier an die<lb facs="P3_TL00025"/>Freiheitskriege" gestalten lassen, wodurch der Musik ihr<lb facs="P3_TL00026"/>Charakter bewahrt werden würde.<lb facs="P3_TL00027"/>Serie XXII. 210 214. Gesänge mit Orchester. Ah<lb facs="P3_TL00028"/>perfido; Trbmate; Opferlied; Bundeslied; Elegischer Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00029"/>sang. XXIII. 215 251 a. Lieder u. s. w. mit Piano<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00030"/>l'orte.—XXIV. 252 255. Lieder (schottische) mit Piano<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00031"/>lorte, Violine und Violoncell.<lb facs="P3_TL00032"/>Von dieser neuen Ausgabe liegen uns nun die oben<lb facs="P3_TL00033"/>erwähnten ersten vier Lieferungen vor.'i Sie geben uns den<lb facs="P3_TL00034"/>erfreulichsten Beweis, dass das grossartige Unternehmen<lb facs="P3_TL00035"/>auf eine höchst würdige und den gegebenen Verheissun<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00036"/>gen vollkommen entsprechende Weise zur Ausführung<lb facs="P3_TL00037"/>kommt. Das Aeussere der Ausgabe in grossem Royal-Folio,<lb facs="P3_TL00038"/>auf starkem Papier, mit scharfem Notenstich, der aber<lb facs="P3_TL00039"/>keineswegs blendet, noch durch Kleinheit und Enge das<lb facs="P3_TL00040"/>Au ge eines Urkundenforschers verlangt, sondern durch<lb facs="P3_TL00041"/>Egalität, genaueste Untereinanderstellung, lichte Zwischen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00042"/>räume und Grösse der Notenköpfe (auch in den Partitu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00043"/>ren) ganz vortrefflich lesbar ist, kann mit den glänzend<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00044"/>sten Erzeugnissen des Musikdrucks im Auslande wetteifern</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00004">
+                                    <lb facs="P3_TL00054"/>und macht der vaterländischen Gewerbthätigkeit grosse<lb facs="P3_TL00055"/>Ehre, indem sie zugleich der ausgezeichneten Officin der<lb facs="P3_TL00056"/>\ erlagshandlung einen neuen, vollberechtigten Anspruch<lb facs="P3_TL00057"/>aul Ruhm verleiht. Mit Einem Worte: Deutschland erhält<lb facs="P3_TL00058"/>hier eine Pracht-Ausgabe der Werke seines Beethoven,<lb facs="P3_TL00059"/>welche zu besitzen der Stolz der Musiker und Musikfreunde<lb facs="P3_TL00060"/>sein wird, und um welche Frankreich und England uns<lb facs="P3_TL00061"/>beneiden werden ein würdiges Gegenstück zu den Bach-<lb facs="P3_TL00062"/>und Händel-Ausgaben.<lb facs="P3_TL00063"/>Zu den inneren Vorzügen gehören als „Resultate der<lb facs="P3_TL00064"/>kritischen Revision" (welche als „Eigenthum der Verle<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00065"/>ger" aul dem Titel bezeichnet sind) die Correctheit des<lb facs="P3_TL00066"/>ursprünglichen Noten-Textes und die Genauigkeit aller<lb facs="P3_TL00067"/>Vortrags-Bezeichnungen, deren Marken hier überall da<lb facs="P3_TL00068"/>stehen, wohin sie gehören, so dass man nicht im Zweifel<lb facs="P3_TL00069"/>bleibt, welche Note z. B. ein sf hervorgehoben haben will,<lb facs="P3_TL00070"/>welches zwischen zweien steht, wie man dies und Aehn-<lb facs="P3_TL00071"/>I ich es bei so manchen gepriesenen neuen Ausgaben be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00072"/>merkt. 1) ie Tempo-Angabe durch den Metronom finden<lb facs="P3_TL00073"/>wir nur bei der Partitur der Sinfonie Nr. 1, und es ist<lb facs="P3_TL00074"/>auch recht gut, dass man bei allen übrigen Werken, wenn<lb facs="P3_TL00075"/>die Metronomisirung nicht authentisch auf Beethoven selbst<lb facs="P3_TL00076"/>zurückgeführt werden kann, das Tempo mit den guten<lb facs="P3_TL00077"/>alten Ausdrücken: Allegro, Au. s. w. der Einsicht<lb facs="P3_TL00078"/>und dem Gefühle des Ausführenden anheim stellt. Wer<lb facs="P3_TL00079"/>das eine Tempo, das jedem Musikstücke zukommt, nicht<lb facs="P3_TL00080"/>aus demselben heraus empfinden kann, dem wird auch der<lb facs="P3_TL00081"/>Tactmesser den Geist dazu nicht beibringen.<lb facs="P3_TL00082"/>Eine gute, wahrscheinlich auf Verträgen beruhende Zu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00083"/>gabe sind die Namen der Original-Verleger,die auf je<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00084"/>dem ersten Blatte des jedesmaligen Werkes genannt sind; von<lb facs="P3_TL00085"/>der Sinfonie Nr. 1 C. F. Peters in Leipzig; den Quartetten<lb facs="P3_TL00086"/>Op. 18 Karl Haslinger quond. Tobias in Wien; dem Con<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00087"/>cert Op. 15 derselbe; von den drei Sonaten an llajdn,<lb facs="P3_TL00088"/>Op, '2, Artaria &amp; Comp, in Wien. Welch eine Bereiche<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00089"/>rung der Vorzüge der neuen Ausgabe wäre es, wenn bei<lb facs="P3_TL00090"/>den ursprünglichen Verlegern auch das Jahr der Er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00091"/>scheinung angegeben würde!<lb facs="P3_TL00092"/>Was nun die Preise betrifft, so ist es natürlich, wie<lb facs="P3_TL00093"/>die Verleger sagen, dass die neue Ausgabe darin den<lb facs="P3_TL00094"/>vorhandenen keine Concurrenz machen kann. Erwägt man<lb facs="P3_TL00095"/>aber, was man in ihr erhält, so kann man den Preis von<lb facs="P3_TL00096"/>drei Si I berg roschen für den grossen Bogen nur billig<lb facs="P3_TL00097"/>finden. Hiernach kostet die Partitur der Sinfonie Op. 21<lb facs="P3_TL00098"/>1 Thlr. 6 Sgr., der drei Quartette Op. 18 1 Thlr. 21<lb facs="P3_TL00099"/>Sgr., des Concertes Op. 15 2 Thlr., der drei Sonaten<lb facs="P3_TL00100"/>Op. 2 1 Thlr. 15 Sgr. netto.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00008">
+                                    <lb facs="P1_TL00040"/>*) Alle mehrstimmigen Werke werden in Partitur und auch<lb facs="P1_TL00041"/>in Stimmen erscheinen und beide Ausgaben auch getrennt<lb facs="P1_TL00042"/>verkauft werden.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00004">
+                                    <lb facs="P2_TL00094"/>*) Wie oft ist nicht über die sehlechten Uebersetzungen des ita<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00095"/>lienischen Textes zu Mozart's Don Juan der Stab gebrochen<lb facs="P2_TL00096"/>worden! Nun ist schon vor zwei Jahren bei N. Simrock in<lb facs="P2_TL00097"/>Bonn ein neuer Clavier-Auszug mit neuer deutscher<lb facs="P2_TL00098"/>Uebersetzung von L. Bischoff herausgekommen, die sich<lb facs="P2_TL00099"/>durchweg den Intentionen Mozart's anschliesst. Was ist da<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00100"/>durch für Mozart erreicht worden? Hat bis jetzt irgend eine<lb facs="P2_TL00101"/>Bühne den neuen Text adoptirt? sind etwa Berlin, Dresden,<lb facs="P2_TL00102"/>Wien darin vorangegangen ? Und doch bedarf es nichts Wei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00103"/>teres als der Copie der einzelnen Singstimmen, nicht etwa erst<lb facs="P2_TL00104"/>des Unterlegens des Textes durch einen Musik verstund igen. </ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00003">
+                                    <lb facs="P3_TL00045"/>Von der „Neuen Zeitschrift" in Leipzig kann man nicht ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00046"/>langen, dass sie sich des armen Mozart annimmt; aber auch<lb facs="P3_TL00047"/>die besseren Musik-Zeitungen in Wien, z. B. die „Recensio<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00048"/>nena, die „Deutsche Mu si k-Z eit u ng", welche häufig mit<lb facs="P3_TL00049"/>Recht und am lautesten gegen die alten Texte losgefahren<lb facs="P3_TL00050"/>sind, haben von der genannten neuen Bearbeitung, so viel uns<lb facs="P3_TL00051"/>bekannt ist, keine Notiz genommen, xilso : Bemedia tardiora<lb facs="P3_TL00052"/>sunt quam mala, und für unsere Sänger, Capellmeister, Ke<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00053"/>gisseurs u. s. W«: lnvisa primo desidia postremo amatur.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00005">
+                                    <lb facs="P3_TL00101"/>[*]</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c003">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P4_TB00002">
+                           <lb facs="P4_TL00002"/>Ein Falsum in Mozart’s Messias-Partitur.</ab>
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P4_TB00003">
+                           <lb facs="P4_TL00003"/>Nachgewiesen von Dr. Baumgart.</ab>
+                     </div>
+                     <div type="Music" corresp="c004">
+                        <div type="Image"/>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00004">
+                                    <lb facs="P4_TL00004"/>(Schluss. S. Nr. 5.)<lb facs="P4_TL00005"/>Es kommt dazu, dass die Wahl des Solo-Instruments<lb facs="P4_TL00006"/>keineswegs besonders geschmackvoll erscheint. Mozart<lb facs="P4_TL00007"/>versteht es, den Fagott in der Begleitung reizend mit an<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00008"/>deren Instrumenten zu mischen, wie zahlreiche Beispiele<lb facs="P4_TL00009"/>aus seinen Opern und auch aus dem Messias beweisen<lb facs="P4_TL00010"/>können. (Vgl. in diesem Nr. 3, 29, 32 u. a.) Auch hat<lb facs="P4_TL00011"/>er allerdings ein Concert für den Fagott geschrieben (Jahn,<lb facs="P4_TL00012"/>1.,- 715), im Jahre 1774, noch in Salzburg, wohl für die<lb facs="P4_TL00013"/>dortige Hofmusik. Ob er ihn aber in seiner reifsten Zeit<lb facs="P4_TL00014"/>jemals als einziges Blas-Instrument neben der Singstimme<lb facs="P4_TL00015"/>so zur Schau gestellt hat, wie hier, möchte ich bezweifeln;<lb facs="P4_TL00016"/>er beurtheilte die Natur des Instrumentes wohl einsichti<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00017"/>ger, und bei der Bearbeitung eines fremden Werkes fühlte<lb facs="P4_TL00018"/>er sicherlich noch mehr das Unpassende. Dagegen hat<lb facs="P4_TL00019"/>Hiller bei seiner ganzen Messias-Bearbeitung nur den ein<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00020"/>seitig musicalischen Standpunkt innegehabt und Händel's<lb facs="P4_TL00021"/>tiefen Sinn und dessen wohlbercchneten Ausdruck öfter<lb facs="P4_TL00022"/>verkannt. In den sechszehn Winter-Concerten, die 1788<lb facs="P4_TL00023"/>in Breslau dem Messias vorangingen, hat er zwei Mal ein<lb facs="P4_TL00024"/>Concert auf dem Fagott blasen lassen und ausserdem noch<lb facs="P4_TL00025"/>eine Arie von Righini mit concertirendem Fagott zum Be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00026"/>sten gegeben. Er muss also wohl das Instrument anmulhi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00027"/>gcr gefunden haben. Seine Bücksichten gegen Händel's<lb facs="P4_TL00028"/>Werk aber sind trotz aller Lobsprüche, die er ihm spen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00029"/>det, thatsächlich eben so lax, wie die Mozart'schen streng<lb facs="P4_TL00030"/>und achtungsvoll.<lb facs="P4_TL00031"/>Ferner hat Mozart im Messias nirgend eine Händel'-<lb facs="P4_TL00032"/>sche Tempo-Bezeichnung geändert, obschon bekanntlich<lb facs="P4_TL00033"/>die Bedeutung der Ausdrücke zu seiner Zeit nicht mehr<lb facs="P4_TL00034"/>dieselbe war, wie fünfzig Jahre früher. In dieser einzi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00035"/>gen Arie ist es geschehen. Händel schreibt<lb facs="P4_TL00036"/>vor, bei Mozart steht, wie bei Hiller, Dass dies<lb facs="P4_TL00037"/>für den Charakter und Inhalt der Arie unpassend ist, und<lb facs="P4_TL00038"/>dass diese Auffassung durch den concertirenden Fagott<lb facs="P4_TL00039"/>eine herzlich schlechte Unterstützung gewinnt, fühlt jeder<lb facs="P4_TL00040"/>Einsichtige. Es findet sich aber auch in der ganzen Mo<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00041"/>zart'schen Partitur nirgend eine Ueberschrift, die neben<lb facs="P4_TL00042"/>oder statt der Tempo-Angabe den Charakter des Stückes<lb facs="P4_TL00043"/>andeutete, ausser Grave, ganz entsprechend dem Händer<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00044"/>schen Original. Dagegen hat Hiller sehr häufig durch<lb facs="P4_TL00045"/>charakterisirende Beisätze, wie: Maestoso, Patetico, Riso<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00046"/>luto, oder durch beschränkende, wie:<lb facs="P4_TL00047"/>u. s. w. die einfachen Händel'schen Bezeichnungen näher<lb facs="P4_TL00048"/>zu bestimmen gesucht, manchmal auch sie geradezu ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00049"/>ändert, und damit sein Versländniss Händel's nicht eben</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00005">
+                                    <lb facs="P4_TL00050"/>empfohlen. So hat die Arie: „Wer mag den Tag seiner<lb facs="P4_TL00051"/>Zukunft erleiden", die er nach einer anderen, wesentlich<lb facs="P4_TL00052"/>verschiedenen und werthloseren Composition Händel's auf<lb facs="P4_TL00053"/>seine Weise zurecht gemacht hat, im Original die Ueber<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00054"/>schrifl: Andante Larghetto, bei ihm Allegretto, wodurch<lb facs="P4_TL00055"/>sie denn ziemlich zu einer Tyrannen-Bravour-Arie gewor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00056"/>den ist. „Du zerschlägst sie" u. s. w., bei Händel und Mo<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00057"/>zart (Nr. 36) mit Andante bezeichnet, nimmt er AUegro,<lb facs="P4_TL00058"/>u. s. w. Diese Beispiele werden genügen, um zu beweisen,<lb facs="P4_TL00059"/>dass auch in diesem Punkte Hiller's, nicht Mozart's Grund<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00060"/>sätze gewaltet haben.<lb facs="P4_TL00061"/>Endlich hat Mozart nie eine IJändel'sehe Singstimme<lb facs="P4_TL00062"/>geändert, ausser so weit der deutsche Text eine andere<lb facs="P4_TL00063"/>rhythmische Anordnung der Noten erforderte, wovon er<lb facs="P4_TL00064"/>übrigens fast Alles wohl schon in seiner Abschrift vorfand.<lb facs="P4_TL00065"/>Sämmtliche Stücke, die er in seine Bearbeitung aufnahm,<lb facs="P4_TL00066"/>sind so vollständig, wie Händel sie geschrieben hat, wie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00067"/>dergegeben, nur eines ausgenommen, die Arie: „Sie schallt,<lb facs="P4_TL00068"/>die Posaun'", bei der der Hauptgrund wohl in der Solo-<lb facs="P4_TL00069"/>Trompete lag; auch hier bestehen die Kürzungen aber fast<lb facs="P4_TL00070"/>nur in geschickten Auslassungen, und Weniges ist geän<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00071"/>dert, um die Verbindung der Gedanken herzustellen. (Vgl.<lb facs="P4_TL00072"/>den doppelten Abdruck in der englischen Ausgabe.) Bei<lb facs="P4_TL00073"/>der Arie: „Wie lieblich ist der Boten Schritt", findet sich<lb facs="P4_TL00074"/>im Original (wenigstens in meiner Abschrift) nach dem<lb facs="P4_TL00075"/>jetzigen Schlüsse noch ein zweiter Theil, worauf der erste<lb facs="P4_TL00076"/>wiederholt wird. Da er aber denselben Text hat, wie der<lb facs="P4_TL00077"/>folgende Chor: „Ihr Schall gehet aus", so ist er vielleicht<lb facs="P4_TL00078"/>von Händel selbst erst später hinzugefügt, um so wahr<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00079"/>scheinlicher, als das Stück überhaupt in drei verschiedenen<lb facs="P4_TL00080"/>Gestalten sich vorfindet. Die englische Ausgabe bemerkt<lb facs="P4_TL00081"/>auch nichts von der Mozart'schen Abweichung, wodurch<lb facs="P4_TL00082"/>meine Vermuthung bestätigt wird. Sonst habe ich kein<lb facs="P4_TL00083"/>Beispiel einer Kürzung gefunden*). Alle Coloraturen, alle<lb facs="P4_TL00084"/>Verzierungen, alle Cadenzen sind genau den Händerschen<lb facs="P4_TL00085"/>entsprechend. Gerade in dieser Beziehung aber hat Hiller<lb facs="P4_TL00086"/>gemäss seinen offen ausgesprochenen Grundsätzen mit aller<lb facs="P4_TL00087"/>Freiheit geschaltet, die ihm für eine zeil gemäss e Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00088"/>besserung dienlich schien und die alles nach heutigen Be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00089"/>griffen zulässige Maass so weit überschreitet, dass, wer</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00002">
+                                    <lb facs="P5_TL00002"/>\<lb facs="P5_TL00003"/>auch gar nicht Liebe zu Händel, sondern einfach einigen<lb facs="P5_TL00004"/>geschichtlichen Sinn besitzt, nur mit Entrüstung sehen<lb facs="P5_TL00005"/>kann, wie er die Arien nach Gutdünken verkürzt, Haupt-<lb facs="P5_TL00006"/>Motive umgestaltet, Begleitungs-Figuren und Coloraturen<lb facs="P5_TL00007"/>seinen Zeitgenossen mundrecht gemacht und ganz beson<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00008"/>ders Verzierungen und Cadenzen durchweg im Stile von<lb facs="P5_TL00009"/>Hasse, Graun u. A. verändert hat. Beispiele würden hier<lb facs="P5_TL00010"/>ins Unabsehbare führen. Wem etwa der alte Clavier-Aus<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00011"/>zug des Messias von Schwencke zur Hand ist, der findet<lb facs="P5_TL00012"/>in ihm noch in den Verzierungen und Schlussfällen viel<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00013"/>fache Reste des lliller'schen Geschmacks, und die erste<lb facs="P5_TL00014"/>beste Arie, mit Mozart's Partitur verglichen, wird den<lb facs="P5_TL00015"/>Unterschied gegen das Original zeigen. Im Uebrigen aber<lb facs="P5_TL00016"/>ist Schwencke im Vergleich mit Hiller fast ein kritischer<lb facs="P5_TL00017"/>Philolog*). Bei unserer Arie genügt es, in Mozart's Par<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00018"/>titur oder in einem nach ihm gefertigten Ciavier-Auszuge<lb facs="P5_TL00019"/>sie einfach mit anderen Stücken des Messias zusammenzu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00020"/>halten. Wer das nicht kann oder will, sehe Folgendes an:<lb facs="P5_TL00021"/>Mozart:</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00003">
+                                    <lb facs="P5_TL00022"/>Aber abgesehen von solchen Dingen, ist der Bearbei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00023"/>ter mit der ganzen Melodief ührung so rücksichtslos umge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00024"/>gangen, dass man ohne Uebertreibung behaupten kann,</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00005">
+                                    <lb facs="P5_TL00034"/>von Händeis Arbeit sind eigentlich nur Fräs<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00035"/>o n<lb facs="P5_TL00036"/>mente übrig geblieben, die ausführlichsten gerade<lb facs="P5_TL00037"/>da, wo der Gesang sich in Sequenzen und Figuren ergeht.<lb facs="P5_TL00038"/>Ich müsste die ganze Arie abdrucken lassen, um das an<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00039"/>schaulich zu machen. Bei einem Vergleiche Mozart's mit<lb facs="P5_TL00040"/>dem Original braucht man nur die erste Hälfte des Stückes<lb facs="P5_TL00041"/>anzusehen, um sich zu überzeugen, dass es umcomponirt<lb facs="P5_TL00042"/>ist; dasselbe wird der Schluss lehren, der nach Händel<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00043"/>scher Weise in eine langsame Cadenz der Singstimme mit<lb facs="P5_TL00044"/>blosser Orgelbegieitung ausgeht, wovon bei Mozart keine<lb facs="P5_TL00045"/>Spur geblieben ist. Die ganze Arie ist um 13 Tacle ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00046"/>kürzt, aber nicht durch Auslassungen, wie die oben be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00047"/>sprochene mit der Solo-Trompete, sondern durch die völ<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00048"/>lige Umgestaltung ganzer Phrasen. Es wäre völlig un<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00049"/>erklärlich, warum Mozart in diesem einzigen Stücke der<lb facs="P5_TL00050"/>sonst überall bewahrten und seiner Achtung vor Händel<lb facs="P5_TL00051"/>ganz entsprechenden Gewissenhaftigkeit untreu geworden<lb facs="P5_TL00052"/>wäre, um an die Stelle des Originals eine Halbheit von<lb facs="P5_TL00053"/>eigener Leistung zu setzen, die Niemand für eine gelun<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00054"/>gene erkennen wird, sondern nur für werthloser, als Hän<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00055"/>del's Arbeit, halten muss. Dagegen steht alles, was wir<lb facs="P5_TL00056"/>hier vorfinden, mit Hiller's Vorurtheilen und mit seinem<lb facs="P5_TL00057"/>sonstigen Verfahren im ganzen Messias aufs allerbeste im<lb facs="P5_TL00058"/>Einklänge.<lb facs="P5_TL00059"/>Aus den hier erörterten Gründen hatte ich in dem zu<lb facs="P5_TL00060"/>Anfange erwähnten Vortrage Ililler für den Bearbeiter<lb facs="P5_TL00061"/>der Arie und diese in Mozart's Partitur für untergescho<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00062"/>ben erklärt. Während des Vortrages erhielt ich von einem<lb facs="P5_TL00063"/>meiner Zuhörer, Herrn Lehrer Stütze, das in seinem<lb facs="P5_TL00064"/>Besitze befindliche Textbuch zur breslauer Messias-Auf<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00065"/>führung, das ich bis dahin nur dem allgemeinen Inhalte<lb facs="P5_TL00066"/>nach kannte. Es ist, wie der im Ganzen übereinstimmende<lb facs="P5_TL00067"/>Titel zeigt, wahrscheinlich nur ein Abdruck des zu den<lb facs="P5_TL00068"/>leipziger ausgegebenen (Jahn, IV., 458,<lb facs="P5_TL00069"/>Anm. 10). In den „angehängten Betrachtungen" werden<lb facs="P5_TL00070"/>auch Andeutungen über Inhalt und Auffassung einzelner<lb facs="P5_TL00071"/>Stücke gegeben, und da heisst es denn S. 30: „Die Arie:<lb facs="P5_TL00072"/>Ist Gott lür uns, ist sehr anziehend wegen ihres schö<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00073"/>nen, ausdrucksvollen Gesanges —[den doch Hiller so stark<lb facs="P5_TL00074"/>glaubte corrigiren zu müssen!], der concerlirende Fa<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00075"/>gott ist grösstenthei Is aus Händel's Violin<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00076"/>stimme genommen. Was nebenher noch zur Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00077"/>stärkung der Begleitung geschehen ist, bringt<lb facs="P5_TL00078"/>diese Arie der heutigen Manier näher und macht<lb facs="P5_TL00079"/>sie ohnfehlbar interessanter." Damit ist wohl je<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00080"/>der Zweifel entschieden. Hiller schrieb dies, wenn nicht<lb facs="P5_TL00081"/>schon für die leipziger Aufführung (1786 und 1787),<lb facs="P5_TL00082"/>doch spätestens für die breslauer, die am 30. Mai 1788<lb facs="P5_TL00083"/>Statt fand. Mozart's Bearbeitung stammt aus den ersten<lb facs="P5_TL00084"/>Monaten des Jahres 1789 (Jahn, IV., 457). Wenn nun</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00002">
+                                    <lb facs="P6_TL00002"/>Ililler die in der gedruckten Mozart'schen Partitur befind<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00003"/>liche Instrumentirung, die aus der angeführten Stelle augen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00004"/>fällig wiederzuerkennen ist, schon mindestens ein, vielleicht<lb facs="P6_TL00005"/>aucli mehrere Jahre vorher als die seinige beschreibt, so<lb facs="P6_TL00006"/>bleibt nur zweierlei übrig: entweder hat Mozart die Be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00007"/>arbeitung von Miller entlehnt— und das glaube, wer's im<lb facs="P6_TL00008"/>Stande ist! —, oder sie ist in der gedruckten Partitur aus<lb facs="P6_TL00009"/>der Hiller'schen untergeschoben, und das wird wohl<lb facs="P6_TL00010"/>richtig sein.<lb facs="P6_TL00011"/>Ein Blick in M ozart's Manuscript ist mir unmöglich<lb facs="P6_TL00012"/>gewesen. Durch eine flüchtig gelesene Stelle bei Jahn (IV.,<lb facs="P6_TL00013"/>459) veranlasst, glaubte ich, es wäre auf der berliner Bi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00014"/>bliothek; Herr l)r. 0. Lindner, der sich darum freund<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00015"/>lichst bemüht hat, belehrte mich über meine Täuschung.<lb facs="P6_TL00016"/>Es wird indess wohl aufzufinden sein, und wenn man be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00017"/>achtet, was Jahn (459 und 60) über die Einrichtung und<lb facs="P6_TL00018"/>Ausfüllung der von Mozart bearbeiteten lländel'schen Par<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00019"/>tituren angegeben hat, so muss ohne Schwierigkeit ent<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00020"/>schieden werden können, was in der fraglichen Arie von<lb facs="P6_TL00021"/>seiner eigenen Hand geschrieben ist. Ich bin aber über<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00022"/>zeugt, dass er sie gar nicht bearbeitet hat und dass sie<lb facs="P6_TL00023"/>beim Drucke der Partitur eingeschoben wurde, weil man<lb facs="P6_TL00024"/>zwischen den beiden letzten Chören einen Ruhepunkt ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00025"/>misste. Wer die Redaction des Druckes besorgt hat, weiss<lb facs="P6_TL00026"/>ich nicht; aber erscheint mir, dass Hiller<lb facs="P6_TL00027"/>erst ein Jahr (im Juni 1804) nach der Herausgabe ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00028"/>storben ist. Wäre die Arie ohne sein Vorwissen aufgenom<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00029"/>men worden, sollte er dann gar nichts haben verlauten<lb facs="P6_TL00030"/>lassen? War er vielleicht selbst der Redacteur? <lb facs="P6_TL00031"/>Schliesslich noch eine Bemerkung. Jahn (IV., 463)<lb facs="P6_TL00032"/>theilt nach Niemtschek einen Brief van Swietens an Mo<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00033"/>zart mit, in welchem davon die Rede ist, den Text einer<lb facs="P6_TL00034"/>,kalten" Arie in ein Recitativ zu bringen. Die Arie ist<lb facs="P6_TL00035"/>nicht genauer bezeichnet. Bedenkt man, dass dieser Brief<lb facs="P6_TL00036"/>vom 21. März 1789 datirt ist und dass die Aufführung<lb facs="P6_TL00037"/>der Messias-Bearbeitung noch in demselben<lb facs="P6_TL00038"/>Monate (Jahn, 457), also spätestens 8 —lO Tage nach<lb facs="P6_TL00039"/>jener Correspondenz Statt fand, so ist die „kalte" Arie<lb facs="P6_TL00040"/>sicherlich eine der letzten des Oratoriums gewesen, und<lb facs="P6_TL00041"/>van Swietens' Prädikat sammt den Umständen passt dann<lb facs="P6_TL00042"/>aul keine besser, als auf die unsrige. Meine Meinung, dass<lb facs="P6_TL00043"/>Mozart sie gar nicht bearbeitet hat, erhielte dadurch noch<lb facs="P6_TL00044"/>eine Stütze, und es ist wohl möglich, dass sich in seinem<lb facs="P6_TL00045"/>Manuscripte das erwähnte Recitativ in der Thal vorfindet.<lb facs="P6_TL00046"/>Mögen das die feststellen, die Gelegenheit dazu haben.<lb facs="P6_TL00047"/>Der Verlust, den Mozart's Messias durch den Ausfall der<lb facs="P6_TL00048"/>Arie erleidet, wird den Meisten erträglich sein. Das Stück<lb facs="P6_TL00049"/>gehört gewiss nicht zu denen, die man besonders gern<lb facs="P6_TL00050"/>hört, und bleibt bei Aufführungen des Oratoriums ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00051"/>wöhnlich weg. Aber eben weil die Bearbeitung eine ver<pc type="endhypen" pre="false">-</pc>
+                                 </ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00003">
+                                    <lb facs="P6_TL00052"/>fehlte ist, war es wohl recht, Mozart nicht länger für ITil<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00053"/>ler's Schuld verantwortlich erscheinen zu lassen.<lb facs="P6_TL00054"/>Breslau, Ende December 1861.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00006">
+                                    <lb facs="P4_TL00090"/>*) Hiernach bestimmen sich Jahn's Angaben (IV., 4G3) genauer.<lb facs="P4_TL00091"/>Ganz weggelassen hat Mozart nur zwei Stücke: den auf die<lb facs="P4_TL00092"/>Himmelfahrt bezüglichen Chor („Let all the angels of Godu)<lb facs="P4_TL00093"/>und die ihm folgende Arie („ Thon art gone up on highu), al<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00094"/>lerdings bedauerlicher Weise, da jetzt das vorangehende Reci<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00095"/>tativ: „Zu welchem von den Engeln" (vor Nr. 31) keine Be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00096"/>ziehung und keinen Sinn mehr hat und die Himmelfahrt im<lb facs="P4_TL00097"/>Mozart'schen Messias eigentlich ganz fehlt. Mozart bezog wohl<lb facs="P4_TL00098"/>den Chor: „Oeffnet euch weit", statt auf die Auferstehung,<lb facs="P4_TL00099"/>auf die Himmelfahrt. Hiller hat richtig jene beiden Stücke<lb facs="P4_TL00100"/>beibehalten.</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00004">
+                                    <lb facs="P5_TL00025"/>*) Scbwencke, dessen Ciavier-Auszug J8( 9 erschien, hat in un<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00026"/>serer Arie laut der Vorrede ..Mozart's einfache und be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00027"/>scheidene Bearbeitung*' aufgenommen. Er bezieht das gewiss<lb facs="P5_TL00028"/>nicht sowohl auf die Instrumentirung, die er ja auch sonst be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00029"/>nutzt hat, als vielmehr auf die innere Umgestaltung. Anderer<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00030"/>seits sieht man, dass schon fast seit dem Erscheinen der Par<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00031"/>titur kein Zweifel an Mozart's Autorschaft bestand. Auch die<lb facs="P5_TL00032"/>Anzeigen in der Allg. Mus. Zeitung (1803) schweigen über<lb facs="P5_TL00033"/>Hiller's Antheil.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c005">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P6_TB00004">
+                           <lb facs="P6_TL00055"/>Tages- und Unterhaltungs-Batt.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00005">
+                                    <lb facs="P6_TL00056"/>Molsi. A m ]. Februar spielten die Wunderkinder August<lb facs="P6_TL00057"/>und Emil Sauret aus Paris, August 8 Jahre alt, Violinist, Emil<lb facs="P6_TL00058"/>9 Jahre alt, Pianist, in der Musicalischen Gesellschaft und Ernteten<lb facs="P6_TL00059"/>durch ihr ungemein hervorstechendes Talent und eine für ihr Alter<lb facs="P6_TL00060"/>sehr weit ausgebildete Technik den lebhaftesten Beifall des sehr<lb facs="P6_TL00061"/>zahlreichen Auditoriums. Mehr noch als die Technik muss die Rein<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00062"/>heit des Tones und der melodische Vortrag des kleinen Violinspie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00063"/>lers auffallen; er besitzt ein ganz ausnahmsweise scharfes Ohr und<lb facs="P6_TL00064"/>verbesserte die Mängel einer nicht vorzüglichen und schlecht in<lb facs="P6_TL00065"/>Stimmung zu haltenden Quinte durch sein Greifen, so dass dennoch<lb facs="P6_TL00066"/>sein Spiel auch auf dieser Saite ganz rein blieb, was namentlich<lb facs="P6_TL00067"/>Herrn Monasterio, der den Kleinen genau beobachtete, ganz beson<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00068"/>ders für ihn einnahm. Auch der Ciavierspieler bat einen netten An<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00069"/>schlag und besitzt bereits eine recht artige Fertigkeit. Dabei sehen<lb facs="P6_TL00070"/>die Knaben sehr gesund und frisch aus und verkümmern dem Zu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00071"/>hörer n;cht die Freude an ihren Leistungen durch den Eindruck der<lb facs="P6_TL00072"/>matten Farbe von Treibhauspflanzen.<lb facs="P6_TL00073"/>Am Dinstag den 4. Februir hörten wir in der vierten Soi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00074"/>ree für Kammermusik das Violin-Quartett Nr. 2 in E-moll von<lb facs="P6_TL00075"/>Op. 44 von Mendelssohn und das geist- und gemüthvolle Quar<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00076"/>tett, ebenfalls in E-moll, Nr. 2 von Op. 59 von Beethoven, wel<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00077"/>ches von den Herren von Königslöw, Derckum, Grunwald und<lb facs="P6_TL00078"/>Schmitt ganz ausgezeichnet schön vorgetragen wurde und wieder<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00079"/>holten Applaus hervorrief. Das Quartett von Mendelssohn wurde<lb facs="P6_TL00080"/>ebenfalls vorzüglich wiedergegeben, machte aber dennoch keinen be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00081"/>deutenden Eindruck auf das Publicum. Durch den Vortrag seines<lb facs="P6_TL00082"/>Clav i er-Trio1 s Nr. 2, Op. 20, in Es-dur ärntete Herr Wolde<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00083"/>ma r Bargiel grosse Anerkennung seines Compositions-Talentes,<lb facs="P6_TL00084"/>das auch in diesem Werke überall durch die breite Anlage und den<lb facs="P6_TL00085"/>Ernst der Motive eine nach der Höhe der Kunst strebende Richtung<lb facs="P6_TL00086"/>offenbart, welche sehr achtungswerth ist, wenn sie auch noch nicht<lb facs="P6_TL00087"/>immer ihr Ziel erreicht Am Schlüsse des Abends erfreute uns Fräu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00088"/>lein Bertha Eichberg aus Stuttgart, die bereits in Nr. 5 dieses<lb facs="P6_TL00089"/>Blattes von Bremen aus rühmlich erwähnt ist, durch ihr recht hüb<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00090"/>sches Harfenspiel. Die Vocal-Partie füllte Fräulein Genast durch<lb facs="P6_TL00091"/>den Vortrag von je zwei Liedern von Franz und Mendelssohn,<lb facs="P6_TL00092"/>■ +»<lb facs="P6_TL00093"/>von Schubert und Schumann auf interessante Weise aus.<lb facs="P6_TL00094"/>Am Mittwoch hatte der städtische Gesangverein unter<lb facs="P6_TL00095"/>der Direction des Herrn Fer d. Breun ung eine öffentliche Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00096"/>sammlung vor einem eingeladenen Publicum veranstaltet. Zur Auf<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00097"/>führung kamen Schumann's .:Der Rose Pilgerfahrt", Mendels<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00098"/>sohn's Ave Maria für Tenor-Solo und achtstimmigen Chor, Terzett<lb facs="P6_TL00099"/>aus Jute dies von Cherubini und J. S. Bac h' s Cantate für Soli<lb facs="P6_TL00100"/>(Tenor und Alt): „Ein1 feste Burg ist unser Gott". Die Chöre gin<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00101"/>gen in allen diesen Musikstücken recht gut und klangen sehr rein<lb facs="P6_TL00102"/>und frisch, nur war bei doppelstimmigen Sopranstellen der zweite<lb facs="P6_TL00103"/>Sopran nicht verhältnissmässig stark genug besetzt. Wann wer<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00104"/>den die verehrten Da&lt;xen einsehen, dass es schwieriger folglich<lb facs="P6_TL00105"/>ehrenvoller ist, im Chor den zweiten Rang eben so würdig<lb facs="P6_TL00106"/>wie den ersten zu vertreten? Erfreulich war es, dass auch die Solo-<lb facs="P6_TL00107"/>Partieen mit Ausnahme von zweien (Fräulein Genast und Herr<lb facs="P6_TL00108"/>Koch) durch Vereins-Mitglieder ausgeführt wurden. Bei Schumann's<lb facs="P6_TL00109"/>Gesangstück, das trotz recht vielem Schönen in einzelnen Nummern<lb facs="P6_TL00110"/>doch im Ganzen an sentimentaler Monotonie leidet, machte sich die<lb facs="P6_TL00111"/>Clavier-Begleitung recht gut, da es ursprünglich dafür geschrieben</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00002">
+                                    <lb facs="P7_TL00002"/>ist. Bei Bach'ö Cantatc hingegen kann der Flügel das Orchester<lb facs="P7_TL00003"/>nicht ersetzen; so viel uns erinnerlich, ist diese gewaltige Cantate<lb facs="P7_TL00004"/>hier noch nicht gehört worden, und der Verein verdient desshalb<lb facs="P7_TL00005"/>Dank, sie uns vorgeführt zu haben. Der Eindruck dürfte aber ein<lb facs="P7_TL00006"/>ganz anderer sein, wenn ausser der Orgel ein stark besetztes Geigen-<lb facs="P7_TL00007"/>Quartett dazu träte; in dem Gürzenichsaale möchten dann auch im<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00008"/>merhin die Männerstimmen ihr: „Und wer.n die Welt voll Teufel<lb facs="P7_TL00009"/>wär'", mit derjenigen Begeisterung und Ki'aftäusserung los lassen,<lb facs="P7_TL00010"/>welche in dem Locale des Vereins etwas zu stentorisch wirkte. Das<lb facs="P7_TL00011"/>Ave Maria von Mendelssohn wurde sehr gut gesungen, im Ganzen<lb facs="P7_TL00012"/>mit schönem und klarem Verhältniss der acht Stimmen.<lb facs="P7_TL00013"/>ISoaüsi. Das dritte Abonnements-Concert (am 30. Ja<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00014"/>nuar) eröffnete mit Mozart1 s 6r-77ioZ£-Sinfonie, welche unter der<lb facs="P7_TL00015"/>einsichtigen und sicheren Leitung des Herrn Musik-Directors Bram<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00016"/>bach eine recht gelungene war. Fräulein Schreck, die wir lange<lb facs="P7_TL00017"/>nicht gehört hatten, bekundete durch den trefflichen Vortrag der<lb facs="P7_TL00018"/>Arie; Ah rendimi qicel cuore, von II os s i und der Partie der He<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00019"/>lo'ise in F. Hille r' s „Klagegesang am Grabe Abälard's" von<lb facs="P7_TL00020"/>Neuem, dass die Seltenheit ihres Auftretens in der letzten Zeit ein<lb facs="P7_TL00021"/>wahrer Verlust für die rheinländischen Concerte ist. Eine solche<lb facs="P7_TL00022"/>Stimme sollte nicht feiern oder man sollte sie nicht feiern lassen; denn<lb facs="P7_TL00023"/>wo ist der Ersatz für ihren schönen, vollen Klang? Der Damen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00024"/>chor sang in demselben Stücke von Hiller recht frisch und rein,<lb facs="P7_TL00025"/>wenn auch die Nuancirungen des Vortrags hier und da etwas feiner<lb facs="P7_TL00026"/>hätten sein können. Ganz befriedigend war die Leistung des Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00027"/>sammtehors in Beethoven's „Ruinen von Athen", namentlich in<lb facs="P7_TL00028"/>dem prächtigen Chor: „Schmückt die Altäreu. Ein Glanzpunkt des<lb facs="P7_TL00029"/>Abends waren die Violin-Vorlräge des Herrn August Kömpel,<lb facs="P7_TL00030"/>welcher „Variationen über ein Mozart'sches Thema" von David<lb facs="P7_TL00031"/>und .Spohlas „Gesangscene" mit bekannter Meisterschaft spielte<lb facs="P7_TL00032"/>und Spohr's Composition durch den wunderschönen Ton und den<lb facs="P7_TL00033"/>melodischen Ausdruck wahrhaft zu dem machte, was ihre Ueber<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00034"/>schrift sagt. Und die Aufgabe war dieses Mal für den Künstler um<lb facs="P7_TL00035"/>»o schwieriger, als die warme Temperatur des Saales selbst die Zu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00036"/>hörer drückte, geschweige denn die Spieler.<lb facs="P7_TL00037"/>C'i*©jSelcl? 22. Januar. Gestern Abends hat unser kunstlieben<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00038"/>des Publicum durch sein überaus zahlreiches Erscheinen beim Con<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00039"/>certe des Singvereins, welches zum Benefiz seines Dirigenten<lb facs="P7_TL00040"/>im Saale des Hotel de la redoute gegeben wurde, in deutlichster<lb facs="P7_TL00041"/>Weise gezeigt, dass es die Verdienste des Herrn Musik-Directors<lb facs="P7_TL00042"/>Hermann Wolff in vollem Maasse zu würdigen weiss. Der grosse<lb facs="P7_TL00043"/>Saal war dicht besetzt bis zum anschiessenden Räume. Kein Wun<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00044"/>der also, dass unter solchen Umständen Sängerinnen, Sänger und<lb facs="P7_TL00045"/>Orchester mit Lust und Eifer an die Lösung ihrer Aufgabe gingen.<lb facs="P7_TL00046"/>Das Programm brachte eine Wiederholung der im dritten Abonne<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00047"/>nients-Concerte mit Beifall aufgenommenen Ouvertüre zu „Manfred"<lb facs="P7_TL00048"/>von Schumann, ein Duett für Sopran und Bariion aus Spohr's<lb facs="P7_TL00049"/>„Faust", die Romanze für Violine von Beethoven, von einem<lb facs="P7_TL00050"/>dreizehnjährigen kleinen crefelder Virtuosen recht artig gespielt,<lb facs="P7_TL00051"/>Lieder für Bariton (Herr Paul Schmidt aus Aachen), das Vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00052"/>spiel zu „Hans Heiling" von Marschner (Königin: Fräulein<lb facs="P7_TL00053"/>Büschgens) und Beethoven's C-wioZZ-Sinfonie, deren Auffassung<lb facs="P7_TL00054"/>und Leitung durch den Dirigenten und deren Ausführung durch das<lb facs="P7_TL00055"/>Orchester lobenswerth war.<lb facs="P7_TL00056"/>Alfred Ja eil hat in den letzten Tagen des December vorigen<lb facs="P7_TL00057"/>und im Januar dieses Jahres in Hannover, Kassel und Mei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00058"/>ningen in Hof-Concerten und im Theater gespielt. Se. Hoheit der<lb facs="P7_TL00059"/>Herzog von Meiningen hat ihn am 23. Januar durch die Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00060"/>leihung der grossen goldenen Medaille, welche dem Haus-<lb facs="P7_TL00061"/>Orden affiliirt ist, ausgezeichnet. Am 29. v. Mts. gab er in Mainz</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00003">
+                                    <lb facs="P7_TL00062"/>ein glänzendes Conccrt und wird in den ersten Wochen des FeLrua<lb facs="P7_TL00063"/>in Aachen und Hamburg spielen. Er führt jetzt einen pracht<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00064"/>vollen Flügel von Erard mit sich, der überall Sensation erregt.<lb facs="P7_TL00065"/>Aus dem literarischen Nachlasse des verewigten Ilof<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00066"/>rathes Teichmann wird eine Geschichte des königlichen Theaters<lb facs="P7_TL00067"/>in Berlin vorbereitet. Teichmann, länger als fünfzig Jahre in dem<lb facs="P7_TL00068"/>Bureau der General-Intendantur unter dem Grafen Brühl, Grafen<lb facs="P7_TL00069"/>Redern, Herrn von Küstner und Kammerherrn von Hülsen wirksam,<lb facs="P7_TL00070"/>erfreute sich noch der persönlichen Bekanntschaft Göthe's und stand<lb facs="P7_TL00071"/>mit den ersten Dichtern seiner Zeit in brieflichem Verkehr.<lb facs="P7_TL00072"/>Se. Majestät der König geruhte dem Musik-Director Gebhard!<lb facs="P7_TL00073"/>in Erfurt, dem Hof-Virtuosen von Bülow, den Dichtern G. zu<lb facs="P7_TL00074"/>Putlitz und Auerbach den Rothen Adler-Orden zu verleihen.<lb facs="P7_TL00075"/>Die Aufführung, des Oratoriums „Abraham" von M. Blumner<lb facs="P7_TL00076"/>das bereits vor zwei Jahren hier zwei Mal, auch im vorigen Jahre<lb facs="P7_TL00077"/>in Prag mit Erfolg gegeben worden, geschah unter Mitwirkung des<lb facs="P7_TL00078"/>k. Hof-Opernsängers Herrn Krause durch die Mitglieder der Sing-<lb facs="P7_TL00079"/>Akademie, deren Vice-Director der Componist ist; das an schönen<lb facs="P7_TL00080"/>Einzelheiten reiche Werk fand wiederum eine günstige Aufnahme<lb facs="P7_TL00081"/>Der Violin-Virtuose Herr Jean Becker aus Mannheim trat in<lb facs="P7_TL00082"/>den Zwischenacten im Friedrich-Willi-Theater auf. Die Schönheit<lb facs="P7_TL00083"/>des Tones und die musterhafte Sauberkeit der Technik bei vollende<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00084"/>ter Correctheit sind zu rühmen. Im Vortrage von Paganini's Varia<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00085"/>tionen über Nel cor jpxu rion ml sento leistete er in den Passagen<lb facs="P7_TL00086"/>Accoiden, llageolet, Flautando, Pizzicato, Spiel mit springendem Bo<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00087"/>gen und im jähen Wechsel aller dieser Manieren Vorzügliches. Sein<lb facs="P7_TL00088"/>Ton lässt jedoch die äussersten Grade der Kraft vermissen, und da<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00089"/>mit hängt es wohl zusammen, dass er auch im Vortrage mehr dem<lb facs="P7_TL00090"/>Zarten und Gefühlvollen, als dem Feurigen, männlich Energischen<lb facs="P7_TL00091"/>zugeneigt ist; er liebt es, die getragenen Melodieen etwas zu retar<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00092"/>diren, auf einzelnen schmelzenden Tönen lange zu verweilen in ein<lb facs="P7_TL00093"/>nicht enden wollendes Piano sich zu verlieren, kurz, er versteht es<lb facs="P7_TL00094"/>besser, ein weiches Fiauenherz zu rühren, als durch einen energi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00095"/>schen Angriff, wie z. B. Joachim, Männer zur Begeisterung hinzu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00096"/>reissen.<lb facs="P7_TL00097"/>Die neue einactige Operette „Der Musik feind" von Rieh. Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00098"/>nee fährt fort, beifällige Aufnahme zu finden. Die einzelnen Num<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00099"/>mern werden beklatscht und das Duett da capo verlangt. Das Sujet<lb facs="P7_TL00100"/>ist possenhafter Natur und gewährt doch dem Componisten eiim<lb facs="P7_TL00101"/>Reihe dankbarer Situationen.<lb facs="P7_TL00102"/>Weimar. Musik-Director Götze starb am 5. December vor.<lb facs="P7_TL00103"/>Jahres, 71 Jahre alt. Seine letzte Arbeit war das Clavier-Arrange<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00104"/>ment von Wagner's Isolde.<lb facs="P7_TL00105"/>Eckert' s Oper „Wilhelm von Oranien" wird in Weimar zur<lb facs="P7_TL00106"/>Aufführung vorbereitet.<lb facs="P7_TL00107"/>Richard Wagner arbeitet an einer deutschen Oper, die den<lb facs="P7_TL00108"/>Titel „Hans Sachs" führen wird.<lb facs="P7_TL00109"/>GrOtlisi. Am 10. Januar begann die Theater-Saison mit Shake<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00110"/>spcare's „Was ihr wollt". Es folgte zum ersten Male die Oper .Dio<lb facs="P7_TL00111"/>Jungfrau von Orleans", Text von Reiss, Musik von A. Lan<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00112"/>ger aus Coburg. Ausser zwei wirksamen Aktschlüssen hat der Dich<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00113"/>ter die schönsten dramatischen Momente versäumt und Längen ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00114"/>schaffen, z. B. in der Kerkerscene des vierten Actes, die selbst die<lb facs="P7_TL00115"/>tüchtige Composition nicht zu decken vermag. Wenn sich der Com<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00116"/>ponist zu grösserer Selbstständigkeit erhebt, die Erinnerungen an<lb facs="P7_TL00117"/>Meyerbecr und Wagner meidet, so ist von dem noch jungen Manne<lb facs="P7_TL00118"/>viel zu erwarten. Die Johanna d'Arc wurde durch Frau Sämann de<lb facs="P7_TL00119"/>Paez aufs beste durchgeführt; ihre Stimme verbindet bei bedeuten<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00120"/>dem Umfange Wohlklang mit Egalität der Register; die Partie ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00121"/>langt die grösste Ausdauer, dramatische* Feuer und dramatischen</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00002">
+                                    <lb facs="P8_TL00002"/>Ausdruck, welchen Anforderungen die Künstlerin so gerecht wurde,<lb facs="P8_TL00003"/>dass Beifall und Hervorruf ihr zu Tlicil wurden. Vortrefflich war<lb facs="P8_TL00004"/>Fräulein Garthe; die Herren Carlschulz, Reer, Hartmann und Abt<lb facs="P8_TL00005"/>wirkten nach Kräften. Im Ballet zeichnete sich eine Schülerin der<lb facs="P8_TL00006"/>Madame Brue, Fräulein Valesca NemanofF, aus.<lb facs="P8_TL00007"/>Das dreizehnte Gewandhaus-Concert in Leipzig fand am 23.<lb facs="P8_TL00008"/>Januar mit folgendem Programm Statt: Erster Theil: Concert-Ouver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00009"/>ture in A-dur von Jul. Kietz; Arie aus „Jessonda" Von Spohr, ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00010"/>sungen von Frau Caggiati Tettelbach, königlich hannoversche Hof-<lb facs="P8_TL00011"/>Opernsängerin; Concert für Pianoforte in G-dur von Beethoven, vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00012"/>getragen von Herrn Ehrlich aus Frankfurt am Main ; Arie aus der<lb facs="P8_TL00013"/>„Entführung" von Mozart, gesungen von Frau Caggiati-Tettelbach;<lb facs="P8_TL00014"/>Solostücke für das Pianoforte, vorgetragen von Herrn Ehrlich. Zwei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00015"/>ter Theil: Sinfonie Nr. 3, Es-dur} vou R. Schumann.<lb facs="P8_TL00016"/>ifluHelten• Im königlichen Hoftheater landen im verflossenen<lb facs="P8_TL00017"/>Jahre 314 Vorstellungen Statt, 233 im k. Hoftheater und 81 im<lb facs="P8_TL00018"/>Residenztheater, und zwar 249 Schauspiele, 140 Opern und Sing<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00019"/>spiele und 32 Ballets und Divertissements. Zum ersten Male wurden<lb facs="P8_TL00020"/>gegeben 37 Stücke, 20 im Schauspiel, 8 in der Oper und 3 im<lb facs="P8_TL00021"/>Ballet; neu einstudirt 18 Stücke, davon 9 im Schauspiel, 5 in der<lb facs="P8_TL00022"/>Oper und 4 im Ballet. Nur bei Einer Vorstellung war aufgehobenes<lb facs="P8_TL00023"/>Abonnement. Schiller wurde 16 Mal, Shakespeare 1U und Göthe 8<lb facs="P8_TL00024"/>Mal gegeben; in der Oper Meyerbeer 12, Weber 9, Gluck und Boiel<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00025"/>dieu je Donizetti und Flotow je 7, Mozart 6, Wagner 5 Mal. <lb facs="P8_TL00026"/>Im Schauspiel gastirten 11, in der Oper 5 und im Ballet 4 fremde<lb facs="P8_TL00027"/>Künstler und Künstlerinnen.<lb facs="P8_TL00028"/>Das „Tagebuch des königlich sächsischen Hoftheaters vom Jahre<lb facs="P8_TL00029"/>1861 zählt 339 Vorstellungen auf. Zum ersten Male wurden 24<lb facs="P8_TL00030"/>Werke aufgeführt, nämlich 4 Opern und Singspiele, 7 Dramen und<lb facs="P8_TL00031"/>Schauspiele, 11 Lustspiele und 2 Ballets; neu einstudirt gingen 22<lb facs="P8_TL00032"/>Werke in Scene, nämlich 9 Opern und Singspiele, 7 Dramen und<lb facs="P8_TL00033"/>Schauspiele, 5 Lustspiele und 1 Ballet. Ausser den italiänischen<lb facs="P8_TL00034"/>Opern-Vorstellungen fanden 30 Gastspiele und Debüts Statt. Das<lb facs="P8_TL00035"/>Hoftheater beschäftigte circa 370 Personen; von diesen gehören 180<lb facs="P8_TL00036"/>dem Schauspiel, der Oper und dem Ballet an, 90 der Capelle und<lb facs="P8_TL00037"/>](JO dem Beamten-, Officianten-, Diener- und Arbeiter-Personale.<lb facs="P8_TL00038"/>Neu engagirt wurden in dem gedachten Zeiträume 22 Mitglieder.<lb facs="P8_TL00039"/>selileswag« Cantor Bellmann, Componist des „Schleswig-<lb facs="P8_TL00040"/>Holstein", starb, 86 Jahre alt, am 26. December vor. Jahres.<lb facs="P8_TL00041"/>f Aaßislei'aSanaa. Das jährliche Musikfest des St.-Vincenz-<lb facs="P8_TL00042"/>Vereins hat am 23. Januar unter der Leitung des Musik-Directors<lb facs="P8_TL00043"/>lleinse Statt gefunden. Compositionen von holländischen Tonkünst<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00044"/>lern, ein Psalm von Verhülst und eine Cantate von Franz Coe<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00045"/>nen bildeten die erste Abtheilung; die zweite füllte Beethoven's<lb facs="P8_TL00046"/>..Christus am Oelberg". bie Ausführung war im Allgemeinen recht<lb facs="P8_TL00047"/>gut, Chor und Orchester lös'ten recht wacker ihre Aufgabe; auch<lb facs="P8_TL00048"/>die Solisten verdienen ehrenvolle Erwähnung, besonders Frau Offer<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00049"/>manns und Fräulein Matteau, eine ausgezeichnete Dilettantin von<lb facs="P8_TL00050"/>liier; auch der Tenor- und Bass-Partie waren die Vortragenden ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00051"/>wachsen.<lb facs="P8_TL00052"/>Der Psalm von Verhülst ist schwierig auszuführen und etwas<lb facs="P8_TL00053"/>lang, enthält aber viel Schönes: letzteres kann man weniger von<lb facs="P8_TL00054"/>der Cantate Coenen's sagen, welche zwar correct geschrieben ist,<lb facs="P8_TL00055"/>aber kalt lässt und den Mangel an Originalität fühlbar macht. <lb facs="P8_TL00056"/>Beethoven's Oratorium hat, wie immer, das Publicum elektrisirt<lb facs="P8_TL00057"/>und den schönen Abend aufs würdigste beschlossen. Das ganze Con-</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00003">
+                                    <lb facs="P8_TL00058"/>cert machte dem Dirigenten, Herrn Heinse, grosse Ehre, der über<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00059"/>haupt einer der gediegensten Künstler unserer Stadt ist.<lb facs="P8_TL00060"/>Im französischen Theater hat die Operngesellschaft aus dem<lb facs="P8_TL00061"/>Haag Gounod's „Faust~ buchstäblich ausgebeutet; übrigens hat<lb facs="P8_TL00062"/>das Werk nichts mehr als einen Saccus d'estime gehabt.<lb facs="P8_TL00063"/>In Felix Meritis haben der jugendliche Violinist Lotto und der<lb facs="P8_TL00064"/>Pianist von Bülow grossen Erfolg gehabt. Bülow hatte den glück<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00065"/>lichen Gedanken, nichts Anderes als Beethoven und ein Concert<lb facs="P8_TL00066"/>von Henselt zu spielen; zum Ersatz wird der eifrige Apostel<lb facs="P8_TL00067"/>Liszt's &amp; Comp, uns (oder sich) im dritten Concerte van Bree's eine<lb facs="P8_TL00068"/>glänzende Revanche geben: Prometheus, eine der famosen sympho<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00069"/>nischen Dichtungen, ein Capriccio und einen Marsch von Liszt, ohne<lb facs="P8_TL00070"/>die Ouvertüre zum Tannhä iser zu rechnen — das alles an Einem<lb facs="P8_TL00071"/>Abende. Glücklich diejenigen, die ein solches, in den musicalischen<lb facs="P8_TL00072"/>Annalen Hollands bis jetzt unerhörtes Programm aushalten können !<lb facs="P8_TL00073"/>XiOlfttloift« Der berühmte Ciavierbauer Broadwood ist ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00074"/>storben und soll mehrere Millionen hinterlassen haben.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div type="SponsoredAdvertisement">
+                  <div type="SponsoredAd" corresp="c006">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00005">
+                        <lb facs="P8_TL00085"/>Xcll e r Verlag<lb facs="P8_TL00086"/>der KI. Laiipp'schen Buchhandlung (Laupp &amp; Siebeck)<lb facs="P8_TL00087"/>in Tübingen.<lb facs="P8_TL00088"/>In allen Buch- und Musicalienhandlungen zu haben.<lb facs="P8_TL00089"/>Sil eher, Fr., Chore und Quartette für Männerstimmen aus sei-<lb facs="P8_TL00090"/>nem Nachlass. I. lieft. Öp. 72. Gr. 8. 1 FL 48 Kr.<lb facs="P8_TL00091"/>1 Tlilr. 3 Ngr.<lb facs="P8_TL00092"/>(Im Ganzen Vierden 3—4 solcher Hefte erscheinen.)<lb facs="P8_TL00093"/>Geschichte des evangelischen Kirchengesanges nach seinen<lb facs="P8_TL00094"/>Hauptmelodieen u. s. w. Nebst einer Erklärung der<lb facs="P8_TL00095"/>alten Kirchen- Tonarten gr. 8. br. 36 Kr. 12 Ngr.<lb facs="P8_TL00096"/>Trauergesänge für vier Männerstimmen. Aus seinem Nach-<lb facs="P8_TL00097"/>lasse herausgegeben. Taschenformat, in Umschlag. 3G<lb facs="P8_TL00098"/>Kr. 12 Ngr.<lb facs="P8_TL00099"/>Variationen für das Pianoforte über das Volkslied: „In<lb facs="P8_TL00100"/>einem kühlen Grundeund über seine Volksweise:<lb facs="P8_TL00101"/>..Nun leb' wohl, du kleine Gasse". Oj). 73 und 74. a<lb facs="P8_TL00102"/>24 Kr. 7l,2 Ngr.<lb facs="P8_TL00103"/>XII Volkslieder, für vier Männersfimmen gesetzt. V. Heft,<lb facs="P8_TL00104"/>Dritte Auflage, und VIII. Heft, Zweite Auflage. Schmal<lb facs="P8_TL00105"/>4 in Umschlag, a lieft 1 Fl. 12 Kr. 20 Ngr.<lb facs="P8_TL00106"/>(Die ganze Sammlung besteht aus 12 solchen Heften, theils<lb facs="P8_TL00107"/>in 43. und 2. u. s. w. Auflage.)<lb facs="P8_TL00108"/>Dreissig deutsche Volkslieder, für vier Männerstimmen ge-<lb facs="P8_TL00109"/>setzt. Auswahl aus den 12 Sammlungen der Silcher<lb facs="P8_TL00110"/>sehen Volkslieder für vier Männerstimmen. 1. und 2.<lb facs="P8_TL00111"/>Lieferung. Taschenformat, in Umschlag. Zusammen<lb facs="P8_TL00112"/>54 Kr. 18 Ngr.</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c007">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00006">
+                        <lb facs="P8_TL00113"/>Alle in dieser Musik-Zeitung besprochenen und angekündigten<lb facs="P8_TL00114"/>Musicalien etc sind zu erhalten in der stets vollständig assortirten<lb facs="P8_TL00115"/>Musicälien-Handlung und Leihanstalt von BERNHARD BREUER<lb facs="P8_TL00116"/>in Kohi, grosse Budengasse Kr. 1, so wie bei J. ER. WEBER,<lb facs="P8_TL00117"/>Appellhofsplatz Nr. 22.</ab>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

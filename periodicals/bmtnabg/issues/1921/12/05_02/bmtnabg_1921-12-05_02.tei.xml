@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+        Transcription of
+        <biblStruct>
+                  <monogr>
+                     <title level="j">
+                        <seg type="nonSort">Der</seg>
+                        <seg type="main">Sturm</seg>
+                     </title>
+                     <imprint>
+                        <biblScope unit="vol">12</biblScope>
+                        <biblScope unit="issue">index</biblScope>
+                        <date when="1921-12-05">Index</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Princeton University</publisher>
+            <idno type="bmtnid">urn:PUL:bluemountain:bmtnabg_1921-12-05_02</idno>
+         </publicationStmt>
+         <seriesStmt>
+            <title level="s">The Blue Mountain Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title level="j">
+                     <seg type="nonSort">Der</seg>
+                     <seg type="main">Sturm</seg>
+                     <seg type="sub">Monatsschrift</seg>
+                  </title>
+                  <imprint>
+                     <biblScope unit="vol">12</biblScope>
+                     <biblScope unit="issue">index</biblScope>
+                     <date when="1921-12-05"/>
+                  </imprint>
+               </monogr>
+               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnabg"/>
+               <relatedItem type="constituent" xml:id="c001">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">VERLAG DER STURM / BERLIN W 9</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page">1</biblScope>
+                        </imprint>
+                     </monogr>
+                     <relatedItem type="constituent" xml:id="c002">
+                        <biblStruct>
+                           <analytic>
+                              <title level="a">
+                                 <seg type="main">Cover Illustration</seg>
+                              </title>
+                           </analytic>
+                           <monogr>
+                              <imprint>
+                                 <classCode scheme="CCS">Illustration</classCode>
+                                 <biblScope unit="page">1</biblScope>
+                              </imprint>
+                           </monogr>
+                        </biblStruct>
+                     </relatedItem>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c003">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Inhaltsverzeichnis Zwölfter Jahrgang 1921</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page">2</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="Magazine">
+            <div type="Issue">
+               <div type="PublicationInfo">
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00001">
+                        <lb facs="P1_TL00001"/>DER STURM</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00002">
+                        <lb facs="P1_TL00002"/>MONATSSCHRIFT FÜR KULTUR UND DIE KÜNSTE</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00003">
+                        <lb facs="P1_TL00003"/>HERAUSGEBER: HERWARTHJWAUDEN</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00004">
+                        <lb facs="P1_TL00004"/>ZWÖLFTER JAHRGANG<lb facs="P1_TL00005"/>1921</ab>
+                  </div>
+               </div>
+               <div type="EditorialContent">
+                  <div type="TextContent" corresp="c001">
+                     <div type="Illustration" corresp="c002">
+                        <div type="Image"/>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="GenericPubInfo">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00005">
+                                    <lb facs="P1_TL00006"/>VERLAG DER STURM / BERLIN W 9</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c003">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P2_TB00001">
+                           <lb facs="P2_TL00001"/>Inhaltsverzeichnis<lb facs="P2_TL00002"/>Zwölfter Jahrgang 1921</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00002">
+                                    <lb facs="P2_TL00003"/>Beiträge<lb facs="P2_TL00004"/>Franz Richard Behrens Heft Seite<lb facs="P2_TL00005"/>B-C der Roman der Lyrik 11 186<lb facs="P2_TL00006"/>Die Erde der Gottschreie 12 206<lb facs="P2_TL00007"/>Gedichte 10 171<lb facs="P2_TL00008"/>Rudolf Blümner<lb facs="P2_TL00009"/>Angolaina 7 123<lb facs="P2_TL00010"/>Der expressionistische Knigge 4 83<lb facs="P2_TL00011"/>Die Absolute Dichtung 7 121<lb facs="P2_TL00012"/>Die Sache mit Fritz Stahl 4 74<lb facs="P2_TL00013"/>Zur Geschichte des Sturm und des<lb facs="P2_TL00014"/>deutschen Journalismus Brief 4 18<lb facs="P2_TL00015"/>Brief 5 2 34<lb facs="P2_TL00016"/>Brief 6 3 51<lb facs="P2_TL00017"/>Brief 7 4 76<lb facs="P2_TL00018"/>Brief 8 5 98<lb facs="P2_TL00019"/>Brief 9 6 114<lb facs="P2_TL00020"/>Brief 10 7 132<lb facs="P2_TL00021"/>Brief 11 8 148<lb facs="P2_TL00022"/>Brief 12 9 164<lb facs="P2_TL00023"/>Brief 13 10 178<lb facs="P2_TL00024"/>Brief 14 11 198<lb facs="P2_TL00025"/>Brief 15 12 213<lb facs="P2_TL00026"/>Bühnenwerk<lb facs="P2_TL00027"/>Die Kampfbühne 4 65<lb facs="P2_TL00028"/>Waldemar George<lb facs="P2_TL00029"/>Zur 93. Sturm-Ausstellung 1 1<lb facs="P2_TL00030"/>Vlatislav Goth<lb facs="P2_TL00031"/>Gedicht 9 158<lb facs="P2_TL00032"/>Grämlich<lb facs="P2_TL00033"/>Gedichte 6 112<lb facs="P2_TL00034"/>Willy Knobloch<lb facs="P2_TL00035"/>Grotesken 11 200<lb facs="P2_TL00036"/>Grotesken 12 216<lb facs="P2_TL00037"/>Kurt Liebmann<lb facs="P2_TL00038"/>August Stramin 2 41<lb facs="P2_TL00039"/>Da bist du 11 195.<lb facs="P2_TL00040"/>Gedichte 2 31<lb facs="P2_TL00041"/>Gedichte 3 48<lb facs="P2_TL00042"/>Gedichte 4 70<lb facs="P2_TL00043"/>Gedichte 5 97<lb facs="P2_TL00044"/>Gedichte 10 169<lb facs="P2_TL00045"/>Mordgeburt schreit 11 194<lb facs="P2_TL00046"/>Schräg geöffnet 8 138<lb facs="P2_TL00047"/>Thomas Ring<lb facs="P2_TL00048"/>Gedicht 10 171<lb facs="P2_TL00049"/>Lothar Schreyer<lb facs="P2_TL00050"/>Buss-Schrei 9 153<lb facs="P2_TL00051"/>Handwerk und Geist werk 11 185<lb facs="P2_TL00052"/>Kurt Schwitters<lb facs="P2_TL00053"/>Aufruf 12 201<lb facs="P2_TL00054"/>Gedichte 10 172<lb facs="P2_TL00055"/>Nennen Sie es Ausschaltung 4 84<lb facs="P2_TL00056"/>Himbeerbonbon 1 24<lb facs="P2_TL00057"/>Tran 17 1 24<lb facs="P2_TL00058"/>Tran 19 8 137<lb facs="P2_TL00059"/>Herwarth Waiden<lb facs="P2_TL00060"/>Aus der Zeit für die Zeiten 2 42<lb facs="P2_TL00061"/>Gedichte _ 12 206<lb facs="P2_TL00062"/>Grosses Theater in vielen Kritiken 1 15<lb facs="P2_TL00063"/>Kritik der vorexpressionistischen<lb facs="P2_TL00064"/>Dichtung 1 3<lb facs="P2_TL00065"/>Kritik der vorexpressionistischen<lb facs="P2_TL00066"/>Dichtung 2 29<lb facs="P2_TL00067"/>Kritik der vorexpressionistischen<lb facs="P2_TL00068"/>Dichtung 3 45<lb facs="P2_TL00069"/>Kubismus in Stahl 2 25<lb facs="P2_TL00070"/>Nachworte 3 64<lb facs="P2_TL00071"/>Technik und Kunst 4 68<lb facs="P2_TL00072"/>Unter den Sinnen 5 85<lb facs="P2_TL00073"/>Unter den Sinnen 6 105<lb facs="P2_TL00074"/>Unter den Sinnen 7 126<lb facs="P2_TL00075"/>Unter den Sinnen 8 139</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00003">
+                                    <lb facs="P2_TL00076"/>Herwarth Waiden Heft Seite<lb facs="P2_TL00077"/>Unter den Sinnen 9 158<lb facs="P2_TL00078"/>Unter den Sinnen 10 174<lb facs="P2_TL00079"/>Zeichnungen<lb facs="P2_TL00080"/>Alexander Archipenko<lb facs="P2_TL00081"/>Sitzende Frau 3 61<lb facs="P2_TL00082"/>Stilleben 3 57<lb facs="P2_TL00083"/>Zwei Frauen 3 49<lb facs="P2_TL00084"/>Rudolf Bauer<lb facs="P2_TL00085"/>Zeichnung 5 91<lb facs="P2_TL00086"/>Zeichnung 5 95<lb facs="P2_TL00087"/>Zeichnung 6 110<lb facs="P2_TL00088"/>Paul Busch<lb facs="P2_TL00089"/>Tanzende Paare 4 75<lb facs="P2_TL00090"/>Marc Chagall 5 89<lb facs="P2_TL00091"/>Zeichnung 7 125<lb facs="P2_TL00092"/>Zeichnung 12 207<lb facs="P2_TL00093"/>Oskar Fischer<lb facs="P2_TL00094"/>Liebeserklärung 6 115<lb facs="P2_TL00095"/>Zeichnung 11 189<lb facs="P2_TL00096"/>Reinhard Goering<lb facs="P2_TL00097"/>Zeichnung 4 77<lb facs="P2_TL00098"/>Zeichnung 4 79<lb facs="P2_TL00099"/>Jacoba van Heemskerck<lb facs="P2_TL00100"/>Holzschnitt 10 173<lb facs="P2_TL00101"/>Holzschnitt 10 189<lb facs="P2_TL00102"/>Zeichnung 9 157<lb facs="P2_TL00103"/>Paul Klee<lb facs="P2_TL00104"/>Ohnmacht der Widersacher 8 141<lb facs="P2_TL00105"/>Fernand Leger<lb facs="P2_TL00106"/>Akt 12 204<lb facs="P2_TL00107"/>Laszlo MoholyNagy<lb facs="P2_TL00108"/>Linoleumschnitt 8 149<lb facs="P2_TL00109"/>Peri<lb facs="P2_TL00110"/>Zeichnung 10 179<lb facs="P2_TL00111"/>Iwan Puni<lb facs="P2_TL00112"/>Zeichnung 1 1<lb facs="P2_TL00113"/>Zeichnung 1 5<lb facs="P2_TL00114"/>Zeichnung 1 12<lb facs="P2_TL00115"/>Zeichnung 2 39<lb facs="P2_TL00116"/>Zeichnung: Katastrophe 2 44<lb facs="P2_TL00117"/>Kurt Schwitters<lb facs="P2_TL00118"/>Der Kritiker 4 71<lb facs="P2_TL00119"/>Merzzeichnung 2 29<lb facs="P2_TL00120"/>Merzstempelzeichnung 4 69<lb facs="P2_TL00121"/>William Wauer<lb facs="P2_TL00122"/>Der Wurf 9 163<lb facs="P2_TL00123"/>Farbdrucke<lb facs="P2_TL00124"/>Alezander Archipenko<lb facs="P2_TL00125"/>Femtne se coiffant 9 161<lb facs="P2_TL00126"/>Willi Baumeister<lb facs="P2_TL00127"/>Crosse und kleine Figur 7 129<lb facs="P2_TL00128"/>Marc Chagall<lb facs="P2_TL00129"/>On dit 18 209<lb facs="P2_TL00130"/>Robert Delaunay<lb facs="P2_TL00131"/>Saint Severin 5 93<lb facs="P2_TL00132"/>Albert Gleizes<lb facs="P2_TL00133"/>Frau und Kind 10 177<lb facs="P2_TL00134"/>Kampfbühne<lb facs="P2_TL00135"/>Spielgang Kreuzigung 4 73<lb facs="P2_TL00136"/>Louis Marcoussis<lb facs="P2_TL00137"/>Stilleben 3 53<lb facs="P2_TL00138"/>Jean Metzinger *<lb facs="P2_TL00139"/>Landschaft 1 9<lb facs="P2_TL00140"/>Lothar Schreyer<lb facs="P2_TL00141"/>Farbform aus Bühnenwerk XI 2 33<lb facs="P2_TL00142"/>Kurt Schwitters<lb facs="P2_TL00143"/>Merzzeichnung rä 6 113<lb facs="P2_TL00144"/>Südsee<lb facs="P2_TL00145"/>Holzplastik 11 193<lb facs="P2_TL00146"/>Neil Waiden<lb facs="P2_TL00147"/>Todfrühling 8 114<lb facs="P2_TL00148"/>Musik<lb facs="P2_TL00149"/>Herwarth Waiden<lb facs="P2_TL00150"/>Wankelmut 2 36</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

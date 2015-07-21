@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+        Transcription of
+        <biblStruct>
+                  <monogr>
+                     <title level="j">
+                        <seg type="nonSort">Der</seg>
+                        <seg type="main">Sturm</seg>
+                     </title>
+                     <imprint>
+                        <biblScope unit="vol">5</biblScope>
+                        <biblScope unit="issue">7</biblScope>
+                        <date when="1914-07-01">Erstes Juliheft</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Princeton University</publisher>
+            <idno type="bmtnid">urn:PUL:bluemountain:bmtnabg_1914-07-01_01</idno>
+         </publicationStmt>
+         <seriesStmt>
+            <title level="s">The Blue Mountain Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title level="j">
+                     <seg type="nonSort">Der</seg>
+                     <seg type="main">Sturm</seg>
+                     <seg type="sub">Halbmontasschrift für Kultur und die Künste</seg>
+                  </title>
+                  <imprint>
+                     <biblScope unit="vol">5</biblScope>
+                     <biblScope unit="issue">7</biblScope>
+                     <date when="1914-07-01"/>
+                  </imprint>
+               </monogr>
+               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnabg"/>
+               <relatedItem type="constituent" xml:id="c001">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Inhalt:</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page">1</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c002">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Schmidt-Rottluff: Originalholzschnitt</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">Illustration</classCode>
+                           <biblScope unit="page">1</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c003">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Rudimentär</seg>
+                           <seg type="sub">Augast Stramm</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="2" to="5">2-5</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c004">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="nonSort">Le</seg>
+                           <seg type="main">los du Douanier</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page">5</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c005">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="nonSort">Der</seg>
+                           <seg type="main">Weg durch die Nacht</seg>
+                           <seg type="sub">Roman</seg>
+                        </title>
+                        <respStmt>
+                           <persName>Aage von Kohl</persName>
+                           <resp>cre</resp>
+                        </respStmt>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="5" to="7">5-7</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c006">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Ziele</seg>
+                        </title>
+                        <respStmt>
+                           <persName>H. W</persName>
+                           <resp>cre</resp>
+                        </respStmt>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page">7</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c007">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Gedichte</seg>
+                        </title>
+                        <respStmt>
+                           <persName>Kurt Heynicke</persName>
+                           <resp>cre</resp>
+                        </respStmt>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page">7</biblScope>
+                        </imprint>
+                     </monogr>
+                     <relatedItem type="constituent" xml:id="c008">
+                        <biblStruct>
+                           <analytic>
+                              <title level="a">
+                                 <seg type="main">Untreue</seg>
+                              </title>
+                              <textLang mainLang="ger"/>
+                           </analytic>
+                           <monogr>
+                              <imprint>
+                                 <classCode scheme="CCS">TextContent</classCode>
+                                 <biblScope unit="page">7</biblScope>
+                              </imprint>
+                           </monogr>
+                        </biblStruct>
+                     </relatedItem>
+                     <relatedItem type="constituent" xml:id="c009">
+                        <biblStruct>
+                           <analytic>
+                              <title level="a">
+                                 <seg type="main">Gedicht</seg>
+                              </title>
+                              <textLang mainLang="ger"/>
+                           </analytic>
+                           <monogr>
+                              <imprint>
+                                 <classCode scheme="CCS">TextContent</classCode>
+                                 <biblScope unit="page">7</biblScope>
+                              </imprint>
+                           </monogr>
+                        </biblStruct>
+                     </relatedItem>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c010">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c011">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c012">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c013">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c014">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c015">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c016">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="Magazine">
+            <div type="Issue">
+               <div type="PublicationInfo">
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00002">
+                        <lb facs="P1_TL00002"/>Umfang: acht Seiten</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00003">
+                        <lb facs="P1_TL00003"/>fiinzelbezug 40 Pfennig</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00004">
+                        <lb facs="P1_TL00004"/>äwgf» i» HfüSK \ -</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00005">
+                        <lb facs="P1_TL00005"/>HALBMONATSSCHRIFT FÜR KULTUR UND DIE KÜNSTE</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00006">
+                        <lb facs="P1_TL00006"/>Redaktion und Verlag <lb facs="P1_TL00007"/>Berlin W9/Potsdamer Straße 134 a </ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00008">
+                        <lb facs="P1_TL00010"/>Herausgeber und Schriftleiter <lb facs="P1_TL00011"/>HERWARTH WALDEN </ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00007">
+                        <lb facs="P1_TL00008"/>Ausstellungsräume<lb facs="P1_TL00009"/>Berlin W9/Potsdamer Straße 134 a</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00009">
+                        <lb facs="P1_TL00012"/>FÜNFTER JAHRGANG 1914 </ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00010">
+                        <lb facs="P1_TL00013"/>BERLIN-PARIS ERSTES JULIHEFT </ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00011">
+                        <lb facs="P1_TL00014"/>NUMMER 7</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P5_TB00009">
+                        <lb facs="P5_TL00153"/>Fortsetzung</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P7_TB00003">
+                        <lb facs="P7_TL00071"/>Fortsetzung folgt</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00002">
+                        <lb facs="P8_TL00002"/>Es werden nur Anzeigen tatsächlichen Inhalts fort<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P8_TL00003"/>laufend gesetzt aufgenommen. Hervorhebung von Wor<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P8_TL00004"/>ten ist nur durch Sperrdruck, von Namen nur durch<lb facs="P8_TL00005"/>halbfette Schrift, gestattet. Die dreigespaltene Zeile<lb facs="P8_TL00006"/>60 Pfennig. Annahme von Anzeigen durch den Verlag<lb facs="P8_TL00007"/>der Sturm Berlin W 9<lb facs="P8_TL00008"/>Die Zurückweisung von Anzeigen behält sich der Ver<pc type="endhypen" pre="false">-</pc>
+                        <lb facs="P8_TL00009"/>lag Der Sturm ohne Angabe der Gründe vor</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00003">
+                        <lb facs="P8_TL00010"/>Verantwortlich für den gesamten Inhalt und Verlag:<lb facs="P8_TL00011"/>F. Harnisch / Berlin W 35<lb facs="P8_TL00012"/>Druck Carl Hause / Berlin SO 26</ab>
+                  </div>
+               </div>
+               <div type="EditorialContent">
+                  <div type="TextContent" corresp="c001">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00013">
+                           <lb facs="P1_TL00017"/>Inhalt:</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00012">
+                                    <lb facs="P1_TL00015"/>August Stramm: Rudimentär / Guillaume Apollinaire: Le los du Douanier / Aage von Kohl: Der Weg durch die Nacht / H. W.: Ziele: Das<lb facs="P1_TL00016"/>Ziel der Klasse / Das Ziel der Piingsten / Kurt Heynicke: Gedichte / Schmidt-Rottluff: Originalholzschnitt</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="Illustration" corresp="c002">
+                     <div type="Image"/>
+                     <div type="Caption">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00014">
+                           <lb facs="P1_TL00018"/>Schmidt-Rottluff: Originalholzschnitt</ab>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c003">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P2_TB00002">
+                           <lb facs="P2_TL00002"/>Rudimentär</ab>
+                     </div>
+                     <div type="Subhead">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P2_TB00003">
+                           <lb facs="P2_TL00003"/>Augast Stramm</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00004">
+                                    <lb facs="P2_TL00004"/>Ein Ehepaar und ein Kind<lb facs="P2_TL00005"/>Ein Chauffeur und ein Hund<lb facs="P2_TL00006"/>Dachzimmer; links das Fenster, rechts die<lb facs="P2_TL00007"/>Tür. Die hintere Wand schrägt in halber Höhe<lb facs="P2_TL00008"/>zur Decke. Die Tapete hängt in Fetzen herab.<lb facs="P2_TL00009"/>An der Hinterwand Schrankspind, Bett und<lb facs="P2_TL00010"/>Herd mit kleinem Gaskocher; zwischen Herd und<lb facs="P2_TL00011"/>Tür der Ausguß. Tisch mit zerbrochenem Stuhl<lb facs="P2_TL00012"/>und Schemel in der Mitte; auf dem Tisch Speise<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00013"/>reste, Papier und schadhaftes Geschirr.<lb facs="P2_TL00014"/>Im Bett unter einer Decke der Mann an der<lb facs="P2_TL00015"/>Wand, die Frau vorn und das eingebündelte Kind<lb facs="P2_TL00016"/>quer am Fußende<lb facs="P2_TL00017"/>Der Mann (stiert vom Bett auf einen Zei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00018"/>tungsfleck, der unmittelbar über dem Bette unter<lb facs="P2_TL00019"/>der herabhängenden Tapete sichtbar ist; nach<lb facs="P2_TL00020"/>einer Weile stößt er die Frau an): ... merkst<lb facs="P2_TL00021"/>de wat? . . .<lb facs="P2_TL00022"/>Die Frau (liegt zusammengekrümmt, das<lb facs="P2_TL00023"/>Gesicht in den Kissen vergraben): ... laß mir!<lb facs="P2_TL00024"/>Er (zieht den Tapetenfetzen niedriger, um die<lb facs="P2_TL00025"/>Zeitung besser sehen zu können): . . .<lb facs="P2_TL00026"/>Sie (unwillig): ... wat machst de imma?<lb facs="P2_TL00027"/>Er (auf die Zeitung stierend): . . . een va<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00028"/>fluchtet Wort . . .<lb facs="P2_TL00029"/>Sie (aufmerkend): . . . wat n Wort?<lb facs="P2_TL00030"/>Er: Kuck hier .. . (fährt mit dem Finger<lb facs="P2_TL00031"/>über die Zeitung und buchstabiert) . . . ru . . .<lb facs="P2_TL00032"/>de . . . m . . . en . . . tär . . . rudementer . . .<lb facs="P2_TL00033"/>wie dät klingt . . . ?<lb facs="P2_TL00034"/>Sie (wühlt sich wieder in das Kissen): . . .<lb facs="P2_TL00035"/>du bis varickt . . .<lb facs="P2_TL00036"/>Er (wirft sich rum): ... ick krieg keen Ruh<lb facs="P2_TL00037"/>nich . . .<lb facs="P2_TL00038"/>Sie: Mach n Knoten!<lb facs="P2_TL00039"/>Er (schlägt mit der Faust auf die Zeitung):<lb facs="P2_TL00040"/>. . . Dreck! (und dreht sich zur Wand)<lb facs="P2_TL00041"/>(Nach einer Weile fährt sie plötzlich hoch)<lb facs="P2_TL00042"/>Sie: Herrjotte nee! ... de Wohnung! . . .<lb facs="P2_TL00043"/>wie se aussiehtf ... ick hab ja nich ausjefeyt<lb facs="P2_TL00044"/>. . . nich! . . . eejentlich . . . wenn se uns nu<lb facs="P2_TL00045"/>find'n . . . ma mißt doch . . . (sie stellt die Füße<lb facs="P2_TL00046"/>zur Erde, bleibt aber auf der Bettkante sitzen)<lb facs="P2_TL00047"/>'n reenet Hemd . . . und so . . . un . . . (ihr<lb facs="P2_TL00048"/>wird plötzlich weinerlich weh) ... et soll nich<lb facs="P2_TL00049"/>heeßen . . . nee ... et warn doch ordentliche<lb facs="P2_TL00050"/>Leite . . . solln se sagen ... dät laß ick nich<lb facs="P2_TL00051"/>uff mir sitzen. (Sie schluchzt laut auf)<lb facs="P2_TL00052"/>E r (ohne sich zu rühren): ...nu . . . kriegst<lb facs="P2_TL00053"/>dus varickt? . . . machn Hahn zu . . . wenigstens<lb facs="P2_TL00054"/>... et steijt eenn schonst in de Neese ... (er<lb facs="P2_TL00055"/>niest umständlich laut und dreht sich faul auf den<lb facs="P2_TL00056"/>Rücken)<lb facs="P2_TL00057"/>Sie (in Unterrock, Hemd und Strümpfen geht<lb facs="P2_TL00058"/>zum Herd und dreht den Hahn am Gasauslaß zu,<lb facs="P2_TL00059"/>wobei sie den Kopf abwendet): . . . mir . . . is<lb facs="P2_TL00060"/>. . . schon janz schlecht . . .<lb facs="P2_TL00061"/>E r (in Hemd und Hose, wälzt sich nach vorne<lb facs="P2_TL00062"/>zur Bettkante): . . . machs Fenster uff!<lb facs="P2_TL00063"/>S i e (streift ein paar Schuhe über)<lb facs="P2_TL00064"/>E r (starrt auf dem Bauche liegend vom Bett<lb facs="P2_TL00065"/>zur Erde, greift plötzlich zum Fußboden und hebt<lb facs="P2_TL00066"/>eine Zigarette, die am Bettpfosten lag, auf): . . .<lb facs="P2_TL00067"/>nu . . . eener ... (er steckt die Zigarette in den<lb facs="P2_TL00068"/>Mund und sucht in den Taschen, während er sich<lb facs="P2_TL00069"/>langsam faul vom Bette auf die Füße wälzt, nach<lb facs="P2_TL00070"/>Zündhölzern; nach längerem Herumsuchen zieht<lb facs="P2_TL00071"/>er ein zerbrochenes Streichholz aus der Tasche<lb facs="P2_TL00072"/>des Rockes, mit dem das Kind zugedeckt war, tritt<lb facs="P2_TL00073"/>zum Tisch, wischt mit dem Aermel über die Tisch<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00074"/>kante und setzt das Streichholz an; er stockt aber<lb facs="P2_TL00075"/>erschrocken und schaut auf seine Frau) ... na</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00005">
+                                    <lb facs="P2_TL00076"/>. . . willst de nich? . . . vorwärts . . . sonst<lb facs="P2_TL00077"/>jeht dir der janze Kasten in de Luft.<lb facs="P2_TL00078"/>S i e (hastet zum Fenster und öffnet es)<lb facs="P2_TL00079"/>E r (tritt ans Fenster und schöpft tief aufatmend<lb facs="P2_TL00080"/>Luft): . . . a . . . dät zieht durch! ... (Er reibt<lb facs="P2_TL00081"/>das Zündholz auf dem Fensterbrett und zündet<lb facs="P2_TL00082"/>die Zigarette an)<lb facs="P2_TL00083"/>S i e (stellt eifrig das Geschirr auf dem Tisch<lb facs="P2_TL00084"/>völlig zweck- und sinnlos durcheinander und wirft<lb facs="P2_TL00085"/>Wurstpapiere und Abfälle auf die Erde, keifend):<lb facs="P2_TL00086"/>. . . aber dät sag ick dir . . . wenn ick erst Ord<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00087"/>nung hab . . . Ordnung . . .<lb facs="P2_TL00088"/>E r (bläst behaglich den Rauch zum Fenster<lb facs="P2_TL00089"/>raus)<lb facs="P2_TL00090"/>Sie (nimmt aus der aufgerissenen Schublade<lb facs="P2_TL00091"/>eine kleine Flasche, hebt sie prüfend hoch und<lb facs="P2_TL00092"/>stößt einen freudigen Schrei aus): ... ho .. .<lb facs="P2_TL00093"/>hier . . . wahrhaftig . . . Korn ... da is ja<lb facs="P2_TL00094"/>noch . . .<lb facs="P2_TL00095"/>E r (ist mit einem Satze bei ihr, entreißt ihr<lb facs="P2_TL00096"/>die Flasche, entkorkt sie, riecht und nimmt einen<lb facs="P2_TL00097"/>kräftigen Schluck)<lb facs="P2_TL00098"/>Sie (hält ihm die Flasche fest): .. . mir<lb facs="P2_TL00099"/>ooch . . . mir<lb facs="P2_TL00100"/>E r (setzt schmatzend ab)<lb facs="P2_TL00101"/>S i e (trinkt den Rest)<lb facs="P2_TL00102"/>E r (hustet leicht): ... Schafsköppe .. . wir<lb facs="P2_TL00103"/>... so lang der Mensch noch Schnaps hat . . .<lb facs="P2_TL00104"/>Sie: ... jewiß . . . wir kennten so scheen<lb facs="P2_TL00105"/>lebn ... so<lb facs="P2_TL00106"/>E r (wie nachdenklich): ... lebn .. . (fährt<lb facs="P2_TL00107"/>plötzlich auf und stößt sie vor die Brust, daß sie<lb facs="P2_TL00108"/>taumelt) . . . lebn . . . mit son Schticke ...?...<lb facs="P2_TL00109"/>Sie (aufkeifend): ... laß mir .. .<lb facs="P2_TL00110"/>Er (knufft auf die Zurückweichende ein): son<lb facs="P2_TL00111"/>Schticke . . . dat sich rumtreibt . . . mit andere<lb facs="P2_TL00112"/>Kerls abgibt . . . son<lb facs="P2_TL00113"/>Sie (trumpft immer dagegen): .. . son<lb facs="P2_TL00114"/>Schtrolch . . . son Lump . . . ! ... soll ick trei<lb facs="P2_TL00115"/>.. . sind ... ?! (Sie haut mehrfach höhnend<lb facs="P2_TL00116"/>ihm vor der Nase in die flache Hand): . . . nich<lb facs="P2_TL00117"/>in de la mäng! . . . nich in . . .<lb facs="P2_TL00118"/>E r (packt sie würgend): ... ick schlag dir dod<lb facs="P2_TL00119"/>... ick mach dir . . . (er holt zum Schlage aus)<lb facs="P2_TL00120"/>Sie (entwindet sich ihm und flüchtet zur Tür):<lb facs="P2_TL00121"/>... du Patron du . . . Patron ... ick schrei . .<lb facs="P2_TL00122"/>(sie entriegelt die Tür)<lb facs="P2_TL00123"/>E r (nimmt den Stuhl und schlägt ihn zwischen<lb facs="P2_TL00124"/>das Geschirr auf dem Tisch, daß Stuhl und Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00125"/>schirr in Trümmer gehen): Weib!<lb facs="P2_TL00126"/>S i e (eilt zurück und hält ihm den wieder aus<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00127"/>holenden Arm): . . . dät Jeschirr! ... de juten<lb facs="P2_TL00128"/>Tassen!<lb facs="P2_TL00129"/>E r (packt sie)<lb facs="P2_TL00130"/>S i e (sucht sich ihm zu entwinden und strebt<lb facs="P2_TL00131"/>auf das Fenster zu): ... ick spring aust Fenster!<lb facs="P2_TL00132"/>. . . Hilfe! . . . Hilfe!<lb facs="P2_TL00133"/>E r (packt sie hinterrücks bei den Haaren und<lb facs="P2_TL00134"/>wirft sie vor dem Fenster zu Boden): . . . willst<lb facs="P2_TL00135"/>du dei Maul halten .. . ! ... willst du .. .<lb facs="P2_TL00136"/>(schlägt mit der Faust auf die am Boden in sich<lb facs="P2_TL00137"/>zusammenkauernde und nur leise wimmernde ein)<lb facs="P2_TL00138"/>. . . du . . . (dann läßt er erschöpft von ihr ab<lb facs="P2_TL00139"/>und setzt sich auf den Schemel hinterm Tisch,<lb facs="P2_TL00140"/>den Kopf auf beide Hände gestützt, ins Leere star<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00141"/>rend und keuchend vor Erschöpfung) .... son<lb facs="P2_TL00142"/>... so muß man sich uffrejen . . . wejen ... da<lb facs="P2_TL00143"/>soll eener bei Vaschtand bleibn<lb facs="P2_TL00144"/>S i e (richtet sich langsam und vorsichtig wie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00145"/>der auf und reibt sich stöhnend die geschlagenen<lb facs="P2_TL00146"/>Körperstellen)<lb facs="P2_TL00147"/>E r (schlägt mit der Faust auf den Tisch und<lb facs="P2_TL00148"/>wendet den Kopf nach ihr)<lb facs="P2_TL00149"/>Sie (drückt sich verstummend scheu unter<lb facs="P2_TL00150"/>das Fenster)<lb facs="P2_TL00151"/>E r (nimmt seine vorige Haltung wieder ein)</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00006">
+                                    <lb facs="P2_TL00152"/>Sie (sucht lautlos unbemerkt hinter ihm vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00153"/>bei zu schleichen; als sie hinter ihm ist, greift sie<lb facs="P2_TL00154"/>plötzlich aufschreckend seine rechte Hand): . . .<lb facs="P2_TL00155"/>Willi ... du blutst ja ...! Willi . . . nu kuck<lb facs="P2_TL00156"/>. . . o ... und so viel . . .<lb facs="P2_TL00157"/>E r (sieht überrascht auf seine Hand, an der<lb facs="P2_TL00158"/>Blut herunter läuft)<lb facs="P2_TL00159"/>Sie: Du hast dir inn Scherben jehaun . . .<lb facs="P2_TL00160"/>(sie nimmt ein zerbrochenes Waschbecken unterm<lb facs="P2_TL00161"/>Bett vor, läßt etwas Wasser an der Leitung hin<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00162"/>einlaufen und stellt es auf den Tisch, dann springt<lb facs="P2_TL00163"/>sie zum Wandschrank, nimmt einen Fetzen Lein<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00164"/>wand heraus, reißt ihn in mehrere Streifen und<lb facs="P2_TL00165"/>wäscht ihm die Hand) . . . nunich . . . Willi . .<lb facs="P2_TL00166"/>son Jeblute . . .<lb facs="P2_TL00167"/>E r (hat ihrem Beginnen gleichmütig zugesehen<lb facs="P2_TL00168"/>und blickt jetzt aufmerksam zum Spind rüber):<lb facs="P2_TL00169"/>... du hast ja noch Wäsch im Spind . . .<lb facs="P2_TL00170"/>Sie (ohne aufzublicken, ihn verbindend): .. .<lb facs="P2_TL00171"/>nunich . . .<lb facs="P2_TL00172"/>Er (ruhig): . . . janz feine Wäsch . . .<lb facs="P2_TL00173"/>Sie (hält inne und starrt ihn an)<lb facs="P2_TL00174"/>Er (weicht aus): . . . nu . . .<lb facs="P2_TL00175"/>E r (prüft dann ihre Figur mit den Blicken):<lb facs="P2_TL00176"/>. . . wie du noch ausschaust . . .<lb facs="P2_TL00177"/>Sie (verständnislos): . . . ick . . . ick . . .<lb facs="P2_TL00178"/>(sie bricht plötzlich in Tränen aus) .. .<lb facs="P2_TL00179"/>Willi . . . (sie wirft sich ihm schluchzend um den<lb facs="P2_TL00180"/>Hals) . . . nee .... Willi ... da kann mir eener<lb facs="P2_TL00181"/>jeben . . . Willi . . . (küßt ihn) . . . mein lieben<lb facs="P2_TL00182"/>Willi ... ick kann ja doch keen andern jut sind..<lb facs="P2_TL00183"/>Er (tätschelt sie): . . . nu . . . laß man . . .<lb facs="P2_TL00184"/>(er klopft sie zärtlich ab) . . . da js doch noch wat<lb facs="P2_TL00185"/>dran . . . (er erhebt sich und drängt sie zärtlich<lb facs="P2_TL00186"/>zum Bett hin)<lb facs="P2_TL00187"/>Sie (hingegeben): ... ach .. . Willi . . .<lb facs="P2_TL00188"/>(indem sie sich auf die Bettkante setzt, fällt ihr<lb facs="P2_TL00189"/>Blick auf das quer am Fußende liegende Kind):<lb facs="P2_TL00190"/>. . . nu ... kuck . . . doch . . . Fränzchen (sie<lb facs="P2_TL00191"/>beugt sich über das Kind)<lb facs="P2_TL00192"/>E r (blickt hin und ist einen Augenblick über<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00193"/>rascht): . . . Jotte nee ... (er befühlt es) . . .<lb facs="P2_TL00194"/>et is . . .<lb facs="P2_TL00195"/>S i e (wirft sich mit einem Aufschrei über das<lb facs="P2_TL00196"/>Kind): .. . Fränzchen! .. . Jotte .. . Fränz<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P2_TL00197"/>chen! . . .<lb facs="P2_TL00198"/>Er (sein Blick wird wieder durch das Wort<lb facs="P2_TL00199"/>an der Wand gefesselt, — abwesend): . . . rude<lb facs="P2_TL00200"/>. . . (wieder erwachend) . . . weiß der Deubel!<lb facs="P2_TL00201"/>Sie (jammernd): . . . wir habn dir jemordet!<lb facs="P2_TL00202"/>Er (roh): . . . schrei nich . . .<lb facs="P2_TL00203"/>Ein Hund (winselt schwach unter dem Bette)<lb facs="P2_TL00204"/>Er (stößt mit dem Fuß unter das Bett): . . .<lb facs="P2_TL00205"/>kusch dich<lb facs="P2_TL00206"/>Sie (unter Schluchzen): Wat winselt Molli so?<lb facs="P2_TL00207"/>. . . denn so? . . .<lb facs="P2_TL00208"/>Er: Er riecht dn Dod!<lb facs="P2_TL00209"/>S i e (richtet sich hoch, nimmt das Kind auf den<lb facs="P2_TL00210"/>Arm und küßt es; dann bückt sie sich impulsiv<lb facs="P2_TL00211"/>zum Bettrande und zeigt das Kind unters Bett):<lb facs="P2_TL00212"/>. . . ja . . . Molli . . . kuck . . . Fränzchen is dod<lb facs="P2_TL00213"/>. . . (schluchzt) . . . och . . . unse Fränzchen<lb facs="P2_TL00214"/>is dod<lb facs="P2_TL00215"/>E r (stiert wieder gebannt auf den Fleck an<lb facs="P2_TL00216"/>der Wand, hebt den Papierfetzen hoch und liest):<lb facs="P2_TL00217"/>. . . Kon . . .<lb facs="P2_TL00218"/>Sie (wütend): ... nu ... laß mir aber .. .<lb facs="P2_TL00219"/>vadammt . . . mit dei Faxn!<lb facs="P2_TL00220"/>Er (wütend): .. . Teufel ... ob mir wat<lb facs="P2_TL00221"/>sagen tät. (Er dreht sich brüsk um)<lb facs="P2_TL00222"/>Sie (preßt winselnd das Kind an sich): .. .<lb facs="P2_TL00223"/>ick hab ooch keen Lust nich mehr . . . nich<lb facs="P2_TL00224"/>mehr . . .<lb facs="P2_TL00225"/>E r (ist zum Spind getreten, steht davor und<lb facs="P2_TL00226"/>faßt hinein): . . . du . . . Päte jibt immer noch<lb facs="P2_TL00227"/>drei Märker . . .</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00002">
+                                    <lb facs="P3_TL00002"/>Sie (wütend): Laß mei Wäsch . . .<lb facs="P3_TL00003"/>Er (gleichmütig): . . . nunich . . . eejentlich<lb facs="P3_TL00004"/>wir kennten uns noch n juten Dag machen . . .<lb facs="P3_TL00005"/>Sie (legt das Kind schnell hin und läuft zu<lb facs="P3_TL00006"/>ihm): . . . drei Märker . . . meenst de wirklich?<lb facs="P3_TL00007"/>Er (nickt): ... bei Moses . . .<lb facs="P3_TL00008"/>Sie (nimmt die Wäsche und eine Bluse aus<lb facs="P3_TL00009"/>dem Spind und legt alles auf einen Haufen): . . .<lb facs="P3_TL00010"/>so . . . denn . . .<lb facs="P3_TL00011"/>E r (nimmt den Rock vom Bett, zieht ihn an<lb facs="P3_TL00012"/>und setzt sich die Mütze auf)<lb facs="P3_TL00013"/>Sie (will zum Fenster gehen): . . . dät is<lb facs="P3_TL00014"/>immer noch ne Luft hier . . . (ihr Blick fällt zu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00015"/>fällig auf Fränzchen) . . . achott! . . . Fränzchen!<lb facs="P3_TL00016"/>(sie setzt sich neben das Kind aufs Bett) . . . nee<lb facs="P3_TL00017"/>... et hat ooch keenen Zweck nich . . .<lb facs="P3_TL00018"/>E r (nimmt das Wäschebündel untern Arm und<lb facs="P3_TL00019"/>will rausgehen)<lb facs="P3_TL00020"/>Sie (schreckt auf): . . . du . . . Willi . . . ne<lb facs="P3_TL00021"/>. . . wart . . „ watzieh ick denn an? . . . (sie<lb facs="P3_TL00022"/>geht ihm nach) . . . wir müssen uns doch . . .<lb facs="P3_TL00023"/>wenn se uns nu findn . . . und ick hab nischt an<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00024"/>ders . . . (sie nimmt ihm das Bündel unterm Arm<lb facs="P3_TL00025"/>fort und beginnt die Bluse anzuziehen)<lb facs="P3_TL00026"/>Er (steht an der Tür, starrt sie an und steckt<lb facs="P3_TL00027"/>die Hände in die Hosentaschen)<lb facs="P3_TL00028"/>Sie: Weest de noch . . . Willi ... ? . . .<lb facs="P3_TL00029"/>de Sonntagsbluse . . .? de hast d u mr jeschenkt<lb facs="P3_TL00030"/>. . . (sie nimmt einen Kleiderrock, der über der<lb facs="P3_TL00031"/>Bettk'ante hängt und zieht ihn an, stellt sich dann<lb facs="P3_TL00032"/>mit dem Rücken vor ihren Mann hin) . . . du . .<lb facs="P3_TL00033"/>E r (knöpft ihr die Bluse zu)<lb facs="P3_TL00034"/>Sie (sich zurechtzupfend): . . . Anstand muß<lb facs="P3_TL00035"/>sin . . . un . . . (sie zieht die Tischschublade vor,<lb facs="P3_TL00036"/>kramt darin rum und hebt eine Kette heraus)<lb facs="P3_TL00037"/>. . . sieh ... de Kette ... tu ick ooch um . . .<lb facs="P3_TL00038"/>dät Jold is runter . . . aber et sieht doch jut aus<lb facs="P3_TL00039"/>. . . nich? (sie legt die Kette um und stellt sich<lb facs="P3_TL00040"/>kokett vor ihn hin)<lb facs="P3_TL00041"/>E r (nickt, fährt ihr übers Haar und wirft sich<lb facs="P3_TL00042"/>dann wieder aufs Bett, auf dem Bauche liegen<lb facs="P3_TL00043"/>bleibend)<lb facs="P3_TL00044"/>Sie (zärtlich, deckt ihn zu): .. . jo .. .<lb facs="P3_TL00045"/>Williken ... ick deck dir zu . . . (sie<lb facs="P3_TL00046"/>wickelt das Kind ein und legt es zum<lb facs="P3_TL00047"/>Fußende) . . . jo . . . Fränzel . . . still . . . Vater<lb facs="P3_TL00048"/>un Mutter . . . kommen nu ooch schon . . . (Sie<lb facs="P3_TL00049"/>legt das Kind hin und läßt sich dann selbst ganz<lb facs="P3_TL00050"/>erschöpft aufs Bett fallen) . . . ach . . . Jott . . .<lb facs="P3_TL00051"/>mir is schon janz schlecht . . . wirklich dät Jas<lb facs="P3_TL00052"/>is nu aber zu mächtig jeworden . . .<lb facs="P3_TL00053"/>Er (hebt den Kopf): ... du bis varickt! . . ,<lb facs="P3_TL00054"/>hastn Hahn uffjedreht unds Fenster zujemacht? ..<lb facs="P3_TL00055"/>Sie (springt auf): . . . ach . . . Jotte . . .<lb facs="P3_TL00056"/>nee . . .<lb facs="P3_TL00057"/>Chauffeur (stößt die Tür auf und poltert<lb facs="P3_TL00058"/>herein; er stutzt): ... na ... nu ... du liejst<lb facs="P3_TL00059"/>noch im Bette? Son fauler Hund! (Er sieht die<lb facs="P3_TL00060"/>Scherben auf dem Tisch, das blutige Tuch und das<lb facs="P3_TL00061"/>Waschbecken; er lacht auf): . . . oah . . . hier<lb facs="P3_TL00062"/>hats schon Arbeit jemacht? An frihen Sonntags<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00063"/>morjen? Ei weih!<lb facs="P3_TL00064"/>Sie (nimmt schnell die Schüssel und das Tuch,<lb facs="P3_TL00065"/>gießt das Wasser in den Ausguß): ...wir nee...<lb facs="P3_TL00066"/>wat . . . (herausstoßend) . . . wir wollen uns<lb facs="P3_TL00067"/>neuet Jeschirr koofen . . .<lb facs="P3_TL00068"/>Cauffeur (lacht derb auf und tritt mit dem<lb facs="P3_TL00069"/>Fuß die auf der Erde liegenden Scherben noch<lb facs="P3_TL00070"/>kleiner): ... na denn man zu . . . habtr noch<lb facs="P3_TL00071"/>mehr .. . nehmt nicht iebell! (Er zieht eine<lb facs="P3_TL00072"/>kurze Pfeife aus der Rocktasche, klopft sie in die<lb facs="P3_TL00073"/>hohle Hand aus, holt Tabak hervor, stopft die<lb facs="P3_TL00074"/>Pfeife und setzt sich aufs Bett)<lb facs="P3_TL00075"/>Sie (geschäftig umherrennend): ... ja je<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00076"/>wiß . . . Willi hat Schtellung . . .</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00003">
+                                    <lb facs="P3_TL00077"/>Chauffeur (horcht auf): ... wat Schtellung?<lb facs="P3_TL00078"/>(Er dreht sich zu dem Mann um, der gleichmütig<lb facs="P3_TL00079"/>das Gesicht zur Wand gekehrt liegen geblieben<lb facs="P3_TL00080"/>ist, und knufft ihn derb in die Seite): Du .. . steh<lb facs="P3_TL00081"/>uff . . . eenen ausjeben ... uff (er zündet sich<lb facs="P3_TL00082"/>die Pfeife an) . . . de Schtellung . . .<lb facs="P3_TL00083"/>Er (wälzt sich auf die andere Seite): . . . wat<lb facs="P3_TL00084"/>jiebst de Vorschuß?<lb facs="P3_TL00085"/>Chauffeur (lacht): Dir? . . . nich ne Laus<lb facs="P3_TL00086"/>uffm Kopp!<lb facs="P3_TL00087"/>Er (gähnt faul)<lb facs="P3_TL00088"/>Chauffeur (schiebt die Hand in seine<lb facs="P3_TL00089"/>Tasche und klimpert)<lb facs="P3_TL00090"/>Sie (starrt gespannt auf seine Bewegungen)<lb facs="P3_TL00091"/>E r (richtet sich mit jähem Schwung im Bette<lb facs="P3_TL00092"/>auf)<lb facs="P3_TL00093"/>Chauffeur (lacht protzig): Aber . . . wo<lb facs="P3_TL00094"/>. . . mir sollt . . . nich druff ankommen . . .!<lb facs="P3_TL00095"/>Fuhren jehabt heit Nacht .. .! Wer nich lebt<lb facs="P3_TL00096"/>. . . magn Hund sin . . . (Er wirft einen Taler auf<lb facs="P3_TL00097"/>den Tisch)<lb facs="P3_TL00098"/>Sie (stürzt drauf): . . . n Daler!<lb facs="P3_TL00099"/>Er (ist aus dem Bett): . . . her damit<lb facs="P3_TL00100"/>Sie: Ick . . .<lb facs="P3_TL00101"/>Er (windet ihr den Taler aus der Hand, dro<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00102"/>hend): Mach keen Jequatsche . . .<lb facs="P3_TL00103"/>Chauffeur (sieht lachend zu): Na .. .<lb facs="P3_TL00104"/>denn holt man n ordntlichen Kümmel<lb facs="P3_TL00105"/>E r (hat schon die Mütze aufgesetzt und geht<lb facs="P3_TL00106"/>raus)<lb facs="P3_TL00107"/>Sie (ruft hinter ihm nach: . . . du . . . But<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00108"/>ter .. . un Brot . . . un Eier . . . un Speck . . .<lb facs="P3_TL00109"/>(sie setzt zum Chauffeur erklärend hinzu) . . . wir<lb facs="P3_TL00110"/>habn nemlich noch nischt jejessen ... in all de<lb facs="P3_TL00111"/>Uffrejung . . .<lb facs="P3_TL00112"/>E r (verschwindet)<lb facs="P3_TL00113"/>Chauffeur (lacht): ... kannk mer schon<lb facs="P3_TL00114"/>denken . . . und so fein hast dr jemacht?<lb facs="P3_TL00115"/>S i e (räumt die Scherben vom Tisch und wirft<lb facs="P3_TL00116"/>sie in die Ofenecke): Heit is doch Feiertag . . .<lb facs="P3_TL00117"/>Chauffeur: Feierdag . . . ja. (Er faßt sie,<lb facs="P3_TL00118"/>die gerade vor ihm den Tisch abräumt, am Rock<lb facs="P3_TL00119"/>und zieht sie zu sich) deine Bluse<lb facs="P3_TL00120"/>Sie: Denn hak se man ia . . . (sich sträubend)<lb facs="P3_TL00121"/>... du ... du .. . knöppst mr ja uff!<lb facs="P3_TL00122"/>Chauffeur: A!... hast dun blanket Fell!<lb facs="P3_TL00123"/>Sie (entwindet sich ihm, er zieht sie aber<lb facs="P3_TL00124"/>neben sich aufs Bett)<lb facs="P3_TL00125"/>Sie (wehrt sich): ... nee ... du .. . nich<lb facs="P3_TL00126"/>... er kann jeden Oogenblick . . . t is keen Ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00127"/>laß uff ihm<lb facs="P3_TL00128"/>Chauffeur: Ick hau m eenen uffn Kürbis<lb facs="P3_TL00129"/>Sie: Nee . . . nee . . . (entwindet sich ihm)<lb facs="P3_TL00130"/>. . . heit Abend . . . sicher . . .<lb facs="P3_TL00131"/>Chauffeur (droht): Du .. .<lb facs="P3_TL00132"/>Sie (bringt ihre Kleider in Ordnung, beleidigt):<lb facs="P3_TL00133"/>. . . wat ick doch vaschpreche<lb facs="P3_TL00134"/>Chauffeur: t soll dr nich leid tun!<lb facs="P3_TL00135"/>Sie (empört): ... so meenst de dät? . . .<lb facs="P3_TL00136"/>Jeld? . . . Ick? . . . Ick bin ne anständije Frau<lb facs="P3_TL00137"/>Chauffeur (ruhig, behäbig): . . . i . . . wo<lb facs="P3_TL00138"/>.. . nich .. . Marjell! (Er zieht eine Handvoll<lb facs="P3_TL00139"/>Münzen aus der Tasche)<lb facs="P3_TL00140"/>Sie (tritt mit gespanntem Blick näher)<lb facs="P3_TL00141"/>Chauffeur: Kumm . . . zwei Märker . . .<lb facs="P3_TL00142"/>•schenk ick dir<lb facs="P3_TL00143"/>S i e (nimmt hastig das Geld und steckt es ein)<lb facs="P3_TL00144"/>Chauffeur: Aber dat de dir fein machst<lb facs="P3_TL00145"/>. . . (rechnet) un de drei Märker vorhin .. .?<lb facs="P3_TL00146"/>S i e (nimmt liebkosend die Wäschestücke, die<lb facs="P3_TL00147"/>'noch über der Bettkante hängen, und legt sie in<lb facs="P3_TL00148"/>das Spind): . . . sollst dir nich beklagen . . .<lb facs="P3_TL00149"/>Chauffeur: Wat legst denn weg da? . . .<lb facs="P3_TL00150"/>Sie: Oh . . . dät zieh ick an . . . (vorwurfs<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00151"/>voll) un Willi wollt et vakloppen . . .<lb facs="P3_TL00152"/>Chauffeur (grinst): . . . vakloppen? . . .</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00004">
+                                    <lb facs="P3_TL00153"/>Sie (räumt): . . . oh . . . Willi ... er meint<lb facs="P3_TL00154"/>.. . un ick soll ooch wat vadienen<lb facs="P3_TL00155"/>Chauffeur (nimmt die Pfeife aus dem<lb facs="P3_TL00156"/>Mund): . . . wa? . . . woso?<lb facs="P3_TL00157"/>Sie (scharwenzelt): .. . warum ... un .. .<lb facs="P3_TL00158"/>ick . . . warum nich? . . .<lb facs="P3_TL00159"/>Chauffeur (steht,auf): .. . ach so .. .<lb facs="P3_TL00160"/>pfeift der Wind . . . (roh) . . . also dät sag ick dir<lb facs="P3_TL00161"/>... so lang wir beide wat habn . . .<lb facs="P3_TL00162"/>Sie: Wat? . . . du? . . . ick . . .<lb facs="P3_TL00163"/>Chauffeur (packt ihren Arm, aufgeregt):<lb facs="P3_TL00164"/>Ick .. . vastehst de? Ick will mein Weib för<lb facs="P3_TL00165"/>mir habn, va . . .<lb facs="P3_TL00166"/>Sie (keift dagegen): ... du kannst mir . . .<lb facs="P3_TL00167"/>du kannst mir . . . un wenn ick will . . . un ick<lb facs="P3_TL00168"/>jeh . . . wenn ick Jeld vadienen kann . . .<lb facs="P3_TL00169"/>Chauffeur (haut ihr eine schallende Ohr<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00170"/>feige runter)<lb facs="P3_TL00171"/>Sie (heult kreischend auf und hält sich die<lb facs="P3_TL00172"/>Backe)<lb facs="P3_TL00173"/>E r (tritt in diesem Augenblick in die Tür,<lb facs="P3_TL00174"/>gine Flasche und einige Päkchen im Arm und in<lb facs="P3_TL00175"/>den Händen): . . . Wat is hier los?<lb facs="P3_TL00176"/>Sie: Willi . . . Willi ... er hat mir beleidigt<lb facs="P3_TL00177"/>... er hat jesagt ... ick soll nich uff de Straße<lb facs="P3_TL00178"/>jehn . . . dann haut er mir . . .<lb facs="P3_TL00179"/>Chauffeur (hat sie losgelassen und sich<lb facs="P3_TL00180"/>wieder aufs Bett gesetzt)<lb facs="P3_TL00181"/>E r (wirft die Paketchen auf den Tisch, stellt<lb facs="P3_TL00182"/>die Flasche hin und setzt die Mütze in den<lb facs="P3_TL00183"/>Nacken): Mensch! ... du willst hier?! . . . meine<lb facs="P3_TL00184"/>Sachen?! ... da is ja .. .! Mit mein Weib<lb facs="P3_TL00185"/>mach ick . . . wat ick will! .. . Vastehst de?<lb facs="P3_TL00186"/>(haut auf den Tisch) wat ick will! un warum<lb facs="P3_TL00187"/>soll se nich jehn? . . . is se nich noch jut wie<lb facs="P3_TL00188"/>ne andere? . . . bekiek se dir mal an . . . (er<lb facs="P3_TL00189"/>nimmt seine Frau am Arm und stößt sie dem<lb facs="P3_TL00190"/>Chauffeur zu)<lb facs="P3_TL00191"/>Chauffeur (stößt sie unwillig zurück)<lb facs="P3_TL00192"/>Er (aufgebracht): ... du willst mein Weib<lb facs="P3_TL00193"/>nich kieken? . . . mein . . .<lb facs="P3_TL00194"/>Chauffeur (ruhig und verdrießlich): ... de<lb facs="P3_TL00195"/>zwei Märker soll se mir zurückjeben ... wo ick<lb facs="P3_TL00196"/>ihr Vorschuß jejeben hab<lb facs="P3_TL00197"/>Sie (kreischt auf): . . . dät is nich wahr!<lb facs="P3_TL00198"/>. . . dät is nich wahr! . . . zwei Märker hat er<lb facs="P3_TL00199"/>mir jejeben . . . dät ick mit ihm zsammen sein<lb facs="P3_TL00200"/>sollt . . . heit abend . . . dä Lump! . . . vafiehren<lb facs="P3_TL00201"/>wollt er mir!<lb facs="P3_TL00202"/>Er (wirft wild seinen Rock ab): ... wat?<lb facs="P3_TL00203"/>. . . Aus di e Luke kuckst de? . . . Mit mein<lb facs="P3_TL00204"/>Weib Schindluder treiben? . . . willst du dein...<lb facs="P3_TL00205"/>. . . Raus ... du Hund! (Er stürzt sich auf ihn)<lb facs="P3_TL00206"/>Chauffeur (gibt ihm in aller Ruhe einen<lb facs="P3_TL00207"/>wuchtigen Stoß vor den Bauch, daß er in die Ecke<lb facs="P3_TL00208"/>fliegt)<lb facs="P3_TL00209"/>Er (schaut erstaunt leise wimmernd um sich<lb facs="P3_TL00210"/>und heult dann plötzlich laut auf): ... o . . .<lb facs="P3_TL00211"/>dät heeßt sich ... so wat . . . Freindschaft . . .<lb facs="P3_TL00212"/>mein Weib vafiehren . . . mein ... (er fährt plötz<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00213"/>lich wütend auf) ... du bis schuld . . . alleen<lb facs="P3_TL00214"/>schuld ... (er fährt auf seine Frau los, haut ihr<lb facs="P3_TL00215"/>eine runter und würgt sie) . . . wozu hast de<lb facs="P3_TL00216"/>deine faulen Knochens ...?... warum kannst<lb facs="P3_TL00217"/>de nich . . .?<lb facs="P3_TL00218"/>Chauffeur (ist ruhig aufgestanden, tritt an<lb facs="P3_TL00219"/>den Tisch, steckt die Paketchen ein und will auch<lb facs="P3_TL00220"/>die Flasche einstecken)<lb facs="P3_TL00221"/>E r (hält erschrocken ein, läßt seine Frau los<lb facs="P3_TL00222"/>und tritt an den Chauffeur ran): . . . nee . . .<lb facs="P3_TL00223"/>du . . . dät tust de mir nich an! . . . du . . . ick<lb facs="P3_TL00224"/>... bin immer dein Freund jewesen . . . un . . .<lb facs="P3_TL00225"/>(als ob er sich besinnt und jetzt erst zum Be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00226"/>wußtsein des Geschehenen kommt) . . wat is<lb facs="P3_TL00227"/>denn eejentlich passiert? ... ick weeß nich . . .<lb facs="P3_TL00228"/>ick bin so uffjerejt . . .</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00002">
+                                    <lb facs="P4_TL00002"/>S i e (tritt ebenfalls, sich noch den Hals reibend<lb facs="P4_TL00003"/>hinzu): ... nee ... du ... so lassen wir dir<lb facs="P4_TL00004"/>nich weg! ... dät war ja dat erschte Mal . . .<lb facs="P4_TL00005"/>dät wir n juten Freind nischt vorjesetzt hätten...<lb facs="P4_TL00006"/>(sie nimmt ihm die Pakete aus der Tasche) . . .<lb facs="P4_TL00007"/>ick schlag dir schnell n paar Eier in de Pfanne!<lb facs="P4_TL00008"/>Chauffeur (sträubt sich): ... ick hab je<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00009"/>nug von eich Sorte . . .<lb facs="P4_TL00010"/>Er (nimmt ihm die Flasche aus der Tasche,<lb facs="P4_TL00011"/>entkorkt sie und hält sie ihm hin): . . . hier . . .<lb facs="P4_TL00012"/>Bruderherz .. . hier ... dät wär jelacht! Nee<lb facs="P4_TL00013"/>. . . nee . . . (Er hält dem Chauffeur die Flasche<lb facs="P4_TL00014"/>an den Mund, so daß dieser gegen seinen Willen<lb facs="P4_TL00015"/>trinken muß)<lb facs="P4_TL00016"/>Chauffeur (nimmt einen Schluck und<lb facs="P4_TL00017"/>wischt sich den Mund): . . . na ja . . . (dann gibt<lb facs="P4_TL00018"/>er die Flasche zurück, zieht seine Pfeife wieder<lb facs="P4_TL00019"/>vor und setzt sich auf den Bettrand)<lb facs="P4_TL00020"/>S i e (hat inzwischen einen noch nicht ganz zer<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00021"/>brochenen Teller gefunden, wäscht ihn unter der<lb facs="P4_TL00022"/>Leitung ab und schickt sich an, die Eier hinein zu<lb facs="P4_TL00023"/>schlagen)<lb facs="P4_TL00024"/>Er (trinkt): . . . nee . . . weest de . . . mein<lb facs="P4_TL00025"/>juter Freind ... du kannst allens hier haben . . .<lb facs="P4_TL00026"/>von mir . . . wat de willst ... so war dät nich<lb facs="P4_TL00027"/>jemeent . . . und mei Weib . . .<lb facs="P4_TL00028"/>Sie (nickt): . . . ja ja . . . (nimmt ihm die<lb facs="P4_TL00029"/>Flasche ab und trinkt ebenfalls)<lb facs="P4_TL00030"/>Chauffeur (blickt neben sich und sieht das<lb facs="P4_TL00031"/>eingebündelte Kind am Fußende des Bettes): . . .<lb facs="P4_TL00032"/>wat is denn dät? . . .<lb facs="P4_TL00033"/>Sie (jammernd): . . . achott! . . . Fränzchen!<lb facs="P4_TL00034"/>. . . unser Fränzchen!<lb facs="P4_TL00035"/>Chauffeur (lockert etwas die Umhüllung):<lb facs="P4_TL00036"/>. . . dät kriegt ja keene Luft nich! (Er faßt es an)<lb facs="P4_TL00037"/>. . . dät . . . is . . . ja . . .<lb facs="P4_TL00038"/>E r (hat sich eine Scheibe Brot abgeschnitten<lb facs="P4_TL00039"/>und kaut, tritt jetzt an das Bett heran): . . . dät<lb facs="P4_TL00040"/>hak ooch schon jesagt . . .<lb facs="P4_TL00041"/>Sie (eilt zum Bett, reißt das Kind hoch und<lb facs="P4_TL00042"/>preßt es an sich, weinend): ... ja ... unser<lb facs="P4_TL00043"/>Fränzchen . . . mein Schtickelcken<lb facs="P4_TL00044"/>E r (tritt wieder zum Tisch, schneidet ein Stück<lb facs="P4_TL00045"/>Wurst ab, schmiert eine Brotschnitte dazu und ißt<lb facs="P4_TL00046"/>gleichmütig)<lb facs="P4_TL00047"/>Chauffeur: Wenn is et denn jeschtorben?<lb facs="P4_TL00048"/>Sie (wiegt jammernd das tote Kind auf den<lb facs="P4_TL00049"/>Armen, während ihr die Tränen herunterkollern):<lb facs="P4_TL00050"/>. . . wann . . . wer weeß ... et war ja immer<lb facs="P4_TL00051"/>so schwach . . . un ... (sie bricht in die Knie,<lb facs="P4_TL00052"/>legt das Kind aufs Bett und ihren Kopf darauf)<lb facs="P4_TL00053"/>Chauffeur (steht mit unbehaglichen Bewe<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00054"/>gungen auf)<lb facs="P4_TL00055"/>Sie (jammernd): .. . wir .. . wir .. . woll<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00056"/>ten .. . wir haddn ja keen Pfennig mehr int Haus<lb facs="P4_TL00057"/>. . . un ... (sie wird gleichmütig und steht auf)<lb facs="P4_TL00058"/>. . . un . . . wir han Jashahn uffjedreht . . .<lb facs="P4_TL00059"/>Chauffeur (nimmt die Pfeife aus dem<lb facs="P4_TL00060"/>Mund und schluckt etwas runter): Hm! (Er<lb facs="P4_TL00061"/>schnüffelt in der Luft)<lb facs="P4_TL00062"/>Sie (legt das Kind wieder sorgsam ins Bett<lb facs="P4_TL00063"/>und deckt es zu): ... ja ... Fränzchen! . . .<lb facs="P4_TL00064"/>schlaf . . . ja . . . jo . . .<lb facs="P4_TL00065"/>Chauffeur (steckt die Pfeife ein): ... na<lb facs="P4_TL00066"/>... da habtr eich wat scheens an Hals jeladen...<lb facs="P4_TL00067"/>E r (hält mit Kauen ein und schaut ihn an)<lb facs="P4_TL00068"/>Sie: ... Wa . . . ?<lb facs="P4_TL00069"/>Chauffeur (knöpft den Rock zu): . . . n<lb facs="P4_TL00070"/>paar Jährchen. Kindsmord!<lb facs="P4_TL00071"/>Sie (schreit auf): . . . Mord!<lb facs="P4_TL00072"/>Er (ist erst starr, dann dringt er auf die Frau<lb facs="P4_TL00073"/>ein): . . . halt dei Maul! . . . halt dei Maul! . . .<lb facs="P4_TL00074"/>vafluchtet Jeschreie! .. . (Er schlägt zu, trifft<lb facs="P4_TL00075"/>aber nicht, da die Frau sich auf das Bett fallen<lb facs="P4_TL00076"/>läßt und hinter dem Chauffeur verbirgt)</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00003">
+                                    <lb facs="P4_TL00077"/>Chauffeur (nimmt einen Schluck aus der<lb facs="P4_TL00078"/>Flasche): . . . wird eim vadammt koddrig bei!<lb facs="P4_TL00079"/>(Wendet sich zum Gehen) Will nischt mit ze dun<lb facs="P4_TL00080"/>ham! (Er stutzt und blickt auf den Fußboden zur<lb facs="P4_TL00081"/>Tür hin, die sich etwas bewegt hat) ... wat<lb facs="P4_TL00082"/>war dät?<lb facs="P4_TL00083"/>Sie (blickt zur Tür hin und dann schnell un<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00084"/>ters Bett): Molli . . . (sie eilt zur Tür und ruft<lb facs="P4_TL00085"/>raus) . . . Molli . . . Molli . . . (sie dreht sich<lb facs="P4_TL00086"/>weinend um und schließt die Tür) . . . nu is<lb facs="P4_TL00087"/>Molli ooch weg . . .<lb facs="P4_TL00088"/>Chauffeur: ... hat dä immer da unnert<lb facs="P4_TL00089"/>Bett jelejen?<lb facs="P4_TL00090"/>E r (nickt kauend)<lb facs="P4_TL00091"/>Chauffeur: ... ooch . . . mitn offenen<lb facs="P4_TL00092"/>Jashahn?<lb facs="P4_TL00093"/>Er (nickt): Nu jewiß!<lb facs="P4_TL00094"/>Sie (heult): ... oh ... et war son treuet<lb facs="P4_TL00095"/>Vieh . . . nich von de Stelle z bringen . . , un<lb facs="P4_TL00096"/>nu . . . (sie geht zum Tisch, schmiert sich unter<lb facs="P4_TL00097"/>Tränen eine Stulle und beißt herzhaft hinein) . . .<lb facs="P4_TL00098"/>mit uns sterben wollt er . . .<lb facs="P4_TL00099"/>Chauffeur (nachdenklich): . . . wenn dä<lb facs="P4_TL00100"/>da drunner . . . nich . . . verreckt is . . .<lb facs="P4_TL00101"/>Er (kauend): . . . son Viech hatn zähet Le<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00102"/>ben . . .<lb facs="P4_TL00103"/>Chauffeur (schüttelt den Kopf, wendet sich<lb facs="P4_TL00104"/>dann, um auf andere Gedanken zu kommen, zu<lb facs="P4_TL00105"/>dem Mann): . . . Mensch ... ick denk du has<lb facs="P4_TL00106"/>Schtellung?<lb facs="P4_TL00107"/>E r (immerzu kauend, sieht ihn erstaunt an):<lb facs="P4_TL00108"/>... ick? ... (besinnt sich) ha ick ooch ... ha<lb facs="P4_TL00109"/>ick! . . . ick werd Chauffeur!<lb facs="P4_TL00110"/>Chauffeur( faßt nach der Tischkante): . . .<lb facs="P4_TL00111"/>du .. . ?! .. . Mensch! Bei hellen Dage?<lb facs="P4_TL00112"/>Er (hantiert aufgeregt mit Wurst und Brot<lb facs="P4_TL00113"/>in der einen und dem Messer in der anderen<lb facs="P4_TL00114"/>Hand): Wat? . . . ick nich ...?... ick .. .?<lb facs="P4_TL00115"/>Sie (dringt kauend auf den Chauffeur ein):<lb facs="P4_TL00116"/>. . . mein Willi? . . . dä kann mehr . . . wie du<lb facs="P4_TL00117"/>aussiehst! (auftrumpfend) ... ja . . . Chauffeur<lb facs="P4_TL00118"/>. . . Willi . . . Chauffeur ... bei Haase . . .<lb facs="P4_TL00119"/>Er (greift auf): ... ja ... bei Haase . . . je<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00120"/>wiß . . . Dag und Nacht Haase! . . .<lb facs="P4_TL00121"/>Chauffeur (steht sprachlos)<lb facs="P4_TL00122"/>Sie (sieht den Teller, in den sie vorhin die<lb facs="P4_TL00123"/>Eier geschlagen hat): ach Jott ... de Rühreier...<lb facs="P4_TL00124"/>(sie quirlt mit einem Messerstiel die Eier)<lb facs="P4_TL00125"/>Chauffeur (wütend): Schwindel! ... in<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00126"/>famigter Schwindel! . . . und du drehst den Jas<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00127"/>hahn uff?!<lb facs="P4_TL00128"/>E r (ereifert sich, ohne aber darüber das Essen<lb facs="P4_TL00129"/>zu vergessen, er schiebt ein Stück Wurst und<lb facs="P4_TL00130"/>Brot nach dem andern in den Mund): . . . ick?!<lb facs="P4_TL00131"/>Jashahn?! Wenn ick will? ... (er schlägt mit<lb facs="P4_TL00132"/>der Faust, in der er das Messer hält, auf den<lb facs="P4_TL00133"/>Tisch) mein Jashahn? . . .ick kann mit mein<lb facs="P4_TL00134"/>Jashahn machen, wat . . . un . . . un . . . (stößt<lb facs="P4_TL00135"/>immerzu bekräftigend das Messer auf den Tisch)<lb facs="P4_TL00136"/>. . . Schwindel . . . allens Schwindel . . . jewiß<lb facs="P4_TL00137"/>Schwindel! . . . nich n Pfennig hak . . . nich ne<lb facs="P4_TL00138"/>Ahnung von Stellung . . . un ick will ooch nich<lb facs="P4_TL00139"/>... ick willt nich ... ick bün keen son Ochse<lb facs="P4_TL00140"/>... ! .. . Leb ick nich? .. . (er weist auf<lb facs="P4_TL00141"/>Wurst, Brot und Flasche) . . . jeht et uns nich<lb facs="P4_TL00142"/>jut? . . . habn wir z sorgen? . . .<lb facs="P4_TL00143"/>Sie (vom Herd her, wo sie mit der Pfanne<lb facs="P4_TL00144"/>hantiert und inzwischen vergeblich versucht hat,<lb facs="P4_TL00145"/>das Gas anzuzünden): . . . hat keener nich n<lb facs="P4_TL00146"/>Zindholz mehr? . . . dät brennt ja nich! . . .<lb facs="P4_TL00147"/>(Sie wirft eine leere Streichholzschachtel fort)<lb facs="P4_TL00148"/>Chauffeur (zieht eine Streichholzschachtel<lb facs="P4_TL00149"/>aus der Hosentasche und versucht anzustecken):<lb facs="P4_TL00150"/>. . . is ... der Hahn ooch uff?<lb facs="P4_TL00151"/>Sie (prüft): ... nu jewiß doch .. .</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00004">
+                                    <lb facs="P4_TL00152"/>Chauffeur (versucht mehrere Streichhölzer<lb facs="P4_TL00153"/>vergeblich): . . . aber ... da ... Is doch keen<lb facs="P4_TL00154"/>Jas nich .. . Wo ist denn der Jas?<lb facs="P4_TL00155"/>S i e (schreit auf und schlägt die Hände überm<lb facs="P4_TL00156"/>Kopf zusammen): . . . ach Jott . . . ach Jott! . .<lb facs="P4_TL00157"/>dät hak doch janz vajessen ... ! . . . se habn<lb facs="P4_TL00158"/>uns doch j espe r r t . . . jestern han se uns der<lb facs="P4_TL00159"/>Jas jesperrt . . . weil wr de Rechnung nich zahln<lb facs="P4_TL00160"/>kunntn . . .<lb facs="P4_TL00161"/>Chauffeur (starrt sie an, geht dann schwe<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00162"/>ren Schrittes zum Bett und setzt sich nieder, daß<lb facs="P4_TL00163"/>es in allen Fugen kracht): . . . nu brat mir eener<lb facs="P4_TL00164"/>n Storch . . . un n recht fetten . . .<lb facs="P4_TL00165"/>Sie (schnell, erleuchtet): .... dann is<lb facs="P4_TL00166"/>Fränzchen ooch nich an den Jas jestorben! . . .<lb facs="P4_TL00167"/>Er (starrt auf das Wort an der Wand und<lb facs="P4_TL00168"/>schüttelt den Kopf)<lb facs="P4_TL00169"/>Chauffeur: ... nee . . . dät is er nich!<lb facs="P4_TL00170"/>. . . (Er erhebt sich mit einem scheuen Blick auf<lb facs="P4_TL00171"/>die Leiche)<lb facs="P4_TL00172"/>Er (vorwurfsvoll zu ihr): . . . dat is nu wie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00173"/>der dein Schlamperei!<lb facs="P4_TL00174"/>S i e (tritt an das Bett und macht das Gesicht<lb facs="P4_TL00175"/>des Kindes zärtlich frei; dann steht sie mit<lb facs="P4_TL00176"/>gefalteten Händen davor, gerührt): .... du<lb facs="P4_TL00177"/>. . . Willi . . . nu kiek emal . . . kiek emal . . .<lb facs="P4_TL00178"/>unser Kind . . . nu kiek doch bloß mal an . . .<lb facs="P4_TL00179"/>wie nett er daliegt! . . . eenes janz nadierlichen<lb facs="P4_TL00180"/>Dodes . . . (Sie zieht ihren Mann am Rockärmel<lb facs="P4_TL00181"/>näher vors Bett)<lb facs="P4_TL00182"/>E r (starrt wieder auf den Fleck an der Wand,<lb facs="P4_TL00183"/>dann plötzlich): . . . du . . . sag emal . . . weeßt<lb facs="P4_TL00184"/>de . . . (buchstabiert) . . . rudementer ... du bis<lb facs="P4_TL00185"/>doch son halben Jelehrten<lb facs="P4_TL00186"/>Chauffeur (hat zusammenschauernd einen<lb facs="P4_TL00187"/>Schluck aus der Flasche genommen, tritt jetzt zu<lb facs="P4_TL00188"/>den beiden und sucht übertrieben lebhaft und laut<lb facs="P4_TL00189"/>bramarbasierend etwas von sich abzuschütteln):<lb facs="P4_TL00190"/>Mensch, dät weest de nich? (liest) siehst de doch<lb facs="P4_TL00191"/>. . . dät is wat ärztlichet . . . Aerztekongreß . . .<lb facs="P4_TL00192"/>in . . . in . . .<lb facs="P4_TL00193"/>Er (ungeduldig): Nu wat?!<lb facs="P4_TL00194"/>Chauffeur (überstürzt sich): Oh . . . dät<lb facs="P4_TL00195"/>kannk dr sagen . . . dät kannk dr janz jenau sa<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00196"/>gen ... oh ... ick .. . drei Jahre Saaldiener<lb facs="P4_TL00197"/>jewesen in de Charitee ... ick (stellt sich in Po<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00198"/>situr) also (gewichtig) ru — di — men — tär<lb facs="P4_TL00199"/>. . . so heest dät . . . is . . . rudimentär . . . dät<lb facs="P4_TL00200"/>is n Blinddarm<lb facs="P4_TL00201"/>Sie (horcht auf): n wat?<lb facs="P4_TL00202"/>Chauffeur: Ja n Blinddarm! Son Ding,<lb facs="P4_TL00203"/>wat so rumbaumelt . . . wozu? woso? . . . wien<lb facs="P4_TL00204"/>Portmonä . . . vastehst de . . . Portmonä von<lb facs="P4_TL00205"/>dir ... vakommen . . . wat een bloß lästig is<lb facs="P4_TL00206"/>. . . mit sich rumschleppt um drieber z stolpern<lb facs="P4_TL00207"/>(er versetzt ihm jetzt immerzu Püffe) ritsch<lb facs="P4_TL00208"/>ratsch! raus! mits jroße Messer! raus!<lb facs="P4_TL00209"/>E r (sucht sich gegen die Püffe zu schützen<lb facs="P4_TL00210"/>und zieht sich immer mehr zur Tür hin): Mensch!<lb facs="P4_TL00211"/>Chauffeur (ohne sich stören zu lassen, mit<lb facs="P4_TL00212"/>satanischer Lust): Mensch! Mensch! wat men<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00213"/>schen? ! weest de, wat is menschen?<lb facs="P4_TL00214"/>E r (krümmt sich vor Schmerzen): ...jo . . .<lb facs="P4_TL00215"/>jo . . .<lb facs="P4_TL00216"/>Chauffeur (gibt ihm noch einen letzten<lb facs="P4_TL00217"/>kräftigen Puff und setzt sich dann befriedigt):<lb facs="P4_TL00218"/>Nu, wennt weest! imma bei de Sache bleiben!<lb facs="P4_TL00219"/>Nich n Jashahn uffdrehn ohne Jas! nich Chauffeur<lb facs="P4_TL00220"/>machen im Bette! immern Hund anbinden! (tippt<lb facs="P4_TL00221"/>sich mit dem Finger auf die Stirn) denken! mei<lb facs="P4_TL00222"/>Jungeken! denken<lb facs="P4_TL00223"/>Sie (stiert jetzt auch auf den Zeitungsfleck):<lb facs="P4_TL00224"/>. . . jo . . . jo . . . rudelmang!<lb facs="P4_TL00225"/>Chauffeur (lacht roh): Raus dermit! Ja!<lb facs="P4_TL00226"/>Dät is der Zimmt!</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00002">
+                                    <lb facs="P5_TL00002"/>Sie (wird immer aufgeregter): Raus! raus!<lb facs="P5_TL00003"/>Mensch, ick fühl mr ooch so manchmal . . .<lb facs="P5_TL00004"/>(bricht aus) ja! wozu sind mr uff dr Welt? wat<lb facs="P5_TL00005"/>hat dät allens fiern Zweck? (Sie sieht plötzlich<lb facs="P5_TL00006"/>auf den Teller mit Eiern, den sie immer noch in<lb facs="P5_TL00007"/>der Hand hat) O Jott! de scheenen Eier! (Sie<lb facs="P5_TL00008"/>stellt den Teller auf den Tisch und stockt er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00009"/>schrocken mit einem Blick auf das Kind) Wir<lb facs="P5_TL00010"/>missen doch Fränzchen anmelden bei de Polzei!<lb facs="P5_TL00011"/>Er (stiert auf den Zeitungsfleck, reißt dann<lb facs="P5_TL00012"/>plötzlich wütend den Fetzen und mit dem näch<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00013"/>sten Griff das Zeitungsblatt herunter, sodaß die<lb facs="P5_TL00014"/>nackte ausgebröckelte Wand sichtbar wird, knüllt<lb facs="P5_TL00015"/>das Zeitungsblatt zusammen und stopft es in die<lb facs="P5_TL00016"/>Tasche, grob wütend): Quatsch!<lb facs="P5_TL00017"/>Sie (lebhaft, aufgeregt): Ja! Quatsch! Wir<lb facs="P5_TL00018"/>wolin jehn! (schlägt plötzlich um) nee! wir jehn<lb facs="P5_TL00019"/>nich! (weint und schluchzt) ick will nich! ick<lb facs="P5_TL00020"/>will nie mehr! dät hat doch allens keenen Zweck<lb facs="P5_TL00021"/>nich'!<lb facs="P5_TL00022"/>Chauffeur (roh): Wat Zweck? ! (Greift in<lb facs="P5_TL00023"/>die Tasche und holt eine Handvoll Münzen heraus,<lb facs="P5_TL00024"/>die er in der hohlen Hand klappert und lacht gur<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00025"/>gelnd stolz)<lb facs="P5_TL00026"/>Sie (schmiegt sich an ihn): Du! du hast mir<lb facs="P5_TL00027"/>doch (lebendig) Willi! er hat mir injeladen! heite<lb facs="P5_TL00028"/>abend! dät kannr doch ooch jleich . . . (sie sucht<lb facs="P5_TL00029"/>in ihren Taschen) oh! . . . (sie hebt triumphierend<lb facs="P5_TL00030"/>das Zweimarkstück in die Höhe) ick hab ja noch<lb facs="P5_TL00031"/>zwei Märker! (jubelt) zwei Märker! Mensch!<lb facs="P5_TL00032"/>W(illi! nun könn mr leben!<lb facs="P5_TL00033"/>E r (setzt die Mütze grade, lacht und faßt sie<lb facs="P5_TL00034"/>um den Leib): Oh! Mensch! Wir leben!<lb facs="P5_TL00035"/>Chauffeur (unbehaglich): Kommt mir man<lb facs="P5_TL00036"/>blos aus de Bude hier raus! Ick halt eich frei!<lb facs="P5_TL00037"/>Alle frei! Hier is man ja keen Mensch mehr!<lb facs="P5_TL00038"/>Erst inn Tiergarten mit meine Karre! un denn...<lb facs="P5_TL00039"/>Sie (klatscht vor Vergnügen in die Hände):<lb facs="P5_TL00040"/>O je Tiergarten! un denn (fällt ihrem Mann um<lb facs="P5_TL00041"/>den Hals) Willi! wat is n scheenet Leben!<lb facs="P5_TL00042"/>Er (gutgelaunt): Nu siehst de, Schticke!<lb facs="P5_TL00043"/>Sie (eilig): Komm! komm! (ihr Blick fällt aufs<lb facs="P5_TL00044"/>Bett) achott! Fränzchen! (sie deckt ihn zu,<lb facs="P5_TL00045"/>kreischt aber im nächsten Moment laut auf und<lb facs="P5_TL00046"/>schüttelt sich vor Lachen)<lb facs="P5_TL00047"/>Chauffeur (schon in der Tür): Na wat?!<lb facs="P5_TL00048"/>Sie (lacht): Willi! son jemeiner Mensch! er<lb facs="P5_TL00049"/>'hat mir jekitzelt!<lb facs="P5_TL00050"/>Chauffeur (drängt): Komm! ick ... ick<lb facs="P5_TL00051"/>. . . ! aber nich hier! (schaudert mit einem Blick<lb facs="P5_TL00052"/>auf das Kind) raus! raus! dät is der Zimmt! (er<lb facs="P5_TL00053"/>zieht sie beide mit) raus mit eich Schticker!<lb facs="P5_TL00054"/>(Alle drei gehen raus; sie lacht immer noch<lb facs="P5_TL00055"/>ausgelassen; der Schlüssel wird in der Tür umge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00056"/>dreht; dann gellt das Kreischen und Lachen der<lb facs="P5_TL00057"/>Frau wieder hell auf; die Männerstimmen hallen<lb facs="P5_TL00058"/>dazwischen; der Lärm verklingt langsam nach<lb facs="P5_TL00059"/>unten)<lb facs="P5_TL00060"/>(Die Bühne bleibt noch einen Augenblick, nach<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00061"/>dem Stille eingetreten ist, leer; dann fällt der Vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00062"/>hang rasch)<lb facs="P5_TL00063"/>Ende<lb facs="P5_TL00064"/>*<lb facs="P5_TL00065"/>Alle Rechte insbesondere der Aufführung vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00066"/>behalten.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c004">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00003">
+                           <lb facs="P5_TL00067"/>Le los du Douanier</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00004">
+                                    <lb facs="P5_TL00068"/>Un tout petit oiseau<lb facs="P5_TL00069"/>Sur Tepaule d'un ange<lb facs="P5_TL00070"/>lis chantent la louange<lb facs="P5_TL00071"/>Du gentil Rousseau<lb facs="P5_TL00072"/>Les mouvements du monde<lb facs="P5_TL00073"/>Les souvenirs s'en voat<lb facs="P5_TL00074"/>Comme un bateau sur l'onde<lb facs="P5_TL00075"/>Et les regrets au fond<lb facs="P5_TL00076"/>Gentil Rousseau<lb facs="P5_TL00077"/>Tu es cet ange<lb facs="P5_TL00078"/>Et cet oiseau<lb facs="P5_TL00079"/>De ta louange<lb facs="P5_TL00080"/>lis se donnaient la main et s'attristaient ensemble<lb facs="P5_TL00081"/>Sur leurs tombeaux ce sont les memes fleurs<lb facs="P5_TL00082"/>qui tremblent<lb facs="P5_TL00083"/>Tu as raison eile est belle<lb facs="P5_TL00084"/>Mais je n'ai pas le droit de l'aimer<lb facs="P5_TL00085"/>II faut que je reste ici<lb facs="P5_TL00086"/>Oü l'on fait de si jolies couronnes mortuaires<lb facs="P5_TL00087"/>en perles<lb facs="P5_TL00088"/>II faudra que je te montra Qa<lb facs="P5_TL00089"/>La belle Americaine<lb facs="P5_TL00090"/>Qui rend les hommes fous<lb facs="P5_TL00091"/>Dans deux ou trois semaines<lb facs="P5_TL00092"/>Partira pour Corfou<lb facs="P5_TL00093"/>Je tourne vire<lb facs="P5_TL00094"/>Phare affole<lb facs="P5_TL00095"/>Mon beau navire<lb facs="P5_TL00096"/>S'est en alle<lb facs="P5_TL00097"/>Des plaies sur les jambes<lb facs="P5_TL00098"/>Tu m'as montre ces trous sanglants<lb facs="P5_TL00099"/>Quand nous prenions un quinquina<lb facs="P5_TL00100"/>Au bar des lies Marquises rue de la Gaite<lb facs="P5_TL00101"/>Un matin doux de verduresse<lb facs="P5_TL00102"/>Les matelots l'attendent<lb facs="P5_TL00103"/>Et fixent Thorizon<lb facs="P5_TL00104"/>Oü mi-corps hors de l'onde<lb facs="P5_TL00105"/>Bayent tous les poissons<lb facs="P5_TL00106"/>Je tourne vire<lb facs="P5_TL00107"/>Phare affole i<lb facs="P5_TL00108"/>Mon beau navire<lb facs="P5_TL00109"/>S'est en alle<lb facs="P5_TL00110"/>Les tessons de ta voix que l'amour a brisee<lb facs="P5_TL00111"/>Negres melodieux Et je t'avais grisee<lb facs="P5_TL00112"/>La belle Americaine<lb facs="P5_TL00113"/>Qui rend les hommes fous<lb facs="P5_TL00114"/>Dans deux ou trois semaines<lb facs="P5_TL00115"/>Partira pour Corfou<lb facs="P5_TL00116"/>Tu traverses Paris ä pied tres lentement<lb facs="P5_TL00117"/>La brise au voile mauve Etes-vous la maman<lb facs="P5_TL00118"/>Je tourne vire<lb facs="P5_TL00119"/>Phare affole<lb facs="P5_TL00120"/>Mon beau navire<lb facs="P5_TL00121"/>S'est en alle<lb facs="P5_TL00122"/>On dit qu'elle etait belle<lb facs="P5_TL00123"/>Pres du Mississipi<lb facs="P5_TL00124"/>Mais que la rend plus belle<lb facs="P5_TL00125"/>La mode de Paris</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00005">
+                                    <lb facs="P5_TL00126"/>Je tourne vire<lb facs="P5_TL00127"/>Phare affole<lb facs="P5_TL00128"/>Mon beau navire<lb facs="P5_TL00129"/>S'est en alle<lb facs="P5_TL00130"/>II grava sur un banc pres la porte Dauphine<lb facs="P5_TL00131"/>Les deux noms adores Clemence et Josephine<lb facs="P5_TL00132"/>Et deux rosiers grimpaient le long de son äme<lb facs="P5_TL00133"/>Un merveilleux trio<lb facs="P5_TL00134"/>II sourit sur le pave des gardes ä la jument<lb facs="P5_TL00135"/>pisseuse<lb facs="P5_TL00136"/>II dirige un orchestre d'enfants<lb facs="P5_TL00137"/>Mademoiselle Madeleine<lb facs="P5_TL00138"/>Ah! Mademoiselle Madeleine<lb facs="P5_TL00139"/>Ah!<lb facs="P5_TL00140"/>II y a d'autres filles<lb facs="P5_TL00141"/>Dans l'arrondissement<lb facs="P5_TL00142"/>Des douces des gentilles<lb facs="P5_TL00143"/>Et qui n'ont pas d'amant<lb facs="P5_TL00144"/>Je tourne vire<lb facs="P5_TL00145"/>Phare affole<lb facs="P5_TL00146"/>Mon beau navire<lb facs="P5_TL00147"/>S'est en alle<lb facs="P5_TL00148"/>Guillaume Apollinaire</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c005">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00006">
+                           <lb facs="P5_TL00149"/>Der Weg<lb facs="P5_TL00150"/>durch die Nacht</ab>
+                     </div>
+                     <div type="Subhead">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00007">
+                           <lb facs="P5_TL00151"/>Roman</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00008">
+                           <lb facs="P5_TL00152"/>Aage von Kohl</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00010">
+                                    <lb facs="P5_TL00154"/>Oder war es nicht vielmehr wie ein Finger,<lb facs="P5_TL00155"/>ganz in der Nähe, der hastig und energisch wider<lb facs="P5_TL00156"/>ein dickes Stück Gummi tupfte — oder nein, ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00157"/>wiß nicht, es trommelte ja wie ein Herz, das in<lb facs="P5_TL00158"/>rasender Hast, wahnsinnig, mit erstickendem<lb facs="P5_TL00159"/>Grauen gegen eine Brust hämmert, hier, ganz dicht<lb facs="P5_TL00160"/>dabei, hinter seinem Rücken, nein, tief da drinnen<lb facs="P5_TL00161"/>in ihm selber —:<lb facs="P5_TL00162"/>Mein Gott!<lb facs="P5_TL00163"/>Annie, meine Geliebte!<lb facs="P5_TL00164"/>Jetzt weiß ich —: mein Herz, an dem Abend,<lb facs="P5_TL00165"/>während ich dich nach Hause trug!<lb facs="P5_TL00166"/>Mein Herz, das da drinnen unter wahnsinnigen<lb facs="P5_TL00167"/>Qualen pochte — während ich hierher lief, dich in<lb facs="P5_TL00168"/>meinen Armen! . . .<lb facs="P5_TL00169"/>Er stand da, schnappte nach Luft, dort am Fen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00170"/>ster. Ward jetzt plötzlich von einem häßlichen,<lb facs="P5_TL00171"/>einem ausweitenden Gefühl unter seinen Rippen<lb facs="P5_TL00172"/>ergriffen — als säße dort irgend etwas, da drinnen,<lb facs="P5_TL00173"/>in allen Adern seiner Brust, sie unleidlich erwei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00174"/>ternd! als wären einige große, eisenharte Tiere in<lb facs="P5_TL00175"/>die Venen rings um sein Herz hineingelangt — und<lb facs="P5_TL00176"/>brächten sie fast zum Zerspringen!<lb facs="P5_TL00177"/>Er öffnete gleich darauf seinen Mund zu einem<lb facs="P5_TL00178"/>Schrei — denn nun stürzten sie alle auf einmal<lb facs="P5_TL00179"/>vorwärts, ungeheuer, sie sprengten die Wände der<lb facs="P5_TL00180"/>Adern, sie bissen wie Feuerschnäbel in das Fleisch<lb facs="P5_TL00181"/>seines Herzens — er wand seinen Körper nach<lb facs="P5_TL00182"/>rechts mit einem Ruck herum, der Schweiß<lb facs="P5_TL00183"/>strömte ihm über das Gesicht herab, er hörte den<lb facs="P5_TL00184"/>Fall der Tropfen auf dem Fußboden, es sauste ihm<lb facs="P5_TL00185"/>vor den Ohren, seine Schläfe Flammen, seine Kehle<lb facs="P5_TL00186"/>trocken!<lb facs="P5_TL00187"/>Im selben Nu dunkelte es vor seinem Blick, er<lb facs="P5_TL00188"/>machte schwankend einen Schritt vornüber, schlug<lb facs="P5_TL00189"/>die Fäuste gegen seine Brust, sank klagend in die<lb facs="P5_TL00190"/>Knie, streckte seine Arme mit nach hinten gebeug<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00191"/>ten Fingern aus — fiel vornüber auf die beiden</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00002">
+                                    <lb facs="P6_TL00002"/>Handflächen nieder, hatte von neuem eine Empfin<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00003"/>dung, als werde sein Herz heulend aus dem Sack<lb facs="P6_TL00004"/>der Lungen herausgerissen, Nerven, Muskeln zer<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00005"/>fetzt —:<lb facs="P6_TL00006"/>Hilfe!<lb facs="P6_TL00007"/>Nimm es von mir!<lb facs="P6_TL00008"/>Es tut so entsetzlich weh! . . .<lb facs="P6_TL00009"/>Wahnsinnig versuchte er einen Schrei zu er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00010"/>sticken, zerrte an seinem Kragen, riß die Knopf<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00011"/>löcher der Weste auf, schlug sich mit geballten<lb facs="P6_TL00012"/>Fäusten vor die Stirn, Hilfe, jetzt wieder, eine<lb facs="P6_TL00013"/>glühende Säge, mein Herz, ich will nicht mehr!<lb facs="P6_TL00014"/>Er vernahm auf einmal das Geräusch eines lang<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00015"/>gezogenen Stöhnens, röchelte vor Angst und Qual,<lb facs="P6_TL00016"/>fühlte, daß es nun wieder kam, Hilfe, ich verbrenne<lb facs="P6_TL00017"/>bei lebendigem Leibe und dann war es alles<lb facs="P6_TL00018"/>weg und zu Ende, ja — Gott sei Dank! nein . . .<lb facs="P6_TL00019"/>rühr mich nicht an, dann kommt es gleich wie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00020"/>der . . . Ach Gott, sei gepriesen, es ist vorbei, es<lb facs="P6_TL00021"/>ist ganz vorbei, nun kommt es nicht wieder zu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00022"/>rück! ....<lb facs="P6_TL00023"/>Er lachte mit dunkelndem Blick, zitternden<lb facs="P6_TL00024"/>Lippen, ermattet bis ins Innerste — noch immer<lb facs="P6_TL00025"/>auf allen vieren dort liegend; auf zitternden,<lb facs="P6_TL00026"/>schweißfeuchten Händen und auf schmerzenden<lb facs="P6_TL00027"/>Knien, der Kopf bleischwer zwischen den beben<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00028"/>den Armen herabhängend.<lb facs="P6_TL00029"/>Aber einen Augenblick später ward er unver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00030"/>mutet von einem eiskalten Schamgefühl getroffen,<lb facs="P6_TL00031"/>fand es unbegreiflich, daß er sich auf diese Weise<lb facs="P6_TL00032"/>so hatte übermannen lassen, lächerlich, hysterisch!<lb facs="P6_TL00033"/>Er erhob sich mit Mühe, stand schließlich auf<lb facs="P6_TL00034"/>beiden Füßen, noch mit einem ganz schwachen<lb facs="P6_TL00035"/>Stechen tief da drinnen — mit kurzem, keuchen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00036"/>dem Atem. Dachte im selben Nu an Annie — und<lb facs="P6_TL00037"/>an alles, was sie hatte leiden müssen!<lb facs="P6_TL00038"/>Er schob es mit beiden Händen von sich, är<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00039"/>gerte sich gleich darauf über diese Schwäche,<lb facs="P6_TL00040"/>starrte wild um sich her, mit beständig halb zu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00041"/>sammengepreßter Kehle — tat schwankend ein<lb facs="P6_TL00042"/>paar Schritte vorwärts, und glitt langsam in den<lb facs="P6_TL00043"/>großen, roten Stuhl nieder, auf dem der Professor<lb facs="P6_TL00044"/>vorhin gesessen hatte.<lb facs="P6_TL00045"/>Es tat ihm gut, zu sitzen.<lb facs="P6_TL00046"/>Behutsam streckte er beide Beine lang vor sich<lb facs="P6_TL00047"/>aus, ließ den Nacken leise hintenüber sinken.<lb facs="P6_TL00048"/>Mit einer rätselhaften Süßigkeit erinnerte er<lb facs="P6_TL00049"/>sich gleich darauf, wie weh es getan hatte. Eine<lb facs="P6_TL00050"/>Sekunde war es ihm, als sei das alles zusammen<lb facs="P6_TL00051"/>mystisch um Annies willen geschehen — aber im<lb facs="P6_TL00052"/>selben Augenblick ekelte ihn heftig bei dem Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00053"/>danken, er fand ihn häßlich, sentimental und lügen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00054"/>haft — und vor allem gemein darauf berechnet, ihn<lb facs="P6_TL00055"/>selbst anzuführen, ihn dazu zu bringen, das Ent<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00056"/>setzliche, das Namenlose, was sie hatte leiden müs<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00057"/>sen, zu vergessen!<lb facs="P6_TL00058"/>Nein, dachte er heftig — und was war übrigens<lb facs="P6_TL00059"/>trotzdem das, was er jetzt hier erlebt, im Vergleich<lb facs="P6_TL00060"/>bloß zu dem, was er in jenen ersten zwölf Stunden<lb facs="P6_TL00061"/>empfunden hatte — oder vielmehr, schon von dem<lb facs="P6_TL00062"/>Moment selber an, an jenem Abend, wo er an die<lb facs="P6_TL00063"/>Eisenbahnstation telephoniert und dort erfahren<lb facs="P6_TL00064"/>hatte, daß . . .<lb facs="P6_TL00065"/>Er machte eine gewaltsame Bewegung mit bei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00066"/>den Händen, wollte sich nicht hieran erinnern,<lb facs="P6_TL00067"/>wollte die Kraft haben, es zu verscheuchen — so<lb facs="P6_TL00068"/>wie in früheren Zeiten, so wie er es wieder und<lb facs="P6_TL00069"/>wieder im Laufe dieser zwei langen, langen Jahre<lb facs="P6_TL00070"/>vermocht hatte — in diesen zweimal dreihundert<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00071"/>undfünfundsechzig grenzenlosen Nächten!<lb facs="P6_TL00072"/>Nicht wahr —: sehr möglich, daß seine<lb facs="P6_TL00073"/>Kräfte allmählich im Begriff waren, zu versagen!<lb facs="P6_TL00074"/>sehr möglich, daß er heute aus unerklärlichen<lb facs="P6_TL00075"/>Gründen und Grundesgründen verwerflich sein<lb facs="P6_TL00076"/>Benehmen geändert, sich restlos anders benommen</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00003">
+                                    <lb facs="P6_TL00077"/>hatte, nach jeder Richtung hin, als bisher! sehr<lb facs="P6_TL00078"/>möglich! jawohl — und er hatte ja auch versucht,<lb facs="P6_TL00079"/>eine Andeutung von Berechtigung dazu oder eine<lb facs="P6_TL00080"/>Entschuldigung dafür in der Tatsache zu finden,<lb facs="P6_TL00081"/>daß das Manuskript, dies letzte und äußerste Manu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00082"/>skript, dort lag und fertig war!<lb facs="P6_TL00083"/>Er war also tatsächlich mit seinem Werk zu<lb facs="P6_TL00084"/>Ende gelangt, hatte in dem Buch dort das Tiefste<lb facs="P6_TL00085"/>und Höchste niedergeschrieben, was er vermochte<lb facs="P6_TL00086"/>— hatte nicht das geringste mehr hinzuzufügen!<lb facs="P6_TL00087"/>Und ergo hatte er jetzt wohl ein klein wenig<lb facs="P6_TL00088"/>Recht dazu . . .<lb facs="P6_TL00089"/>Aber von neuem bestrebte er sich, diese Vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00090"/>stellungen mit Energie zu verscheuchen, sah deut<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00091"/>lich ein, wie folgeschwer, wie gefährlich es war,<lb facs="P6_TL00092"/>nachzugeben — suchte auch sich selbst in Zorn<lb facs="P6_TL00093"/>zuzureden wegen der Gedanken, die da eben durch<lb facs="P6_TL00094"/>sein Gehirn geflogen waren —:<lb facs="P6_TL00095"/>Unsinn!<lb facs="P6_TL00096"/>Prahlerei von Alpha bis Omega!<lb facs="P6_TL00097"/>Kein Künstler konnte jemals in seinem vierzig<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00098"/>sten Jahre kommen und sagen, daß er nun sein<lb facs="P6_TL00099"/>letztes Wort geschrieben habe! Niemals!<lb facs="P6_TL00100"/>Wenn ihm einmal das Leben diese Gaben ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00101"/>schenkt, ihm ohne zu zählen vierzig große Jahre<lb facs="P6_TL00102"/>des Strebens, des Könnens, des Glückes verliehen<lb facs="P6_TL00103"/>hatte — ihm alles, was sich Gutes denken ließ, ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00104"/>gönnt hatte, alles, weswegen die Menge sich tag<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00105"/>täglich von Morgens bis Abend ein ganzes, langes,<lb facs="P6_TL00106"/>langes Leben hindurch abmüht und plagt, um nur<lb facs="P6_TL00107"/>einen winzig kleinen Bruchteil davon zu er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00108"/>reichen . . . dann fehlte es auch noch gerade, daß<lb facs="P6_TL00109"/>er nachgab!<lb facs="P6_TL00110"/>Nein, wahrlich, noch waren keineswegs seine<lb facs="P6_TL00111"/>Schulden bezahlt — seine ungeheuren Ehrenschul<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00112"/>den an sie alle, an Sie, an das Leben selbst! Sicher<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00113"/>lich nicht —: alles das, was von jenem Abend<lb facs="P6_TL00114"/>stammte, alles das, was offenbar und ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00115"/>borgen an jenem Abend vor zwei Jahren begonnen<lb facs="P6_TL00116"/>hatte, während er dort unten an der Straßenbahn<lb facs="P6_TL00117"/>ging und vergebens auf sie wartete —: bei alledem<lb facs="P6_TL00118"/>zu verweilen hate er nicht das Recht! es war vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00119"/>bei, es war fertig und abgeschlossen, es war für<lb facs="P6_TL00120"/>immer hinter Schloß und Riegel gesetzt ... so wie<lb facs="P6_TL00121"/>— ja, gerade so wie der Urheber zu dem ganzen,<lb facs="P6_TL00122"/>so wie Karl Mumme selbst —: es war seine ein<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00123"/>fache Pflicht, das alles zu vergessen! . . .<lb facs="P6_TL00124"/>Doch, trotzdem fuhren seine Gedanken fort,<lb facs="P6_TL00125"/>wieder und wieder zu diesem einen Punkt zurück<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00126"/>zukehren.<lb facs="P6_TL00127"/>Er ertappte sich plötzlich dabei, daß er den<lb facs="P6_TL00128"/>Versuch machte, sich selbst zu beweisen — daß<lb facs="P6_TL00129"/>es ihm in Wirklichkeit gut tun würde, es würde<lb facs="P6_TL00130"/>ihn ja gerade außerordentlich stärken und trösten,<lb facs="P6_TL00131"/>wenn er von neuem diese Stunden von damals<lb facs="P6_TL00132"/>wieder erleben könnte!<lb facs="P6_TL00133"/>Und nicht genug damit —: aber war es nicht<lb facs="P6_TL00134"/>eine Untreue gegen Annie, eine Wortbrüchigkeit,<lb facs="P6_TL00135"/>ein wiederholtes Sieverlassen, ein neues und noch<lb facs="P6_TL00136"/>feigeres Sieimstichlassen — daß er so unmännlich<lb facs="P6_TL00137"/>vor diesen Vorstellungen zurückwich!? . . .<lb facs="P6_TL00138"/>Angstumfangen erhob er sich schließlich mit<lb facs="P6_TL00139"/>einem Ruck, wollte fort von hier, ins Bett hinauf,<lb facs="P6_TL00140"/>hinaus und spazieren gehen, wieder hinab in den<lb facs="P6_TL00141"/>Garten, fort, gleichgültig wohin, nur fort, so schnell<lb facs="P6_TL00142"/>wie möglich fort von hier, sogleich weg da<lb facs="P6_TL00143"/>aber fiel sein Blick auf einmal auf den Brief, der<lb facs="P6_TL00144"/>dort mitten auf der Platte des großen Tisches lag,<lb facs="P6_TL00145"/>auf den länglichen, blauen Brief mit dem Siegel<lb facs="P6_TL00146"/>des Gerichts —:<lb facs="P6_TL00147"/>Nun ja!<lb facs="P6_TL00148"/>Karl Mumme!<lb facs="P6_TL00149"/>In ganz wenigen Stunden sollten sie beide ein<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00150"/>ander von Angesicht zu Angesicht gegenüber<lb facs="P6_TL00151"/>stehen! . . .</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00004">
+                                    <lb facs="P6_TL00152"/>Noch mehr entnervt suchte er auch diesem Be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00153"/>wußtsein zu entfliehn, starrte einen Augenblick<lb facs="P6_TL00154"/>entsetzt umher, tat einen Schritt auf den Tisch zu,<lb facs="P6_TL00155"/>machte eine Handbewegung, um dies Stück Papier<lb facs="P6_TL00156"/>zu zerreißen — streckte darauf seinen Arm aus,<lb facs="P6_TL00157"/>wie um ein Buch zu ergreifen und zu tun, als lese<lb facs="P6_TL00158"/>er, erhob darauf jäh beide Hände über seinem<lb facs="P6_TL00159"/>Scheitel, stürzte vorwärts durch das Zimmer, auf<lb facs="P6_TL00160"/>die Tür zu, wollte fort, hinaus, weg und<lb facs="P6_TL00161"/>da blieb er einen Moment stehen, die Finger um<lb facs="P6_TL00162"/>den Türgriff geklammert, warf seinen Kopf zurück,<lb facs="P6_TL00163"/>plötzlich in ein kurzes und röchelndes Lachen aus<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00164"/>brechend —: Ja, ja, denn genau auf dieselbe Weise<lb facs="P6_TL00165"/>war er ja an jenem Abend durch das Zimmer ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00166"/>stürmt, mit diesen langen, beiden Sprüngen, die<lb facs="P6_TL00167"/>ihn von der einen Seite des Schreibtisches — und<lb facs="P6_TL00168"/>ganz bis an die Schwelle führten, wo er in diesem<lb facs="P6_TL00169"/>Augenblick stand!<lb facs="P6_TL00170"/>Gerade so, dachte er in schwindelnder Hast,<lb facs="P6_TL00171"/>lehnte seine Schultern schwer gegen den Rahmen<lb facs="P6_TL00172"/>der Tür und pr'eßte seine Hand 'gegen die<lb facs="P6_TL00173"/>Augen —:<lb facs="P6_TL00174"/>Gerade derselbe Sprung — wie damals!<lb facs="P6_TL00175"/>An jenem meilenfernen und gegenwartnahen<lb facs="P6_TL00176"/>Abend, den er nie vergessen konnte — und bei<lb facs="P6_TL00177"/>dem er im innersten Innern seines Sinnes in jeder<lb facs="P6_TL00178"/>Sekunde verweilte!<lb facs="P6_TL00179"/>Nein, nicht das geringste von alledem war ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00180"/>gessen, alles saß so tief in seinen sämtlichen Fi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00181"/>bern, zu gleicher Zeit seine Stärke und seine<lb facs="P6_TL00182"/>Schwäche — bereit, jede Minute hervor zu kom<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00183"/>men!<lb facs="P6_TL00184"/>Ach ja, dieser gräßliche Abend vor zwei Jah<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00185"/>ren —: Sommer wie jetzt, Nacht wie jetzt, die<lb facs="P6_TL00186"/>Uhr ein wenig über eins. Er hatte dort gesessen<lb facs="P6_TL00187"/>und viele, viele Stunden geschrieben. Annie war in<lb facs="P6_TL00188"/>der Stadt — bei ihrer Mutter, die nicht wohl war,<lb facs="P6_TL00189"/>die krank lag, ernstlich krank.<lb facs="P6_TL00190"/>Jener Abend . . . während er schrieb, sah er<lb facs="P6_TL00191"/>hin und wieder nach seiner Uhr, die er vor sich<lb facs="P6_TL00192"/>auf den Tisch gelegt hatte, um auf die Zeit acht<lb facs="P6_TL00193"/>zu geben, wenn sie nach Hause kam. Erst mit<lb facs="P6_TL00194"/>der letzten Straßenbahn von da drinnen, hatte sie<lb facs="P6_TL00195"/>vor ein paar Stunden telephoniert; er hatte ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00196"/>fragt, ob er nicht lieber in die Stadt kommen und<lb facs="P6_TL00197"/>sie holen sollte — aber sie hatte nein geantwortet,<lb facs="P6_TL00198"/>sie wußte ja ebenso gut wie er, daß diese Arbeit,<lb facs="P6_TL00199"/>mit der er beschäftigt war, sehr eilte — und im<lb facs="P6_TL00200"/>übrigen fuhr die Straßenbahn sozusagen von<lb facs="P6_TL00201"/>Tür zu Tür!<lb facs="P6_TL00202"/>Nun ja, er warf noch einen letzten Blick auf<lb facs="P6_TL00203"/>die kleinen, schwarzen Zeiger ■—: ja wohl, fünf<lb facs="P6_TL00204"/>Minuten über, es wird am besten sein, wenn ich<lb facs="P6_TL00205"/>jetzt gehe, in zwei Minuten ist der Wagen hier!<lb facs="P6_TL00206"/>Er erhebt sich, nimmt Hut und Stock und geht<lb facs="P6_TL00207"/>hinaus. Es ist warm, es ist sternenklar, es ist ein<lb facs="P6_TL00208"/>wunderbares Wetter aus Sommer und aus einem<lb facs="P6_TL00209"/>frischen kleinen Wind, der von da draußen vom<lb facs="P6_TL00210"/>Wasser her streicht — und so fein in den Bäumen<lb facs="P6_TL00211"/>des Weges saust. Er drückt den Hut fest auf den<lb facs="P6_TL00212"/>Kopf, eilt, mit dem innersten Innern seiner Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00213"/>danken, noch bei dem Papier dort oben verwei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00214"/>lend — eifrig nach der Haltestelle da drüben rechts<lb facs="P6_TL00215"/>hinüber!<lb facs="P6_TL00216"/>Er hat reichlich Zeit, er vergißt plötzlich sein<lb facs="P6_TL00217"/>Buch, entsinnt sich lächelnd, daß jetzt endlich Annie<lb facs="P6_TL00218"/>ankommt, sie ist viele Stunden fort gewesen <lb facs="P6_TL00219"/>und siehe, unten bei der Biegung schimmert schon<lb facs="P6_TL00220"/>das rote und das weiße Licht in der Ferne!<lb facs="P6_TL00221"/>Er geht auf die Fahrstraße hinaus, dicht bis an<lb facs="P6_TL00222"/>den hohen, hellgrauen, eisernen Mast, der die<lb facs="P6_TL00223"/>Drähte trägt.<lb facs="P6_TL00224"/>Der Wagen nähert sich, lärmend braust er vor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00225"/>wärts, sein Lichtschimmer fliegt über den Staub<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00226"/>des 'Weges dahin, vorüber an den Büschen, die</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00002">
+                                    <lb facs="P7_TL00002"/>sich aus Gärten vorbeugen, glüht in den beiden<lb facs="P7_TL00003"/>endlosen Kupferleitungen da oben!<lb facs="P7_TL00004"/>Nun ist er ganz nahe, seine Fahrt läßt nach —<lb facs="P7_TL00005"/>schnell schweift Mortons Blick über die breiten<lb facs="P7_TL00006"/>Fensterscheiben dahin, wo ist sie nur? — Der<lb facs="P7_TL00007"/>Wagen hält, eine ältere Dame in Schwarz steigt<lb facs="P7_TL00008"/>aus — aber Annie ist nicht da!<lb facs="P7_TL00009"/>Sie ist nicht da denkt er, mehr erstaunt als<lb facs="P7_TL00010"/>unruhig —: warum wohl nicht?<lb facs="P7_TL00011"/>Ihm fällt ein, daß er sich vielleicht geirrt hat,<lb facs="P7_TL00012"/>daß dies möglicherweise gar nicht der letzte Wa<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00013"/>gen ist — und als sich der Motor schon mit einem<lb facs="P7_TL00014"/>Brummen wieder in Gang gesetzt hat, und das<lb facs="P7_TL00015"/>lange, strahlend helle Gefährt kreischend auf sei<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00016"/>nen Schienen dahinschreitet, gelingt es ihm noch,<lb facs="P7_TL00017"/>dem Schaffner zuzurufen, indem er den Hut mit<lb facs="P7_TL00018"/>beiden Händen festhält: „War dies der letzte Wa<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00019"/>gen? . . ." und in seinem Ohr klingt die Antwort<lb facs="P7_TL00020"/>wie ein Echo —:<lb facs="P7_TL00021"/>„Der letzte Wagen!<lb facs="P7_TL00022"/>Jawohl!"<lb facs="P7_TL00023"/>Nun ja, besinnt er sich — es kommt ihm aber<lb facs="P7_TL00024"/>doch anfangs nicht ganz wahrscheinlich vor: sie<lb facs="P7_TL00025"/>ist vielleicht schon bei der vorhergehenden Halte<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00026"/>stelle ausgestiegen, um in dem schönen Wetter<lb facs="P7_TL00027"/>noch die paar Minuten zu gehen!<lb facs="P7_TL00028"/>Er tritt also auf den Bürgersteig zurück, sucht<lb facs="P7_TL00029"/>durch das Dunkel hindurch zu spähen, geht ein<lb facs="P7_TL00030"/>paar hundert Schritt zögernd vorwärts, in der<lb facs="P7_TL00031"/>Hoffnung, sie dort bei dem ersten Laternenpfahl<lb facs="P7_TL00032"/>anzutreffen . . . oder doch auf alle Fälle bei dem<lb facs="P7_TL00033"/>nächsten . . . oder bei dem übernächsten sicher!<lb facs="P7_TL00034"/>Er lächelt bei dem Gedanken, ihr Gesicht zu<lb facs="P7_TL00035"/>sehen, ach, das goldene Haar, das jetzt binnen<lb facs="P7_TL00036"/>kurzem ihm aus der Ferne entgegenschimmern<lb facs="P7_TL00037"/>wird, ihr Lächeln, den schwachen und lieben<lb facs="P7_TL00038"/>Druck ihres Armes zu spüren, während sie zu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00039"/>sammen umkehren — vielleicht sollten sie eigent<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00040"/>lich noch einen kleinen Spaziergang machen, ehe<lb facs="P7_TL00041"/>sie hineingingen?<lb facs="P7_TL00042"/>Ja, aber . . .<lb facs="P7_TL00043"/>Nein!<lb facs="P7_TL00044"/>Sie ist ja doch nicht hier — obwohl sie schon<lb facs="P7_TL00045"/>bis hierher gelangt sein müßte, wenn sie wirk<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00046"/>lich . . .<lb facs="P7_TL00047"/>Aber vielleicht, ja, natürlich, sie ist ganz ein<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00048"/>fach schon zu Hause angelangt 5— während er<lb facs="P7_TL00049"/>nichts ahnend dort rechts stand und auf den Weg<lb facs="P7_TL00050"/>wartete und den Schaffner ausfragte!<lb facs="P7_TL00051"/>Wieder von neuem belebt, beeilt er sich, kehrt<lb facs="P7_TL00052"/>■zu machen, nach Hause zu laufen.<lb facs="P7_TL00053"/>Er stößt das Tor auf, vergißt es wieder zu<lb facs="P7_TL00054"/>schließen, kommt herein, ein klein wenig atemlos,<lb facs="P7_TL00055"/>ein wenig warm von der heißen Luft — hat gleich<lb facs="P7_TL00056"/>darauf mit seinem Blick nach ihren Sachen im<lb facs="P7_TL00057"/>Entree gesucht: nun ja, da sind sie nicht, sie ist<lb facs="P7_TL00058"/>also wahrscheinlich gleich damit hinauf gegangen<lb facs="P7_TL00059"/>— denn es ist ja geradezu unmenschlich warm,<lb facs="P7_TL00060"/>puh, du großer Gott, man schwitzt wie ich<lb facs="P7_TL00061"/>weiß nicht was, kann kaum atmen vor schwüler<lb facs="P7_TL00062"/>Hitze; vielleicht ist sie auch ein wenig müde,<lb facs="P7_TL00063"/>nicht wahr, es liegt natürlich nicht der geringste<lb facs="P7_TL00064"/>Grund vor, unruhig zu sein!<lb facs="P7_TL00065"/>Das Mädchen kommt aus ihrem Zimmer, wäh<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00066"/>rend dies blitzschnell durch sein Gehirn flog.<lb facs="P7_TL00067"/>„Wo ist die gnädige Frau?" — fragt er, schon<lb facs="P7_TL00068"/>ein Stückchen die Treppe hinauf, die in das obere<lb facs="P7_TL00069"/>Stockwerk führt — indem er sich über das weiße<lb facs="P7_TL00070"/>Geländer lehnt.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c006">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00004">
+                           <lb facs="P7_TL00072"/>Ziele</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00010">
+                           <lb facs="P7_TL00193"/>H. W.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="MinorHead">
+                              <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                  xmlns:mods="http://www.loc.gov/mods/v3"
+                                  facs="P7_TB00005">
+                                 <lb facs="P7_TL00073"/>Das Ziel der Klasse</ab>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00006">
+                                    <lb facs="P7_TL00074"/>Dr. v. Studt: Die moderne Kunst erweckt<lb facs="P7_TL00075"/>schmerzvolle Enttäuschung und Entrüstung. In<lb facs="P7_TL00076"/>weiten Kreisen der Lehrerschaft unserer höheren<lb facs="P7_TL00077"/>preußischen Kunstanstalten besteht die Besorgnis,<lb facs="P7_TL00078"/>daß die Schüler dem Einfluß der modernen Rich<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00079"/>tung erliegen und die Ziele nicht erreichen, die<lb facs="P7_TL00080"/>ihnen gestellt sind.<lb facs="P7_TL00081"/>Das äußert besorgt ein früherer preußischer<lb facs="P7_TL00082"/>Kultusminister im preußischen Herrenhaus. Wenn<lb facs="P7_TL00083"/>junge Künstler Berge zu versetzen suchen, kön<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00084"/>nen sie eben nicht versetzt werden. Den Kunst<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00085"/>professoren wird um ihre Oberlehrerwürde bange:<lb facs="P7_TL00086"/>ihre Schüler erreichen nicht mehr das Ziel der<lb facs="P7_TL00087"/>Klasse. Bei der vorgesetzten Behörde wächst<lb facs="P7_TL00088"/>schmerzvolle Enttäuschung und Entrüstung. Und<lb facs="P7_TL00089"/>die Kunst wächst über die vorgesetze Behörde<lb facs="P7_TL00090"/>hinaus.</ab>
+                              </div>
+                           </div>
+                           <div type="MinorHead">
+                              <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                  xmlns:mods="http://www.loc.gov/mods/v3"
+                                  facs="P7_TB00007">
+                                 <lb facs="P7_TL00091"/>Das Ziel der Pfingsten</ab>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00008">
+                                    <lb facs="P7_TL00092"/>„Son pere possedait une des plus importantes<lb facs="P7_TL00093"/>maisons de commerce de soie. II etait encore au<lb facs="P7_TL00094"/>gymnase que dejä les journaux et les revues pu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00095"/>bliaient ses poemes."<lb facs="P7_TL00096"/>Der französische Biograph kann sich eben<lb facs="P7_TL00097"/>nicht deutsch ausdrücken. Nicht der Vater,<lb facs="P7_TL00098"/>der das sehr bedeutende Seidengeschäft be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00099"/>saß, der Sohn dichtete auf dem Gymna<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00100"/>sium. Seidene Gedichte. Der Sohn weiß,<lb facs="P7_TL00101"/>was man einem sehr bedeutenden Seidenhaus<lb facs="P7_TL00102"/>schuldet. Soie oblige. Sie schillert. Der Sohn<lb facs="P7_TL00103"/>auch. Nachdem er als Sohn eines Großindustrie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00104"/>ellen in üblicher Weise sich mit dem „Acker" be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00105"/>faßt hatte, veröffentlichte er Gedichte auf Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00106"/>dichte. Nichts Heiligeres blieb von ihnen ver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00107"/>schont. Er verherrlichte alles. Pfingsten ist für<lb facs="P7_TL00108"/>jeden Dichter eine jedes Jahr wiederkehrende Ge<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00109"/>legenheit, sich auf den heiligen Geist zu stürzen.<lb facs="P7_TL00110"/>Der Sohn des alten Lissauers benutzt die Kon<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00111"/>junktur: „Anruf".<lb facs="P7_TL00112"/>„Stürze nieder auf mich, den ich singe, du<lb facs="P7_TL00113"/>schöpfender Geist".<lb facs="P7_TL00114"/>Er schöpft wirklich, literweise, die Folge ist<lb facs="P7_TL00115"/>ein neues Gedicht: „Die Ausgießungen". Und nun<lb facs="P7_TL00116"/>regnet er los, der Sohn — tres important — des<lb facs="P7_TL00117"/>alten Lissauers. Alle besserem Leute haben um<lb facs="P7_TL00118"/>Pfingsten rum geschöpft.<lb facs="P7_TL00119"/>„Die Pfingsten weilen am Himmel und schütten<lb facs="P7_TL00120"/>sich aus auf Homer."<lb facs="P7_TL00121"/>Christi Auferstehung hatte sich der alte Homer<lb facs="P7_TL00122"/>auch nicht träumen lassen. Aber er gehört zur<lb facs="P7_TL00123"/>Firma, und wenn man einmal einen Traum be<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00124"/>zogen hat und der Pfingsthimmel so bezogen ist,<lb facs="P7_TL00125"/>daß es nur so schüttet und gießt, spinnt man seine<lb facs="P7_TL00126"/>Fäden auch zum Zweck der Okkasion rückwärts.<lb facs="P7_TL00127"/>O'importe. Die Pfingsten verursachen weiter er<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00128"/>hebliche Verkehrsstörungen:<lb facs="P7_TL00129"/>„Zu Assisi saß Franz, des Bernardo Sohn,<lb facs="P7_TL00130"/>was mag dieser Vater für ein sehr bedeutendes<lb facs="P7_TL00131"/>Geschäft besessen haben, kein französischer<lb facs="P7_TL00132"/>Biograph gibt davon Kunden<lb facs="P7_TL00133"/>mit den Freunden beim Mahl,<lb facs="P7_TL00134"/>„Feuer fiel durchs Dach auf die Diele, doch nie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00135"/>mand sonst sah es im Saal,<lb facs="P7_TL00136"/>„und er schrie und zerriß das Gewand,<lb facs="P7_TL00137"/>„und schrie und lief nackt aus dem Saal ins Land."<lb facs="P7_TL00138"/>Die Pfingsten sollten nicht mit dem Feuer spie<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00139"/>len, die besten seidenen Gewänder zerreißen. Des<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00140"/>halb überlegten sich das auch die Pfingsten und<lb facs="P7_TL00141"/>begnügten sich nunmehr mit Brausen ohne Was<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00142"/>ser, was aber auch eine ganz hübsche Wirkung<lb facs="P7_TL00143"/>hatte:</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00009">
+                                    <lb facs="P7_TL00144"/>„Vor ihrem Brausen zu Wittenberg, barst die<lb facs="P7_TL00145"/>engst'arrende Zelle,<lb facs="P7_TL00146"/>Luther der Mensch trat heraus, umdonnert<lb facs="P7_TL00147"/>von Helle."<lb facs="P7_TL00148"/>Nun, sagten sich die Pfingsten, wenn doch<lb facs="P7_TL00149"/>alles kaputt geht, macht Feuer doch mehr Spaß.<lb facs="P7_TL00150"/>Dann wollen wir mal das Feuer nicht fallen lassen,<lb facs="P7_TL00151"/>sondern gleich mit Feuer hageln, was auch eine<lb facs="P7_TL00152"/>ganz hübsche Musik gibt:<lb facs="P7_TL00153"/>„Und sie standen bei Nacht über Wien, hoch ob<lb facs="P7_TL00154"/>der Mölkerbastei,<lb facs="P7_TL00155"/>Einer schlief in der Kammer, armselig gleich<lb facs="P7_TL00156"/>Domestiken,<lb facs="P7_TL00157"/>Feuer hagelte durchs Gebälk, Beethoven fuhr<lb facs="P7_TL00158"/>auf mit Schrei,<lb facs="P7_TL00159"/>und fiel an den Flügel, ausgießend große Musiken."<lb facs="P7_TL00160"/>Da lag Musike drin. Beethoven verstauchte<lb facs="P7_TL00161"/>sich das Bein, die Saiten des soeben erfundenen<lb facs="P7_TL00162"/>Flügels zersprangen und die Pfingsten lachten sich<lb facs="P7_TL00163"/>einen Ast in das Gebälk. Und welchen Blick in<lb facs="P7_TL00164"/>die zarte Seele von Lissauer jr. kann der sehr<lb facs="P7_TL00165"/>geehrte Leser hierbei tun. Wie der junge Dichter<lb facs="P7_TL00166"/>tränenden Auges auf die armseligen Domestiken<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00167"/>kammern des hochherrschaftlichen Vaterhauses<lb facs="P7_TL00168"/>starrte. Ach, wie gern hätte er ihnen die Frem<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00169"/>denzimmer weit geöffnet. So ahnte Sudermann<lb facs="P7_TL00170"/>schon in seinen Hintertreppenträumen die jungen<lb facs="P7_TL00171"/>Dichter aus den gehobenen Branchen voraus. Die<lb facs="P7_TL00172"/>Pfingsten reisten immer weiter<lb facs="P7_TL00173"/>„Von dem heiligen Wald, wo der Dornstrauch<lb facs="P7_TL00174"/>vor Moses erbrannte,<lb facs="P7_TL00175"/>Bis nach Florenz zum Haus des höllebildenden<lb facs="P7_TL00176"/>Dante,<lb facs="P7_TL00177"/>Ueber den Saal, wo des Rubens' Gesicht die<lb facs="P7_TL00178"/>Sünder zum Falle verdammte,<lb facs="P7_TL00179"/>Ueber das Weimarerhaus, wo Schillers Tisch<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00180"/>holz erflammte."<lb facs="P7_TL00181"/>Bis über des Lissauers Haus, wo die Feuer<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00182"/>versicherung nicht einsprang,<lb facs="P7_TL00183"/>Weil nicht gehindert der Senior des Juniors<lb facs="P7_TL00184"/>feurigen Dichtdrang.<lb facs="P7_TL00185"/>„Aber die Menschen sehen die reisenden<lb facs="P7_TL00186"/>Feuer nicht;<lb facs="P7_TL00187"/>Nie vollendend die ewige Fahrt gleitet das<lb facs="P7_TL00188"/>pfingstliche Licht."<lb facs="P7_TL00189"/>Darum sollen die Menschen Pfingstens zu<lb facs="P7_TL00190"/>dichten nicht trachten,<lb facs="P7_TL00191"/>Dichten macht auch viel Spaß zum fröhlichen<lb facs="P7_TL00192"/>Fest Weihnachten.</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c007">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00011">
+                           <lb facs="P7_TL00194"/>Gedichte</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00012">
+                           <lb facs="P7_TL00195"/>Kurt Heynicke</ab>
+                     </div>
+                     <div type="TextContent" corresp="c008">
+                        <div type="Head">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P7_TB00013">
+                              <lb facs="P7_TL00196"/>Untreue</ab>
+                        </div>
+                        <div type="Copy">
+                           <div type="BodyContent">
+                              <div type="Paragraph">
+                                 <div type="Text">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P7_TB00014">
+                                       <lb facs="P7_TL00197"/>Sie hat hundert Augen<lb facs="P7_TL00198"/>die brennen durch meine Nacht.<lb facs="P7_TL00199"/>Meine Hände krampfen:<lb facs="P7_TL00200"/>Komm dazwischen!<lb facs="P7_TL00201"/>Auf allen Tischen<lb facs="P7_TL00202"/>wimmern die Kelche.</ab>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div type="TextContent" corresp="c009">
+                        <div type="Head">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P7_TB00015">
+                              <lb facs="P7_TL00203"/>Gedicht</ab>
+                        </div>
+                        <div type="Copy">
+                           <div type="BodyContent">
+                              <div type="Paragraph">
+                                 <div type="Text">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P7_TB00016">
+                                       <lb facs="P7_TL00204"/>Sie überstrahlt alle Schimmerlampen<lb facs="P7_TL00205"/>im schwülen Saale<lb facs="P7_TL00206"/>und ist die stille Königin von Cutaway und Sacco.<lb facs="P7_TL00207"/>Sie sind wie die Hunde zur Frühlingszeit<lb facs="P7_TL00208"/>um das Weib.<lb facs="P7_TL00209"/>Keiner findet ein Loch in ihren Seidenstrümpfen.</ab>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div type="SponsoredAdvertisement">
+                  <div type="SponsoredAd" corresp="c010">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00004">
+                        <lb facs="P8_TL00013"/>Der Sturm<lb facs="P8_TL00014"/>Standige Ausstellungen<lb facs="P8_TL00015"/>in Berlin und Genf<lb facs="P8_TL00016"/>Berlin W / Potsdamer Strait* 134 a<lb facs="P8_TL00017"/>Siebenundzwanzigste Ausstellung<lb facs="P8_TL00018"/>Gleizes / Metzinger<lb facs="P8_TL00019"/>Duehamp-Villon /Villon<lb facs="P8_TL00020"/>Geoffnet taglich von 10—6 Uhr / Somitags von<lb facs="P8_TL00021"/>11—2 Uhr<lb facs="P8_TL00022"/>Eintritt 1 Mark / Jahreskarte 6 Mark<lb facs="P8_TL00023"/>Monatlicher Wechsel<lb facs="P8_TL00024"/>Erdffmmg in Genf: 15. August: Kandinsky<lb facs="P8_TL00025"/>Sturmausstellungen in Deutschland und im Aus-<lb facs="P8_TL00026"/>land I Jul! 1914<lb facs="P8_TL00027"/>Stuttgart: Franz Marc<lb facs="P8_TL00028"/>Goteborg / Schweden: Der Blaue Reiter<lb facs="P8_TL00029"/>Hamburg: Jacoba van Heemskerck<lb facs="P8_TL00030"/>Augsburg: Gabriele Miinter<lb facs="P8_TL00031"/>Tokyo: Graphik</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c011">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00005">
+                        <lb facs="P8_TL00032"/>Verlag Der Sturm<lb facs="P8_TL00033"/>Berlin W 9 Potsdamer Straße 134 a<lb facs="P8_TL00034"/>Fernruf Amt Liitzow 4443<lb facs="P8_TL00035"/>Halbmonatsschrift Der Sturm<lb facs="P8_TL00036"/>Erscheint am ersten und fiinfzehnten iedes Monats<lb facs="P8_TL00037"/>Qauerbezug<lb facs="P8_TL00038"/>Gewdhnliche Ausgabe Fur Deutschland<lb facs="P8_TL00039"/>und Oesterreich-Ungam: Ein Jahr 6<lb facs="P8_TL00040"/>Mark / Ein Halbjahr 3 Mark / Ein Vierteljahr<lb facs="P8_TL00041"/>1 Mark 50 / Einzelheft 40 Pfennig / Fii r das<lb facs="P8_TL00042"/>Ausland bei direkter Zustellung<lb facs="P8_TL00043"/>durch die Post: Ein Jahr 9 francs / Ein Halb-<lb facs="P8_TL00044"/>jahr 4 francs 50 centimes / Ein Vierteljahr 3 francs<lb facs="P8_TL00045"/>Einzelheft 50 centimes J Probenummer umsonst<lb facs="P8_TL00046"/>Sonderausgabe: Ungebrochene Exem-<lb facs="P8_TL00047"/>plar e auf holzfreiem Papier, Ver-<lb facs="P8_TL00048"/>sendung in Rollen direkt durch die<lb facs="P8_TL00049"/>Post fur Deutschland und Oester-<lb facs="P8_TL00050"/>reich-Ungarn: Ein Jahr 12 Mark /<lb facs="P8_TL00051"/>Ein Halbjahr 6 Mark / Fiir das Ausland:<lb facs="P8_TL00052"/>Ein Jahr 18 francs / Ein Halbjahr 9 francs / Von<lb facs="P8_TL00053"/>dieser Ausgabe werden Vierteljahrsbeziige, Einzel-<lb facs="P8_TL00054"/>nummern und Probenummern nic h t abgegeben<lb facs="P8_TL00055"/>Der Sturm: Erster Jahrgang, Nummer 1—56:<lb facs="P8_TL00056"/>25 Mark / Zweiter Jahrgang, Nummer 57—104:<lb facs="P8_TL00057"/>10 Mark I Dritter Jahrgang, Nummer 105—152/153:<lb facs="P8_TL00058"/>20 Mark / Vierter Jahrgang 154—203: 6 Mark<lb facs="P8_TL00059"/>Die Zeitschrift Der Sturm ist durch alle Buch- und<lb facs="P8_TL00060"/>Kunsthandlungen, durch die Post, sowie direkt<lb facs="P8_TL00061"/>clurch den Verlag Der Sturm, Berlin W9, zu be-<lb facs="P8_TL00062"/>ziehen / Zum Einzelverkauf liegt Der Sturm in alien<lb facs="P8_TL00063"/>Bahnhofshandlungen, Kiosken u. Straßenstanden auf<lb facs="P8_TL00064"/>Falls direkte Zustellung durch den Verlag<lb facs="P8_TL00065"/>Der Sturm unter Streifband oder in Rolle ge-<lb facs="P8_TL00066"/>wiinscht wird, bitten wir den Bet r a g fur den<lb facs="P8_TL00067"/>Dauerbezug bei der Bestellung oder bei<lb facs="P8_TL00068"/>Beginn des neuen Vi er teljah r e s bis<lb facs="P8_TL00069"/>zum fiinften des ersten Monats einzu-<lb facs="P8_TL00070"/>s en d en / Andernfalls nehmen wir an, daß E i n -<lb facs="P8_TL00071"/>ziehuhg des Betrages durch Nachnahme<lb facs="P8_TL00072"/>unter Berechnung des Nachnahmeportos ge-<lb facs="P8_TL00073"/>wunscht wird<lb facs="P8_TL00074"/>Generalvertretung des Verlags Eugene Figuifcre /<lb facs="P8_TL00075"/>Paris</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c012">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00006">
+                        <lb facs="P8_TL00076"/>Mappen und Alben<lb facs="P8_TL00077"/>Oskar Kokoschka: Zwanzig Blatt Zeichnungen /<lb facs="P8_TL00078"/>StrichStzung / Auf Kaiserlich Japan-Papier in<lb facs="P8_TL00079"/>Luxus-Mappe 25 Mark / Auf Costa-Karton li ein-<lb facs="P8_TL00080"/>facherer Mappe 12 Mark<lb facs="P8_TL00081"/>Kandinsky 1901—1913 / Monographic mit sech-<lb facs="P8_TL00082"/>zig ganzseitigen Abbildungen und<lb facs="P8_TL00083"/>Text von Kandinsky / 10 Mark<lb facs="P8_TL00084"/>Bucher<lb facs="P8_TL00085"/>Soeben erschien im Verlag Der Sturm:<lb facs="P8_TL00086"/>Hermann Essig: Der Frauenmut / Lustspiel /<lb facs="P8_TL00087"/>Oberteufel / Tragodie / Ihr stilles<lb facs="P8_TL00088"/>G1 uc k —! I Drama / Ein Taubenschlag /<lb facs="P8_TL00089"/>Lustspiel aus dem Leben einer Dienstherrschaft /<lb facs="P8_TL00090"/>Napoleons Aufstieg / Tragodie / Jedes<lb facs="P8_TL00091"/>Werk 2 Mark<lb facs="P8_TL00092"/>Paul Scheerbart: Glasarchitektur / in em-<lb facs="P8_TL00093"/>hundertundelf Kapiteln / Zwei Mark / Luxusaus-<lb facs="P8_TL00094"/>gabe in zwanzig numerierten und signierten Exem-<lb facs="P8_TL00095"/>plaren auf Van Qelder Biitten, Decke und Vorsatz-<lb facs="P8_TL00096"/>papier von Anna Scheerbart fiinfundzwanzig Mark<lb facs="P8_TL00097"/>I Verlag Der Sturm / Berlin W 9<lb facs="P8_TL00098"/>Sturm-Biicher I: August Stramm: Sancta Su-<lb facs="P8_TL00099"/>san n a ,/ 50 Pfennig / II: August Stramm: R u d i -<lb facs="P8_TL00100"/>mentar / 50 Pfennig j Verlag Der Sturm / Berlin<lb facs="P8_TL00101"/>Musik<lb facs="P8_TL00102"/>Elerwarth Walden: Dafnislieder / Zu Oe-<lb facs="P8_TL00103"/>dichten von Ar no Ho I z ! Ffir Oesang und Kla-<lb facs="P8_TL00104"/>vier I 3 Mark / 50 Seiten / Nummer I: Er<lb facs="P8_TL00105"/>hort mit ihr den Qukguk schreyn / einzeln 50<lb facs="P8_TL00106"/>Pfennig<lb facs="P8_TL00107"/>Kfinstierpostkarten<lb facs="P8_TL00108"/>Das Exemplar 20 Pfennig<lb facs="P8_TL00109"/>Futuristen: Umberto Boccioni: Das<lb facs="P8_TL00110"/>Lachen / Luigißussolo: Erinnerung einer<lb facs="P8_TL00111"/>Nacht I Zug voller Fahrt / Oino Seve-<lb facs="P8_TL00112"/>ring Die Modistin I Ruhelose TSnzerin / Pan-<lb facs="P8_TL00113"/>Pan Tanz / Umberto Boccioni: Abschied/<lb facs="P8_TL00114"/>Kandinsky: Komposition 6<lb facs="P8_TL00115"/>Franz Marc: Affenfries / Tierschicksale<lb facs="P8_TL00116"/>Oskar Kokoschka: Utinam delectet<lb facs="P8_TL00117"/>Robert Delaunay: La Tour<lb facs="P8_TL00118"/>Karten von Macke / Munter / Marc Chagall /<lb facs="P8_TL00119"/>Klee / L6ger / Jawlensky / Werefkin / Qleizes usw<lb facs="P8_TL00120"/>Illustrierte Ausstellungskataloge<lb facs="P8_TL00121"/>Der Blaue Reiter / Severini / Archipenko / Skupina<lb facs="P8_TL00122"/>I Je 50 Pfennig / Die Futuristen 60 Pfennig / Ota-<lb facs="P8_TL00123"/>kar Kubin 30 Pfennig / Marc Chagall 30 Pfennig<lb facs="P8_TL00124"/>I Kandinsky 50 Pfennig<lb facs="P8_TL00125"/>Erster Deutscher Herbstsalon / Mit fiinfzig Ab-<lb facs="P8_TL00126"/>bildungen in Kupfertiefdruck / 2 Mark<lb facs="P8_TL00127"/>Kunstdrucke<lb facs="P8_TL00128"/>Oskar Kokoschka: P1 ak a t fUr die Zeitschrift<lb facs="P8_TL00129"/>Der Sturm / Originallithographie / Das Exem-<lb facs="P8_TL00130"/>plar 3 Mark<lb facs="P8_TL00131"/>Oskar Kokoschka: Sonderdrucke der Men-<lb facs="P8_TL00132"/>schenkopfe auf Japan- und Buttenpapier:<lb facs="P8_TL00133"/>1 I Adolf Loos I 2 Herwarth Walden / 3 Karl Kraus<lb facs="P8_TL00134"/>I 4 Richard Dehmel / 5 Paul Scheerbart / 6 Yvette<lb facs="P8_TL00135"/>Guilbert / Das Exemplar 5 Mark<lb facs="P8_TL00136"/>Gemalde / Aquarelle / Zeichnungen /<lb facs="P8_TL00137"/>Handdrucke / Plastiken<lb facs="P8_TL00138"/>sind von folgenden Kunstlern im Sturm standig<lb facs="P8_TL00139"/>vorhanden:<lb facs="P8_TL00140"/>Kandinsky / Franz Marc / Archipenko ./ Oskar<lb facs="P8_TL00141"/>Kokoschka / August M&amp;cke / Paul Klee / Carl<lb facs="P8_TL00142"/>Mense / Campendonk / Gabriele Munter / Jaw-<lb facs="P8_TL00143"/>lensky I Marianne von Werefkin / Albert Bloch /<lb facs="P8_TL00144"/>Hans Arp I Picasso / Albert Gleizes / Jean Metzin-<lb facs="P8_TL00145"/>ger I Marc Chagall / Fernand Leger / Jacoba van<lb facs="P8_TL00146"/>Heemskerck / Otakar Kubin / Emil Filla / Vincenc</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c013">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00007">
+                        <lb facs="P8_TL00147"/>Benes / Otto Gutfreund / Boccioni ,/ Severlui /<lb facs="P8_TL00148"/>Carra / Russolo / Francis Picabia J Scbmidt-<lb facs="P8_TL00149"/>Rottluff I Walter Helbig / Max Pechsteia<lb facs="P8_TL00150"/>Verein fUr Kunst ,<lb facs="P8_TL00151"/>Leitung Herwarth ? Walden / Elftes<lb facs="P8_TL00152"/>Jahr I Jahresbeitrag 20 Mark / Rechte der<lb facs="P8_TL00153"/>Mitglieder: Freier Bezug der Zeitschrift der<lb facs="P8_TL00154"/>Sturm I Freier Besuch aller Sturmausstellungen /<lb facs="P8_TL00155"/>Jedes Jahr frei eine Sturmpublikation: 1913/14:<lb facs="P8_TL00156"/>Kokoschkarriappe / Prospekt umsonst<lb facs="P8_TL00157"/>Im nachsten Winter finden zehn Autorenabende<lb facs="P8_TL00158"/>statt und zwar an jedem zweiten und vierten<lb facs="P8_TL00159"/>Donnerstag der Monate Oktober, November, Ja-<lb facs="P8_TL00160"/>nuar, Februar und Marz in der Kunstausstellung<lb facs="P8_TL00161"/>Der Sturm</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c014">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00008">
+                        <lb facs="P8_TL00162"/>Zeitsehriften<lb facs="P8_TL00163"/>La Cerba / Halbmonatsschrift / Florenz / Via.<lb facs="P8_TL00164"/>Nazionale 25<lb facs="P8_TL00165"/>La Route / Revue del' Effort Social I Paris / Rue&gt;<lb facs="P8_TL00166"/>de Vaugirard 120<lb facs="P8_TL00167"/>La Renaissance Conteinporaine / Halbmonatsschrift<lb facs="P8_TL00168"/>Paris / 41 Rue Monge<lb facs="P8_TL00169"/>La Nouvelle Revue Pranoalse / Monatsschrift I<lb facs="P8_TL00170"/>Paris Vie 35/37 Rue Madame / Nummer 1 Franc<lb facs="P8_TL00171"/>50 centimes<lb facs="P8_TL00172"/>Leg Cahiers du Centre &gt; Mouljns [AUierj<lb facs="P8_TL00173"/>Les Soirees de Paris / Recueil Mensuel illustrS ft<lb facs="P8_TL00174"/>Directeurs: Quillaume Apollinaire et Jean C£-<lb facs="P8_TL00175"/>russe I Paris 278 Boulevard Raspail I Jahres-<lb facs="P8_TL00176"/>bezug 12 francs<lb facs="P8_TL00177"/>Umelecky Mesicnik / Monatsschrift ffir neue und<lb facs="P8_TL00178"/>alte Kunst / Administration Prag I 5 Veleslavinova</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c015">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00009">
+                        <lb facs="P8_TL00179"/>Anzeigen</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c016">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00010">
+                        <lb facs="P8_TL00180"/>Poet-Lore Begriindet 1890 ! Eine Zweimonats-<lb facs="P8_TL00181"/>schrift, gewidmet der Dichtung und dem Drama<lb facs="P8_TL00182"/>der Gegenwart in alien Landern / Literarische<lb facs="P8_TL00183"/>Beitrage von Maeterlinck ./ Claudel / Jammes /<lb facs="P8_TL00184"/>Duhamel / D'Annunzio / Synge } Whitman 112<lb facs="P8_TL00185"/>Echegaray / Bjornson / Hervieu / Tchechow /<lb facs="P8_TL00186"/>Pszybiszevski / Gorki / Noguchi / Ghose /' Mac<lb facs="P8_TL00187"/>Gathmhacil / Probeheft gegen Einsendung von<lb facs="P8_TL00188"/>6 Mark 50 Pfennig / Jahresbezug 21 Mark / Ver-<lb facs="P8_TL00189"/>lag Richard G. Badger / Boston / Mass<lb facs="P8_TL00190"/>I USA 194 Boylston Street<lb facs="P8_TL00191"/>Umberto Boccioni: Pittura Scultura futuriste I<lb facs="P8_TL00192"/>Dinamismo plastico / 500 pagine / riproduzioni qua-<lb facs="P8_TL00193"/>dri e sculture / Edizioni futuriste di Poesia / Milano<lb facs="P8_TL00194"/>I Con ritratto dell'autore / Preis M 3,50 / Zu be--<lb facs="P8_TL00195"/>Ziehen durch den Verlag Der Sturm / Berlin W 9<lb facs="P8_TL00196"/>Emil Rosenow: Samtliche Dramen / Die Ausgabe<lb facs="P8_TL00197"/>enthalt das Lustspiel Kater Lampe und das Drama<lb facs="P8_TL00198"/>Die im Schatten leben / Preis gebunden M. 7,50 /<lb facs="P8_TL00199"/>Zu beziehen durch den Verlag Der Sturm Ber-<lb facs="P8_TL00200"/>lin W 9<lb facs="P8_TL00201"/>Anna Scheerbart /' Handgefertigte farbige Vorsatz-<lb facs="P8_TL00202"/>und Deckelpapiere fur Blichereinbande / Muster<lb facs="P8_TL00203"/>im Sturm (Ausstellungskasse), wo auch Bestel-<lb facs="P8_TL00204"/>lungen entgegengenommen werden / Deckel- und<lb facs="P8_TL00205"/>Vorsatzpapier Format 42X35 Mark 4</ab>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

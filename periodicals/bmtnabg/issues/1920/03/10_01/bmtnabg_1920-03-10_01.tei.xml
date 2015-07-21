@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+        Transcription of
+        <biblStruct>
+                  <monogr>
+                     <title level="j">
+                        <seg type="nonSort">Der</seg>
+                        <seg type="main">Sturm</seg>
+                     </title>
+                     <imprint>
+                        <biblScope unit="vol">10</biblScope>
+                        <biblScope unit="issue">12</biblScope>
+                        <date when="1920-03-10">März 1920</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Princeton University</publisher>
+            <idno type="bmtnid">urn:PUL:bluemountain:bmtnabg_1920-03-10_01</idno>
+         </publicationStmt>
+         <seriesStmt>
+            <title level="s">The Blue Mountain Project</title>
+         </seriesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <title level="j">
+                     <seg type="nonSort">Der</seg>
+                     <seg type="main">Sturm</seg>
+                     <seg type="sub">Monatsschrift</seg>
+                  </title>
+                  <imprint>
+                     <biblScope unit="vol">10</biblScope>
+                     <biblScope unit="issue">12</biblScope>
+                     <date when="1920-03-10"/>
+                  </imprint>
+               </monogr>
+               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnabg"/>
+               <relatedItem type="constituent" xml:id="c001">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Marc Chagall: Zeichnung</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">Illustration</classCode>
+                           <biblScope unit="page">1</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c002">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Zuginsfeld</seg>
+                        </title>
+                        <respStmt>
+                           <persName>Otto Nebel</persName>
+                           <resp>cre</resp>
+                        </respStmt>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page" from="2" to="13">2-13</biblScope>
+                        </imprint>
+                     </monogr>
+                     <relatedItem type="constituent" xml:id="c003">
+                        <biblStruct>
+                           <analytic>
+                              <title level="a">
+                                 <seg type="main">Marc Chagall: Der Kutscher</seg>
+                              </title>
+                           </analytic>
+                           <monogr>
+                              <imprint>
+                                 <classCode scheme="CCS">Illustration</classCode>
+                                 <biblScope unit="page">5</biblScope>
+                              </imprint>
+                           </monogr>
+                        </biblStruct>
+                     </relatedItem>
+                     <relatedItem type="constituent" xml:id="c004">
+                        <biblStruct>
+                           <analytic>
+                              <title level="a">
+                                 <seg type="main">Marc Chagall: Zeichnung</seg>
+                              </title>
+                           </analytic>
+                           <monogr>
+                              <imprint>
+                                 <classCode scheme="CCS">Illustration</classCode>
+                                 <biblScope unit="page">9</biblScope>
+                              </imprint>
+                           </monogr>
+                        </biblStruct>
+                     </relatedItem>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c005">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Inhalt</seg>
+                        </title>
+                        <textLang mainLang="ger"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page">13</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c006">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">14</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c007">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">14</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c008">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">14</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c009">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">14</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c010">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">15</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c011">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">15</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c012">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">15</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c013">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">15</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c014">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">15</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c015">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">15</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c016">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">15</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c017">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">15</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c018">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">16</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c019">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">16</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c020">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">16</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c021">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">16</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c022">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">16</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c023">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">16</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+               <relatedItem type="constituent" xml:id="c024">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">[Advertisement]</seg>
+                        </title>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">SponsoredAdvertisement</classCode>
+                           <biblScope unit="page">16</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="Magazine">
+            <div type="Issue">
+               <div type="PublicationInfo">
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00001">
+                        <lb facs="P1_TL00001"/>DER STURM</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00002">
+                        <lb facs="P1_TL00002"/>MONATSSCHRIFT </ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00003">
+                        <lb facs="P1_TL00003"/>/HERAUSGEBER: HERWARTHWALDEN</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00004">
+                        <lb facs="P1_TL00004"/>ZEHNTER JAHRGANG / ZWÖLFTES HEFT</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P2_TB00004">
+                        <lb facs="P2_TL00004"/>Fortsetzung</ab>
+                  </div>
+                  <div type="GenericPubInfo">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P16_TB00002">
+                        <lb facs="P16_TL00002"/>Anzeigen werden nicht aufgenommen<lb facs="P16_TL00003"/>Verantwortlich für die Schriftleitung:<lb facs="P16_TL00004"/>Lothar Schreyer<lb facs="P16_TL00005"/>Verantwortlich für den gesamten Inhalt und Verlag<lb facs="P16_TL00006"/>F. Harnisch / Berlin W 35<lb facs="P16_TL00007"/>Druck: Druckerei für Bibliophilen / Berlin NO 18</ab>
+                  </div>
+               </div>
+               <div type="EditorialContent">
+                  <div type="Illustration" corresp="c001">
+                     <div type="Image"/>
+                     <div type="Caption">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00005">
+                           <lb facs="P1_TL00005"/>Marc Chagall: Zeichnung</ab>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c002">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P2_TB00002">
+                           <lb facs="P2_TL00002"/>Zuginsfeld</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P2_TB00003">
+                           <lb facs="P2_TL00003"/>Otto Nebel</ab>
+                     </div>
+                     <div type="Illustration" corresp="c003">
+                        <div type="Image"/>
+                        <div type="Caption">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P5_TB00001">
+                              <lb facs="P5_TL00001"/>Marc Chagall: Der Kutscher</ab>
+                        </div>
+                     </div>
+                     <div type="Illustration" corresp="c004">
+                        <div type="Image"/>
+                        <div type="Caption">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P9_TB00001">
+                              <lb facs="P9_TL00001"/>Marc Chagall: Zeichnung</ab>
+                        </div>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00005">
+                                    <lb facs="P2_TL00005"/>Nein, Herr Esel, Mannheit adelt<lb facs="P2_TL00006"/>Adel im Kopf!<lb facs="P2_TL00007"/>Doch Raupen im Kopf?<lb facs="P2_TL00008"/>Raupen am Rock? Seidenspinner?<lb facs="P2_TL00009"/>Ordensbänder? Ordensritter ?<lb facs="P2_TL00010"/>Ritterlichkeit?<lb facs="P2_TL00011"/>Ordentliche Raubritter<lb facs="P2_TL00012"/>Stichblattläuse<lb facs="P2_TL00013"/>Soll das ein Stich sein?<lb facs="P2_TL00014"/>Nur Stichwahl<lb facs="P2_TL00015"/>Wurmstichig<lb facs="P2_TL00016"/>Alte Möbel<lb facs="P2_TL00017"/>Hin ist hin<lb facs="P2_TL00018"/>0 alte Burschenherrlichkeit<lb facs="P2_TL00019"/>Der Bursche hat einen feinen Kopf<lb facs="P2_TL00020"/>Schmerz hat den feinsten<lb facs="P2_TL00021"/>Er köpft, ihr Burschen!<lb facs="P2_TL00022"/>Jetzt wird es burschikos<lb facs="P2_TL00023"/>Bursche kost<lb facs="P2_TL00024"/>Liese kost<lb facs="P2_TL00025"/>Ist Liese Köchin?<lb facs="P2_TL00026"/>Es kocht über<lb facs="P2_TL00027"/>Der Küchenbursche?<lb facs="P2_TL00028"/>Der Stubenbursche?<lb facs="P2_TL00029"/>Das Kammermädchen<lb facs="P2_TL00030"/>Dienstboten<lb facs="P2_TL00031"/>Arbeiter<lb facs="P2_TL00032"/>Faulenzer<lb facs="P2_TL00033"/>Die Unmäfzigen<lb facs="P2_TL00034"/>Die Unbotmälzigen<lb facs="P2_TL00035"/>Mäfzigkeit ?<lb facs="P2_TL00036"/>Leibdiener<lb facs="P2_TL00037"/>Götzendiener<lb facs="P2_TL00038"/>Magendiener<lb facs="P2_TL00039"/>Bediene dich selbst<lb facs="P2_TL00040"/>Bitte, bedienen Sie sich<lb facs="P2_TL00041"/>Ihr Diener ?<lb facs="P2_TL00042"/>* *<lb facs="P2_TL00043"/>*<lb facs="P2_TL00044"/>Rüstigster<lb facs="P2_TL00045"/>••<lb facs="P2_TL00046"/>Oberster<lb facs="P2_TL00047"/>Oberst<lb facs="P2_TL00048"/>Herr von Pappe im Harnisch<lb facs="P2_TL00049"/>Kommt in Harnisch, wenn er sich<lb facs="P2_TL00050"/>e n t rüstet<lb facs="P2_TL00051"/>Unbegreiflich<lb facs="P2_TL00052"/>Wer in einen Harnisch kommt, kommt<lb facs="P2_TL00053"/>doch in eine Rüstung<lb facs="P2_TL00054"/>Also doch: Der Rüstigte?<lb facs="P2_TL00055"/>Jetzt ist er zu ergreifen</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00006">
+                                    <lb facs="P2_TL00056"/>Rüstige ! Abrüsten !<lb facs="P2_TL00057"/>Höchste Zeit!<lb facs="P2_TL00058"/>Er rüstet nicht ab<lb facs="P2_TL00059"/>Er fährt nur aus der Haut<lb facs="P2_TL00060"/>Ist Haut Rüstung, Abrüstung ist Häutung<lb facs="P2_TL00061"/>Die Haut kommt vom Hauen<lb facs="P2_TL00062"/>Trifft der Schlag?<lb facs="P2_TL00063"/>Trefflicher Ausschlag sühnt Hauerei<lb facs="P2_TL00064"/>Fleischhauerei, ihr Menschenschlächter,<lb facs="P2_TL00065"/>Tiermörder!<lb facs="P2_TL00066"/>Ihr Fleischer<lb facs="P2_TL00067"/>IHR Feilscher<lb facs="P2_TL00068"/>Überfüllte Speisenkammern<lb facs="P2_TL00069"/>Verrenkte Magen<lb facs="P2_TL00070"/>Magenbitter<lb facs="P2_TL00071"/>Bitterböse<lb facs="P2_TL00072"/>Bösewicht<lb facs="P2_TL00073"/>So hängt die Zunge vom Magen ab<lb facs="P2_TL00074"/>So hängt das Hirn zum Halse raus<lb facs="P2_TL00075"/>Zum Kotzen, Herr Oberstleutnant<lb facs="P2_TL00076"/>Es fleckt<lb facs="P2_TL00077"/>Doch nicht auf meinen Rock?<lb facs="P2_TL00078"/>Rock aus, Rüstung ab!<lb facs="P2_TL00079"/>Oberst in Zivil<lb facs="P2_TL00080"/>Bürgerrock verbirgt<lb facs="P2_TL00081"/>Dafür bürgt Ehrenbürger Rülps<lb facs="P2_TL00082"/>Berülpster Bürgerrock<lb facs="P2_TL00083"/>Bürgern ist das eine Ehre<lb facs="P2_TL00084"/>Ehret die Ehrenbürger<lb facs="P2_TL00085"/>Beispielsweise<lb facs="P2_TL00086"/>Das weise Beispiel?<lb facs="P2_TL00087"/>Das greise Haupt?<lb facs="P2_TL00088"/>Sonst spielt es im Harnisch mit Raupe<lb facs="P2_TL00089"/>und Stern<lb facs="P2_TL00090"/>Jüngern gutes Beispiel geben<lb facs="P2_TL00091"/>Mit gutem Vorspiel vorangehen<lb facs="P2_TL00092"/>Zum Beispiel im Schauspiel<lb facs="P2_TL00093"/>Zum Nachspiel im Spielhaus<lb facs="P2_TL00094"/>Heldenspieler<lb facs="P2_TL00095"/>Recke (Anstatt zu verrecken)<lb facs="P2_TL00096"/>Schauerlich<lb facs="P2_TL00097"/>Diese Schauerspiele<lb facs="P2_TL00098"/>Und keine Kunst<lb facs="P2_TL00099"/>Denn Kunst ist kein Theater<lb facs="P2_TL00100"/>Geschmacksache<lb facs="P2_TL00101"/>Gemeckerist verschiedentlich<lb facs="P2_TL00102"/>Verschiedener Geschmack ist geschmacklos<lb facs="P2_TL00103"/>Verschieden ist er tot<lb facs="P2_TL00104"/>Seele ist Geschmack<lb facs="P2_TL00105"/>O seelig, ein Kind noch<lb facs="P2_TL00106"/>Er meint die Schauerspielerin<lb facs="P2_TL00107"/>Kindische Spielereien<lb facs="P2_TL00108"/>Er reifet sie herunter<lb facs="P2_TL00109"/>Sie nimmt ihn hoch</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00002">
+                                    <lb facs="P3_TL00002"/>'» % \<lb facs="P3_TL00003"/>Sie nehmen sich beide nichts<lb facs="P3_TL00004"/>Im Spiel ergraut<lb facs="P3_TL00005"/>Im Dienst gefärbt<lb facs="P3_TL00006"/>Haarige Sache<lb facs="P3_TL00007"/>Alter Haarkünstler<lb facs="P3_TL00008"/>Waschecht<lb facs="P3_TL00009"/>Wasche meine Hemden in Unschuld<lb facs="P3_TL00010"/>Blut bleibt Blut<lb facs="P3_TL00011"/>Dienst ist Dienst, meine Herrn<lb facs="P3_TL00012"/>Benehmen Sie sich aulzer Dienst<lb facs="P3_TL00013"/>Befehl, Herr Oberst<lb facs="P3_TL00014"/>Felddienstübung<lb facs="P3_TL00015"/>Rote Partei<lb facs="P3_TL00016"/>Blaue Partei<lb facs="P3_TL00017"/>Keine Parteien mehr<lb facs="P3_TL00018"/>Rotblauer Flurschaden<lb facs="P3_TL00019"/>Urschade<lb facs="P3_TL00020"/>Mir wird violett vor den Augendienern<lb facs="P3_TL00021"/>Diese Verheerung<lb facs="P3_TL00022"/>Heer<lb facs="P3_TL00023"/>Leitung<lb facs="P3_TL00024"/>Oberste Verheerungsleitung<lb facs="P3_TL00025"/>Lange Leitung<lb facs="P3_TL00026"/>Heeresvermehrung<lb facs="P3_TL00027"/>Vermehrung für ein Heer?<lb facs="P3_TL00028"/>Menschen Verminderung<lb facs="P3_TL00029"/>Mindestaufgebot?<lb facs="P3_TL00030"/>Höchstes Gebot<lb facs="P3_TL00031"/>Töte dich selbst<lb facs="P3_TL00032"/>Scheintot bist du<lb facs="P3_TL00033"/>Scheint so<lb facs="P3_TL00034"/>Ist so<lb facs="P3_TL00035"/>Wiedersprechen Sie nicht<lb facs="P3_TL00036"/>Darf ich Sie sprechen?<lb facs="P3_TL00037"/>Unter vier Augen: Ihr habt ausgesprochen<lb facs="P3_TL00038"/>Alles versprochen<lb facs="P3_TL00039"/>Alles versagt<lb facs="P3_TL00040"/>Nicht zu sagen<lb facs="P3_TL00041"/>Deutsche Sagen<lb facs="P3_TL00042"/>Sagte ichs nicht?<lb facs="P3_TL00043"/>Sie halten nichts<lb facs="P3_TL00044"/>Versprechen verspricht sich<lb facs="P3_TL00045"/>Ich halte nichts von Versprechen<lb facs="P3_TL00046"/>Ich halte nichts von Besprechungen<lb facs="P3_TL00047"/>Aufler nötigem Abstand<lb facs="P3_TL00048"/>Haltet den Mund<lb facs="P3_TL00049"/>Krankheiten lassen sich nicht besprechen<lb facs="P3_TL00050"/>Gesunde sprechen<lb facs="P3_TL00051"/>Sprechen inwendig<lb facs="P3_TL00052"/>Sprechen Einwände<lb facs="P3_TL00053"/>Brechen Wände<lb facs="P3_TL00054"/>Alles habt ihr verrammelt<lb facs="P3_TL00055"/>Alles wilzt ihr auswendig<lb facs="P3_TL00056"/>Innerlichkeit kennt euch nicht</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00003">
+                                    <lb facs="P3_TL00057"/>Umlernen!<lb facs="P3_TL00058"/>••<lb facs="P3_TL00059"/>Wir lehren die Änderung<lb facs="P3_TL00060"/>Ich schaffe<lb facs="P3_TL00061"/>Wir schaffens<lb facs="P3_TL00062"/>Ihr schafft nichts. Ich schaffe euch ab<lb facs="P3_TL00063"/>Packen Sie ein<lb facs="P3_TL00064"/>Packt euch mit Stabspackwagen,<lb facs="P3_TL00065"/>Stabspack<lb facs="P3_TL00066"/>Stab ?<lb facs="P3_TL00067"/>Knüppel, der beim Hunde liegt<lb facs="P3_TL00068"/>Da liegt der Hund begraben<lb facs="P3_TL00069"/>Herr Gräberoffizier<lb facs="P3_TL00070"/>Offiziergrab<lb facs="P3_TL00071"/>Das Massengrab, meine Sammlung<lb facs="P3_TL00072"/>Sammlung, die euch fehlte<lb facs="P3_TL00073"/>Sehr treffend<lb facs="P3_TL00074"/>Sammlung, die euch traf<lb facs="P3_TL00075"/>Die betreffenden Betroffenen<lb facs="P3_TL00076"/>Die ganze Offizierverrammlung<lb facs="P3_TL00077"/>Versammelte werden zerstreut<lb facs="P3_TL00078"/>Verrufene Versprecher<lb facs="P3_TL00079"/>Entlarvt sprecht ihr nicht<lb facs="P3_TL00080"/>Unberufen<lb facs="P3_TL00081"/>Ruf verlor sich<lb facs="P3_TL00082"/>Blase<lb facs="P3_TL00083"/>Blase: Offizierruf<lb facs="P3_TL00084"/>Das Ganze halt!<lb facs="P3_TL00085"/>Abrücken<lb facs="P3_TL00086"/>Flur atmet auf<lb facs="P3_TL00087"/>Ehret die Flur<lb facs="P3_TL00088"/>Preiset die Flur<lb facs="P3_TL00089"/>Küfzt Ehrenpreis<lb facs="P3_TL00090"/>EHRE läfzt grüizen<lb facs="P3_TL00091"/>Küfzt Gräser und Blumen<lb facs="P3_TL00092"/>Man beifzt nicht ins Gras<lb facs="P3_TL00093"/>Obwohl man auf der Erde liegt<lb facs="P3_TL00094"/>Im Sterben.<lb facs="P3_TL00095"/>*<lb facs="P3_TL00096"/>* *<lb facs="P3_TL00097"/>Generalverrammlung<lb facs="P3_TL00098"/>Herr Generalmajor<lb facs="P3_TL00099"/>Sprich General<lb facs="P3_TL00100"/>Der Generalleutnant<lb facs="P3_TL00101"/>Der Herr Kommandierende<lb facs="P3_TL00102"/>Inkommodierende<lb facs="P3_TL00103"/>Der Generalober<lb facs="P3_TL00104"/>St!<lb facs="P3_TL00105"/>Die EXZELLENZ<lb facs="P3_TL00106"/>Es wird weibisch<lb facs="P3_TL00107"/>Feldherrlich wird es<lb facs="P3_TL00108"/>Generalfeldmarschall<lb facs="P3_TL00109"/>Marstall<lb facs="P3_TL00110"/>VON GOTTES GNADENBROT<lb facs="P3_TL00111"/>Sei ihm gnädig</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00002">
+                                    <lb facs="P4_TL00002"/>Generalpardon<lb facs="P4_TL00003"/>Sie konnten nicht dafür<lb facs="P4_TL00004"/>So so<lb facs="P4_TL00005"/>Sie durften nicht dagegen<lb facs="P4_TL00006"/>Aha<lb facs="P4_TL00007"/>Persönlich nicht<lb facs="P4_TL00008"/>Wie heifzt?<lb facs="P4_TL00009"/>Persönliche Vorteile<lb facs="P4_TL00010"/>Sächliche Vorurteile<lb facs="P4_TL00011"/>Gewisse gewissenlose Anteile<lb facs="P4_TL00012"/>Grofzenteils<lb facs="P4_TL00013"/>Im grofzen Ranzen<lb facs="P4_TL00014"/>Die Teilhuber<lb facs="P4_TL00015"/>Mit beschränktem Horizont<lb facs="P4_TL00016"/>Im Ganzen ein Leib<lb facs="P4_TL00017"/>Und eine Kehle<lb facs="P4_TL00018"/>Aber PERSÖNLICHKEITEN<lb facs="P4_TL00019"/>Seelenersatz<lb facs="P4_TL00020"/>Ersatzcharaktere<lb facs="P4_TL00021"/>Jeder Deutsche ein Ersatzmann<lb facs="P4_TL00022"/>Jeder Ersatzmann ein Charakterfehler<lb facs="P4_TL00023"/>Fehlanzeige<lb facs="P4_TL00024"/>Wo fehlt's denn?<lb facs="P4_TL00025"/>Jeder Nachtwächter eine PERSÖNLICHKEIT<lb facs="P4_TL00026"/>Aber keine Sachlichkeit<lb facs="P4_TL00027"/>PERSÖNLICHKEITEN oder SACHARIN<lb facs="P4_TL00028"/>Wieder Ersatz<lb facs="P4_TL00029"/>PERSÖNLICHKEITEN sind persönlich<lb facs="P4_TL00030"/>verantwortlich<lb facs="P4_TL00031"/>Sachlich nicht<lb facs="P4_TL00032"/>Keine Frage<lb facs="P4_TL00033"/>Die Sache hat einen Haken<lb facs="P4_TL00034"/>Das ist Sache der Natur<lb facs="P4_TL00035"/>Natur ist Exzellenzen verpflichtet?<lb facs="P4_TL00036"/>Das liegt in der Natur der Sache<lb facs="P4_TL00037"/>Was ist Natur?<lb facs="P4_TL00038"/>Was ist Sache?<lb facs="P4_TL00039"/>Was ist Hauptsache?<lb facs="P4_TL00040"/>Was Tatsache?<lb facs="P4_TL00041"/>Was Nebensache?<lb facs="P4_TL00042"/>Hauptsache ist Sachlichkeit<lb facs="P4_TL00043"/>Sache des Haupts, dem Tatsachen<lb facs="P4_TL00044"/>Nebensachen sind<lb facs="P4_TL00045"/>Tatsachen Generäle sind Nebensachen<lb facs="P4_TL00046"/>Tatsächlich<lb facs="P4_TL00047"/>Hauptsache Sachlichkeit ist natürlich<lb facs="P4_TL00048"/>Erkenntnis<lb facs="P4_TL00049"/>Natur ist hauptsächlich Selbsterkenntnis<lb facs="P4_TL00050"/>Die nicht deutsche Sache ist<lb facs="P4_TL00051"/>Das liegt in der Unnatur der Nebensachen<lb facs="P4_TL00052"/>Sache der Natur heilzt: Exzellenz, erkenne<lb facs="P4_TL00053"/>dich selbst!<lb facs="P4_TL00054"/>Das liegt im Wesen Sachlichkeit<lb facs="P4_TL00055"/>Und Exzellenzen fern</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00003">
+                                    <lb facs="P4_TL00056"/>Sehr wesentlich<lb facs="P4_TL00057"/>Das liegt an der Statur der Unnaturen<lb facs="P4_TL00058"/>Das ist doch naheliegend, lieber General?<lb facs="P4_TL00059"/>Das aber liegt am fernsten, was naheliegt<lb facs="P4_TL00060"/>Aber das liegt am lieben Nächsten<lb facs="P4_TL00061"/>Das ist natürlich<lb facs="P4_TL00062"/>Denn es läfzt sich denken<lb facs="P4_TL00063"/>Ein Gedanke ist natürlich<lb facs="P4_TL00064"/>Unnatürlich ist der Dünkel<lb facs="P4_TL00065"/>Aber natürlich ist der nicht übernatürlich<lb facs="P4_TL00066"/>Er liegt in der Unnatur PERSÖNLICHKEIT,<lb facs="P4_TL00067"/>die sich behauptet<lb facs="P4_TL00068"/>Doch solche Häuptlinge enthauptet<lb facs="P4_TL00069"/>Sachlichkeit<lb facs="P4_TL00070"/>Denn solche Däumlinge enthaupten<lb facs="P4_TL00071"/>Das liegt im Beweis<lb facs="P4_TL00072"/>Der sich behauptet<lb facs="P4_TL00073"/>Weil er sachlich ist<lb facs="P4_TL00074"/>Denn er ist Sache jener Natur, die<lb facs="P4_TL00075"/>Selbsterkenntnis hat<lb facs="P4_TL00076"/>Und ist<lb facs="P4_TL00077"/>Und sich erfafzt beim Wort<lb facs="P4_TL00078"/>Gute Worte geben<lb facs="P4_TL00079"/>Beim Wort nehmen<lb facs="P4_TL00080"/>Wenn ich Sie persönlich sprechen könnte<lb facs="P4_TL00081"/>Wenn ich Sie sachlich sprechen müfzte?<lb facs="P4_TL00082"/>Wie heifzen Sie?<lb facs="P4_TL00083"/>Name tut nichts zur Sache<lb facs="P4_TL00084"/>Also zur Sache<lb facs="P4_TL00085"/>Nebel<lb facs="P4_TL00086"/>Angenehm<lb facs="P4_TL00087"/>Nebel ist sehr unangenehm<lb facs="P4_TL00088"/>Will ich nicht annehmen<lb facs="P4_TL00089"/>Wird sich ergeben<lb facs="P4_TL00090"/>Setzen Sie sich mit mir ins Einvernehmen<lb facs="P4_TL00091"/>Setzen Sie sich nichts in den Kopf<lb facs="P4_TL00092"/>Sie sind benebelt im Kopf<lb facs="P4_TL00093"/>So sehen Sie aus. Der dumme Witz<lb facs="P4_TL00094"/>mufzte kommen<lb facs="P4_TL00095"/>Das kommt Ihnen nur so vor<lb facs="P4_TL00096"/>Exzellenz, ich komme dahinter<lb facs="P4_TL00097"/>Dahinter kommt keiner!<lb facs="P4_TL00098"/>Dahin ist es gekommen?<lb facs="P4_TL00099"/>Daher kehren Sie sich nicht dagegen<lb facs="P4_TL00100"/>Jetzt abkehren? #&gt;<lb facs="P4_TL00101"/>Machen Sie kehrt<lb facs="P4_TL00102"/>Ich kehre die Mache. Doch ich bekehre<lb facs="P4_TL00103"/>Sie nicht<lb facs="P4_TL00104"/>Warum nicht?<lb facs="P4_TL00105"/>Kehren Sie Nebel um<lb facs="P4_TL00106"/>Leben?<lb facs="P4_TL00107"/>Mein Inkognito<lb facs="P4_TL00108"/>Spricht Leben aus Ihnen?<lb facs="P4_TL00109"/>Schweigt Tod aus Ihnen?</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00002">
+                                    <lb facs="P6_TL00002"/>Sie treten mir zunahe<lb facs="P6_TL00003"/>Sie treten Leben tot<lb facs="P6_TL00004"/>Das geht mir nahe<lb facs="P6_TL00005"/>Treten Sie näher<lb facs="P6_TL00006"/>Noch näher?<lb facs="P6_TL00007"/>Ganz nahe auf der Stelle<lb facs="P6_TL00008"/>Ich sehe nichts in der Nähe<lb facs="P6_TL00009"/>Sie sind schon im Nebel<lb facs="P6_TL00010"/>Sie Tropf<lb facs="P6_TL00011"/>Klar sind Nebeltropfen<lb facs="P6_TL00012"/>Vom Himmel hoch? Sie kommen daher?<lb facs="P6_TL00013"/>Und lassen sich auf die Erde nieder<lb facs="P6_TL00014"/>So herablassend?<lb facs="P6_TL00015"/>Warum so niederträchtig?<lb facs="P6_TL00016"/>Aus Bosheit?<lb facs="P6_TL00017"/>Aus Liebe zur Erde<lb facs="P6_TL00018"/>Kommt Himmel nieder?<lb facs="P6_TL00019"/>Himmel geht um die Erde<lb facs="P6_TL00020"/>Das ist himmlisch<lb facs="P6_TL00021"/>Wenn dennoch Friede geht?<lb facs="P6_TL00022"/>Wenn der Frühling kommt<lb facs="P6_TL00023"/>Friede auf Erden<lb facs="P6_TL00024"/>Krieg auf die Erde!<lb facs="P6_TL00025"/>Erde auf die Kriege!<lb facs="P6_TL00026"/>Sie sind Christ?<lb facs="P6_TL00027"/>Sind sie Christ?<lb facs="P6_TL00028"/>Soldat bin ich<lb facs="P6_TL00029"/>Das ist herrlich<lb facs="P6_TL00030"/>Feldherr bin ich<lb facs="P6_TL00031"/>Das ist nicht dienlich<lb facs="P6_TL00032"/>Ich diene<lb facs="P6_TL00033"/>Im Götzendienst<lb facs="P6_TL00034"/>Wozu dient das?<lb facs="P6_TL00035"/>Und aufzer Dienst?<lb facs="P6_TL00036"/>Ich bin immer im Dienst<lb facs="P6_TL00037"/>Nehmen Sie Abschied vom Menschendienst<lb facs="P6_TL00038"/>Geht das?<lb facs="P6_TL00039"/>Es geht! Indem Sie gehen<lb facs="P6_TL00040"/>Ich gehe nicht<lb facs="P6_TL00041"/>Dann fallen Sie<lb facs="P6_TL00042"/>Ich will fallen<lb facs="P6_TL00043"/>Warum?<lb facs="P6_TL00044"/>Kann nicht mehr aufrecht stehen<lb facs="P6_TL00045"/>Das ist aufrichtig<lb facs="P6_TL00046"/>Ich bin Exzellenz<lb facs="P6_TL00047"/>Das ist hervorragend<lb facs="P6_TL00048"/>Ich rage nicht heraus<lb facs="P6_TL00049"/>Warum heifzen Sie dann Exzellenz?<lb facs="P6_TL00050"/>Da müssen Sie OBEN fragen<lb facs="P6_TL00051"/>Noch höher?<lb facs="P6_TL00052"/>Ganz oben!<lb facs="P6_TL00053"/>*<lb facs="P6_TL00054"/>* *<lb facs="P6_TL00055"/>w<lb facs="P6_TL00056"/>WIR (Sprich WEH)</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00003">
+                                    <lb facs="P6_TL00057"/>Nun gnade Gott!<lb facs="P6_TL00058"/>WIR sind<lb facs="P6_TL00059"/>wir sind im Geist<lb facs="P6_TL00060"/>WIR sind VON GOTTES GNADEN!<lb facs="P6_TL00061"/>Alle Menschen sind durch SEINE Gnade<lb facs="P6_TL00062"/>Sind Sie auch von Gottes Gnaden?<lb facs="P6_TL00063"/>Künstler bin ich<lb facs="P6_TL00064"/>Künstler von Gottes Gnaden?<lb facs="P6_TL00065"/>Das entscheidet die Kunst<lb facs="P6_TL00066"/>Sie sind zu bescheiden<lb facs="P6_TL00067"/>Entschieden<lb facs="P6_TL00068"/>Für welches Fach haben Sie sich<lb facs="P6_TL00069"/>entschieden?<lb facs="P6_TL00070"/>Für Einfaches<lb facs="P6_TL00071"/>Was ist das?<lb facs="P6_TL00072"/>Wahrheit<lb facs="P6_TL00073"/>Die ist nicht so einfach<lb facs="P6_TL00074"/>Ohne Zweifel ist sie einfach<lb facs="P6_TL00075"/>Zweifeln Sie nie?<lb facs="P6_TL00076"/>Ich glaube<lb facs="P6_TL00077"/>Zweifeln Sie nie?<lb facs="P6_TL00078"/>Zuweilen<lb facs="P6_TL00079"/>Woran?<lb facs="P6_TL00080"/>An der Mache<lb facs="P6_TL00081"/>Was ist das?<lb facs="P6_TL00082"/>Macht ist keine Mache<lb facs="P6_TL00083"/>Macht geht vor Recht!<lb facs="P6_TL00084"/>Nein. Recht ist Macht<lb facs="P6_TL00085"/>Geht Recht vor Macht?<lb facs="P6_TL00086"/>Sonst geht die Mache!<lb facs="P6_TL00087"/>Und UNSERE Macht?<lb facs="P6_TL00088"/>Mit EURER Mache ist NICHTS getan<lb facs="P6_TL00089"/>Warum haben Sie das nicht früher gesagt?<lb facs="P6_TL00090"/>Früher war DAS untersagt<lb facs="P6_TL00091"/>Warum haben Sie das UNS nicht gesagt?<lb facs="P6_TL00092"/>Künstler haben nichts zu sagen<lb facs="P6_TL00093"/>Was hätte man gesagt?<lb facs="P6_TL00094"/>Sagenhaft<lb facs="P6_TL00095"/>Was hätte man noch gesagt?<lb facs="P6_TL00096"/>Gewagt<lb facs="P6_TL00097"/>Was noch?<lb facs="P6_TL00098"/>Vaterlandsverräter<lb facs="P6_TL00099"/>Wer hätte das gesagt?<lb facs="P6_TL00100"/>Die Landesvaterverteidiger<lb facs="P6_TL00101"/>Wer sind die?<lb facs="P6_TL00102"/>Die Landzertreter<lb facs="P6_TL00103"/>Wer sind die Vertreter?<lb facs="P6_TL00104"/>Kriech-deutsche<lb facs="P6_TL00105"/>Alle?<lb facs="P6_TL00106"/>Nur die Kriechpartei<lb facs="P6_TL00107"/>Alle Deutschen?<lb facs="P6_TL00108"/>Alldeutsche<lb facs="P6_TL00109"/>Das All ist nicht deutsch<lb facs="P6_TL00110"/>Das habe ich oft gesagt</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00002">
+                                    <lb facs="P7_TL00002"/>Was hat man da gesagt?<lb facs="P7_TL00003"/>Verrückt<lb facs="P7_TL00004"/>Wer hat das gesagt?<lb facs="P7_TL00005"/>Die Normalen<lb facs="P7_TL00006"/>Nochmal!<lb facs="P7_TL00007"/>Die kriechdeutschen Landeskratervereidiger<lb facs="P7_TL00008"/>Keine Mutterlandverteidiger?<lb facs="P7_TL00009"/>Nein<lb facs="P7_TL00010"/>Also Verräter?<lb facs="P7_TL00011"/>Erraten<lb facs="P7_TL00012"/>Wer hat Ihnen das erraten?<lb facs="P7_TL00013"/>Das verratene Mutterland<lb facs="P7_TL00014"/>Was ist Verrat?<lb facs="P7_TL00015"/>Falscher Rat<lb facs="P7_TL00016"/>Was ist falsch?<lb facs="P7_TL00017"/>Kriegsbegeisterung<lb facs="P7_TL00018"/>Wer sagt das?<lb facs="P7_TL00019"/>Das Gewissen<lb facs="P7_TL00020"/>Was ist das?<lb facs="P7_TL00021"/>Aha!<lb facs="P7_TL00022"/>Das ist unverschämt<lb facs="P7_TL00023"/>Das ist nackte Wahrheit<lb facs="P7_TL00024"/>Und sie schämt sich nicht?<lb facs="P7_TL00025"/>Darum lebt sie nackt<lb facs="P7_TL00026"/>Wie meinen Sie das?<lb facs="P7_TL00027"/>Hüllen töten sie<lb facs="P7_TL00028"/>i<lb facs="P7_TL00029"/>Wie meinen Sie das?<lb facs="P7_TL00030"/>Lumpen morden sie<lb facs="P7_TL00031"/>Nackt können WIR sie nie sehen<lb facs="P7_TL00032"/>Das sehe ich ein<lb facs="P7_TL00033"/>Das ist die Höhe<lb facs="P7_TL00034"/>Das ist der Fall<lb facs="P7_TL00035"/>WIR sind die Höhe<lb facs="P7_TL00036"/>IHR seid nicht auf der Höhe<lb facs="P7_TL00037"/>Wieso?<lb facs="P7_TL00038"/>Höhe müfzte weiter sehen<lb facs="P7_TL00039"/>Es ist Dunst um UNS Hohlheit<lb facs="P7_TL00040"/>Nebel steigt über Hoheiten<lb facs="P7_TL00041"/>Es geht bergab *<lb facs="P7_TL00042"/>Rutscht der Berg?<lb facs="P7_TL00043"/>Untergraben ist er<lb facs="P7_TL00044"/>Nur noch gestützt<lb facs="P7_TL00045"/>Stützen der Gesellschaft<lb facs="P7_TL00046"/>Alles faul<lb facs="P7_TL00047"/>Alle morsch<lb facs="P7_TL00048"/>Alle marschmarsch<lb facs="P7_TL00049"/>Sie stützen nicht<lb facs="P7_TL00050"/>Sie unterstützen sich gegenseitig<lb facs="P7_TL00051"/>Schwach fühlen sie sich<lb facs="P7_TL00052"/>Nur etwas angegriffen<lb facs="P7_TL00053"/>Nur Verteidigungskrieg<lb facs="P7_TL00054"/>Ich kriege euch schon<lb facs="P7_TL00055"/>Die beste Verteidigung ist der Angriff<lb facs="P7_TL00056"/>Der beste Angriff ist keine Verteidigung</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00003">
+                                    <lb facs="P7_TL00057"/>Behauptung gegen Behauptung<lb facs="P7_TL00058"/>Haupt an Haupt<lb facs="P7_TL00059"/>Behauptung mit Adler<lb facs="P7_TL00060"/>Behelmtes Haupt<lb facs="P7_TL00061"/>Alles bewehrt<lb facs="P7_TL00062"/>Alles verheert<lb facs="P7_TL00063"/>Alles verhandelt<lb facs="P7_TL00064"/>Das ist allerhand<lb facs="P7_TL00065"/>Das ist aller Handwerk<lb facs="P7_TL00066"/>Das ist aller Mundwerk<lb facs="P7_TL00067"/>Der grofze Vogel<lb facs="P7_TL00068"/>Hast du nicht gesehen?<lb facs="P7_TL00069"/>Jetz kommt Beweis zur kühnen Behauptung<lb facs="P7_TL00070"/>Achtung<lb facs="P7_TL00071"/>Fertig<lb facs="P7_TL00072"/>Los<lb facs="P7_TL00073"/>Hurra<lb facs="P7_TL00074"/>Immer feste druff<lb facs="P7_TL00075"/>Vorarbeiten!<lb facs="P7_TL00076"/>Gelände gewinnen<lb facs="P7_TL00077"/>Nur zur Verteidigung<lb facs="P7_TL00078"/>Mit Geld gegen Gott und Mutterland<lb facs="P7_TL00079"/>Liebmutterland, DU! ERDE!<lb facs="P7_TL00080"/>Dieb Heimatland a. D.<lb facs="P7_TL00081"/>*<lb facs="P7_TL00082"/>* *<lb facs="P7_TL00083"/>Diese Hitze!<lb facs="P7_TL00084"/>Diese Hetze!<lb facs="P7_TL00085"/>Diese hats<lb facs="P7_TL00086"/>Hirne brennen<lb facs="P7_TL00087"/>Hirnverbrannte!<lb facs="P7_TL00088"/>Hirnpest erbricht sich<lb facs="P7_TL00089"/>Begeisterung erbricht sich<lb facs="P7_TL00090"/>Beweis erbracht<lb facs="P7_TL00091"/>Geist bricht zusammen<lb facs="P7_TL00092"/>Krieg bricht aus<lb facs="P7_TL00093"/>Erklärt?<lb facs="P7_TL00094"/>Irrsinn bricht sich Schufzbahn<lb facs="P7_TL00095"/>Irrenhaus Welt<lb facs="P7_TL00096"/>Jetzt ist der alte Wahnsinn Los<lb facs="P7_TL00097"/>Ist jetzt der trübe Krieg euch klar?<lb facs="P7_TL00098"/>Er kann sich Sich nicht vorstellen<lb facs="P7_TL00099"/>Vorstellung mufz Statt finden<lb facs="P7_TL00100"/>Staat nimmt Stellungen<lb facs="P7_TL00101"/>Darf ich bekanntmachen?<lb facs="P7_TL00102"/>Theatre de la guerre — Das Publikum<lb facs="P7_TL00103"/>Man stelle sich vor<lb facs="P7_TL00104"/>Publikum hat nie Vorstellungen<lb facs="P7_TL00105"/>Stellt sich Krieg nicht vor<lb facs="P7_TL00106"/>Stellt sich vor Stellungskriege<lb facs="P7_TL00107"/>Stellungslose Menschheit gesucht<lb facs="P7_TL00108"/>Das Gesuch<lb facs="P7_TL00109"/>Die Erfindung</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00002">
+                                    <lb facs="P8_TL00002"/>Dahinter die Wissenschaft<lb facs="P8_TL00003"/>Schufte in voller Deckung<lb facs="P8_TL00004"/>Professor Soundso<lb facs="P8_TL00005"/>Mufz Krieg erleben<lb facs="P8_TL00006"/>Bei Leibe<lb facs="P8_TL00007"/>Aber hinten<lb facs="P8_TL00008"/>Aber Geist?<lb facs="P8_TL00009"/>Fehlanzeige<lb facs="P8_TL00010"/>Publikum stellt Kriege zwischen sich<lb facs="P8_TL00011"/>Stellt sich davor<lb facs="P8_TL00012"/>Wird zerrissen<lb facs="P8_TL00013"/>Kommt nie dahinter<lb facs="P8_TL00014"/>So kommen Kriege vor<lb facs="P8_TL00015"/>Nur so können sie vorwärts kommen<lb facs="P8_TL00016"/>Der Vorwärts<lb facs="P8_TL00017"/>Sie lernen nichts<lb facs="P8_TL00018"/>Dummheit ist Schicksal<lb facs="P8_TL00019"/>Jede Degeneration hat ihren Zirkus<lb facs="P8_TL00020"/>So kommt die Hölle nieder<lb facs="P8_TL00021"/>Himmel in Höllenbewegung setzen<lb facs="P8_TL00022"/>Frischer, fröhlicher Krieg<lb facs="P8_TL00023"/>Man muß sich Bewegung machen<lb facs="P8_TL00024"/>Nur einen kleinen Bewegungskrieg<lb facs="P8_TL00025"/>Zur Verdauung<lb facs="P8_TL00026"/>Maden verdauen rasch frischfröhliche<lb facs="P8_TL00027"/>Degenerationen<lb facs="P8_TL00028"/>Mann kann sich begraben lassen<lb facs="P8_TL00029"/>Auf der Stelle<lb facs="P8_TL00030"/>Im Stellungskrieg<lb facs="P8_TL00031"/>Als ob du schwebst<lb facs="P8_TL00032"/>Wolkenkrieg<lb facs="P8_TL00033"/>Nur Wasser<lb facs="P8_TL00034"/>••<lb facs="P8_TL00035"/>Über<lb facs="P8_TL00036"/>Unter<lb facs="P8_TL00037"/>Vor<lb facs="P8_TL00038"/>Und WISCHEN<lb facs="P8_TL00039"/>Teils dieserhalb<lb facs="P8_TL00040"/>Teils unter See<lb facs="P8_TL00041"/>Wassersuppen<lb facs="P8_TL00042"/>See wird geschlachtet<lb facs="P8_TL00043"/>Wir gehen nicht unter<lb facs="P8_TL00044"/>Unsere Hoffnung unter Wasser<lb facs="P8_TL00045"/>Tauchlich<lb facs="P8_TL00046"/>m • p •• l •<lb facs="P8_TL00047"/>tiefgründig<lb facs="P8_TL00048"/>Zu Boden<lb facs="P8_TL00049"/>Viele vertrocknen unter Wasser<lb facs="P8_TL00050"/>Haare stehen zuberge<lb facs="P8_TL00051"/>Bergkrieg<lb facs="P8_TL00052"/>Brecht dem Land die Knochen<lb facs="P8_TL00053"/>Landfriedensbruch<lb facs="P8_TL00054"/>Vaterländer rechts und links<lb facs="P8_TL00055"/>Mutterland Erde schreit<lb facs="P8_TL00056"/>Unerhört<lb facs="P8_TL00057"/>Erzdumme Ohren</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00003">
+                                    <lb facs="P8_TL00058"/>Eisenerz<lb facs="P8_TL00059"/>Gufzeisen<lb facs="P8_TL00060"/>Flufzstahl<lb facs="P8_TL00061"/>Sie können mir gestohlen bleiben<lb facs="P8_TL00062"/>Es bleibt dabei<lb facs="P8_TL00063"/>Dabei bleibt nichts übrig<lb facs="P8_TL00064"/>Alles Bruch<lb facs="P8_TL00065"/>Knochenbrüche<lb facs="P8_TL00066"/>Eisenbrüche<lb facs="P8_TL00067"/>Splittereisen<lb facs="P8_TL00068"/>Splitter pfeifen auf alles<lb facs="P8_TL00069"/>Leichensplitter<lb facs="P8_TL00070"/>Leichenfelder<lb facs="P8_TL00071"/>Eichenwälder über Berg und Tal<lb facs="P8_TL00072"/>• •<lb facs="P8_TL00073"/>Übermannt und leer<lb facs="P8_TL00074"/>Leichenberge<lb facs="P8_TL00075"/>Schädelstätte<lb facs="P8_TL00076"/>Golgatha<lb facs="P8_TL00077"/>Christentum<lb facs="P8_TL00078"/>Vergib ihnen<lb facs="P8_TL00079"/>Vergeblicher Tod<lb facs="P8_TL00080"/>Sie kümmern sich um NICHTS<lb facs="P8_TL00081"/>NICHTSWÜRDIG<lb facs="P8_TL00082"/>Sehr kümmerlich<lb facs="P8_TL00083"/>Wie trümmerlich<lb facs="P8_TL00084"/>Trümmerstädte<lb facs="P8_TL00085"/>Fetzendörfer<lb facs="P8_TL00086"/>Fetzentiere<lb facs="P8_TL00087"/>Mutterstute<lb facs="P8_TL00088"/>Mutterseele all-ein<lb facs="P8_TL00089"/>Mutterseele, ein All<lb facs="P8_TL00090"/>Mutterängste<lb facs="P8_TL00091"/>Kindermorde<lb facs="P8_TL00092"/>Hiefz töten, was einjährig und darüber<lb facs="P8_TL00093"/>diente<lb facs="P8_TL00094"/>Die Ungeborenen<lb facs="P8_TL00095"/>Gegorene Krieger<lb facs="P8_TL00096"/>Mutwillige<lb facs="P8_TL00097"/>Freier Wille?<lb facs="P8_TL00098"/>Willenlose<lb facs="P8_TL00099"/>Kopflos<lb facs="P8_TL00100"/>Kopfschufz<lb facs="P8_TL00101"/>Kopfweh<lb facs="P8_TL00102"/>Wehgeschrei<lb facs="P8_TL00103"/>Verweht<lb facs="P8_TL00104"/>Schreiendes Unrecht<lb facs="P8_TL00105"/>Rechtsbrach<lb facs="P8_TL00106"/>Menschenrechte?<lb facs="P8_TL00107"/>Völkerrechte!<lb facs="P8_TL00108"/>Volkes Stimme-Götzenstimme<lb facs="P8_TL00109"/>Es stimmt<lb facs="P8_TL00110"/>In Stille und Sturm<lb facs="P8_TL00111"/>Sturmglocken<lb facs="P8_TL00112"/>Turmbrocken</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P10_TB00002">
+                                    <lb facs="P10_TL00002"/>Jubelsturm<lb facs="P10_TL00003"/>Siegesjubel<lb facs="P10_TL00004"/>Hört ihr's wimmern?<lb facs="P10_TL00005"/>Jubeltanz<lb facs="P10_TL00006"/>Waffentanz<lb facs="P10_TL00007"/>Tanzmusik<lb facs="P10_TL00008"/>Wirbelklang<lb facs="P10_TL00009"/>Wirbelsäulen<lb facs="P10_TL00010"/>Wirbelwind<lb facs="P10_TL00011"/>DER STURM<lb facs="P10_TL00012"/>Sturmangriff<lb facs="P10_TL00013"/>Regriffs Verdrehung<lb facs="P10_TL00014"/>Drehbühne<lb facs="P10_TL00015"/>Heldenväter<lb facs="P10_TL00016"/>Die Trottel<lb facs="P10_TL00017"/>DAS TROTTEN<lb facs="P10_TL00018"/>Truppentrott<lb facs="P10_TL00019"/>Stofztrupp<lb facs="P10_TL00020"/>Anstofz erregen<lb facs="P10_TL00021"/>Regengüsse<lb facs="P10_TL00022"/>Blutergüsse<lb facs="P10_TL00023"/>Bluter<lb facs="P10_TL00024"/>••<lb facs="P10_TL00025"/>Im Überflufz<lb facs="P10_TL00026"/>Überflüssiges Menschenmaterial<lb facs="P10_TL00027"/>Truppenmaterial<lb facs="P10_TL00028"/>Material-Listen<lb facs="P10_TL00029"/>Materialisten<lb facs="P10_TL00030"/>Arterien<lb facs="P10_TL00031"/>Artillerie<lb facs="P10_TL00032"/>Kolonnen<lb facs="P10_TL00033"/>Bei Tage und bei Krach<lb facs="P10_TL00034"/>Reisemarsch<lb facs="P10_TL00035"/>Fufzkrank<lb facs="P10_TL00036"/>Das Müllern ist des Wandrers List<lb facs="P10_TL00037"/>Im Gepäckmarsch<lb facs="P10_TL00038"/>Pack<lb facs="P10_TL00039"/>Esel<lb facs="P10_TL00040"/>Packesel<lb facs="P10_TL00041"/>Packe, Esel<lb facs="P10_TL00042"/>Tragtiere<lb facs="P10_TL00043"/>Tierquälerei<lb facs="P10_TL00044"/>Ach, sie merken nichts<lb facs="P10_TL00045"/>Märker<lb facs="P10_TL00046"/>Rückenmärker<lb facs="P10_TL00047"/>Die halbe Mark<lb facs="P10_TL00048"/>Markierer<lb facs="P10_TL00049"/>Rrotmarken<lb facs="P10_TL00050"/>Not kennt keine<lb facs="P10_TL00051"/>Zweckverband<lb facs="P10_TL00052"/>Notverband<lb facs="P10_TL00053"/>Ordensband<lb facs="P10_TL00054"/>Tand<lb facs="P10_TL00055"/>Tändelei<lb facs="P10_TL00056"/>Leiermann</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P10_TB00003">
+                                    <lb facs="P10_TL00057"/>Mannschaft<lb facs="P10_TL00058"/>MÄNNER<lb facs="P10_TL00059"/>Männe<lb facs="P10_TL00060"/>Weiberbrunst<lb facs="P10_TL00061"/>Brust<lb facs="P10_TL00062"/>Blut schäumt hoch<lb facs="P10_TL00063"/>Blutgemenge<lb facs="P10_TL00064"/>Metze<lb facs="P10_TL00065"/>Metzeleien<lb facs="P10_TL00066"/>Handgemenge Beingemenge<lb facs="P10_TL00067"/>Pulvermenge<lb facs="P10_TL00068"/>Pulvergase<lb facs="P10_TL00069"/>Gasgeschosse<lb facs="P10_TL00070"/>Erdgeschofz<lb facs="P10_TL00071"/>Erster Stock<lb facs="P10_TL00072"/>Punkt<lb facs="P10_TL00073"/>J<lb facs="P10_TL00074"/>Punktgeschorz<lb facs="P10_TL00075"/>Kostenpunkt?<lb facs="P10_TL00076"/>Machen Sie einen Doppelpunkt<lb facs="P10_TL00077"/>ES ist: Barbarisch<lb facs="P10_TL00078"/>Barbarei<lb facs="P10_TL00079"/>Barbara<lb facs="P10_TL00080"/>Bataillon<lb facs="P10_TL00081"/>Guter Lohn<lb facs="P10_TL00082"/>Löhnungsgeld<lb facs="P10_TL00083"/>GOLD verbrauch<lb facs="P10_TL00084"/>Rauch doch nicht<lb facs="P10_TL00085"/>Stromverbrauch<lb facs="P10_TL00086"/>Stromer<lb facs="P10_TL00087"/>Brauchbarkeit<lb facs="P10_TL00088"/>Dankbarkeit<lb facs="P10_TL00089"/>Lichtverbrauch<lb facs="P10_TL00090"/>Auch Blinde<lb facs="P10_TL00091"/>Augenlicht<lb facs="P10_TL00092"/>Sehet, Krüppel!<lb facs="P10_TL00093"/>Seilet Krüppel<lb facs="P10_TL00094"/>Verblendung<lb facs="P10_TL00095"/>Blendlaterne<lb facs="P10_TL00096"/>Kino<lb facs="P10_TL00097"/>Kein Licht machen!<lb facs="P10_TL00098"/>Im Graben<lb facs="P10_TL00099"/>Aber Scheinwerfer<lb facs="P10_TL00100"/>Wurfminen<lb facs="P10_TL00101"/>Stockminen &gt;<lb facs="P10_TL00102"/>Stockung<lb facs="P10_TL00103"/>Stockrosen<lb facs="P10_TL00104"/>Rasentau<lb facs="P10_TL00105"/>Taugenichts<lb facs="P10_TL00106"/>Liederjan<lb facs="P10_TL00107"/>Januskopf<lb facs="P10_TL00108"/>Kopfverderb<lb facs="P10_TL00109"/>Derber Spafz<lb facs="P10_TL00110"/>Derbe Kost<lb facs="P10_TL00111"/>Derber Kerl</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P11_TB00002">
+                                    <lb facs="P11_TL00002"/>Und Spafz mufz sein<lb facs="P11_TL00003"/>Im Rasen<lb facs="P11_TL00004"/>Raserei<lb facs="P11_TL00005"/>Reiterei<lb facs="P11_TL00006"/>Arme Ritter<lb facs="P11_TL00007"/>Flitterrock<lb facs="P11_TL00008"/>Grauer Rock<lb facs="P11_TL00009"/>Das FELDGRAUEN<lb facs="P11_TL00010"/>Graue Laus j<lb facs="P11_TL00011"/>Entlausung<lb facs="P11_TL00012"/>Saubere Wirtschaft<lb facs="P11_TL00013"/>Dafz alles nur verdampfe<lb facs="P11_TL00014"/>Mir raucht der Knopf<lb facs="P11_TL00015"/>Er stellt Worte und Welt auf den Kopf<lb facs="P11_TL00016"/>Aber auf seinen<lb facs="P11_TL00017"/>Aber das steht fest<lb facs="P11_TL00018"/>Festlich<lb facs="P11_TL00019"/>Lichterbaum<lb facs="P11_TL00020"/>Gelichter<lb facs="P11_TL00021"/>Wehenachtstraum<lb facs="P11_TL00022"/>ALP<lb facs="P11_TL00023"/>Die Alpen<lb facs="P11_TL00024"/>Schneezell:<lb facs="P11_TL00025"/>Schnee im Zelt<lb facs="P11_TL00026"/>Die Zelten<lb facs="P11_TL00027"/>Tod im Zelt<lb facs="P11_TL00028"/>Totenstille<lb facs="P11_TL00029"/>Weiber stillen<lb facs="P11_TL00030"/>Die nächste Degeneration<lb facs="P11_TL00031"/>Sie merken nichts<lb facs="P11_TL00032"/>Menschenerde wälzt im Raum den<lb facs="P11_TL00033"/>Jammer um<lb facs="P11_TL00034"/>Katzenjammer<lb facs="P11_TL00035"/>Ihr Jämmerlichen jammert mich<lb facs="P11_TL00036"/>Schafft endlich diesen Hammer ab<lb facs="P11_TL00037"/>Schafft endlos euch den Menschen ab<lb facs="P11_TL00038"/>Der Erde juckt das bunte Fell<lb facs="P11_TL00039"/>Bald hält sie still<lb facs="P11_TL00040"/>Steht still<lb facs="P11_TL00041"/>Und speit euch fort<lb facs="P11_TL00042"/>Jach<lb facs="P11_TL00043"/>Hoch in raumes Nichts<lb facs="P11_TL00044"/>Daher ihr Mörder kamt<lb facs="P11_TL00045"/>Narr Kamerad<lb facs="P11_TL00046"/>*<lb facs="P11_TL00047"/>* *<lb facs="P11_TL00048"/>Es is errreicht<lb facs="P11_TL00049"/>Reich mir den Sand, mein Beben<lb facs="P11_TL00050"/>Ich will euch verschütten<lb facs="P11_TL00051"/>Die Organe treten<lb facs="P11_TL00052"/>Die Organe treten zusammen<lb facs="P11_TL00053"/>Wieder eine Generalversandung<lb facs="P11_TL00054"/>Gute Organe<lb facs="P11_TL00055"/>Laute Organe</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P11_TB00003">
+                                    <lb facs="P11_TL00056"/>Kopf räsonniert<lb facs="P11_TL00057"/>Mit der Zunge, mit der Lunge, mit die<lb facs="P11_TL00058"/>Muskelkraft<lb facs="P11_TL00059"/>Sie setzen sich etwas in die Köpfe<lb facs="P11_TL00060"/>Platz genug darin<lb facs="P11_TL00061"/>Sie zerbrechen sich die Köpfe<lb facs="P11_TL00062"/>Kommt nichts heraus dabei<lb facs="P11_TL00063"/>Wir müssen es herausbringen<lb facs="P11_TL00064"/>Wir müssen etwas unternehmen<lb facs="P11_TL00065"/>Die Herren Unternehmer<lb facs="P11_TL00066"/>Kleine Unternehmung<lb facs="P11_TL00067"/>Von OBEN befohlen<lb facs="P11_TL00068"/>Krieg darf nicht einschlafen<lb facs="P11_TL00069"/>Es mulz wieder etwas umgebracht werden<lb facs="P11_TL00070"/>Wenn nur Gefangene eingebracht werden<lb facs="P11_TL00071"/>Dazu brauche ich Artillerie, Herr<lb facs="P11_TL00072"/>Artilleriekommandeur<lb facs="P11_TL00073"/>Exzellenz brauchen nur zu befehlen<lb facs="P11_TL00074"/>Munition ? Munition ? Munitonslager?<lb facs="P11_TL00075"/>Befehl, Exzellenz<lb facs="P11_TL00076"/>Es lagert eine hübsche Menge<lb facs="P11_TL00077"/>Allerlei am Lager<lb facs="P11_TL00078"/>Hübsche, nette, grofze Kaliber<lb facs="P11_TL00079"/>Hüb<lb facs="P11_TL00080"/>Wer war das?<lb facs="P11_TL00081"/>Frische Sendung<lb facs="P11_TL00082"/>Sehr erfrischende Wirkung<lb facs="P11_TL00083"/>Wirkungsfeuer<lb facs="P11_TL00084"/>Störungsfeuer<lb facs="P11_TL00085"/>Zur eigenen Beruhigung<lb facs="P11_TL00086"/>Zur fremden Beunruhigung<lb facs="P11_TL00087"/>Ruhe sanft<lb facs="P11_TL00088"/>Also doch Zerstörungsfeuer?<lb facs="P11_TL00089"/>Feuer zerstört immer<lb facs="P11_TL00090"/>Sozusagen<lb facs="P11_TL00091"/>Mein Störungsfeuer aus Feldkanonen,<lb facs="P11_TL00092"/>Feldhaubitzen<lb facs="P11_TL00093"/>Anmarsch stören<lb facs="P11_TL00094"/>Anmarschwege zerstören<lb facs="P11_TL00095"/>Also doch Zerstörungsfeuer?<lb facs="P11_TL00096"/>Gewissermafzen<lb facs="P11_TL00097"/>Gute Gewissen<lb facs="P11_TL00098"/>Gewisse Güte<lb facs="P11_TL00099"/>Mein eigentliches Vernichtungsfeuer aus<lb facs="P11_TL00100"/>schweren Mörsern<lb facs="P11_TL00101"/>Massenmördern<lb facs="P11_TL00102"/>Exzellenz belieben zu scherzen<lb facs="P11_TL00103"/>Schmerzen<lb facs="P11_TL00104"/>Wirkungsfeuer auf Feldbefestigungen mit<lb facs="P11_TL00105"/>allen Kalibern<lb facs="P11_TL00106"/>Kaliban<lb facs="P11_TL00107"/>(ein wilder, mussgestalter Sklave)<lb facs="P11_TL00108"/>Wirkung massieren<lb facs="P11_TL00109"/>Befehl, Exzellenz, ich massiere</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P12_TB00002">
+                                    <lb facs="P12_TL00002"/>(Wird sofort rasiert)<lb facs="P12_TL00003"/>Feuerunterstützung durch Flankierhaubitzen<lb facs="P12_TL00004"/>schweren Kalibers<lb facs="P12_TL00005"/>Rasierkaliber<lb facs="P12_TL00006"/>Ein witziger Herr<lb facs="P12_TL00007"/>Mein Lieber, das genügt nicht<lb facs="P12_TL00008"/>Dann lieber Gaskaliber<lb facs="P12_TL00009"/>Verseuchungsschiefzen<lb facs="P12_TL00010"/>Gelbkreuz<lb facs="P12_TL00011"/>Kreuzige ihn<lb facs="P12_TL00012"/>Ihr Gauner<lb facs="P12_TL00013"/>Das wird genügen<lb facs="P12_TL00014"/>Er hat genug<lb facs="P12_TL00015"/>Er begnügt sich<lb facs="P12_TL00016"/>Es kocht schon<lb facs="P12_TL00017"/>Es düftet schön<lb facs="P12_TL00018"/>Mittagessen?<lb facs="P12_TL00019"/>Leichen duften<lb facs="P12_TL00020"/>Bitte, Herr Pionierkommandeur<lb facs="P12_TL00021"/>Jetzt geht es an die Nieren<lb facs="P12_TL00022"/>Exzellenz, wir kaufen sie uns<lb facs="P12_TL00023"/>Guter Kaufmann, der schwere Nier<lb facs="P12_TL00024"/>Schwere Mine<lb facs="P12_TL00025"/>Halbe schwere<lb facs="P12_TL00026"/>Ganze sehwere<lb facs="P12_TL00027"/>Mittlere<lb facs="P12_TL00028"/>Und zum bösen Spiel<lb facs="P12_TL00029"/>Die gute Gasmine<lb facs="P12_TL00030"/>Phosgen<lb facs="P12_TL00031"/>Exzellenz, wir minieren<lb facs="P12_TL00032"/>Wieder Nieren<lb facs="P12_TL00033"/>Er säuft<lb facs="P12_TL00034"/>Wir untergraben alles<lb facs="P12_TL00035"/>Wir haben schon mehr unterwühlt<lb facs="P12_TL00036"/>Stollen graben wir<lb facs="P12_TL00037"/>Weihnachtsstollen ?<lb facs="P12_TL00038"/>Hahaha, Exzellenz. Und Osterstollen<lb facs="P12_TL00039"/>Wir arbeiten im Dunkel<lb facs="P12_TL00040"/>Licht wird später eingeführt<lb facs="P12_TL00041"/>Wirft das nicht ein schlechtes Licht auf<lb facs="P12_TL00042"/>die Leute?<lb facs="P12_TL00043"/>Werft Lichte!<lb facs="P12_TL00044"/>Und die leichten Minenwerfer?<lb facs="P12_TL00045"/>Exzellenz, die gehören der Infanterie<lb facs="P12_TL00046"/>Aber gehorchen?<lb facs="P12_TL00047"/>Ach so, ich hörte schon. Also bitte, Herr<lb facs="P12_TL00048"/>Infanteriekommandeur<lb facs="P12_TL00049"/>Exzellenz?<lb facs="P12_TL00050"/>Heilzen sie nicht: Leichte, gezogene<lb facs="P12_TL00051"/>Werfer<lb facs="P12_TL00052"/>Unsere ungezogenen Leute sagen: Leicht<lb facs="P12_TL00053"/>gezogene Werfer<lb facs="P12_TL00054"/>So schwer sind die Leute zu erziehen?<lb facs="P12_TL00055"/>Exzellenz, so schwer sind die Werferzu ziehen</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P12_TB00003">
+                                    <lb facs="P12_TL00056"/>Hehehe, sehe ein. Sehr schwer zu<lb facs="P12_TL00057"/>begreifen<lb facs="P12_TL00058"/>Also sie greifen an mit diesen Werfern<lb facs="P12_TL00059"/>Sie werfen die Geschichte<lb facs="P12_TL00060"/>Die verworfene Geschichte<lb facs="P12_TL00061"/>Geschichtsprofessoren wissen sie besser<lb facs="P12_TL00062"/>Sie waren nicht dabei<lb facs="P12_TL00063"/>Es wirft etwas ab, wenn die Kerle es<lb facs="P12_TL00064"/>schmeifzen<lb facs="P12_TL00065"/>paar Orden unter die Kerle schmeilzen<lb facs="P12_TL00066"/>Exzellenz, wir werden es schmeifzen<lb facs="P12_TL00067"/>Ja Scheibe<lb facs="P12_TL00068"/>Sie schmeilzen den rechten Flügel<lb facs="P12_TL00069"/>(Sie haben einen Vogel)<lb facs="P12_TL00070"/>Ihr Schmifz ist bekannt<lb facs="P12_TL00071"/>(Verschlagene Verbindung)<lb facs="P12_TL00072"/>Mein Adjutantalus schmeifzt die Ordenskiste<lb facs="P12_TL00073"/>Das Geschmeifz<lb facs="P12_TL00074"/>Mein Generalstapler gibt nähere<lb facs="P12_TL00075"/>Anweisungen<lb facs="P12_TL00076"/>Weise darauf hin, daß Verluste zu<lb facs="P12_TL00077"/>vermeiden sind<lb facs="P12_TL00078"/>Unvermeidlich<lb facs="P12_TL00079"/>Adjutanten schmeifzen alles um<lb facs="P12_TL00080"/>Verlasse mich auf ihre Anweisungen<lb facs="P12_TL00081"/>Wie die Alten sungen<lb facs="P12_TL00082"/>Jetzt ist er verlassen<lb facs="P12_TL00083"/>Hinweis genügt nicht<lb facs="P12_TL00084"/>Beweis folgt<lb facs="P12_TL00085"/>Der folgende Herr<lb facs="P12_TL00086"/>Der nächste Herr, bitte! !<lb facs="P12_TL00087"/>Bitte stehen Sie bequem<lb facs="P12_TL00088"/>Gut eingeseift<lb facs="P12_TL00089"/>Ist halb rasiert<lb facs="P12_TL00090"/>Berittener Herr<lb facs="P12_TL00091"/>Besessenes Rolz<lb facs="P12_TL00092"/>Kavalleriekommandeur<lb facs="P12_TL00093"/>Exzellenz, wir reiten alles nieder<lb facs="P12_TL00094"/>Nur keine jüdische Hast, Herr Obernieder<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P12_TL00095"/>reiter von Ort zu Ort<lb facs="P12_TL00096"/>Ortskommandant<lb facs="P12_TL00097"/>Ritter vom Nebenort<lb facs="P12_TL00098"/>Kavalleriekomödiant<lb facs="P12_TL00099"/>Ihre Kavallerie besorgt Aufklärung im<lb facs="P12_TL00100"/>Hintergelände<lb facs="P12_TL00101"/>(Nur militärische)<lb facs="P12_TL00102"/>Im Umklammern<lb facs="P12_TL00103"/>Beitreibung bei weiblicher Bevölkerung<lb facs="P12_TL00104"/>hintertreiben<lb facs="P12_TL00105"/>Zu Befehl Exzellenz, besorge Abtreibung<lb facs="P12_TL00106"/>Befehlen Exzellenz bezüglich der<lb facs="P12_TL00107"/>Gefangenen?<lb facs="P12_TL00108"/>Richtig! Ja! Gefangene hinten<lb facs="P12_TL00109"/>zusammentreiben</ab>
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P13_TB00002">
+                                    <lb facs="P13_TL00002"/>Die besten Plätze sind hinten<lb facs="P13_TL00003"/>Kino<lb facs="P13_TL00004"/>Sorgen Sie auch für Zeitvertreib und<lb facs="P13_TL00005"/>Badebetrieb<lb facs="P13_TL00006"/>Kinobetrieb, Badebetrieb. Befehl Exzellenz<lb facs="P13_TL00007"/>Die schlechten Plätze sind vorn<lb facs="P13_TL00008"/>Vorn platzt es<lb facs="P13_TL00009"/>Vorderste Linie den Grabenschweinen<lb facs="P13_TL00010"/>Nicht weinen<lb facs="P13_TL00011"/>Die Linie geht auf Draht<lb facs="P13_TL00012"/>Die geht drauf<lb facs="P13_TL00013"/>Hängt am Draht<lb facs="P13_TL00014"/>Draht spricht Bände<lb facs="P13_TL00015"/>Nachrichtendraht<lb facs="P13_TL00016"/>Hinrichtedraht<lb facs="P13_TL00017"/>Elektrische Enthauptung<lb facs="P13_TL00018"/>Nachrichtenhauptmann<lb facs="P13_TL00019"/>Ahnungsloses Männchen<lb facs="P13_TL00020"/>Benachrichtigen Sie mich, Herr Hauptmann.<lb facs="P13_TL00021"/>Melden Sie. Habe keine Ahnung.<lb facs="P13_TL00022"/>Halten Sie mich auf dem Laufenden<lb facs="P13_TL00023"/>Die Sache hat Hand und Fufz<lb facs="P13_TL00024"/>Was Sie melden ist gleichgiltig<lb facs="P13_TL00025"/>Es gilt gleich<lb facs="P13_TL00026"/>Der Draht kriecht an mein Bett<lb facs="P13_TL00027"/>Ich schlafe schlecht<lb facs="P13_TL00028"/>Schlafe ich, wreckt mich der Draht<lb facs="P13_TL00029"/>Ich schrecke empor<lb facs="P13_TL00030"/>Ich bin empört<lb facs="P13_TL00031"/>Es kann etwas vorfallen<lb facs="P13_TL00032"/>Nachts<lb facs="P13_TL00033"/>Ein Vorfall<lb facs="P13_TL00034"/>Ein Zufall<lb facs="P13_TL00035"/>Ein Einfall<lb facs="P13_TL00036"/>Ein Durchfall<lb facs="P13_TL00037"/>Ein Ausbruch<lb facs="P13_TL00038"/>Ein Durchbruch<lb facs="P13_TL00039"/>Bruchstrich /<lb facs="P13_TL00040"/>Ich stehe auf<lb facs="P13_TL00041"/>Ich stehe ein<lb facs="P13_TL00042"/>Ich falle auf<lb facs="P13_TL00043"/>Ich falle rein<lb facs="P13_TL00044"/>Ich falle<lb facs="P13_TL00045"/>Es fällt mir schwer<lb facs="P13_TL00046"/>Ich falle um<lb facs="P13_TL00047"/>Ich gehe drauf<lb facs="P13_TL00048"/>Ich hüte mich<lb facs="P13_TL00049"/>Der hohe Hut<lb facs="P13_TL00050"/>Schön ist ein Zylinder<lb facs="P13_TL00051"/>Die verfluchten Zivilisten<lb facs="P13_TL00052"/>Die verfluchten Zivillisten<lb facs="P13_TL00053"/>Die hohe Hut<lb facs="P13_TL00054"/>Obhut<lb facs="P13_TL00055"/>Kopfbedeckung</ab>
+                              </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P13_TB00003">
+                                    <lb facs="P13_TL00056"/>Fliegende Hüter<lb facs="P13_TL00057"/>Meine Flieger<lb facs="P13_TL00058"/>Flugstaffel<lb facs="P13_TL00059"/>Stoffel<lb facs="P13_TL00060"/>Staffelstab<lb facs="P13_TL00061"/>Staffelei<lb facs="P13_TL00062"/>Aflei<lb facs="P13_TL00063"/>(Artilleriefliegerei)<lb facs="P13_TL00064"/>Iflei<lb facs="P13_TL00065"/>(Infanteriefliegerei)<lb facs="P13_TL00066"/>Das neue Deutsch<lb facs="P13_TL00067"/>Im alten Deutschland<lb facs="P13_TL00068"/>Bogohl<lb facs="P13_TL00069"/>Welcher Kohl?<lb facs="P13_TL00070"/>(BombenGeschwader<lb facs="P13_TL00071"/>Oberste HeeringsLeitung)<lb facs="P13_TL00072"/>Jagdstaffel<lb facs="P13_TL00073"/>Jasta<lb facs="P13_TL00074"/>Basta<lb facs="P13_TL00075"/>«<lb facs="P13_TL00076"/>Puszta<lb facs="P13_TL00077"/>Schusta<lb facs="P13_TL00078"/>Immer langsam!<lb facs="P13_TL00079"/>Schusta ist SCHUtzSTAffeI<lb facs="P13_TL00080"/>Affe<lb facs="P13_TL00081"/>Immer schneller<lb facs="P13_TL00082"/>Wir fliegen schon<lb facs="P13_TL00083"/>Da kommt man nicht auf den Grund<lb facs="P13_TL00084"/>Bleiben Sie bedeckt<lb facs="P13_TL00085"/>Der Kofi<lb facs="P13_TL00086"/>(KOmmandeur der Fliegen)<lb facs="P13_TL00087"/>Glück ab<lb facs="P13_TL00088"/>Kofi schustert<lb facs="P13_TL00089"/>Leister, bleibe nicht bei Schustern!<lb facs="P13_TL00090"/>Beileibe nicht<lb facs="P13_TL00091"/>Schuster, leiste bei Deinem Bleiben!<lb facs="P13_TL00092"/>Beigeiste<lb facs="P13_TL00093"/>Exzellenz, ich bleibe dabei, ich fliege nicht,<lb facs="P13_TL00094"/>es bleibt bedeckt<lb facs="P13_TL00095"/>Lügen Sie nicht! Fliegen Sie nicht,<lb facs="P13_TL00096"/>fliege ich<lb facs="P13_TL00097"/>Exzellenz fliegen am ganzen Leibe!<lb facs="P13_TL00098"/>Fortsetzung folgt</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="TextContent" corresp="c005">
+                     <div type="Head">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P13_TB00004">
+                           <lb facs="P13_TL00099"/>Inhalt</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P13_TB00005">
+                                    <lb facs="P13_TL00100"/>Otto Nebel: Zuginsfeld<lb facs="P13_TL00101"/>Marc Chagall: Zwei Zeichnungen<lb facs="P13_TL00102"/>Marc Chagall: Der Kutscher<lb facs="P13_TL00103"/>Farbige Zeichnung<lb facs="P13_TL00104"/>März 1920</ab>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div type="SponsoredAdvertisement">
+                  <div type="SponsoredAd" corresp="c006">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P14_TB00002">
+                        <lb facs="P14_TL00002"/>Verlag der Sturm<lb facs="P14_TL00003"/>Berlin W 9 / Potsdamer Strasse 134 a<lb facs="P14_TL00004"/>Fernruf Amt Liitzow 4443<lb facs="P14_TL00005"/>Monatsschrift Der Sturm<lb facs="P14_TL00006"/>Erscheint am zehnten jedes Monats<lb facs="P14_TL00007"/>Jedes Heft enthalt mindestens eine mehrfarbige<lb facs="P14_TL00008"/>Kunstbeilage / Holzscknilte (stets vom Stock gc-<lb facs="P14_TL00009"/>druckt) und Zeichnungen<lb facs="P14_TL00010"/>Dauerbezug / Ein Jahr 24 Mark / Ein Halbjahr<lb facs="P14_TL00011"/>15 Mark / Einzelheft 3 Mark</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c007">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P14_TB00003">
+                        <lb facs="P14_TL00012"/>Monatsschrift Der Sturm / Jahrgange 1—10<lb facs="P14_TL00013"/>Gewohnliche Sonder-<lb facs="P14_TL00014"/>Einzelhefte, soweit vorhanden, erster bis neunter<lb facs="P14_TL00015"/>Jahrgang je 1 Mark 50 Pfennige</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c008">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P14_TB00004">
+                        <lb facs="P14_TL00016"/>Biicher aus dem Verlag Der Sturm<lb facs="P14_TL00017"/>Peter Baum<lb facs="P14_TL00018"/>Schtitzengrabenverse<lb facs="P14_TL00019"/>Gebunden 6 Mark<lb facs="P14_TL00020"/>Franz Richard Behrens<lb facs="P14_TL00021"/>Blutbliite / Gedichte<lb facs="P14_TL00022"/>Geheftet 4 Mark / Gebunden 6 Mark<lb facs="P14_TL00023"/>Hermann Essig<lb facs="P14_TL00024"/>Der Frauenmut / Lustspiel<lb facs="P14_TL00025"/>Ueberteufel / Tragodie<lb facs="P14_TL00026"/>Ihr stilles Gluck / Drama<lb facs="P14_TL00027"/>Ein Taubenschlag / Lustspiel<lb facs="P14_TL00028"/>Napoleons Aufstieg / Tragodie<lb facs="P14_TL00029"/>Der Wetterfrosch / Erzahlung<lb facs="P14_TL00030"/>Jedes Buch 3 Mark / Gebunden 5 Mark<lb facs="P14_TL00031"/>Kurt Heynicke<lb facs="P14_TL00032"/>Rings fallen Sterne / Gedichte<lb facs="P14_TL00033"/>6 Mark / Zweite Auflage<lb facs="P14_TL00034"/>Adolf Knoblauch<lb facs="P14_TL00035"/>Die schwarze Fahne / Eine Dichtung<lb facs="P14_TL00036"/>3 Mark<lb facs="P14_TL00037"/>Kreis des Anfangs / Friihe Gedichte<lb facs="P14_TL00038"/>5 Mark / Sonderausgabe 30 Mark<lb facs="P14_TL00039"/>Ernst Marcus<lb facs="P14_TL00040"/>Das Problem der exzentrischen Empfindung und<lb facs="P14_TL00041"/>seine Losung<lb facs="P14_TL00042"/>5 Mark / Zweite Auflage<lb facs="P14_TL00043"/>Das Erkenntnisproblem<lb facs="P14_TL00044"/>5 Mark / Zweite Auflage</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c009">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P14_TB00005">
+                        <lb facs="P14_TL00045"/>Wilhelm Runge<lb facs="P14_TL00046"/>Das Denken traumt / Gedichte<lb facs="P14_TL00047"/>4 Mark / Gebunden 6 Mark<lb facs="P14_TL00048"/>Paul Scheerbart<lb facs="P14_TL00049"/>Glasarchitektur / In 111 Kapiteln<lb facs="P14_TL00050"/>2 Mark / Sonderausgabe 50 Mark<lb facs="P14_TL00051"/>Lothar Schreyer<lb facs="P14_TL00052"/>Meer / Sehnte / Mann / Dramen<lb facs="P14_TL00053"/>3 Mark<lb facs="P14_TL00054"/>Nacht<lb facs="P14_TL00055"/>2 Mark<lb facs="P14_TL00056"/>August Stramm<lb facs="P14_TL00057"/>Du / Liebesgedichte<lb facs="P14_TL00058"/>5 Mark / Dritte Auflage<lb facs="P14_TL00059"/>/ Ausgewahlte Gedichte<lb facs="P14_TL00060"/>6 Mark / Gebunden 12 Mark<lb facs="P14_TL00061"/>Max Verworn<lb facs="P14_TL00062"/>Keltische Kunst / Mit Abbildungen<lb facs="P14_TL00063"/>3 Mark<lb facs="P14_TL00064"/>Herwarth Walden<lb facs="P14_TL00065"/>Einblick in Kunst<lb facs="P14_TL00066"/>Mit 64 Abbildungen nach Gemalden der<lb facs="P14_TL00067"/>Kiinstler<lb facs="P14_TL00068"/>Zur Zeit vergriffen<lb facs="P14_TL00069"/>Gesammelte Schriften / Band I<lb facs="P14_TL00070"/>Kunstmaler und Kunstkritiker<lb facs="P14_TL00071"/>3 Mark<lb facs="P14_TL00072"/>Das Buch der Menschenliebe<lb facs="P14_TL00073"/>4 Mark / Sonderausgabe 30 Mark<lb facs="P14_TL00074"/>Die Harte der Weltenliebe / Roman<lb facs="P14_TL00075"/>4 Mark / Gebunden 6 Mark 50 Pfennige<lb facs="P14_TL00076"/>Sonderausgabe (Auflage 10) 50 Mark<lb facs="P14_TL00077"/>Weib / Komitragodie<lb facs="P14_TL00078"/>4 Mark / Sonderausgabe 50 Mark<lb facs="P14_TL00079"/>Erste Liebe / Em Spiel mit dem Leben<lb facs="P14_TL00080"/>Die Beiden / Ein Spiel mit dem Tode<lb facs="P14_TL00081"/>Sunde / Spiel an der Liebe<lb facs="P14_TL00082"/>Letzte Liebe / Komitragodie<lb facs="P14_TL00083"/>Glaube / Komitragodie<lb facs="P14_TL00084"/>Jedes Buch 2 Mark<lb facs="P14_TL00085"/>Kind / Tragodie<lb facs="P14_TL00086"/>Trieb / Eine burgerliche Komitragodie<lb facs="P14_TL00087"/>Menschen / Tragodie<lb facs="P14_TL00088"/>Jedes Buch 3 Mark<lb facs="P14_TL00089"/>Sturm-Bucher<lb facs="P14_TL00090"/>August Stramm<lb facs="P14_TL00091"/>Sancta Susanna<lb facs="P14_TL00092"/>Die Unfruchtbaren<lb facs="P14_TL00093"/>Aage von Kohl<lb facs="P14_TL00094"/>Die Hangematte des Riuge<lb facs="P14_TL00095"/>Peter Baum<lb facs="P14_TL00096"/>Kyland<lb facs="P14_TL00097"/>Lothar Schreyer<lb facs="P14_TL00098"/>Jungfrau<lb facs="P14_TL00099"/>Jedes Sturmbuch 1 Mark 50 Pfennige</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c010">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P15_TB00002">
+                        <lb facs="P15_TL00002"/>Musik<lb facs="P15_TL00003"/>Herwarth Walden<lb facs="P15_TL00004"/>Gesammclte Tonwerke<lb facs="P15_TL00005"/>Dann / Vergeltung / Verdammnis<lb facs="P15_TL00006"/>Dichtungen von Else Lasker-Schiiler<lb facs="P15_TL00007"/>Fiir Gesang unci Klavier / Je 2 Mark<lb facs="P15_TL00008"/>Bruder Liederlich / Werk 5l<lb facs="P15_TL00009"/>Fiir Gesang und Klavier / 2 Mark<lb facs="P15_TL00010"/>Entbietung / \Verk 92<lb facs="P15_TL00011"/>Dichtung von Richard Dehmel<lb facs="P15_TL00012"/>Fiir Gesang und Klavier / 2 Mark<lb facs="P15_TL00013"/>Zehn Dafnislieder / Werk 11<lb facs="P15_TL00014"/>Zu Gedichten von Arno Holz<lb facs="P15_TL00015"/>Fiir Gesang und Klavier / 3 Mark<lb facs="P15_TL00016"/>Die Judentochter / Werk 171 / 1 Mark 50 Pfennig<lb facs="P15_TL00017"/>An Schwager Kronos / Werk 172<lb facs="P15_TL00018"/>Fiir Gesang und Klavier / 3 Mark<lb facs="P15_TL00019"/>Schwertertanz / Werk 18<lb facs="P15_TL00020"/>Fiir Klavier / 4 Mark<lb facs="P15_TL00021"/>Der Sturm / Heeresmarseh / Werk 21<lb facs="P15_TL00022"/>Fiir Klavier / 1 Mark<lb facs="P15_TL00023"/>Tanz der Tone / Werk 23<lb facs="P15_TL00024"/>Fiir Klavier / 3 Mark</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c011">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P15_TB00003">
+                        <lb facs="P15_TL00025"/>Handdrucke<lb facs="P15_TL00026"/>Oskar Kokoschka: Plakat fiir die Zeitschrift<lb facs="P15_TL00027"/>Der Sturm / Originallithographie<lb facs="P15_TL00028"/>Abzug 30 Mark</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c012">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P15_TB00004">
+                        <lb facs="P15_TL00029"/>Sturm-Kaften<lb facs="P15_TL00030"/>Jede Karte 50 Pfennig<lb facs="P15_TL00031"/>Nach Gemalden, Zeichnungen und Bildwerken<lb facs="P15_TL00032"/>folgender Kiinstler:<lb facs="P15_TL00033"/>Alexander Archipenko 3 Fernand Leger 2<lb facs="P15_TL00034"/>Rudolf Bauer 4 August Macke 1<lb facs="P15_TL00035"/>Fritz Baumann 1 Franz Marc 1<lb facs="P15_TL00036"/>Vincenc Benes 1 Carl Mense 1<lb facs="P15_TL00037"/>Umberto Boccioni 2 Jean Metzinger 1<lb facs="P15_TL00038"/>Campendonk 2 Johannes Molzahn 2<lb facs="P15_TL00039"/>Marc Chagall 5 Georg Muche 1<lb facs="P15_TL00040"/>Robert Delaunay 1 Gabriele Miinter 1<lb facs="P15_TL00041"/>Lyonel Feininger 1 Negerplastik 1<lb facs="P15_TL00042"/>Albert Gleizes 2 Georg Schrimpf 1<lb facs="P15_TL00043"/>Jacoba van Heemskerck 3 Kurt Schwitters 1<lb facs="P15_TL00044"/>Hjerten-Griinewald 1 Gino Severini 3<lb facs="P15_TL00045"/>Alexei von Jawlensky 2 Arnold Topp 1<lb facs="P15_TL00046"/>Kandinsky 2 Maria Uhden 1<lb facs="P15_TL00047"/>Paul Klee 1 Nell Walden 1<lb facs="P15_TL00048"/>Oskar Kokoschka 2 William Wauer 6<lb facs="P15_TL00049"/>Otakar Kubin 1 Marianne von Werefkin 1</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c013">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P15_TB00005">
+                        <lb facs="P15_TL00050"/>Sturm^Ausstellungskataloge<lb facs="P15_TL00051"/>Mit Abbildungen<lb facs="P15_TL00052"/>Alexander Archipenko Kandinsky<lb facs="P15_TL00053"/>Marc Chagall Molzahn<lb facs="P15_TL00054"/>Gino Severini Skupina<lb facs="P15_TL00055"/>Je 60 Pfennig<lb facs="P15_TL00056"/>Franz Marc / 1 Mark<lb facs="P15_TL00057"/>Erster Deutscher Herbstsalon Der Sturm 1918<lb facs="P15_TL00058"/>Mit 50 Abildungen in Kupfertiefdruck<lb facs="P15_TL00059"/>2 Mark 50 Pfennige</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c014">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P15_TB00006">
+                        <lb facs="P15_TL00060"/>Kunstdrucke aus dcm Verlag Der Sturm<lb facs="P15_TL00061"/>Auf Japans und Biittenpapier<lb facs="P15_TL00062"/>Jeder Kunstdruck 6 Mark<lb facs="P15_TL00063"/>Rudolf Bauer<lb facs="P15_TL00064"/>Schwarz-Weiss-Komposition 14<lb facs="P15_TL00065"/>Umberto Boccioni: Abschied / Die Abfahrenden<lb facs="P15_TL00066"/>Die Zuriickbleibenden<lb facs="P15_TL00067"/>Campendonk: Zeichnung<lb facs="P15_TL00068"/>Marc Chagall: Interieur / Der Jude / Der Geigen-<lb facs="P15_TL00069"/>spieler/ Die Schwangere / Essender Bauer/Madchen<lb facs="P15_TL00070"/>Robert Delaunay: Der Turin<lb facs="P15_TL00071"/>Lyonel Feininger: Klein Schmidthausen<lb facs="P15_TL00072"/>Mark Wippach II<lb facs="P15_TL00073"/>Jacoba van Heemskerck: Baum / Landschaft<lb facs="P15_TL00074"/>Kandinsky: Zwei Zeichnungen<lb facs="P15_TL00075"/>Paul Klee: Kriegerischer Stamm<lb facs="P15_TL00076"/>Oskar Kokoschka Menschenkopfe: 1 Adolf<lb facs="P15_TL00077"/>Loos / 2 Herwarth Walden / 3 Karl Kraus<lb facs="P15_TL00078"/>4 Richard Dehmel/5 Paul Scheerbart/6 Y vet teGuilbert<lb facs="P15_TL00079"/>Oskar Kokoschka: Tierbilder<lb facs="P15_TL00080"/>Fernand Leger: Akt<lb facs="P15_TL00081"/>Franz Marc: Katzen<lb facs="P15_TL00082"/>Johannes Molzahn: Zeichnung<lb facs="P15_TL00083"/>Gino Severini: Tango argentino<lb facs="P15_TL00084"/>William Wauer: Sehnsucht / Tanz</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c015">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P15_TB00007">
+                        <lb facs="P15_TL00085"/>/ Lichtbildkarten<lb facs="P15_TL00086"/>Jede Karte 50 Pfennig<lb facs="P15_TL00087"/>I. August Stramm XII.<lb facs="P15_TL00088"/>II. Herwarth Walden XIII.<lb facs="P15_TL00089"/>III. van Heemskerck XIV.<lb facs="P15_TL00090"/>IV. Kandinsky XV.<lb facs="P15_TL00091"/>V. Rudolf Bluinner XVI.<lb facs="P15_TL00092"/>VI. Campendonk XVII.<lb facs="P15_TL00093"/>VII. Peter Baum XVIIL<lb facs="P15_TL00094"/>VIII. Albert Gleizes XIX.<lb facs="P15_TL00095"/>IX. Oskar Kokoschka XX.<lb facs="P15_TL00096"/>X. Alexander Archipenko XXL<lb facs="P15_TL00097"/>XI. Paul Klee XXII.<lb facs="P15_TL00098"/>Gabriele Munter<lb facs="P15_TL00099"/>Rudolf Bauer<lb facs="P15_TL00100"/>Nell Walden<lb facs="P15_TL00101"/>Mynona<lb facs="P15_TL00102"/>Molzahn<lb facs="P15_TL00103"/>Kurt Heynicke<lb facs="P15_TL00104"/>William Wauer<lb facs="P15_TL00105"/>Lothar Schreyer<lb facs="P15_TL00106"/>Georg Muche.<lb facs="P15_TL00107"/>Arnold Topp<lb facs="P15_TL00108"/>Kurt Schwitters</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c016">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P15_TB00008">
+                        <lb facs="P15_TL00109"/>Sturmschule<lb facs="P15_TL00110"/>Leitung: Herwarth Walden<lb facs="P15_TL00111"/>Viertcs Jahr<lb facs="P15_TL00112"/>Berlin / Potsdamer Strasse 134 a<lb facs="P15_TL00113"/>Unterricht und Ausbildung in der expr essionistischen<lb facs="P15_TL00114"/>Kunst<lb facs="P15_TL00115"/>Buhne / Schauspielerei / Vortragskunst / Malerei<lb facs="P15_TL00116"/>Dichtung / Musik<lb facs="P15_TL00117"/>Lchrcr der Sturmschule<lb facs="P15_TL00118"/>Rudolf Bauer / Rudolf Blumner / Campendonk<lb facs="P15_TL00119"/>Jacoba van Heemskerck / Paul Klee / Georg Muche<lb facs="P15_TL00120"/>Lothar Schreyer / Arnold Topp / Herwarth Walden<lb facs="P15_TL00121"/>William Wauer<lb facs="P15_TL00122"/>Sprechstunden der Leitung: Dienstag, Mittwoch,<lb facs="P15_TL00123"/>Freitag, Sonnabend 4—5 / Das Sekretariat ist<lb facs="P15_TL00124"/>taglich von 10—6 geoffnet</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c017">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P15_TB00009">
+                        <lb facs="P15_TL00125"/>Leitung der Sturmschule fur Holland:<lb facs="P15_TL00126"/>Jacoba van Hecmskerck / Den Haag<lb facs="P15_TL00127"/>Anmeldungen durch den Sturm / Berlin W 9</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c018">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P16_TB00003">
+                        <lb facs="P16_TL00008"/>Der Sturm<lb facs="P16_TL00009"/>Standige Ausstellungen<lb facs="P16_TL00010"/>Berlin / Potsdamer Strasse 134 a<lb facs="P16_TL00011"/>Geoffnet taglich von 10-6 Uhr / Sonntags 11-<lb facs="P16_TL00012"/>Tageskarte 1 Mark 50 Pfennig<lb facs="P16_TL00013"/>Monatlicher Wechsel<lb facs="P16_TL00014"/>Vierundachtzigste Ausstellung<lb facs="P16_TL00015"/>Marz 1920<lb facs="P16_TL00016"/>Sonja Delaunay&gt;Terk<lb facs="P16_TL00017"/>*<lb facs="P16_TL00018"/>Funfundachtzigste Ausstellung<lb facs="P16_TL00019"/>April 1920<lb facs="P16_TL00020"/>Kurt Schwitters</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c019">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P16_TB00004">
+                        <lb facs="P16_TL00021"/>Der Sturm<lb facs="P16_TL00022"/>verfugt iiber Werke folgender Kunster (Gemalde<lb facs="P16_TL00023"/>Graphik / Holzschnitte / Handdrucke) zum Verkauf<lb facs="P16_TL00024"/>und fur Ausstellungen:<lb facs="P16_TL00025"/>Gosta Adrian - Nilsson / Alexander Archipenko<lb facs="P16_TL00026"/>Rudolf Bauer / Willi Baumeister / Fritz Baumann<lb facs="P16_TL00027"/>Vincenc Benes / Umberto Boccioni / Campendonk<lb facs="P16_TL00028"/>Carlo D. Carra / Marc Chagall / Delaunay / Sonja<lb facs="P16_TL00029"/>Delaunay-Terk / Max Ernst / Emil Filla / Oskar<lb facs="P16_TL00030"/>Fischer / Albert Gleizes / Otto Gutfreund / Hugo<lb facs="P16_TL00031"/>Handel / Jacoba van Heemskerck / Sigrid Hierten-<lb facs="P16_TL00032"/>Grunewald/Isaac Grime wald / Johannes Itten / Alexei<lb facs="P16_TL00033"/>von Jawlensky / Kandinsky / Paul Klee / Oskar<lb facs="P16_TL00034"/>Kokoschka / Otakar Kubin / Fernand Leger<lb facs="P16_TL00035"/>Franz Marc / Georg Muche / Gabriele Miinter<lb facs="P16_TL00036"/>Jean Metzinger / Johannes Molzahn / Francis Picabia<lb facs="P16_TL00037"/>Kurt Schwitters / Oskar Schlemmer / Gino Severini<lb facs="P16_TL00038"/>Fritz Stuckenberg / Arnold Topp / Maria Uhden / Nell<lb facs="P16_TL00039"/>Walden / William Wauer / Marianne von Werefkin</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c020">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P16_TB00005">
+                        <lb facs="P16_TL00040"/>Sturm'Abende<lb facs="P16_TL00041"/>In der Kunstausstellung Der Sturm / Berlin<lb facs="P16_TL00042"/>Jeden Mitt wo ch 3/48 Uhr<lb facs="P16_TL00043"/>Vortragender Rudolf Blumner<lb facs="P16_TL00044"/>Karten zu 8, 4, 3, Mark im Vorverkauf und an der<lb facs="P16_TL00045"/>Abendkasse</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c021">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P16_TB00006">
+                        <lb facs="P16_TL00046"/>Von alien Holzschnitten der Zeitschrift Der Sturm<lb facs="P16_TL00047"/>sind signierte und nummerierte Handdrucke, von<lb facs="P16_TL00048"/>den meisten Zeichnungen Kunstdrucke kauflich<lb facs="P16_TL00049"/>zu erwerben. Die Originale sind verkauflich,<lb facs="P16_TL00050"/>Ausfiihriiche Verzeichnisse des Verlags Der Sturm<lb facs="P16_TL00051"/>kostenlos.</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c022">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P16_TB00007">
+                        <lb facs="P16_TL00052"/>Kunstbuchhandlung Der Sturm<lb facs="P16_TL00053"/>Potsdamcr Strasse 138 a<lb facs="P16_TL00054"/>Fernruf Lutzow 4443<lb facs="P16_TL00055"/>hat gute und seltene Biicher und Noten vorraiig<lb facs="P16_TL00056"/>und nimmt Bestellungen entgegen</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c023">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P16_TB00008">
+                        <lb facs="P16_TL00057"/>Neuanzeigen Der Sturm<lb facs="P16_TL00058"/>Socben erschienen<lb facs="P16_TL00059"/>Lothar Schreyer<lb facs="P16_TL00060"/>Die neue Kunst<lb facs="P16_TL00061"/>2 Mark 50 Pfennige<lb facs="P16_TL00062"/>F a r b i g e Kunstdrucke<lb facs="P16_TL00063"/>Nell Walden<lb facs="P16_TL00064"/>Farbige Zeichnungen<lb facs="P16_TL00065"/>7 Mark 50 Pfennige<lb facs="P16_TL00066"/>Paul Klee<lb facs="P16_TL00067"/>Spiel der Krafte einer Landschaft<lb facs="P16_TL00068"/>7 Mark 50 Pfennige<lb facs="P16_TL00069"/>Marc Chagall<lb facs="P16_TL00070"/>Frau / Aquarell<lb facs="P16_TL00071"/>7 Mark 50 Pfennige<lb facs="P16_TL00072"/>Kandinsky: Aquarell 6<lb facs="P16_TL00073"/>7 Mark 50 Pfennige<lb facs="P16_TL00074"/>Angut Stramm: Tropfblut / Gedichte<lb facs="P16_TL00075"/>Gebunden 15 Mark<lb facs="P16_TL00076"/>August Stramm : Gesainmelte Dichtungen<lb facs="P16_TL00077"/>I. und II, Band erschienen<lb facs="P16_TL00078"/>Jeder Band 12 Mark<lb facs="P16_TL00079"/>Herwarth Walden: Die neue Malerei / Einfuhrung<lb facs="P16_TL00080"/>in den Expressionismus / Mit 16 Abbildungen<lb facs="P16_TL00081"/>5 Mark / Dritte Auflage<lb facs="P16_TL00082"/>Expressionismus / Die Kunstwende<lb facs="P16_TL00083"/>Herausgegeben von Herwarth Walden<lb facs="P16_TL00084"/>Mit 140 Abbildungen und 4 Originalgraphiken<lb facs="P16_TL00085"/>30 Mark / gebunden 50 Mark<lb facs="P16_TL00086"/>Die Sturm-Buhne<lb facs="P16_TL00087"/>Jahrbuch des Theaters der Expressionisten<lb facs="P16_TL00088"/>Jede Folge 75 Pfennige<lb facs="P16_TL00089"/>Jahrbuch 6 Mark<lb facs="P16_TL00090"/>Achte Folge erschienen<lb facs="P16_TL00091"/>Sturm^Bilderbticher<lb facs="P16_TL00092"/>Ganzseitige Abbildungen der Hauptwerke<lb facs="P16_TL00093"/>Je 7 Mark 50 Pfennige<lb facs="P16_TL00094"/>I. Marc Chagall<lb facs="P16_TL00095"/>II. Alexander Archipenko<lb facs="P16_TL00096"/>III. Paul Klee</ab>
+                  </div>
+                  <div type="SponsoredAd" corresp="c024">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P16_TB00009">
+                        <lb facs="P16_TL00097"/>Auslieferung und Vcrkauf der Werke des Verlag<lb facs="P16_TL00098"/>Der Sturm im Ausland<lb facs="P16_TL00099"/>Kopenhagen: Buchhandlung Hassing / Politiken<lb facs="P16_TL00100"/>Hus / Raadhuspladsen</ab>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
