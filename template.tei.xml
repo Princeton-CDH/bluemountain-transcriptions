@@ -31,8 +31,8 @@
                                     <material><!-- describe paper --></material>
                                 </support>
                                 <extent>
-                                    <measure type="count" unit="page">
-                                        <!-- the page count of the source document, not the digital edition -->
+                                    <measure type="count" unit="leaf" quantity="">
+                                        <!-- We measure extent in terms of leaves, including covers. -->
                                     </measure>
                                     <dimensions type="page" unit="cm">
                                         <height><!-- the height --></height>
