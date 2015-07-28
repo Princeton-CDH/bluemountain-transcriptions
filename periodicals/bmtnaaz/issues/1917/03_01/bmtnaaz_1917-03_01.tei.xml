@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:mods="http://www.loc.gov/mods/v3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -40,6 +38,7 @@
                      <date when="1917-03"/>
                   </imprint>
                </monogr>
+               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
                <relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
@@ -76,8 +75,6 @@
                      <analytic>
                         <title level="a">
                            <seg type="main">QUELQUES MOTS SUR LA SCULPTURE</seg>
-                        </title>
-                        <title level="a">
                            <seg type="main">(Résumé de la causerie faite à I'atelier de Chana Orloff le dimanche 4 mars)</seg>
                         </title>
                         <respStmt>
@@ -212,8 +209,6 @@
                      <analytic>
                         <title level="a">
                            <seg type="main">"SIC AMBUANT"</seg>
-                        </title>
-                        <title level="a">
                            <seg type="main">à la matinée d'Aeademia le 25 Février 1917</seg>
                         </title>
                         <respStmt>
@@ -309,43 +304,63 @@
             <div type="Issue">
                <div type="PublicationInfo">
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00002">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00002">
                         <lb facs="P1_TL00005"/>Pierre ALBERT-BIROT, Directeur</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00001">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00001">
                         <lb facs="P1_TL00001"/>SONS<lb facs="P1_TL00002"/>IDÉES<lb facs="P1_TL00003"/>COULEURS<lb facs="P1_TL00004"/>FORMES</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00005">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00005">
                         <lb facs="P1_TL00016"/>P1 0,30<lb facs="P1_TL00017"/>Étranger 0,45<lb facs="P1_TL00018"/>Paraît un» fois par mois</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00006">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00006">
                         <lb facs="P1_TL00019"/>Adresser tout ce qui concerne<lb facs="P1_TL00020"/>la Revue<lb facs="P1_TL00021"/>37, Rue de la Tombe-Issoire. Paris.<lb facs="P1_TL00022"/>(SIC suspend ses réunions du mardi.)</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00007">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00007">
                         <lb facs="P1_TL00023"/>N° 15<lb facs="P1_TL00024"/>Mars 1917<lb facs="P1_TL00025"/>Deuxième âxmé*</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P5_TB00005">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P5_TB00005">
                         <lb facs="P5_TL00015"/>Éditions " SIC<lb facs="P5_TL00016"/>Pour -paraître prochainement : &lt;$rv ffustman et "Ghana G)rloff. —<lb facs="P5_TL00017"/>Inflexions poétiques et reproductions de sculptures 300. : 5 fr.J.<lb facs="P5_TL00018"/>Pierre cfllbert-jBirot. — Trente et un poèmes de poche (tirage limité à<lb facs="P5_TL00019"/>-100. Prix : 5 fr.).<lb facs="P5_TL00020"/>%n raison du tirage très limité de ces ouvrages nous pensons devoir engager les personnes<lb facs="P5_TL00021"/>qui les désireraient à s'inscrire le plus tôt possible.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P8_TB00004">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00004">
                         <lb facs="P8_TL00008"/>SI G se trouve dans les maisons suivantes ;<lb facs="P8_TL00009"/>ARS ET VITA, bd Raspail, 120. LA MAISON D'ART, bd (Haussmann, 49.<lb facs="P8_TL00010"/>ART CONTEMPORAIN, bd Saint-Germain, 188. LIBRAIRIE LUTETIA, bd Raspail, 66.<lb facs="P8_TL00011"/>BOUTIQUE VERTE, rue N.-D.-de-Lorette, 34. GALERIE MARSEILLE, rue de Seine, 16.<lb facs="P8_TL00012"/>CHARBO, bd du Montparnasse, 96. MARTINE, fg Saint-Honoré, 83.<lb facs="P8_TL00013"/>OHÉRON, rue La Boëtie, 56. LIBRAIRIE MONNIER, rue de l'Odéon, 7.<lb facs="P8_TL00014"/>LIBRAIRIE GRÈS, bd Saint-Germain, 115. GALERIE MARGUY, rue de Maubeuge, 11.<lb facs="P8_TL00015"/>DELESALLE, rue Monsieur-le-Prince. LIBRAIRIE NICOT, bd Raspail, 224.<lb facs="P8_TL00016"/>FERREYROL, rue Vavin, let 3. LE PARTHÉNON, rue des Ecoles, 54.<lb facs="P8_TL00017"/>DELAPORTE, 24, rue de Clichy. PASQUINI, avenue de Wagram, 43.<lb facs="P8_TL00018"/>GALERIE GRANDHOMME, r. des S.-Pères, 40. GALERIE WEILL, rue Victor-Massé, 25.<lb facs="P8_TL00019"/>De plus notre Revue étant aux MESSAGERIES HACHETTE, on peut se la procurer<lb facs="P8_TL00020"/>dans toutes les Bibliothèques des Gares et du Métro.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P8_TB00005">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00005">
                         <lb facs="P8_TL00021"/>ABONNEMENTS<lb facs="P8_TL00022"/>Ala 2e série (1917) Ala lre série (1916) Aux deux séries (1916 et 1917)<lb facs="P8_TL00023"/>Paris 3 fr. 50 Paris et Province.... 10 fr. Paris 12 fr.<lb facs="P8_TL00024"/>Province 4 fr. Etranger 12 fr. Province 12 fr. 50<lb facs="P8_TL00025"/>Etranger 5 fr. Etranger 15 fr.<lb facs="P8_TL00026"/>Édition de Luxe (série 1917), tirage sur vieux Japon àla forme à 6 exemplaires, numérotés. 75 fr.<lb facs="P8_TL00027"/>» » (série 1916), les 2 dernières collections, l'une . 75 fr.<lb facs="P8_TL00028"/>Vente au numéro de la tre série 1916 :<lb facs="P8_TL00029"/>N° 1: 2 fr. 75. —N° 2 : 1 franc. —N°3 : 2 francs. Nos 4, 5, 6, 11 et 12 : 0 fr. 50.<lb facs="P8_TL00030"/>—N° 7 : 2 fr. 25. Nos 8, 9, 10 (réunis) : 2 fr. 75.<lb facs="P8_TL00031"/>Service aux mobilisés qui en exprimeront le désir. Joindre 0 fr. 75, pour frais d'envois.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P8_TB00006">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00006">
                         <lb facs="P8_TL00032"/>Imprimerie LEVÉ, 71, rue de Rennes, Paris.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P8_TB00007">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00007">
                         <lb facs="P8_TL00033"/>Le gérant Pierre ALBERT-BIROT</ab>
                   </div>
                </div>
@@ -355,13 +370,17 @@
                   </div>
                   <div type="TextContent" corresp="c002">
                      <div type="Head">
-                        <ab facs="P1_TB00003">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00003">
                            <lb facs="P1_TL00006"/>DANS CE NUMÉRO :</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Text">
-                              <ab facs="P1_TB00004">
+                              <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                  xmlns:mods="http://www.loc.gov/mods/v3"
+                                  facs="P1_TB00004">
                                  <lb facs="P1_TL00007"/>Quelques mots sur la sculpture.. P. A. B.<lb facs="P1_TL00008"/>Départ Poème.... PHILIPPE VERNEUIL.<lb facs="P1_TL00009"/>Saisons d'affiches Poème.... LUCIANO FOLGORE.<lb facs="P1_TL00010"/>Tête de femme (étude) Dessin .... PIERRE ALBERT-BIROT.<lb facs="P1_TL00011"/>A Necherith Poème ARY JUSTMAN.<lb facs="P1_TL00012"/>« Sic Ambulant * à, la matinée d'Aca<pc type="endhypen" pre="false">-</pc>
                                  <lb facs="P1_TL00013"/>démia PAUL DERMÉE.<lb facs="P1_TL00014"/>Les Ballets Russes k Paris PIERRE LERAT.<lb facs="P1_TL00015"/>ETC. Lettres. Peinture </ab>
                            </div>
@@ -370,26 +389,36 @@
                   </div>
                   <div type="TextContent" corresp="c003">
                      <div type="Head">
-                        <ab facs="P2_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P2_TB00001">
                            <lb facs="P2_TL00001"/>QUELQUES MOTS SUR LA SCULPTURE</ab>
-                        <ab facs="P2_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P2_TB00002">
                            <lb facs="P2_TL00002"/>(Résumé de la causerie faite à I'atelier de Chana Orloff le dimanche 4 mars)</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P3_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00002">
                            <lb facs="P3_TL00025"/>P. A. B.</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P2_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00003">
                                     <lb facs="P2_TL00003"/>Avez-vous remarqué combien on parle peu de la sculpture, il est vrai qu'à cela il y a<lb facs="P2_TL00004"/>peut-être une raison : c'est que la sculpture depuis longtemps fait très peu parler d'elle. Il<lb facs="P2_TL00005"/>y a indiscutablement une peinture et une poésie nouvelles, la sculpture n'a pas encore suivi et<lb facs="P2_TL00006"/>c'est profondément regrettable.<lb facs="P2_TL00007"/>Pour essayer d'éclairer la question je crois qu'il serait bon de remonter un peu en<lb facs="P2_TL00008"/>arrière et de chercher ce que la sculpture a fait durant les périodes d'art qui ont précédé<lb facs="P2_TL00009"/>celle que nous vivons aujourd'hui. Je ne remonterai pas indéfiniment, bien entendu, je<lb facs="P2_TL00010"/>partirai du grand embranchement Ingres-Delacroix; je crois qu'on peut saisir là assez<lb facs="P2_TL00011"/>nettement les deux courants qui après avoir fait des détours plus ou moins capricieux sont<lb facs="P2_TL00012"/>entrés en contact, engendrant de ce fait la grande période commencée depuis plusieurs<lb facs="P2_TL00013"/>années déjà.<lb facs="P2_TL00014"/>Donc pendant que Ingres insufflait l'esprit de connaissance profonde et constructive,<lb facs="P2_TL00015"/>pendant que Delacroix exaspérait la sensibilité qui aboutirait à l'impressionnisme, que<lb facs="P2_TL00016"/>faisaient les sculpteurs? Du côté Delacroix il y a influence assez marquée. Rude, quoique<lb facs="P2_TL00017"/>plus âgé, entre dans les nouvelles voies, et fait nettement appel à la sensibilité (Chant du<lb facs="P2_TL00018"/>départ). Chez Carpeaux le rôle de la sensibilité s'accentue, il y a là certainement un apport<lb facs="P2_TL00019"/>nouveau et l'on est tout étonné de voir qu'en si bon chemin, il faille attendre jusqu'à Rodin<lb facs="P2_TL00020"/>pour trouver un sculpteur presque impressionniste, car si l'on trouve dans Rodin du grec, de la<lb facs="P2_TL00021"/>renaissance italienne, du gothique, on y trouve aussi des tendances qui représentent le maximum<lb facs="P2_TL00022"/>d'impressionnisme que la sculpture ait su réaliser en France (1) : on peut donc dire que ces<lb facs="P2_TL00023"/>trois sculpteurs ont effleuré l'impressionnisme, mais ils sont loin de la splendide floraison de<lb facs="P2_TL00024"/>l'école de peinture et loin d'avoir extrait la quintessence de ce que cette esthétique pouvait<lb facs="P2_TL00025"/>donner à la sculpture. Du côté Ingres où l'on voit des Manet, des Gauguin, des Cézanne,<lb facs="P2_TL00026"/>les sculpteurs tout d'abord ne voient Ingres qu'en suiveurs et ils font des casques et des<lb facs="P2_TL00027"/>péplums ; il y a une dizaine d'années vivaient encore les derniers champions de cette série<lb facs="P2_TL00028"/>noire; ensuite on rencontre Constantin Meunier, un grand artiste, certes, mais qui a vu le<lb facs="P2_TL00029"/>monde encore et toujours avec l'esthétique grecque, il n'a de moderne que le sujet, mineur<lb facs="P2_TL00030"/>ou débardeur, avec lesquels il refait des bas-reliefs du Parthénon. A ce propos remarquons<lb facs="P2_TL00031"/>en passant la bizarre mentalité qui régna pendant quelques années et qui se trouve si bien<lb facs="P2_TL00032"/>exprimée dans le vers de Chénier :<lb facs="P2_TL00033"/>Sur des pensera nouveaux faire des vers antiques,<lb facs="P2_TL00034"/>et pendant longtemps les artistes ont cru faire œuvre moderne en remplaçant les péplums<lb facs="P2_TL00035"/>et les casques par des pardessus et des chapeaux hauts de forme.</ab>
                               </div>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P3_TB00001">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00001">
                                     <lb facs="P3_TL00001"/>Donc, résumé : trois sculpteurs, Rude, Oarpeaux, Rodin, ont évidemment amorcé une<lb facs="P3_TL00002"/>conception d'esthétique nouvelle, tant qu'aux autres ce ne sont que disciples plus ou moins<lb facs="P3_TL00003"/>déguisés du grec, du gothique ou de la renaissance. Et aujourd'hui, après dix ans de cubisme<lb facs="P3_TL00004"/>et de futurisme, nous en sommes à peu près au même point.<lb facs="P3_TL00005"/>Toutefois des tentatives intéressantes ont été faites et cela est très consolant. Tout d'abord<lb facs="P3_TL00006"/>nous devons citer en première place le peintre-sculpteur italien Boccioni, tué en pleine jeu<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P3_TL00007"/>nesse, mais qui avait déjà beaucoup travaillé et qui est peut-être celui qui a poussé le plus<lb facs="P3_TL00008"/>loin les recherches pour une nouvelle conception plastique, et nous pensons que peut-être les<lb facs="P3_TL00009"/>sculpteurs actuels auraient grand intérêt à connaître mieux les travaux de Boccioni.<lb facs="P3_TL00010"/>Mais c'est sur les vivants que nous devons compter. Ils sont peu nombreux, leurs<lb facs="P3_TL00011"/>recherches sont basées sur la déformation et sur ce que j'appellerai la synthèse directe,<lb facs="P3_TL00012"/>esthétique à laquelle appartiennent nettement les beaux bois qui vous entourent, et c'est<lb facs="P3_TL00013"/>là un très grand pas de fait car c'est enfin ne plus être sous la tutelle du ve et même du<lb facs="P3_TL00014"/>ive siècle grec, c'est remonter au contraire vers les conceptions beaucoup plus vastes des<lb facs="P3_TL00015"/>VIE et viie siècles, des Egyptiens, Assyriens, Ohaldéens, Chinois et aussi des sculpteurs<lb facs="P3_TL00016"/>nègres.<lb facs="P3_TL00017"/>Or, j'estime que ces deux ou trois courageux, dont au premier rang Orloff, sont destinés<lb facs="P3_TL00018"/>à être ceux qui se dégageront enfin complètement de toute tutelle, et suivant résolument les<lb facs="P3_TL00019"/>peintres et les poètes dans leur esthétique mondialiste, eux aussi, osant le divisionnisme de<lb facs="P3_TL00020"/>la forme, recréeront le monde conformément à la réalité pensée et non plus conformément<lb facs="P3_TL00021"/>à la réalité de vision; eux aussi feront des compénétrations d'objectif et de subjectif,<lb facs="P3_TL00022"/>d'intérieur et d'extérieur, de réalisme et d'idéalisme, et leur œuvre ne sera plus la repré<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P3_TL00023"/>sentation apparente et isolée de l'objet, mais sera ce quelque chose de beaucoup plus<lb facs="P3_TL00024"/>vaste que l'on pourrait peut-être nommer un centre plastique.</ab>
@@ -397,7 +426,9 @@
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P2_TB00004">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00004">
                                     <lb facs="P2_TL00036"/>(1) Il est bonde ne pas oublier le sculpteur italien Rosso quia poussé les recherches impressionnistes plus loin que<lb facs="P2_TL00037"/>Rodin, mais il n'a eu pour ainsi dire aucune influence en France où on le connaît d'ailleurs très peu, ce qui est fort<lb facs="P2_TL00038"/>regrettable.</ab>
                               </div>
                            </div>
@@ -406,18 +437,24 @@
                   </div>
                   <div type="TextContent" corresp="c004">
                      <div type="Head">
-                        <ab facs="P3_TB00005">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00005">
                            <lb facs="P3_TL00041"/>DEPART</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P3_TB00004">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00004">
                            <lb facs="P3_TL00038"/>PHILIPPE VERNEUIL.<lb facs="P3_TL00039"/>Hôpital 172.<lb facs="P3_TL00040"/>Février 1917.</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P3_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00003">
                                     <lb facs="P3_TL00026"/>L'heure...<lb facs="P3_TL00027"/>Adieu<lb facs="P3_TL00028"/>la foule tournoie,<lb facs="P3_TL00029"/>un homme s'agite.<lb facs="P3_TL00030"/>Les cris<lb facs="P3_TL00031"/>des femmes autour de moi...<lb facs="P3_TL00032"/>Chacun se précipite<lb facs="P3_TL00033"/>me bousculant.<lb facs="P3_TL00034"/>Voici<lb facs="P3_TL00035"/>que, le soir tombant<lb facs="P3_TL00036"/>j'ai froid.<lb facs="P3_TL00037"/>Àvecque ses paroles, j'emporte son sourire.</ab>
                               </div>
                            </div>
@@ -426,36 +463,48 @@
                   </div>
                   <div type="TextContent" corresp="c005">
                      <div type="Byline">
-                        <ab facs="P4_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P4_TB00001">
                            <lb facs="P4_TL00001"/>Dessin de Pierre ALBERT-BIROT</ab>
                      </div>
                      <div type="Illustration" corresp="c006">
                         <div type="Image"/>
                         <div type="Caption">
-                           <ab facs="P4_TB00002">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P4_TB00002">
                               <lb facs="P4_TL00002"/>TÊTE DE FEMME (Étude)</ab>
                         </div>
                      </div>
                   </div>
                   <div type="TextContent" corresp="c007">
                      <div type="Head">
-                        <ab facs="P5_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00001">
                            <lb facs="P5_TL00001"/>UN POÈME</ab>
                      </div>
                      <div type="TextContent" corresp="c008">
                         <div type="Head">
-                           <ab facs="P5_TB00002">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P5_TB00002">
                               <lb facs="P5_TL00002"/>SAISONS D'AFFICHES</ab>
                         </div>
                         <div type="Byline">
-                           <ab facs="P5_TB00004">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P5_TB00004">
                               <lb facs="P5_TL00013"/>LUCIANO FOLGORE.<lb facs="P5_TL00014"/>futuriste.</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P5_TB00003">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P5_TB00003">
                                        <lb facs="P5_TL00003"/>Rectangle vert: avril frais d'une figure de femme :<lb facs="P5_TL00004"/>syllabes claires soulignées par le soleil<lb facs="P5_TL00005"/>Enorme affiche rouge : s'arrondissent des noms en feu par le<lb facs="P5_TL00006"/>violent été des cafés-concerts. Une toute petite<lb facs="P5_TL00007"/>affiche bleue : Peut-on aller dans ces pays du Nord, toujours<lb facs="P5_TL00008"/>en automne ? Blanc et noir : arbres et neige :<lb facs="P5_TL00009"/>réclame de la mort. La vie et le temps les<lb facs="P5_TL00010"/>voilà en 50 mètres de chemin.<lb facs="P5_TL00011"/>La rose des vents de mon cerveau les éparpille<lb facs="P5_TL00012"/>ensuite par latitudes d'années et longitudes de souvenirs.</ab>
                                  </div>
                               </div>
@@ -465,18 +514,24 @@
                   </div>
                   <div type="TextContent" corresp="c009">
                      <div type="Head">
-                        <ab facs="P6_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P6_TB00001">
                            <lb facs="P6_TL00001"/>A NECHERITH</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P6_TB00003">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P6_TB00003">
                            <lb facs="P6_TL00026"/>ARY JUSTMAN.</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P6_TB00002">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00002">
                                     <lb facs="P6_TL00002"/>Poème traduit du polonais par l'auteur<lb facs="P6_TL00003"/>Oui, tu es belle.<lb facs="P6_TL00004"/>Ni rose, ni lys, ni princesse<lb facs="P6_TL00005"/>Artiste.<lb facs="P6_TL00006"/>Dans chaque œil le monde se colore.<lb facs="P6_TL00007"/>Chaque mot est sonore,<lb facs="P6_TL00008"/>Chaque sonorité a son pouls,<lb facs="P6_TL00009"/>dans le pouls vibre le sang,<lb facs="P6_TL00010"/>où est le sang là est la vie.<lb facs="P6_TL00011"/>Partout tu vois la vie.<lb facs="P6_TL00012"/>La couleur, le son, la ligne <lb facs="P6_TL00013"/>sont les sources de toutes nos joies.<lb facs="P6_TL00014"/>A poignées tu sèmes la joie<lb facs="P6_TL00015"/>dans la maison où tu viens.<lb facs="P6_TL00016"/>Ligne, ligne <lb facs="P6_TL00017"/>Sphère des harmonies des chanteurs invisibles<lb facs="P6_TL00018"/>des mélodies éthéréniennes cristalisées,<lb facs="P6_TL00019"/>Où le mouvement fait le corps,<lb facs="P6_TL00020"/>le corps la pensée,<lb facs="P6_TL00021"/>la pensée Dieu.<lb facs="P6_TL00022"/>Oui, tu es belle.<lb facs="P6_TL00023"/>Ni rose, ni lys, ni princesse.<lb facs="P6_TL00024"/>Femme biblique Sibylle.<lb facs="P6_TL00025"/>Femme du siècle Artiste.</ab>
                               </div>
                            </div>
@@ -485,20 +540,28 @@
                   </div>
                   <div type="TextContent" corresp="c010">
                      <div type="Head">
-                        <ab facs="P7_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00001">
                            <lb facs="P7_TL00001"/>"SIC AMBUANT"</ab>
-                        <ab facs="P7_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00002">
                            <lb facs="P7_TL00002"/>à la matinée d'Aeademia le 25 Février 1917</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P7_TB00004">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00004">
                            <lb facs="P7_TL00030"/>PAUL DERMÉE.</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P7_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00003">
                                     <lb facs="P7_TL00003"/>La séance passionnée d'Académia où Pierre Albert-Birot a parlé du nunisme a remis en<lb facs="P7_TL00004"/>question la propagande artistique parmi la foule. Il faut bien reconnaître que l'auditoire, surtout<lb facs="P7_TL00005"/>constitué de mamans respectables et d'enfants charmantes, n'a pas paru féru de nouveauté. Quand le<lb facs="P7_TL00006"/>directeur de Sic montrait, par maints exemples empruntés à l'industrie et au commerce, que notre<lb facs="P7_TL00007"/>vie nationale souffrait surtout du manque d'initiative, l'honorable public lui disait : « Mais parlez<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P7_TL00008"/>nous de littérature ! » Singulier aveuglement qui ne voit pas le même mal : la routine exerçant<lb facs="P7_TL00009"/>partout ses ravages. S'il était vaincu, point ne serait besoin de ferrailler pour le cubisme ou le<lb facs="P7_TL00010"/>futurisme!...<lb facs="P7_TL00011"/>M. le professeur Lesueur, le contradicteur, sut se montrer plus fermé aux nécessités du renou<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P7_TL00012"/>vellement que ce bon M. Gazier lui-même. « Vous n'avez pas inventé une nouvelle façon d'aimer,<lb facs="P7_TL00013"/>dit-il, pourquoi voulez-vous donc changer la façon de chanter l'amour. » M. Lesueur fut sûrement,<lb facs="P7_TL00014"/>en des existences antérieures, l'adversaire de Ronsard, celui de Malherbe; il fut de la cabale qui<lb facs="P7_TL00015"/>siffla la Phèdre de Racine et sa tête chenue devait servir de cible aux projectiles romantiques le soir<lb facs="P7_TL00016"/>d'Hernani. Devant une si belle et si longue tradition, le public applaudit! M. Lesueur est éternel!<lb facs="P7_TL00017"/>Les lectures de poèmes de Guillaume Apollinaire, Pierre Albert-Birot, Paul Dermée, Pierre<lb facs="P7_TL00018"/>Drieu La Rochelle, Luciano Folgore et Fritz R. Vanderpyl faites avec une compréhension remar<pc type="endhypen" pre="false">-</pc>
@@ -511,24 +574,32 @@
                   </div>
                   <div type="TextContent" corresp="c011">
                      <div type="Head">
-                        <ab facs="P7_TB00005">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00005">
                            <lb facs="P7_TL00031"/>LES BALLETS RUSSES A PARIS</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P7_TB00008">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00008">
                            <lb facs="P7_TL00043"/>PIERRE LERAT.</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P7_TB00006">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00006">
                                     <lb facs="P7_TL00032"/>" Sic " a déjà signalé l'activité que déployaient les Futuristes Italiens préparant<lb facs="P7_TL00033"/>sous l'intelligente direction du Directeur des ballets russes, M. Daghileff\ la décoration<lb facs="P7_TL00034"/>d'un certain nombre de nouveaux ballets.<lb facs="P7_TL00035"/>J'ai pu visiter à Rome l'atelier du peintre Triestin DEPERO qui travaille actuellement<lb facs="P7_TL00036"/>à l'exécution des décors et des costumes pour le ballet le Chant du Ilas signal,<lb facs="P7_TL00037"/>d'lgor Strawinski<lb facs="P7_TL00038"/>Nos amis auront la bonne fortune de pouvoir assister à cet intéressant spectacle<lb facs="P7_TL00039"/>qui sera donné à Paris dans le courant de mai ou Juin et qui promet par sa nouveauté,<lb facs="P7_TL00040"/>son originalité et l'audace de sa structure scénique, d'avoir une influence considérable<lb facs="P7_TL00041"/>non seulement sur la décoration, mais aussi sur la mise en scène moderne.</ab>
                               </div>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P7_TB00007">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00007">
                                     <lb facs="P7_TL00042"/>De Rome. </ab>
                               </div>
                            </div>
@@ -540,7 +611,9 @@
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P7_TB00009">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00009">
                                     <lb facs="P7_TL00044"/>Les chanteurs et instrumentistes que la musique moderne<lb facs="P7_TL00045"/>intéresse sont priés d'écrire à SIC qui prépare des auditions<lb facs="P7_TL00046"/>musicales.</ab>
                               </div>
                            </div>
@@ -549,7 +622,9 @@
                   </div>
                   <div type="TextContent" corresp="c013">
                      <div type="Head">
-                        <ab facs="P8_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P8_TB00001">
                            <lb facs="P8_TL00001"/>ETC...</ab>
                      </div>
                      <div type="TextContent" corresp="c014">
@@ -557,14 +632,18 @@
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P8_TB00002">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P8_TB00002">
                                        <lb facs="P8_TL00002"/>LETTRES. Nous avons reçu les deux premiers numéros de " 391 ", journal de langue fran<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P8_TL00003"/>çaise qui nous vient de Barcelone. Il a l'intention de servir la bonne cause : qu'il soit donc le<lb facs="P8_TL00004"/>bienvenu, aimons-nous les uns les autres.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P8_TB00003">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P8_TB00003">
                                        <lb facs="P8_TL00005"/>PEINTURE. Certaines peintures, certains dessins de l'exposition Ramey chez Marguy nous<lb facs="P8_TL00006"/>font penser qu'un jour prochain sans doute ce peintre saura s'affranchir de certaines influences<lb facs="P8_TL00007"/>et devenir lui-même et peut-être... des nôtres.</ab>
                                  </div>
                               </div>

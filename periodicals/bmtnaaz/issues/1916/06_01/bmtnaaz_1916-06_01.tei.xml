@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:mods="http://www.loc.gov/mods/v3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -40,6 +38,7 @@
                      <date when="1916-06"/>
                   </imprint>
                </monogr>
+               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
                <relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
@@ -283,35 +282,51 @@
             <div type="Issue">
                <div type="PublicationInfo">
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00001">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00001">
                         <lb facs="P1_TL00001"/>Prix 0,20</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00003">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00003">
                         <lb facs="P1_TL00006"/>Paraît une fois par mois<lb facs="P1_TL00007"/>Jain 1916</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00004">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00004">
                         <lb facs="P1_TL00008"/>N° 6<lb facs="P1_TL00009"/>Adresser tout ce qui concerne<lb facs="P1_TL00010"/>*SI C *<lb facs="P1_TL00011"/>à Pierre ALBERT-BIROT, Directeur<lb facs="P1_TL00012"/>37. Rue de la Tombe-Issoiie Pari*.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00002">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00002">
                         <lb facs="P1_TL00002"/>SONS<lb facs="P1_TL00003"/>IDÉES<lb facs="P1_TL00004"/>COULEURS<lb facs="P1_TL00005"/>FORMES</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P8_TB00006">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00006">
                         <lb facs="P8_TL00028"/>SIC SE PROPOSE DE FAIRE DE L'EDSTION<lb facs="P8_TL00029"/>1 LIVRES, BROCHURES. ALBUMS, MUSIQUE.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P8_TB00007">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00007">
                         <lb facs="P8_TL00030"/>@1 &amp; publie des poèmes, de la musique, des dessins, des reproductions de tableaux, des<lb facs="P8_TL00031"/>I croquis d'architecture, de meubles, etc. •..<lb facs="P8_TL00032"/>m ■ ■=====QC&amp; -OOP- uv.T <lb facs="P8_TL00033"/>ABONNEMENTS<lb facs="P8_TL00034"/>La série de 12 Nos . . . 3.00 Tirage de luxe limité àlO exempl<lb facs="P8_TL00035"/>Province 3.50 sur Japon 50 Fs.<lb facs="P8_TL00036"/>j Étranger. 4.50<lb facs="P8_TL00037"/>Un numéro spécimen sera envoyé à toutes les adresses qu'on nous communiquera.<lb facs="P8_TL00038"/>(Service régulier à tous les mobilisés qui en exprimeront Se désir)<lb facs="P8_TL00039"/>=r&gt;Q-T : —~=CC3Q, ===zz=======ssxsA</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P8_TB00008">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00008">
                         <lb facs="P8_TL00040"/>Imprimerie RIRACHOVSKY, 50, Bd St-Jacques, Paris, </ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P8_TB00009">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00009">
                         <lb facs="P8_TL00041"/>Le gérant Pierre ALBERT-BIROT</ab>
                   </div>
                </div>
@@ -321,14 +336,18 @@
                   </div>
                   <div type="TextContent" corresp="c002">
                      <div type="Head">
-                        <ab facs="P2_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P2_TB00001">
                            <lb facs="P2_TL00001"/>LA LOI</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P2_TB00002">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00002">
                                     <lb facs="P2_TL00002"/>A bas la rouille<lb facs="P2_TL00003"/>A bas le moisi<lb facs="P2_TL00004"/>A bas la ruine<lb facs="P2_TL00005"/>A BAS LE VIEUX<lb facs="P2_TL00006"/>C'est sale<lb facs="P2_TL00007"/>Ça pue<lb facs="P2_TL00008"/>ÇA SENT LA MORT<lb facs="P2_TL00009"/>Aimons la maison neuve<lb facs="P2_TL00010"/>Aimons la maison blanche<lb facs="P2_TL00011"/>Aimons le rouge, le bleu, le vert<lb facs="P2_TL00012"/>et l'or<lb facs="P2_TL00013"/>C'est chaud, c'est jeune<lb facs="P2_TL00014"/>C'est propre<lb facs="P2_TL00015"/>Aimons le neuf<lb facs="P2_TL00016"/>CA SENT LA VIE</ab>
                               </div>
                            </div>
@@ -337,7 +356,9 @@
                   </div>
                   <div type="TextContent" corresp="c003">
                      <div type="Head">
-                        <ab facs="P3_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00001">
                            <lb facs="P3_TL00001"/>RÉFLEXIONS.</ab>
                      </div>
                      <div type="TextContent" corresp="c004">
@@ -345,7 +366,9 @@
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P3_TB00002">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P3_TB00002">
                                        <lb facs="P3_TL00002"/>XXL<lb facs="P3_TL00003"/>D'où vient qu'il y a des "vieux tableaux" qui<lb facs="P3_TL00004"/>ont si peu de valeur et d'autres qui en ont<lb facs="P3_TL00005"/>tant.<lb facs="P3_TL00006"/>XXII.<lb facs="P3_TL00007"/>Il est naturel que la révolution ait tant guil<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P3_TL00008"/>lotiné : Mme « res publica » a par définition<lb facs="P3_TL00009"/>horreur des têtes.</ab>
                                  </div>
@@ -356,22 +379,30 @@
                   </div>
                   <div type="TextContent" corresp="c005">
                      <div type="Head">
-                        <ab facs="P3_TB00003">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00003">
                            <lb facs="P3_TL00010"/>LE NUNISME </ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P3_TB00004">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00004">
                                     <lb facs="P3_TL00011"/>(l)</ab>
-                                 <ab facs="P3_TB00005">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00005">
                                     <lb facs="P3_TL00012"/>Un «isme» qui doit survivre à tous.<lb facs="P3_TL00013"/>Le nunisme est né avec l'homme et ne disparaîtra qu'avec lui.<lb facs="P3_TL00014"/>Tous les grands philosophes, les grands artistes, les grands poètes, les<lb facs="P3_TL00015"/>grands savants, tous les flambeaux, les créateurs de tous les temps ont<lb facs="P3_TL00016"/>été, sont, seront nunistes.<lb facs="P3_TL00017"/>Nous tous qui cherchons, soyons d'abord nunistes.<lb facs="P3_TL00018"/>Hors le nunisme point de vie.<lb facs="P3_TL00019"/>Etre nuniste ou ne pas être.</ab>
                               </div>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P3_TB00006">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00006">
                                     <lb facs="P3_TL00020"/>&lt;1) Du grec NUN, maintenant, à présent.</ab>
                               </div>
                            </div>
@@ -380,19 +411,25 @@
                   </div>
                   <div type="TextContent" corresp="c006">
                      <div type="Head">
-                        <ab facs="P4_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P4_TB00001">
                            <lb facs="P4_TL00001"/>POÈME</ab>
                      </div>
                      <div type="TextContent" corresp="c007">
                         <div type="Head">
-                           <ab facs="P4_TB00002">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P4_TB00002">
                               <lb facs="P4_TL00002"/>UN HOMME QUI PENSE</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P4_TB00003">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P4_TB00003">
                                        <lb facs="P4_TL00003"/>Me voici arrivé<lb facs="P4_TL00004"/>en moi<lb facs="P4_TL00005"/>VASTITÉLUMINEUSE<lb facs="P4_TL00006"/>Palais? Non<lb facs="P4_TL00007"/>Ateliercirculaireassourdissantauxyeux<lb facs="P4_TL00008"/>Vapeurpistonsbieillescourroiesrouesengrena<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P4_TL00009"/>gessifflementsgrincementsretentissements<lb facs="P4_TL00010"/>silencieux Couperforgerriver<lb facs="P4_TL00011"/>Embrassementsbaisersétreintes<lb facs="P4_TL00012"/>Forces irradientesascensionnelles,<lb facs="P4_TL00013"/>s'incorporentéperdûment<lb facs="P4_TL00014"/>LES IDÉES COLORÉES<lb facs="P4_TL00015"/>Hors de moi dans l'espace<lb facs="P4_TL00016"/>J'entends un homme qui passe<lb facs="P4_TL00017"/>HAI 1916</ab>
                                  </div>
@@ -403,11 +440,15 @@
                   </div>
                   <div type="TextContent" corresp="c008">
                      <div type="Head">
-                        <ab facs="P5_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00001">
                            <lb facs="P5_TL00001"/>EXPRESSION MUSICALE<lb facs="P5_TL00002"/>N° 5</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P5_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00002">
                            <lb facs="P5_TL00003"/>Germaine ALBERT-BIROT</ab>
                      </div>
                      <div type="Music" corresp="c009">
@@ -417,7 +458,9 @@
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P5_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00003">
                                     <lb facs="P5_TL00004"/>7 Janvier 1915</ab>
                               </div>
                            </div>
@@ -426,19 +469,25 @@
                   </div>
                   <div type="TextContent" corresp="c010">
                      <div type="Head">
-                        <ab facs="P6_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P6_TB00001">
                            <lb facs="P6_TL00001"/>DIALOGUE NUNIQUE<lb facs="P6_TL00002"/>Z et A</ab>
                      </div>
                      <div type="TextContent" corresp="c011">
                         <div type="Head">
-                           <ab facs="P6_TB00002">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P6_TB00002">
                               <lb facs="P6_TL00003"/>N'IMPORTE où...</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P6_TB00003">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P6_TB00003">
                                        <lb facs="P6_TL00004"/>A. Mais alors Raphaël est un déformateur?!<lb facs="P6_TL00005"/>Z. Evidemment, comme tous les artistes. L'erreur vient de ce que vous entendez le<lb facs="P6_TL00006"/>mot déformer au sens péjoratif, son sens strict est changement de la forme ;<lb facs="P6_TL00007"/>que l'artiste crée une nouvelle forme dite plus belle, il déforme tout comme<lb facs="P6_TL00008"/>celui qui crée une nouvelle forme dite plus laide.<lb facs="P6_TL00009"/>A. C'est juste, et je vois bien maintenant que tous les artistes en effet sont des<lb facs="P6_TL00010"/>déformateurs. Mais pourquoi ne font-ils pas tout simplement la nature telle<lb facs="P6_TL00011"/>qu'elle est?<lb facs="P6_TL00012"/>Z. Mon pauvre ami ! Et dire que vous passez tant d'heures dans les musées.<lb facs="P6_TL00013"/>Dites-moi, ne faites vous point de différence entre l'œil de l'appareil photogra<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P6_TL00014"/>phique et l'œil de l'artiste?<lb facs="P6_TL00015"/>A. Non, physiquement ils projettent l'un et l'autre l'image des objets à l'intérieur<lb facs="P6_TL00016"/>du corps qu'ils servent.<lb facs="P6_TL00017"/>Z. Bien. Mais voyez-vous une différence entre ces deux corps, c'est à dire entre<lb facs="P6_TL00018"/>la chambre noire et l'homme?<lb facs="P6_TL00019"/>A. Oui, certes, l'un est un instrument, l'autre est un être vivant.<lb facs="P6_TL00020"/>Z. Très bien, et quelle différence voyez-vous entre un instrument et un être<lb facs="P6_TL00021"/>vivant ?<lb facs="P6_TL00022"/>A. L'un ne sent pas et l'autre sent.<lb facs="P6_TL00023"/>Z. Ce serait parfait si vous ajoutiez : et pense. Donc si nous demandons à ces<lb facs="P6_TL00024"/>deux corps différents de nous transmettre l'image que leur œil respectif a pro<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P6_TL00025"/>jetée en eux, devons-nous nous attendre à ce qu'ils nous transmettent deux<lb facs="P6_TL00026"/>images semblables?<lb facs="P6_TL00027"/>A. Naturellement non. L'un est simple, l'autre est eomplexe, ils nous transmet<pc type="endhypen" pre="false">-</pc>
@@ -448,7 +497,9 @@
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P7_TB00001">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P7_TB00001">
                                        <lb facs="P7_TL00001"/>A. Mais... Ah! je comprends! par la déformation.<lb facs="P7_TL00002"/>Z. Enfin! Et il déformera la représentation objective en raison de son idéal et de<lb facs="P7_TL00003"/>sa sensibilité et il sera Phidias, Giotto, Raphaël, Rembrand, Monet, Matisse,<lb facs="P7_TL00004"/>Cézanne; et selon la prépondérance de Lidéal ou de la sensibilité on aura les<lb facs="P7_TL00005"/>classiques ou les impressionnistes. Au revoir. A bientôt.</ab>
                                  </div>
                               </div>
@@ -458,16 +509,22 @@
                   </div>
                   <div type="TextContent" corresp="c012">
                      <div type="Head">
-                        <ab facs="P7_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00002">
                            <lb facs="P7_TL00006"/>SOYEZ BONS. </ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P7_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00003">
                                     <lb facs="P7_TL00007"/>Soyez bon» pour les passéistes. <lb facs="P7_TL00008"/>Ils sont si doux ces innocents <lb facs="P7_TL00009"/>Quand ils nous traitent de fumistes <lb facs="P7_TL00010"/>Avec des airs si bien pensants. <lb facs="P7_TL00011"/>S'ils sont parfois d'humeur bêchante <lb facs="P7_TL00012"/>Soyez bons et indulgents, <lb facs="P7_TL00013"/>Elle est plus bête que méchante <lb facs="P7_TL00014"/>La bêche de ces pauvres gens. </ab>
-                                 <ab facs="P7_TB00004">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00004">
                                     <lb facs="P7_TL00015"/>Ils sont déjà bien trop à plaindre<lb facs="P7_TL00016"/>D'avoir pareille infirmité,<lb facs="P7_TL00017"/>Qu'il n'aient au moins plus rien à craindre<lb facs="P7_TL00018"/>De notre supériorité.<lb facs="P7_TL00019"/>Soyez bons pour les passéistes:<lb facs="P7_TL00020"/>Donnez un sourire en passant<lb facs="P7_TL00021"/>Quand ils vous traitent de fumistes;<lb facs="P7_TL00022"/>Ils sont si doux ces innocents.</ab>
                               </div>
                            </div>
@@ -476,57 +533,75 @@
                   </div>
                   <div type="TextContent" corresp="c013">
                      <div type="Head">
-                        <ab facs="P7_TB00005">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00005">
                            <lb facs="P7_TL00023"/>ETC...</ab>
                      </div>
                      <div type="TextContent" corresp="c014">
                         <div type="Byline">
-                           <ab facs="P7_TB00007">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P7_TB00007">
                               <lb facs="P7_TL00037"/>C=B.</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P7_TB00006">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P7_TB00006">
                                        <lb facs="P7_TL00024"/>MUSIQUE. Considérations brèves. — Sous le prétexte que les Allemands — musicalement— font grand —<lb facs="P7_TL00025"/>sens péjoratif, sourire dédaigneux de l'homme qui juge sans appel-ne manifestons pas le mauvais<lb facs="P7_TL00026"/>goût de faire petit...<lb facs="P7_TL00027"/>N'abusons pas de l'humour...<lb facs="P7_TL00028"/>Il est plus facile —sous un titre amusant —d'inscrire de spirituelles combinaisons harmoniques que<lb facs="P7_TL00029"/>de créer de l'émotion, de la beauté, de la puissance...<lb facs="P7_TL00030"/>Se méfier des pédagogues...<lb facs="P7_TL00031"/>Grandeur n'implique pas longueur...<lb facs="P7_TL00032"/>Tendre à la brièvté, à l'émotion condensée...<lb facs="P7_TL00033"/>Supprimer le bavardage—genre discours de réunion publique...<lb facs="P7_TL00034"/>L'accord qui, à lui seul, contiendrait une synthèse d'expression vaudrait la plus longue symphonie...<lb facs="P7_TL00035"/>Plus difficile à réaliser que du... pas de personnalités...<lb facs="P7_TL00036"/>et surtout: soyons nous-mêmes...</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P7_TB00008">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P7_TB00008">
                                        <lb facs="P7_TL00038"/>LETTRES. Que doit faire le poète? Exprimer au maximum. Que peut faire la syntaxe surtout dans<lb facs="P7_TL00039"/>une langue analytique? Lier, relier, entortiller l'expression et mettre le désaccord parfait entre son<lb facs="P7_TL00040"/>mouvement et celui de la pensée. En une seconde l'esprit peut voir deux et trois images, il lui<lb facs="P7_TL00041"/>faudra trente secondes pour en exprimer une par une phrase régulière. Conclusion: on aura exprimé<lb facs="P7_TL00042"/>en moyenne 10, 20, 30, 40, 50 fois moins qu'on aurait pu le faire, et la seule expression donnée<lb facs="P7_TL00043"/>est fausse par son mouvement et par son isolement... et le lecteur s'endort.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P8_TB00001">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P8_TB00001">
                                        <lb facs="P8_TL00001"/>THEATRE. Le théâtre, pas plus que les autres arts ne peut être de l'imitation. Le trompe-l'œil et Part<lb facs="P8_TL00002"/>s'excluent. Le théâtre dit «réaliste» ne peut nous satisfaire, nous voulons plus encore, parce qu'il<lb facs="P8_TL00003"/>y a plus encore dans la vie, il nous faut un réalisme en profondeur et non en surface, et là,<lb facs="P8_TL00004"/>comme partout nous devons tendre au style; par suite l'acteur qnî joue «vrai» n'est pas l'artiste<lb facs="P8_TL00005"/>que nous voulons. Mais comme nous le disions précédemment ce sont les auteurs qui créeront<lb facs="P8_TL00006"/>le mouvement, car les acteurs nécessairement se formeront d'après les œuvres qu'ils auront à in<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P8_TL00007"/>terpréter. Que le plus bel acteur s'essaie seulement à dire les poèmes publiés jusqu'ici par SIC,<lb facs="P8_TL00008"/>il s'apercevra bien vite qu'il ne peut le faire convenablement sans changer beaucoup à son art<lb facs="P8_TL00009"/>Un poème n'est pas tout-à-fait du théâtre, mais c'est déjà une indication,</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P8_TB00002">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P8_TB00002">
                                        <lb facs="P8_TL00010"/>ARCHITECTURE. Un peuple fort, un peuple qui existe est un, il a une forme mentale, par conséquent<lb facs="P8_TL00011"/>une architecture : un style. Or comme nous recommençons d'exister, nous allons avoir un style.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P8_TB00003">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P8_TB00003">
                                        <lb facs="P8_TL00012"/>PEINTURE. Le commerce s'adresse à la masse, il a donc besoin de s'exprimer dans une langue que<lb facs="P8_TL00013"/>la masse comprenne: la peinture objective est encore bonne pour la publicité, elle pourra servir<lb facs="P8_TL00014"/>quelque temps à faire d'éloquentes affiches. Tant qu'à nous, allons au delà, laissons cet art<lb facs="P8_TL00015"/>devenu primaire.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P8_TB00004">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P8_TB00004">
                                        <lb facs="P8_TL00016"/>DÉCORATION, On a créé depuis Sa guerre un grand mouvement en faveur du jouet français. Notre<lb facs="P8_TL00017"/>finesse, notre ingéniosité, notre habileté, semblent en effet des qualités bien indiquées pour conve<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P8_TL00018"/>nir àla création et à la fabrication du jouet. Mais attention! jusqu'ici il nous semble qu'on a<lb facs="P8_TL00019"/>surtout fait des jouets amusants pour les grandes personnes qui les regardent et peut-être pour<lb facs="P8_TL00020"/>les grandes personnes qui les font. Or pour le bien'de la France, n'oubliez pas que le jouet esf<lb facs="P8_TL00021"/>pour Penfant n'oubliez pas que le jouet n'est pas un objet à regarder, n'oubliez pas enfin que le<lb facs="P8_TL00022"/>jouet doit faire JOUER l'esprit et les muscles.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P8_TB00005">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P8_TB00005">
                                        <lb facs="P8_TL00023"/>ES H pré S 6110 3 d@ la rapidité avec laquelle SIC a gagné la sympathie d© l'élite nous nous voyons contraints<lb facs="P8_TL00024"/>de supprimer tous les services que nous avons faits jusqu'ici, afin de réserver tout notre tirage pour la vente et l'abon<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P8_TL00025"/>nement.<lb facs="P8_TL00026"/>Les numéros 1 et 2 étant épuisés, nous avons fait en sorte d'en réunir un certain nombre d'exemplaires que noft»<lb facs="P8_TL00027"/>tenon® à la disposition de nos lecteurs aux prix de 0,75 le JVe 1 et 0,50 le M 2.</ab>
                                  </div>

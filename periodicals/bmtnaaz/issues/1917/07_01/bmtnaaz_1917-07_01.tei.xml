@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:mods="http://www.loc.gov/mods/v3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -40,6 +38,7 @@
                      <date when=""/>
                   </imprint>
                </monogr>
+               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
                <relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
@@ -285,40 +284,58 @@
             <div type="Issue">
                <div type="PublicationInfo">
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00002">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00002">
                         <lb facs="P1_TL00005"/>Pierre ALBERT-BIROT, Directeur</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00001">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00001">
                         <lb facs="P1_TL00001"/>SONS<lb facs="P1_TL00002"/>IDÉES<lb facs="P1_TL00003"/>COULEURS<lb facs="P1_TL00004"/>POEMES</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00008">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00008">
                         <lb facs="P1_TL00026"/>Px 0,50<lb facs="P1_TL00027"/>Paraît au fois par mois</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00006">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00006">
                         <lb facs="P1_TL00020"/>Adresser tout ce qui concerne<lb facs="P1_TL00021"/>la Revue<lb facs="P1_TL00022"/>37, Rue de la Tombe-Issoire. — Parie.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00007">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00007">
                         <lb facs="P1_TL00023"/>N°' 19-20<lb facs="P1_TL00024"/>Juillet-Août 1917<lb facs="P1_TL00025"/>Deuxième Année</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P2_TB00001">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P2_TB00001">
                         <lb facs="P2_TL00001"/>" ÉDITIONS SIC": La pièce de Guillaume Apollinaire " Les Mamelles de Tirésias" ne sera<lb facs="P2_TL00002"/>pas publiée dans la revue; elle paraîtra le 15 octobre prochain en un volume in-8° carré, accompa<pc type="endhypen" pre="false">-</pc>
                         <lb facs="P2_TL00003"/>gnée de la musique de scène, des chœurs, de dessins des costumes et accessoires et de l'opinion de la<lb facs="P2_TL00004"/>presse. Prix du volume : 5 fr (Tirage de luxe limité à 12 exemplaires, 75 fr.,50fr. et 25 fr.).—Adresser<lb facs="P2_TL00005"/>les souscriptions à Pierre Albert-Birot, directeur de la Revue Sic, 37, rue de la Tombe-Issoire, Paris.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P12_TB00009">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P12_TB00009">
                         <lb facs="P12_TL00034"/>ABONNEMENTS<lb facs="P12_TL00035"/>Ala 2* série (1917) Ala lfe série (1916) Aux deux séries (1916 et 1917)<lb facs="P12_TL00036"/>Paris 3 fr. 50 Paris et Province.... 10 fr. Paris 12 fr.<lb facs="P12_TL00037"/>Province 4 fr. Etranger 12 fr. Province 12 fr. 50<lb facs="P12_TL00038"/>Etranger 5 fr. Etranger 15 fr.<lb facs="P12_TL00039"/>Édition de Luxe (série 1917), tirage sur vieux Japon àla forme à 6 exemplaires, numérotés. 75 fr.<lb facs="P12_TL00040"/>Vente au numéro de la lre série 1916 :<lb facs="P12_TL00041"/>N° 1: 2 fr. 75. —N° 2: 1 franc. —N°3 : 2 francs. — N08 4, 5, 6, 11 et 12 : 0 fr. 50.<lb facs="P12_TL00042"/>—N° 7 : 2 fr. 25. — N°8 8, 9, 10 (réunis) : 2 fr. 75.<lb facs="P12_TL00043"/>Service aux mobilisés qui en exprimeront le désir. Joindre 0 fr. 75, pour frais d'envois.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P12_TB00010">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P12_TB00010">
                         <lb facs="P12_TL00044"/>Imprimerie LEVÉ, 71, rue de Rennes, Paris.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P12_TB00011">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P12_TB00011">
                         <lb facs="P12_TL00045"/>Le gérant : Pierre ALBERT-BIROT.</ab>
                   </div>
                </div>
@@ -328,20 +345,26 @@
                   </div>
                   <div type="TextContent" corresp="c002">
                      <div type="Head">
-                        <ab facs="P1_TB00003">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00003">
                            <lb facs="P1_TL00006"/>DANS CE NUMERO :</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P1_TB00004">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00004">
                                     <lb facs="P1_TL00007"/>44Editions SIC" <lb facs="P1_TL00008"/>Les Mamelles de Tirésias (Extraits de la Presse).<lb facs="P1_TL00009"/>Un Poème. <lb facs="P1_TL00010"/>Musique <lb facs="P1_TL00011"/>5e Balcon. Poème <lb facs="P1_TL00012"/>Une gravure sur bois. <lb facs="P1_TL00013"/>Déception. Poème à trois voix <lb facs="P1_TL00014"/>Etc </ab>
                               </div>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P1_TB00005">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00005">
                                     <lb facs="P1_TL00015"/>PAUL DERMÉE.<lb facs="P1_TL00016"/>IGOR STRAWINSKY.<lb facs="P1_TL00017"/>PIERRE ALBERT-BIROT.<lb facs="P1_TL00018"/>GHANA ORLOPF.<lb facs="P1_TL00019"/>PHILIPPE SOUPAULT</ab>
                               </div>
                            </div>
@@ -350,30 +373,40 @@
                   </div>
                   <div type="TextContent" corresp="c003">
                      <div type="Head">
-                        <ab facs="P2_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P2_TB00002">
                            <lb facs="P2_TL00006"/>Extraits de la presse concernant la représentation<lb facs="P2_TL00007"/>des " Mamelles de Tirésias " le 24 juin 1917</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P2_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00003">
                                     <lb facs="P2_TL00008"/>Sous ce titre : Une esthétique nouvelle, M. Jean de Gourmont écrit dans le Mercure<lb facs="P2_TL00009"/>de France :<lb facs="P2_TL00010"/>« Le Dimanche 24 juin 1917, en un petit Théâtre de la rue de l'Orient à Montmartre<lb facs="P2_TL00011"/>on a joué devant la phalange sacrée des critiques et des femmes de lettres, qui constitue<lb facs="P2_TL00012"/>l'opinion parisienne, la première pièce cubiste : Les Mamelles de Tirésias de<lb facs="P2_TL00013"/>M. Guillaume Apollinaire. C'est une date littéraire peut-être. La nouveauté de cette<lb facs="P2_TL00014"/>pièce, au dessin violent, est moins dans le sujet qui ne veut être qu'une intéressante<lb facs="P2_TL00015"/>fantaisie que dans le décor synthétique qui l'enveloppe et dans la formule qui rejette<lb facs="P2_TL00016"/>tout le vieux réalisme usé et perfectionné jusqu'à la photographie, du théâtre actuel; qui<lb facs="P2_TL00017"/>rejette aussi les vieux accessoires factices du pessimisme et de la fausse psychologie<lb facs="P2_TL00018"/>amoureuse...<lb facs="P2_TL00019"/>&lt;c Nous voilà initiés à l'art cubiste. N'est-il pas beaucoup plus simple, en effet, de<lb facs="P2_TL00020"/>réunir sous cette même appellation, les essais nouveaux de l'art, de la poésie, de la<lb facs="P2_TL00021"/>peinture et du théâtre. Cela permettra aussi aux bourgeois de se moquer sans effort. »<lb facs="P2_TL00022"/>Dans Le Pays, 15 juillet, M. Victor Basch qui par un miracle digne de cette pièce<lb facs="P2_TL00023"/>surnaturaliste avu deux kiosques à journaux s'exprime avec une modération touchante<lb facs="P2_TL00024"/>digne d'un grand professeur.<lb facs="P2_TL00025"/>« Avant que se leva le rideau, on sentait que la « MANIFESTATION SIC » du 24 juin 1917<lb facs="P2_TL00026"/>—» ainsi que le clame le programme orné d'un dessin suggestif de Picasso et d un puissant<lb facs="P2_TL00027"/>bois d'Henri-Matisse — serait jeune, turbulente et tumultueuse à souhait. Elle ne le fut<lb facs="P2_TL00028"/>pas, à mon sens, suffisamment. Auteur, acteurs, musiciens et décorateurs officiaient<lb facs="P2_TL00029"/>avec la gravité d'hiérodules et le public était à l'unisson... C'était une grande manifes<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P2_TL00030"/>tation d'art, la révélation d'un canon dramatique nouveau, le drame sur-réalistef<lb facs="P2_TL00031"/>cubiste et simultanéiste...<lb facs="P2_TL00032"/>« Le succès des Mamelles de Tirésias fut très vif, ce qui n'est pas étonnant, vu que,<lb facs="P2_TL00033"/>sauf les critiques, c'est devant une salle entièrement composée d'amis et d'adeptes qu elle<lb facs="P2_TL00034"/>fut représentée. Quant aux pauvres critiques qui n'appartenaient pas à la petite chapelle,<lb facs="P2_TL00035"/>ils furent bien embarrassés. Pour mon compte personnel, en rentrant chez moi, je me<lb facs="P2_TL00036"/>mis à réfléchir, et voici à peu près quel fut mon soliloque.<lb facs="P2_TL00037"/>«La pièce de M. Guillaume Apollinaire est un drame sur-réaliste, c'est-à-dire, pour<lb facs="P2_TL00038"/>parler français, un drame symbolique...<lb facs="P2_TL00039"/>« Si donc, M. Guillaume Apollinaire a cru faire du nouveau, en écrivant un drame sym<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P2_TL00040"/>boliste, il se trompe. Qu'il sache que la première condition d'un drame symbolique, c est<lb facs="P2_TL00041"/>que le rapport entre le symbole, qu'est toujours un signe, et la chose signifiée, soit<lb facs="P2_TL00042"/>immédiatement discernable. En est-il ainsi des Mamelles de Tirésias? Je crois deviner</ab>
-                                 <ab facs="P3_TB00001">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00001">
                                     <lb facs="P3_TL00001"/>que c'est une satire contre le féminisme ou plutôt contre les excès du féminisme. Les<lb facs="P3_TL00002"/>femmes ont beau ôter de leur corsage les ox*angesj elles n'en demeurent pas moins femmes,<lb facs="P3_TL00003"/>et, à la première occasion propice, elles les y remettent. Et je ne serai pas éloigné de<lb facs="P3_TL00004"/>croire que cela n'est pas si faux.<lb facs="P3_TL00005"/>« Au demeurant, j'ai passé une bonne après-midi. L'enthousiasme que j'ai senti monter<lb facs="P3_TL00006"/>autour de moi, si je ne l'ai pas partagé, m'a rajeuni. Tout enthousiasme, quel qu'en<lb facs="P3_TL00007"/>soit l'objet, est beau en soi et je salue, de ma jeunesse un instant retrouvée, ces jeunes<lb facs="P3_TL00008"/>qui cherchent un idéal artistique nouveau et — qui sait? — qui découvriront peut-être<lb facs="P3_TL00009"/>dans la mer infinie du Beau quelque île nouvelle où s'épanouiront de grandes fleurs que<lb facs="P3_TL00010"/>respireront ceux ou celles qui viendront après nous. »<lb facs="P3_TL00011"/>M. Guillot de Saix a fait dans La France du 29 juin, des Mamelles de Tirésias, un<lb facs="P3_TL00012"/>compte rendu d'une extraordinaire précision et merveilleusement farci de citations exactes.<lb facs="P3_TL00013"/>Il n'avait entendu la pièce qu'une seule fois. Voici la conclusion de l'article de notre<lb facs="P3_TL00014"/>distingué confrère :<lb facs="P3_TL00015"/>« Au fond, Guillaume Apollinaire est traditionnaliste et sous l'apparent désordre des<lb facs="P3_TL00016"/>idées, sous sa fantaisie tintamarresque, clownesque, guignolesque, il demande le retour<lb facs="P3_TL00017"/>à l'ordre.<lb facs="P3_TL00018"/>« Cette bouffonnerie n'est pas dénuée, on le voit, de sens philosophique et satirique.<lb facs="P3_TL00019"/>Elle est même d'une forte actualité, vu les ambitions de ces dames qui ne se contenteront<lb facs="P3_TL00020"/>pas d'être conseillères municipales. Et cela nous fait songer à l'Assemblée des ,<lb facs="P3_TL00021"/>d'Aristophane, mais plus encore au génial Ubu-Roi, d'Alfred Jarry.<lb facs="P3_TL00022"/>« La représentation fut tumultueuse. Quelques spectateurs prétendirent rivaliser avec<lb facs="P3_TL00023"/>les comédiens en lançant des répliques en l'air, mais celles-ci étaient loin d'avoir la<lb facs="P3_TL00024"/>valeur de celles d'Apollinaire, car elles n'en avaient ni l'esprit ni le rythme.<lb facs="P3_TL00025"/>« J'oubliais de vous citer la moralité opportuniste de l'ouvrage :<lb facs="P3_TL00026"/>Et puis chantez matin et soir,<lb facs="P3_TL00027"/>Grattez-vous si ça vous démange,<lb facs="P3_TL00028"/>Aimez le blanc, aimez le noir,<lb facs="P3_TL00029"/>C'est bien plus drôle quand ça change,<lb facs="P3_TL00030"/>Suffit de s'en apercevoir.<lb facs="P3_TL00031"/>« MM. Férat, Steinberg et Irène Lagut ont donné leurs soins les plus ahurissants aux<lb facs="P3_TL00032"/>décors et costumes « selon l'esprit nouveau ». La musique de Mme Germaine Albert-Birot,<lb facs="P3_TL00033"/>dont l'exécution est confiée à une sorte de peau-rouge qui reste en scène pendant l'action,<lb facs="P3_TL00034"/>utilise le mirliton, l'accordéon, la porcelaine cassée et la baguette pour souligner drôlati<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P3_TL00035"/>quement les faits et gestes des personnages.<lb facs="P3_TL00036"/>« M. Edmond Vallée a bien dit le prologue et le rôle de Presto; Louise-Marion a été<lb facs="P3_TL00037"/>de la plus divertissante folie en Thérèse-Tirésias ; M. Jean Thillois a prêté des accents fort<lb facs="P3_TL00038"/>plaisants au mari; MUe Juliette Norville cavalcada funambulesquement en gendarme<lb facs="P3_TL00039"/>concupiscent; MUe Yéta Daesslé personnifia gentiment le jeune journaliste. A la sortie, le<lb facs="P3_TL00040"/>ciel d'une pureté enfanline semblait tout à fait d'accord avec ce spectacle de la plus sage<lb facs="P3_TL00041"/>démence. Apollon saluait Apollinaire. »<lb facs="P3_TL00042"/>Dans Paris-Midi, Mme Louise Faure-Favier avait annoncé ainsi la pièce sur-réaliste<lb facs="P3_TL00043"/>dans un aticle bien nommé Les mamans de bonne humeur.</ab>
                               </div>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P4_TB00001">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00001">
                                     <lb facs="P4_TL00001"/>« Voici qu'un auteur dramatique, il est vrai qu'il est poète, entreprend de ne nous<lb facs="P4_TL00002"/>présenter en scène que l'époux et l'épouse. On jouera dans quelques jours, Les Mamelles<lb facs="P4_TL00003"/>de Tirésias,de Guillaume Apollinaire, une piece aristophanesque toute empreinte de<lb facs="P4_TL00004"/>poésie et d'optimisme, apologie de la Fécondité.<lb facs="P4_TL00005"/>« Un couple qui veut avoir des enfants et qui en a par milliers, sans souci des contin<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P4_TL00006"/>gences, une mère qui après avoir été une épouse récalcitrante devient une maman de<lb facs="P4_TL00007"/>bonne humeur ; Tirésias-Thérèse qui dans sa fécondité joyeusement consentie crée un<lb facs="P4_TL00008"/>charme nouveau par lequel la maternité pourrait bien être remise à la mode une fois<lb facs="P4_TL00009"/>encore. Ce qui serait fort à propos.<lb facs="P4_TL00010"/>« Vivent les mamans de bonne humeur !<lb facs="P4_TL00011"/>« C'est un poète qui l'a dit. »<lb facs="P4_TL00012"/>Dans le même journal, sous le titre Une pièce cubiste, M. Paul Souday a apprécié le<lb facs="P4_TL00013"/>26 juin les Mamelles de Tirésias dans un article nourri, amusant et heureusement nuancé<lb facs="P4_TL00014"/>dans sa retenue.<lb facs="P4_TL00015"/>« La Butte Montmartre, de chatnoiresque mémoire, est bien l'Hélicon ou le Bayreuth<lb facs="P4_TL00016"/>convenable au culte de la Muse cubiste, laquelle ne représente probablement pas la<lb facs="P4_TL00017"/>poésie ni l'art de l'avenir, mais ne manque pas d'une certaine drôlerie, lorsque c'est<lb facs="P4_TL00018"/>M. Guillaume Apollinaire qui célèbre le rite nouveau...<lb facs="P4_TL00019"/>« Une énorme charge d'atelier, une loufoquerie à intentions satiriques et philoso<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P4_TL00020"/>phiques, telle est la pièce que M. Apollinaire a donnée dimanche, au théâtre du<lb facs="P4_TL00021"/>conservatoire Renée Maubel, sous les auspices de la revue cubiste Sic...<lb facs="P4_TL00022"/>« Au fond, M. Guillaume Apollinaire n'est qu'un simple passéiste, et si la forme est<lb facs="P4_TL00023"/>chez lui fantaisiste et tintamarresque, ses idées se rattachent étroitement à l'école du bon<lb facs="P4_TL00024"/>sens. C'est pourquoi une brève analyse ne peut donner l'impression de cette bouffonne<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P4_TL00025"/>rie, qui réside dans le détail et souvent dans les jeux de scène plus que dans le texte,<lb facs="P4_TL00026"/>lequel n'est même pas obscur, sauf exception. Bien entendu, le décor et les costumes<lb facs="P4_TL00027"/>sont généralement ahurissants et en grande partie cubiste. M. Férat, Mme Irène Lagut et<lb facs="P4_TL00028"/>M. Steinberg y ont donné leurs soins. La musique de Mme Albert-Birot, congrument<lb facs="P4_TL00029"/>excentrique et dissonante, a contribué à mettre l'auditoire en joie.<lb facs="P4_TL00030"/>« En réalité, pour que sa pièce fût vraiment plaisante d'un bout a l'autre, il aurait<lb facs="P4_TL00031"/>fallu à M. Apollinaire une expérience du théâtre qui lui manque. L'ouvrage est trop long<lb facs="P4_TL00032"/>pour se soutenir uniquement par des blagues de rapin. Mais beaucoup d épisodes ont de la<lb facs="P4_TL00033"/>saveur ou même une certaine finesse sous l'extravagance voulue. Le public, composé<lb facs="P4_TL00034"/>d'artistes ou de jeunes gens, était au diapason. Puisque c'était une farce, il y participait<lb facs="P4_TL00035"/>de bon cœur en y mêlant les siennes. Le spectacle était aussi dans la salle. Ce furent deux<lb facs="P4_TL00036"/>heures de reposante folie. »<lb facs="P4_TL00037"/>La Vache enragée, M. Bernard Lecastre :<lb facs="P4_TL00038"/>« Il faut créer la vie, ai-je entendu dire par un enthousiaste. Mais on a créé du<lb facs="P4_TL00039"/>tumulte. Des sons essentiellement métalliques, à contre-temps, des accords de voix<lb facs="P4_TL00040"/>disparates ; un ton suraigu et plaisantin, la plupart du temps. »<lb facs="P4_TL00041"/>La Griffe,6 juillet :<lb facs="P4_TL00042"/>« Cette pièce est une sorte de coup de gong et de coup de zanzibar, une parodie d on<lb facs="P4_TL00043"/>ne sait quoi, une charentonnade dédiée à on ne sait qui, c'est du Jarry montmartnse,</ab>
-                                 <ab facs="P5_TB00001">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00001">
                                     <lb facs="P5_TL00001"/>modernisé et martyrisé. C'est un appel à l'amour, une cacophonie voulue par un poète<lb facs="P5_TL00002"/>une bravoure qui se moque des règles, des lois, du qu'en dira-t-on...<lb facs="P5_TL00003"/>« Et sous les feux convergents des insultes et sous une tempête effroyable de bravos,<lb facs="P5_TL00004"/>Guillaume Apollinaire, le front ceint d'un bandeau — chevron de gloire qui serait<lb facs="P5_TL00005"/>remonté jusqu'à la chevelure et lui ferait une auréole — apparut sur la scène, entouré,<lb facs="P5_TL00006"/>escorté, porté par ses interprètes...<lb facs="P5_TL00007"/>&lt;&lt; Etait-ce un jeu de massacre ou de l'adoration ? Fut-ce une victoire ou une déroute ? »<lb facs="P5_TL00008"/>Nord-Sud :<lb facs="P5_TL00009"/>« La pièce de Guillaume Apollinaire est une pièce lyrique. Elle est burlesque : le<lb facs="P5_TL00010"/>burlesque doit être lyrique pour être de l'art et le lyrisme peut être burlesque puisque le<lb facs="P5_TL00011"/>rire est le lyrisme du pauvre.<lb facs="P5_TL00012"/>« Guillaume Apollinaire est le poète lyrique, l'homme lyrique. Comme Apollinaire est<lb facs="P5_TL00013"/>un penseur moderne. Il se trouve que son burlesque est plein de railleries qui portent sur<lb facs="P5_TL00014"/>les mœurs...<lb facs="P5_TL00015"/>«La musique de Mme Germaine Albert-Birot est gaie uniquement et uniquement gaie :<lb facs="P5_TL00016"/>Donnez tous les sens au mot « uniquement ».<lb facs="P5_TL00017"/>L'Heure, 25 juin :<lb facs="P5_TL00018"/>« Dans un décor à la Gauguin, un Gauguin cubiste, évoluent des nègres et des person<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P5_TL00019"/>nages en cubes... C'est un art qui fait penser à Jarry, un Jarry àla 20e puissance.<lb facs="P5_TL00020"/>« C'est d'une exubérance exaspérée, mais on s'attendait à plus d'outrance encore, à<lb facs="P5_TL00021"/>quelque chose de plus nouveau, à une révélation plus riche. Peut-être plus tard verra<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P5_TL00022"/>t-on mieux la portée qu'aura eue cette pièce qui a déçu les uns et enthousiasmé les<lb facs="P5_TL00023"/>autres. »<lb facs="P5_TL00024"/>26 juin :<lb facs="P5_TL00025"/>« Après un prologue remarquable, un poème ardent où s'inscrit le tragique mirage<lb facs="P5_TL00026"/>d'une nuit de guerre, nous avons entendu deux actes paraît-il sur-réalistes avec des<lb facs="P5_TL00027"/>chœurs de foire, des costumes de guignol cafre, des kiosques à journaux qui se pro<pc type="endhypen" pre="false">-</pc>
@@ -384,19 +417,25 @@
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P6_TB00001">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00001">
                                     <lb facs="P6_TL00001"/>La Rampe, 12 juillet : M. Davin de Champclos :<lb facs="P6_TL00002"/>« Le brave Guillaume Apollinaire... s'est mis un faux nez en carton, bariolé comme<lb facs="P6_TL00003"/>une lanterne japonaise, s'est drapé dans un vieux tapis et aux sons d'un orchestre essen<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P6_TL00004"/>tiellement composé d'un accordéon, d'une poêle à frire et d'un revolver, nous a servi<lb facs="P6_TL00005"/>une gentille petite comédie cubiste qui a fait du coup remonter de dix degrés le thermo<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P6_TL00006"/>mètre de la vieille gaieté française <lb facs="P6_TL00007"/>« On se tord, on applaudit, on trépigne!.,.. »<lb facs="P6_TL00008"/>Dans Le Radical du 27 juin : M. G. Rémon a fait des Mamelles de Tirésias un<lb facs="P6_TL00009"/>compte rendu qui abonde en points de vue intéressants et judicieux :<lb facs="P6_TL00010"/>« Je ne vous ai pas parlé du kiosque à journaux ambulant, du gendarme chevauchant<lb facs="P6_TL00011"/>une délicieuse monture de Picasso, des deux duellistes, ni du Sioux accessoiriste et mélo<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P6_TL00012"/>mane, ni de l'orchestre — un piano — jouant des concertos déconcertants ; je ne vous ai<lb facs="P6_TL00013"/>pas dit les poèmes revenant en leit-motiv, aussi privés que possible et de tête et de queue.<lb facs="P6_TL00014"/>Mais je prétends que le drame drolatique (et surréaliste) de M. Guillaume Apollinaire est,<lb facs="P6_TL00015"/>qu'il le veuille ou non, une pièce à thèse.<lb facs="P6_TL00016"/>« De graves problèmes sociologiques y sont abordés : la dépopulation, l'extinction du<lb facs="P6_TL00017"/>paupérisme, l'avenir de la femme, le régime des cartes alimentaires, etc. Je ne pense pas<lb facs="P6_TL00018"/>qu'ils y soient résolus.<lb facs="P6_TL00019"/>« Mais tout cela est d'excellente charge, c'est bon enfant, cela engendre la belle<lb facs="P6_TL00020"/>humeur. Et la représentation fut si dépourvue de morgue, de snobisme à la Oscar Wilde,<lb facs="P6_TL00021"/>et si peu ibsénien d'allure, que les coups de sifflets n'osèrent pas fuser et que les lazzis des<lb facs="P6_TL00022"/>spectateurs eussent paru vraiment intempestifs.<lb facs="P6_TL00023"/>« Le reproche le plus mordant qu'on ait voulu articuler contre l'auteur — le parti qu'il<lb facs="P6_TL00024"/>tire de tous les procédés de la revue de café-concert — ne porte pas. Car celle-ci contient<lb facs="P6_TL00025"/>en puissance tous les progrès à réaliser au théâtre, au triple point de vue du rythme, de<lb facs="P6_TL00026"/>la fantaisie et du décor. Je l'affirme hautement, dussé-je passer pour un esthéti<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P6_TL00027"/>cien « Sic ». »<lb facs="P6_TL00028"/>Les On dit, 1er juillet :<lb facs="P6_TL00029"/>« Un bébé, un vrai, dans la salle, se mit à pousser des cris.<lb facs="P6_TL00030"/>« Passez-lui les mamelles, Tirésias! » implora du balcon un poète en délire, et il dit<lb facs="P6_TL00031"/>encore :<lb facs="P6_TL00032"/>« L'enfant veut du lait. ».<lb facs="P6_TL00033"/>« — Du laid ? répliqua une jeune femme, eh bien ! il est servi. »<lb facs="P6_TL00034"/>L'Intransigeant, 25 juin :<lb facs="P6_TL00035"/>« Guillaume Apollinaire est indiscutablement un des meilleurs parmi les jeunes poètes<lb facs="P6_TL00036"/>et certains parmi les cubistes sont des artistes sérieux. C'est rendre service aux uns et à<lb facs="P6_TL00037"/>l'autre que de ne pas approuver la farce représentée hier. »<lb facs="P6_TL00038"/>L'Œuvre, 25 juin.<lb facs="P6_TL00039"/>« La couleur locale —la scène se passe à Zanzibar — était surtout donnée par la salle,<lb facs="P6_TL00040"/>où le Tout-Montparnasse et le Tout-Montmartre littéraire s'entassaient et poussaient des<lb facs="P6_TL00041"/>clameurs sauvages.<lb facs="P6_TL00042"/>« Les spectateurs qui se sont efforcés de comprendre cette fantaisie outrancière ont</ab>
-                                 <ab facs="P7_TB00001">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00001">
                                     <lb facs="P7_TL00001"/>cru démêler qu'il s'agissait du problème de la repopulation. Jusqu'au bout ils sont restés<lb facs="P7_TL00002"/>très divisés et prêts à en venir aux mains. Les uns estimaient que l'auteur serait disciple<lb facs="P7_TL00003"/>de M. Piot, les autres qu'il manifestait des sentiments malthusiens.<lb facs="P7_TL00004"/>« Mais de mamelles point. Tout juste quelques oranges perdues dans les corbeilles des<lb facs="P7_TL00005"/>ouvreuses ; on sait que l'esthétique nouvelle ne permet pas que le titre réponde jamais<lb facs="P7_TL00006"/>au sujet traité. »<lb facs="P7_TL00007"/>Le Carnet de la Semaine, 29 juin : M. Wisner :<lb facs="P7_TL00008"/>« L'œuvre d'Apollinaire est une gageure, une façon de se moquer de tout... elle est<lb facs="P7_TL00009"/>très simple malgré son air d'aller de guingois ; elle est familière alors que justement je lui<lb facs="P7_TL00010"/>eusse souhaité plus de sonorité, d'élan, d'envol et d'au delà...<lb facs="P7_TL00011"/>« Et les interprètes de cette conception à la Welss,de cette revue qui chahute Aristo<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P7_TL00012"/>phane et fait la nique à Rabelais, servirent avec dévotion Guillaume Apollinaire acclamé<lb facs="P7_TL00013"/>par les futuristes et renié par les cubistes. »<lb facs="P7_TL00014"/>La Semaine de Paris, 1er juillet :M. Pierre Véron :<lb facs="P7_TL00015"/>« M. Apollinaire a repris les ressorts des tragiques grecs, qui sont élastiques. Il les a<lb facs="P7_TL00016"/>tendus, il en a fait des ressorts à boudin ; rien d'étonnant à ce que l'action puisse simulta<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P7_TL00017"/>nément rebondir et rester suspendue. »<lb facs="P7_TL00018"/>7 juillet : M. Camille Le Senne :<lb facs="P7_TL00019"/>« Et la pièce, mon Dieu, c'est une petite comédie, très morale et même d'une moralité<lb facs="P7_TL00020"/>rétrograde. Elle aurait pu être signée de M. Henri Lavedan... Qu'est-ce à dire? M. Guil<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P7_TL00021"/>laume Apollinaire serait-il un Ponsard cubiste? cruelle énigme ! j'aime mieux saluer une<lb facs="P7_TL00022"/>certaine drôlerie originale, un burlesque naturel et rabelaisien dans la filiation d'Ubu-<lb facs="P7_TL00023"/>Roi. »<lb facs="P7_TL00024"/>La Grimace : Léo Poldès :<lb facs="P7_TL00025"/>« — A Charenton !<lb facs="P7_TL00026"/>« ...Les Mamelles de Tirésias, comédie symbolique de Guillaume Apollinaire, légi<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P7_TL00027"/>timent pleinement ce jugement...<lb facs="P7_TL00028"/>« Mais il convient de tirer, de ce spectacle, une conclusion. Elle s'impose. La voici.<lb facs="P7_TL00029"/>L'inharmonieux loufoque Erik Satie, compositeur sur machines à écrire et crécelles, a pu<lb facs="P7_TL00030"/>salir à son aise les Ballets Russes en introduisant dans ce spectacle esthétique une œuvre<lb facs="P7_TL00031"/>ridicule que n'eut point signée un joueur de tam-tam sénégalais — et des musiciens de<lb facs="P7_TL00032"/>talent attendent humblement depuis des années qu'on les joue. Son complice, le barbouilleur<lb facs="P7_TL00033"/>géométrique Picasso (Pablo), spéculant sur l'éternelle bêtise humaine, à réussi le tour de<lb facs="P7_TL00034"/>force d'imposer son nom au public, par le scandale, et de vendre des toiles qui paraissent<lb facs="P7_TL00035"/>fabriquées par des intoxiqués de Sainte-Anne, à des prix formidables, tandis que de vrais<lb facs="P7_TL00036"/>peintres crèvent de faim dans leur ateliers. Poète visionnaire et naïf, Guillaume Apollinaire<lb facs="P7_TL00037"/>dérange la critique, le Tout-Paris des premières, les rapins de la Butte et les ivrognes de<lb facs="P7_TL00038"/>Montparnasse pour assister à la plus extravagante, àla plus insensée des élucubrations du<lb facs="P7_TL00039"/>cubisme — alors que, faute de spectateurs, le Marchand de Venise a quitté l'affiche du<lb facs="P7_TL00040"/>Théâtre Antoine. Mieux encore. Au moment où la presse d'opinion manque de papier, où<lb facs="P7_TL00041"/>les journaux indépendants se voient menacés de disparaître, où la Pensée libre est traquée,</ab>
-                                 <ab facs="P8_TB00001">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00001">
                                     <lb facs="P8_TL00001"/>on voit imprimée luxueusement, avec des caractères neufs et élégants, une revue qui<lb facs="P8_TL00002"/>s'appelle Sic et où, pantins déliquescents du cubisme intégral, des clowns de la plume<lb facs="P8_TL00003"/>comme Albert Birot et Jean Cocteau saccagent misérablement le papier accordé avec<lb facs="P8_TL00004"/>tant de parcimonie aux écrivains qui ont l'orgueil de combattre pour une idée.<lb facs="P8_TL00005"/>« Que les artistes me pardonnent, que le lecteur m'excuse, trois mots surgissent en<lb facs="P8_TL00006"/>guise de point final sous ma plume —et je les lance àla face de ces bateleurs :<lb facs="P8_TL00007"/>« —Ah ! les cochons ! »<lb facs="P8_TL00008"/>Le Petit Bleu : Davin de Champclos :<lb facs="P8_TL00009"/>« L'esprit nouveau ?... Je dois être bigrement rétrograde, arriéré, poncif, traditiona<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P8_TL00010"/>liste, abruti et réactionnaire, car cet esprit nouveau m'est apparu comme la plus effroyable<lb facs="P8_TL00011"/>des fumisteries et des galéjades... Mais essayons de rester sincères. Apollinaire est je crois<lb facs="P8_TL00012"/>un sincère... Le bon peintre Férat a brossé pour les deux actes d'Apollinaire un petit<lb facs="P8_TL00013"/>décor que je vous recommande.<lb facs="P8_TL00014"/>« Imaginez-vous de hautes bandes de papier de couleur dans lequel sont piqués<lb facs="P8_TL00015"/>irrégulièrement des rectangles découpés dans des journaux et voilà des maisons.<lb facs="P8_TL00016"/>« Du côté cour s'érige un kiosque à journaux—ou du moins ce que Férat m'a affirmé<lb facs="P8_TL00017"/>être un kiosque à journaux. Et ce kiosque patagon ou zanzibarien épingle à sa devanture<lb facs="P8_TL00018"/>des feuilles quotidiennes que j'avais cru jusqu'ici parisiennes. Comme je demandais à Férat<lb facs="P8_TL00019"/>comment il avait exécuté ce décor surnaturel, il me répondit avec une charmante ingénuité;<lb facs="P8_TL00020"/>« — Dame, j'ai acheté pour 7 francs de papier que j'ai découpé et c'est tout.<lb facs="P8_TL00021"/>« 0 Jusseaume! O Chamboulerou! O Bailly!...<lb facs="P8_TL00022"/>« Dans ce décor simpliste et affolant, nous allons voir défiler des personnages de<lb facs="P8_TL00023"/>cauchemar vêtus de loques étranges et débitant d'incompréhensibles tirades...<lb facs="P8_TL00024"/>« J'allais oublier de vous dire que dans un prologue où Apollinaire s'est oublié jusqu'à<lb facs="P8_TL00025"/>être clair, poétique et charmant, un monsier en habit noir qui nous a déclaré être le<lb facs="P8_TL00026"/>directeur du théâtre est venu nous dire de fort beaux vers qui sont je crois les meilleurs<lb facs="P8_TL00027"/>que j'aie entendus sur la guerre, ses horreurs et ses beautés. »<lb facs="P8_TL00028"/>Le Cri France, 12 juillet.<lb facs="P8_TL00029"/>« Les Mamelles de Tirésias ont détaché de Guillaume Apollinaire beaucoup de ses<lb facs="P8_TL00030"/>admirateurs. »</ab>
                               </div>
@@ -406,19 +445,25 @@
                   </div>
                   <div type="TextContent" corresp="c004">
                      <div type="Head">
-                        <ab facs="P8_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P8_TB00002">
                            <lb facs="P8_TL00031"/>POÈME</ab>
                      </div>
                      <div type="TextContent" corresp="c005">
                         <div type="Byline">
-                           <ab facs="P8_TB00004">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P8_TB00004">
                               <lb facs="P8_TL00039"/>PAUL DERMÉE</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P8_TB00003">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P8_TB00003">
                                        <lb facs="P8_TL00032"/>Je joue à la paume avec les obus.<lb facs="P8_TL00033"/>Sur le bord du chemin<lb facs="P8_TL00034"/>si pâle<lb facs="P8_TL00035"/>Madame<lb facs="P8_TL00036"/>Le portrait est crevé d'une étoile de sang<lb facs="P8_TL00037"/>Pleure ton amant<lb facs="P8_TL00038"/>qui ne reviendra plus</ab>
                                  </div>
                               </div>
@@ -428,7 +473,9 @@
                   </div>
                   <div type="TextContent" corresp="c006">
                      <div type="Head">
-                        <ab facs="P9_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P9_TB00001">
                            <lb facs="P9_TL00001"/>UNE OEUVRE NOUVELLE<lb facs="P9_TL00002"/>de<lb facs="P9_TL00003"/>IGOR STRAWINSKY</ab>
                      </div>
                      <div type="Music" corresp="c007">
@@ -438,7 +485,9 @@
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P9_TB00002">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P9_TB00002">
                                     <lb facs="P9_TL00004"/>(reproduction d'un manusorit.)</ab>
                               </div>
                            </div>
@@ -448,25 +497,33 @@
                   <div type="Illustration" corresp="c008">
                      <div type="Image"/>
                      <div type="Caption">
-                        <ab facs="P10_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P10_TB00001">
                            <lb facs="P10_TL00001"/>JUDITH<lb facs="P10_TL00002"/>(Gravure sur bois de Ghana Orloff</ab>
                      </div>
                   </div>
                   <div type="TextContent" corresp="c009">
                      <div type="Head">
-                        <ab facs="P11_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P11_TB00001">
                            <lb facs="P11_TL00001"/>UN POÈME<lb facs="P11_TL00002"/>5me BALCON</ab>
                      </div>
                      <div type="TextContent" corresp="c010">
                         <div type="Byline">
-                           <ab facs="P11_TB00003">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P11_TB00003">
                               <lb facs="P11_TL00029"/>Pierre ALBERT-BIROT</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P11_TB00002">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P11_TB00002">
                                        <lb facs="P11_TL00003"/>Le choeur<lb facs="P11_TL00004"/>desarbresdesmaisonsduciel<lb facs="P11_TL00005"/>et du soleil<lb facs="P11_TL00006"/>chante pour nous<lb facs="P11_TL00007"/>Là-bas c'est comme ici<lb facs="P11_TL00008"/>Que dis-tu ?<lb facs="P11_TL00009"/>Non ne parlons pas<lb facs="P11_TL00010"/>Regarde passer<lb facs="P11_TL00011"/>par les rues de la ville<lb facs="P11_TL00012"/>les drames les idylles<lb facs="P11_TL00013"/>et cette robe ROUGE<lb facs="P11_TL00014"/>Dieu n'a-t-il pas envie parfois<lb facs="P11_TL00015"/>de marcher sur nos trottoirs<lb facs="P11_TL00016"/>pour voir<lb facs="P11_TL00017"/>son ciel<lb facs="P11_TL00018"/>Oui nous allons descendre<lb facs="P11_TL00019"/>Les arbres ont mangé<lb facs="P11_TL00020"/>le tramway<lb facs="P11_TL00021"/>Personne ne s'en est aperçu<lb facs="P11_TL00022"/>Quelque chose a bougé<lb facs="P11_TL00023"/>les maisons<lb facs="P11_TL00024"/>ou le soleil<lb facs="P11_TL00025"/>Ces gens boivent tranquillement<lb facs="P11_TL00026"/>aux terrasses des cafés<lb facs="P11_TL00027"/>Ha ha ha ha ha<lb facs="P11_TL00028"/>Au revoir Madame</ab>
                                  </div>
                               </div>
@@ -476,29 +533,39 @@
                   </div>
                   <div type="TextContent" corresp="c011">
                      <div type="Head">
-                        <ab facs="P12_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P12_TB00001">
                            <lb facs="P12_TL00001"/>DÉCEPTION</ab>
                      </div>
                      <div type="TextContent" corresp="c012">
                         <div type="Head">
-                           <ab facs="P12_TB00002">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P12_TB00002">
                               <lb facs="P12_TL00002"/>poème à trois voix</ab>
                         </div>
                         <div type="Byline">
-                           <ab facs="P12_TB00004">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P12_TB00004">
                               <lb facs="P12_TL00014"/>PHILIPPE SOUPAULT (1).<lb facs="P12_TL00015"/>Avril 1917.</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P12_TB00003">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P12_TB00003">
                                        <lb facs="P12_TL00003"/>à P. A .'B.<lb facs="P12_TL00004"/>Les liserons blancs étouffaient<lb facs="P12_TL00005"/>Demeure<lb facs="P12_TL00006"/>Ce soir il sait<lb facs="P12_TL00007"/>N'écoute pas<lb facs="P12_TL00008"/>Les lèvres brillent<lb facs="P12_TL00009"/>le sombre lent,et mou<lb facs="P12_TL00010"/>Demeure<lb facs="P12_TL00011"/>ivre et verte, puissante l'eau montait dans<lb facs="P12_TL00012"/>l'ombre.<lb facs="P12_TL00013"/>renaît</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P12_TB00005">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P12_TB00005">
                                        <lb facs="P12_TL00016"/>(1) Le petit poème " Départ " publié dans notre n* 15 et signé Philippe Verneuil est également de Philippe<lb facs="P12_TL00017"/>Soupanlt qui avait alors ses raisons pour signer ainsi.</ab>
                                  </div>
                               </div>
@@ -508,7 +575,9 @@
                   </div>
                   <div type="TextContent" corresp="c013">
                      <div type="Head">
-                        <ab facs="P12_TB00006">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P12_TB00006">
                            <lb facs="P12_TL00018"/>E T C...</ab>
                      </div>
                      <div type="TextContent" corresp="c014">
@@ -516,14 +585,18 @@
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P12_TB00007">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P12_TB00007">
                                        <lb facs="P12_TL00019"/>REVUES :<lb facs="P12_TL00020"/>" Le Sarcasme ". — Nous venons de recevoir le n° 1 de ce journal qui nous paraît bien fait. Que<lb facs="P12_TL00021"/>fera-t-il ? Quelle sera sa portée ? Attendons. Pour ce premier numéro contentons-nous de dire<lb facs="P12_TL00022"/>qu'il nous paraît peut-être un peu trop princier.<lb facs="P12_TL00023"/>" Les Cahiers idéalistes français ".— Nous n'avons pas encore parlé de cette publication, que nous<lb facs="P12_TL00024"/>recevons régulièrement, parce que généralement les travaux que l'on y trouve sont peu en rapport<lb facs="P12_TL00025"/>avec le caractère de Sic. Parfois nous tournons rapidement la page, parfois nous assimilons sans<lb facs="P12_TL00026"/>rien dire. Pourtant nous pensons devoir rompre aujourd'hui le silence pour donner notre appro<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P12_TL00027"/>bation à l'article « A nos lecteurs » inséré en tête du n° 6. Et puisque nous parlons de ce numéro, nous<lb facs="P12_TL00028"/>pouvons dire en même temps que avons senti monter en nous beaucoup de sympathie pour M. Gérard<lb facs="P12_TL00029"/>de Lacaze-Duthiers en lisant son article : L'aristocratie en face de la guerre.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P12_TB00008">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P12_TB00008">
                                        <lb facs="P12_TL00030"/>VArgus de la Presse,poursuivant ses travaux documentaires,vient,grâce à la sûreté et à l'étendue<lb facs="P12_TL00031"/>de son organisation, d'éditer dans un volume méthodiquement ordonné, la Nomenclature des Jour<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P12_TL00032"/>naux et Revues, en langue française, ayant continué à paraître pendant la Guerre 1914-1917. C'est<lb facs="P12_TL00033"/>une œuvre que tous les Professionnels voudront parcourir. — {Communiqué.)</ab>
                                  </div>
