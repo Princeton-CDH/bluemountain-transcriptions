@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:mods="http://www.loc.gov/mods/v3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -40,6 +38,7 @@
                      <date when="1919-04-30"/>
                   </imprint>
                </monogr>
+               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
                <relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
@@ -438,47 +437,65 @@
             <div type="Issue">
                <div type="PublicationInfo">
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00001">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00001">
                         <lb facs="P1_TL00001"/>Paraît le 15 et ie 30 de chaque mois ' 4ME ANNEE<lb facs="P1_TL00002"/>NO // REVUE FONDEE<lb facs="P1_TL00003"/>EN JANVIER 1916<lb facs="P1_TL00004"/>PAR PIERRE<lb facs="P1_TL00005"/>30 Avril 1919 ALBERT - BIROT</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00004">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00004">
                         <lb facs="P1_TL00018"/>I»/ —&lt; r " "77* T—•• "1—' -7- o r-5-r jr~. -n *■ -~v -r-' -ç- &lt;~&lt; r"&gt;- T •-;<lb facs="P1_TL00019"/>jPAFIi.3 à. V ° J<lb facs="P1_TL00020"/>T /® <lb facs="P1_TL00021"/>f a • H hu<lb facs="P1_TL00022"/>wi&amp;èiîVÏ' w • W y <lb facs="P1_TL00023"/>Abonnement pour toute la Terre<lb facs="P1_TL00024"/>IO francs<lb facs="P1_TL00025"/>à partir de Janvier 19î9.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00005">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00005">
                         <lb facs="P1_TL00026"/>le «BP Chine : 4 exemplaires<lb facs="P1_TL00027"/>Exemplaire N«</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P4_TB00001">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P4_TB00001">
                         <lb facs="P4_TL00001"/>Fnmnei ç &lt;&gt; ç//"1 "<lb facs="P4_TL00002"/>L.SJS I lUllO 011*<lb facs="P4_TL00003"/>\<lb facs="P4_TL00004"/>Réflexions poétiques et Reproductions de Sculptures, ARY JUSTMAN et<lb facs="P4_TL00005"/>GHANA ORLOF, in-4° carré. 10 fr.<lb facs="P4_TL00006"/>Trente et un poèmes de poche, PIERRE ALBERT-BIROT. Préface de<lb facs="P4_TL00007"/>Guillaume Apollinaire. In-16° carré. 5 fr<lb facs="P4_TL00008"/>Les Mamelles de Tirésias, drame de GUILLAUME APOLLINAIRE, avec musi<pc type="endhypen" pre="false">-</pc>
                         <lb facs="P4_TL00009"/>que de Germaine Albert-Birot el dessins de Serge Férat, in-16 jesus. 5 fr.<lb facs="P4_TL00010"/>Guillaume Apollinaire (Ire partie : L'Enchanteur pourrissant, l'Hérésiar<pc type="endhypen" pre="false">-</pc>
                         <lb facs="P4_TL00011"/>que, Alcools, le Poète assassiné), par BOCH GREY, in-8° jesus. 2,25<lb facs="P4_TL00012"/>DE PIERRE ALBERT-BIROT :<lb facs="P4_TL00013"/>Matoum et Tévibar, drame pour marionnette.-., in-16 jesus. 4 fj»<lb facs="P4_TL00014"/>avec la musique de Germaine ALBERT-BIROT.<lb facs="P4_TL00015"/>Poèmes Quotidiens, in-64 jesus 5 f<lb facs="P4_TL00016"/>Larountala, polydrame, in-16 jesus. 7 p.<lb facs="P4_TL00017"/>La joie des Sept couleurs, poème, orné de 5 poèmes navsaees<lb facs="P4_TL00018"/>in-16 jesus. 1 J 5 7 ,<lb facs="P4_TL00019"/>A PARAITRE :<lb facs="P4_TL00020"/>Les invectives contre l'Automne et la Légende d'Oro, poèmes.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P11_TB00001">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P11_TB00001">
                         <lb facs="P11_TL00001"/>iw i m ■■aranM—nra—■agoMM^——————<lb facs="P11_TL00002"/>REVUE et EDITIONS " SIC "<lb facs="P11_TL00003"/>~*XDépositair»e pour la. Suisse<lb facs="P11_TL00004"/>4, Rue du Rhône, GENÈVE<lb facs="P11_TL00005"/>, m ■! H, M„m rnr-,1—r iwiivunTiir i» lilïffîMf rfMlifciniaiiiiniTirinHiilHi*MIWi HM"ii 1iTll"""lT &lt;1BlTllBMlTfMTriMIÎT!TflTWrnff11TIBMn—ifflim-TT-mW -<lb facs="P11_TL00006"/>TOUTE DEMANDE DE SPECIMEN DOIT ÊTRE ACCOMPAGNÉE DE 0,30.<lb facs="P11_TL00007"/>V * » "</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P12_TB00008">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P12_TB00008">
                         <lb facs="P12_TL00053"/>Imp. Spéciale de " Sic</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P12_TB00012">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P12_TB00012">
                         <lb facs="P12_TL00062"/>Le[gérant : Pießie ALBERT-BIROT</ab>
                   </div>
                </div>
                <div type="EditorialContent">
                   <div type="TextContent" corresp="c001">
                      <div type="Head">
-                        <ab facs="P1_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00002">
                            <lb facs="P1_TL00006"/>DANS CE NUMÉRO :</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P1_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00003">
                                     <lb facs="P1_TL00007"/>Chronique Océane PIERRE ALBERT-BIROT.<lb facs="P1_TL00008"/>A propos du thermomètre « »<lb facs="P1_TL00009"/>Pour les générations futures ROCH GREY.<lb facs="P1_TL00010"/>ETC.. P* A. B.<lb facs="P1_TL00011"/>Vieil air Poème J. PEREZ-JORBA.<lb facs="P1_TL00012"/>Cliquetis » - »<lb facs="P1_TL00013"/>Calendrier Poème TRISTAN TZARA.<lb facs="P1_TL00014"/>Villégiature Poème H. H. 1,.<lb facs="P1_TL00015"/>Par la lumière peints(Note critique) LOUIS 3E SCNS4&amp;UE-FRICK.<lb facs="P1_TL00016"/>Sur le rideau, îles scènes dsrrièrs Ses ta suites... J. PEREZ-JORBA.<lb facs="P1_TL00017"/>Deux poèmes CH. GARDÊLLE</ab>
                               </div>
                            </div>
@@ -490,13 +507,17 @@
                   </div>
                   <div type="TextContent" corresp="c003">
                      <div type="Head">
-                        <ab facs="P2_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P2_TB00001">
                            <lb facs="P2_TL00001"/>"Casa d'Arte Italiana"<lb facs="P2_TL00002"/>Vic. S. Nicola da Tolentino, 23. — ROMA.</ab>
                      </div>
                      <div type="Illustration" corresp="c004">
                         <div type="Image"/>
                         <div type="Caption">
-                           <ab facs="P2_TB00002">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P2_TB00002">
                               <lb facs="P2_TL00003"/>Lampadaire électrique en bois, laqué et sole<lb facs="P2_TL00004"/>dessin de E. PRAMPOLINI.</ab>
                         </div>
                      </div>
@@ -504,7 +525,9 @@
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P2_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00003">
                                     <lb facs="P2_TL00005"/>A Rome on vient d ouvrir la u Maison d'Art italien " qui est une cou<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P2_TL00006"/>rageuse affirmation. Enrico Prampolini et Mario Recchi qui sont les fondateurs<lb facs="P2_TL00007"/>delà "Maison" ont présenté au public un milieu complètement décoré et<lb facs="P2_TL00008"/>meublé selon un style nouveau très original, tout à fait italien. Cette décoration<lb facs="P2_TL00009"/>est une Réaction décidée contre la tendance médiocre qui mendiait au passé et à<lb facs="P2_TL00010"/>Vétranger motifs, manières et lignes en opposition avec nos caractères ethniques<lb facs="P2_TL00011"/>et avec nos exigences modernes.<lb facs="P2_TL00012"/>Les modèles et Vexécution de faïences, de coussins, de meubles, d'étoffes<lb facs="P2_TL00013"/>tissées et peintures, etc., sont du peintre et sculpteur Enrico Prampolini.</ab>
                               </div>
@@ -514,24 +537,32 @@
                   </div>
                   <div type="TextContent" corresp="c005">
                      <div type="Head">
-                        <ab facs="P3_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00002">
                            <lb facs="P3_TL00002"/>Chronique Océane</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P5_TB00003">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00003">
                            <lb facs="P5_TL00038"/>Pierre ALBERT-BIROT</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P3_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00003">
                                     <lb facs="P3_TL00003"/>Tout avait l'air d'être comme les autres jours<lb facs="P3_TL00004"/>Une promenade avec ses promeneurs<lb facs="P3_TL00005"/>Puis sur la plage immense<lb facs="P3_TL00006"/>Toutes les couleurs des promeneurs<lb facs="P3_TL00007"/>Furent soudainement animées<lb facs="P3_TL00008"/>D'un esprit irrésistiblement centripète [bien réussie<lb facs="P3_TL00009"/>Et toutes comme un agrandissement d'expérience de laboratoire<lb facs="P3_TL00010"/>Se précipitèrent horizontalement autour de leur curiosité<lb facs="P3_TL00011"/>Cela se passait sur la terre<lb facs="P3_TL00012"/>Cependant qu'au dessus<lb facs="P3_TL00013"/>Une machine aérienne -<lb facs="P3_TL00014"/>Traçait une imposante spirale descendante<lb facs="P3_TL00015"/>Et si bien calculée qu'elle se trouvé à mer<lb facs="P3_TL00016"/>Quand elle devait y être<lb facs="P3_TL00017"/>Je fus un des atomes colorés<lb facs="P3_TL00018"/>Oui cherchèrent le centre<lb facs="P3_TL00019"/>Mais à vrai dire ce fut un centre dérivé<lb facs="P3_TL00020"/>Car nous étions sur le rivage<lb facs="P3_TL00021"/>Et le vrai centre était sur l'eau<lb facs="P3_TL00022"/>Puisque cette machine oiseau<lb facs="P3_TL00023"/>Etait aussi un bateau<lb facs="P3_TL00024"/>Et il y en eut deux<lb facs="P3_TL00025"/>Et les hyclraviateurs<lb facs="P3_TL00026"/>Se deshydravionnèrent<lb facs="P3_TL00027"/>Une barque les prit<lb facs="P3_TL00028"/>Puis le dos d'un homme aux jambes nues<lb facs="P3_TL00029"/>Ils étaient habillés en homme<lb facs="P3_TL00030"/>Et ils s'en, furent clans la ville<lb facs="P3_TL00031"/>Accompagnés par mult et mult personnes<lb facs="P3_TL00032"/>Et par tous les regards<lb facs="P3_TL00033"/>De ceux qui restaient là<lb facs="P3_TL00034"/>Et nous regardâmes les machines<lb facs="P3_TL00035"/>D'aussi près que la mer y consentit<lb facs="P3_TL00036"/>Mais nos yeux ne les rapprochèrent pas<lb facs="P3_TL00037"/>Aussi près que notre désir l'eut voulu<lb facs="P3_TL00038"/>Et nous allions partir quand je dis les voici<lb facs="P3_TL00039"/>Ils allèrent de la terre à la machine<lb facs="P3_TL00040"/>Comme ils étaient venus de la machine à la terre<lb facs="P3_TL00041"/>Et quand ils furent chez eux</ab>
                               </div>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P5_TB00002">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00002">
                                     <lb facs="P5_TL00002"/>On les vit passer boucler d'étranges vêtements<lb facs="P5_TL00003"/>L'un tournait tournait autour du moteur<lb facs="P5_TL00004"/>El le touchait en maints endroits très amoureusement<lb facs="P5_TL00005"/>Puis à force de bras il fit faire quelques tours<lb facs="P5_TL00006"/>A la grande hélice plus grande que lui<lb facs="P5_TL00007"/>A la belle hélice en bois roux<lb facs="P5_TL00008"/>Puis ils s'assirent au tond de la machine<lb facs="P5_TL00009"/>On ne voyait plus qu'une tête très simplifiée<lb facs="P5_TL00010"/>Et la belle hélice tourna<lb facs="P5_TL00011"/>Et l'étrange bateau<lb facs="P5_TL00012"/>Fit des grands huit sur l'eau<lb facs="P5_TL00013"/>Puis en passant près du bord<lb facs="P5_TL00014"/>On vit un bras qui se leva<lb facs="P5_TL00015"/>Le bruit devint plus grand que tout le paysage<lb facs="P5_TL00016"/>La machine se mit en colère<lb facs="P5_TL00017"/>Furieuse elle battit l'eau<lb facs="P5_TL00018"/>Qui bouillonnait sous la volonté<lb facs="P5_TL00019"/>De la machine qui voulait la quitter<lb facs="P5_TL00020"/>L'eau tenait sa proie et l'entourait ireusemenl<lb facs="P5_TL00021"/>Mais la machine assoiffée de ciel<lb facs="P5_TL00022"/>Voulait à tout prix s'arracher<lb facs="P5_TL00023"/>A cette étreinte désespérée<lb facs="P5_TL00024"/>Et plus la machine se débattait<lb facs="P5_TL00025"/>Plus la mer y mettait de rage<lb facs="P5_TL00026"/>Mais la volonté de la machine<lb facs="P5_TL00027"/>Fut plue forte que l'amour de la mer<lb facs="P5_TL00028"/>Et le bateau<lb facs="P5_TL00029"/>Dans un effort suprême<lb facs="P5_TL00030"/>Quitta l'eau<lb facs="P5_TL00031"/>Et devint oiseau<lb facs="P5_TL00032"/>La mer instantanément<lb facs="P5_TL00033"/>Honteuse s'aplatit<lb facs="P5_TL00034"/>Les bras et les chapeaux s'agitèrent sur le rivage<lb facs="P5_TL00035"/>Et dans une courbe pure<lb facs="P5_TL00036"/>Les machines s'enfoncèrent dans l'espace<lb facs="P5_TL00037"/>Ensuite le soleil se coucha</ab>
                               </div>
                            </div>
@@ -540,18 +571,24 @@
                   </div>
                   <div type="TextContent" corresp="c006">
                      <div type="Head">
-                        <ab facs="P5_TB00004">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00004">
                            <lb facs="P5_TL00039"/>A propos du thermomètre littéraire de Sic</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P5_TB00006">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00006">
                            <lb facs="P5_TL00048"/>p. A-B.</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P5_TB00005">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00005">
                                     <lb facs="P5_TL00040"/>Quel bruit autour de ce<lb facs="P5_TL00041"/>petit instrument de précision inventé par Sic. L'Eventail lit Sic et Sic<lb facs="P5_TL00042"/>lit l'Eventail, et Sic vient de constater que l'Eventail n'est pas habitué<lb facs="P5_TL00043"/>sans doute à manier les instruments de précision, autrement il aurait vu<lb facs="P5_TL00044"/>les choses très précises ei très sérieuses que marque le thermomètre au lieu<lb facs="P5_TL00045"/>des fantaisies qu'il lui plaît, à lui l'Eventail, d'y lire . Eventail, mon cher<lb facs="P5_TL00046"/>confrère, relisez Sic, l'inventeur de bonne humeur, certes, mais dont les<lb facs="P5_TL00047"/>inventions ne sont pas " articles de Pans "</ab>
                               </div>
                            </div>
@@ -560,18 +597,24 @@
                   </div>
                   <div type="TextContent" corresp="c007">
                      <div type="Head">
-                        <ab facs="P6_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P6_TB00002">
                            <lb facs="P6_TL00002"/>Pour les générations futures</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P7_TB00003">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00003">
                            <lb facs="P7_TL00035"/>Roch GREY</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P6_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00003">
                                     <lb facs="P6_TL00003"/>L'homme cultivé, c'est celui qui s'attache à étudier n'importe<lb facs="P6_TL00004"/>quoi, juste assez pour bien sentir arriver le moment de son déta<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P6_TL00005"/>chement.<lb facs="P6_TL00006"/>Ses moments d'arrêt, c'est la base de toutes ses inspirations,<lb facs="P6_TL00007"/>les moments de détachement c'est la formation d'un état compac<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P6_TL00008"/>te, qui par révolte amène vers l'œuvre.<lb facs="P6_TL00009"/>Les oiseaux sortis de leurs œufs, chantent dans la forêt où<lb facs="P6_TL00010"/>peut-être se trouve aussi un pendu, puisque le printemps aiguise<lb facs="P6_TL00011"/>tous les désirs et fait plus amèrement pleurer de déception.<lb facs="P6_TL00012"/>Homme de trente ans, songe-tu parfois à tout ce temps perdu,<lb facs="P6_TL00013"/>dans la mauvaise humeur qui suit ta coupable curiosité de sa<pc type="endhypen" pre="false">-</pc>
@@ -586,7 +629,9 @@
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P7_TB00002">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00002">
                                     <lb facs="P7_TL00002"/>11 se forma une école, mais les plus amoureux de leurs maî<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P7_TL00003"/>tres, n'arriveront jamais à ce rire apparemment disloqué des fi<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P7_TL00004"/>gures et des choses, prodige d'équilibre el de précision, ni à l'in<pc type="endhypen" pre="false">-</pc>
@@ -608,19 +653,25 @@
                   </div>
                   <div type="TextContent" corresp="c008">
                      <div type="Head">
-                        <ab facs="P7_TB00004">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00004">
                            <lb facs="P7_TL00036"/>ETC...</ab>
                      </div>
                      <div type="TextContent" corresp="c009">
                         <div type="Byline">
-                           <ab facs="P7_TB00006">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P7_TB00006">
                               <lb facs="P7_TL00050"/>P. A. B.</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P7_TB00005">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P7_TB00005">
                                        <lb facs="P7_TL00037"/>La Sirène prépare un très beau livre à la mémoire de Guillaume<lb facs="P7_TL00038"/>Apollinaire.<lb facs="P7_TL00039"/>Le nouveau spectateur, correspondance, rédigée par Roger Allard<lb facs="P7_TL00040"/>Dans ce n° 1 il es! question de l'avenir de la peinture, Roger Allard.<lb facs="P7_TL00041"/>y parle du cubisme, sujet qui lui est cher et qui fut l'occasion d'un<lb facs="P7_TL00042"/>échange de longues lettres entre Apollinaire, le nouveau spectateur et<lb facs="P7_TL00043"/>moi. Que de fois Apollinaire me conta l'histoire du cubisme. Une<lb facs="P7_TL00044"/>fois je me rappelle très bien ce fut le jour ou nous allâmes rue<lb facs="P7_TL00045"/>de l'Orient pour louer le théâtre qui offrit à Paris et orbi les Ma<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P7_TL00046"/>melles de Tirésias. Comme il était heureux en sortant, heureux<lb facs="P7_TL00047"/>comme un gosse à qui l'on vient de donner un cheval mécanique, il<lb facs="P7_TL00048"/>me disait dans le taxi : on va faire un beau programme. Et ce soir là<lb facs="P7_TL00049"/>l'histoire du Cubisme n'alla pas plus avant.</ab>
                                  </div>
@@ -631,29 +682,39 @@
                   </div>
                   <div type="TextContent" corresp="c010">
                      <div type="Head">
-                        <ab facs="P8_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P8_TB00002">
                            <lb facs="P8_TL00002"/>Deux Poèmes</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P8_TB00009">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P8_TB00009">
                            <lb facs="P8_TL00066"/>J. PEREZ-JORBA</ab>
                      </div>
                      <div type="TextContent" corresp="c011">
                         <div type="Head">
-                           <ab facs="P8_TB00004">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P8_TB00004">
                               <lb facs="P8_TL00022"/>VIEIL AIR.</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P8_TB00003">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P8_TB00003">
                                        <lb facs="P8_TL00003"/>Sur ses pattes d'araignée <lb facs="P8_TL00004"/>la voilà au seuil du bouge <lb facs="P8_TL00005"/>la voilà donc la Pensée <lb facs="P8_TL00006"/>en habit de poivre rouqe <lb facs="P8_TL00007"/>1 v <lb facs="P8_TL00008"/>Un cornet se met à rire <lb facs="P8_TL00009"/>soupe à l'ail Coq en liesse <lb facs="P8_TL00010"/>tel uncœui dessus lyre<lb facs="P8_TL00011"/>qui bafoue la tristesse <lb facs="P8_TL00012"/>Picasso cherche des anges <lb facs="P8_TL00013"/>la belle X cherche des linges <lb facs="P8_TL00014"/>quelle idée entre les langes <lb facs="P8_TL00015"/>quel soleil dans les méninges <lb facs="P8_TL00016"/>la fumée l'espérance <lb facs="P8_TL00017"/>fait monter jusqu'aux étoiles <lb facs="P8_TL00018"/>Heur ? ta poésie ô France <lb facs="P8_TL00019"/>déchire ses vieilles voiles <lb facs="P8_TL00020"/>face au ciel sur la courette <lb facs="P8_TL00021"/>noire de suie la joie </ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P8_TB00005">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P8_TB00005">
                                        <lb facs="P8_TL00023"/>mène l'âme du poète<lb facs="P8_TL00024"/>vers elle vers toi vers moi<lb facs="P8_TL00025"/>humble oiseau dont l'œil et l'aile<lb facs="P8_TL00026"/>/L ti 11L /y L C \J too et Li CL (/11/1/ L (X/ L L o(/ L et L<lb facs="P8_TL00027"/>~ , , , . ,<lb facs="P8_TL00028"/>décorent mon bol tu voles<lb facs="P8_TL00029"/>sur le lavoir où étincellenl<lb facs="P8_TL00030"/>des seins comme des corolles<lb facs="P8_TL00031"/>la Folie? non le regard fixe<lb facs="P8_TL00032"/>SQn sur image<lb facs="P8_TL00033"/>dont beauté est en rixe<lb facs="P8_TL00034"/>mortelle avec les faux mages<lb facs="P8_TL00035"/>fleuris donc de fraîches rosés<lb facs="P8_TL00036"/>es ruenes 0y s'éclairent<lb facs="P8_TL00037"/>es P^us délaissées choses<lb facs="P8_TL00038"/>Par es yeux des vieux trouvères<lb facs="P8_TL00039"/>v^s rt-s ei et pense<lb facs="P8_TL00040"/>sur iè monde chaotique<lb facs="P8_TL00041"/>en donnant le coup de lancé<lb facs="P8_TL00042"/>bi vieille poétique</ab>
                                  </div>
                               </div>
@@ -662,20 +723,26 @@
                      </div>
                      <div type="TextContent" corresp="c012">
                         <div type="Head">
-                           <ab facs="P8_TB00007">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P8_TB00007">
                               <lb facs="P8_TL00054"/>CLIQUETIS</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P8_TB00006">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P8_TB00006">
                                        <lb facs="P8_TL00043"/>Lucarne qui te mires <lb facs="P8_TL00044"/>dans mon cerveau <lb facs="P8_TL00045"/>le vent pousse l'idée sur la chaloupe <lb facs="P8_TL00046"/>vers la laideur saignante <lb facs="P8_TL00047"/>Sous le coup du marteau <lb facs="P8_TL00048"/>Vois le soleil à la loupe <lb facs="P8_TL00049"/>et cisèle la coupe <lb facs="P8_TL00050"/>de l'oubli <lb facs="P8_TL00051"/>pour qui ? <lb facs="P8_TL00052"/>ronfle moteur <lb facs="P8_TL00053"/>sur la hauteur </ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P8_TB00008">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P8_TB00008">
                                        <lb facs="P8_TL00055"/>syncope des rêves d'aviateur<lb facs="P8_TL00056"/>la gloire<lb facs="P8_TL00057"/>las fleuves s'en vont s en vont<lb facs="P8_TL00058"/>des roses naissent<lb facs="P8_TL00059"/>des arbres pâlissent<lb facs="P8_TL00060"/>Sa faim était si belle, si éloquente et si cruelle<lb facs="P8_TL00061"/>enfin sur son cœur il déflora la pucelle<lb facs="P8_TL00062"/>la lucarne affolée se mit à rire<lb facs="P8_TL00063"/>la foule garda le silence<lb facs="P8_TL00064"/>au jardin<lb facs="P8_TL00065"/>s'évanouissait le matin</ab>
                                  </div>
                               </div>
@@ -685,32 +752,44 @@
                   </div>
                   <div type="TextContent" corresp="c013">
                      <div type="Head">
-                        <ab facs="P9_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P9_TB00002">
                            <lb facs="P9_TL00002"/>Calendrier</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P9_TB00007">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P9_TB00007">
                            <lb facs="P9_TL00019"/>Tristan TZARA</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="MinorHead">
-                              <ab facs="P9_TB00003">
+                              <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                  xmlns:mods="http://www.loc.gov/mods/v3"
+                                  facs="P9_TB00003">
                                  <lb facs="P9_TL00003"/>6</ab>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P9_TB00004">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P9_TB00004">
                                     <lb facs="P9_TL00004"/>la brume a injecté l'œil<lb facs="P9_TL00005"/>qui met couleur à notre vue<lb facs="P9_TL00006"/>de sang léger et de liqueur opaque lasse<lb facs="P9_TL00007"/>se mécanise la danse des cercueils<lb facs="P9_TL00008"/>ou des pages imprévues multicolores dans les veines<lb facs="P9_TL00009"/>roue pétrifiée grise dépouillée de branches<lb facs="P9_TL00010"/>des choses sautant à travers la distance<lb facs="P9_TL00011"/>je vis les intervalles dans la mort souterraine</ab>
                               </div>
                            </div>
                            <div type="MinorHead">
-                              <ab facs="P9_TB00005">
+                              <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                  xmlns:mods="http://www.loc.gov/mods/v3"
+                                  facs="P9_TB00005">
                                  <lb facs="P9_TL00012"/>7</ab>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P9_TB00006">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P9_TB00006">
                                     <lb facs="P9_TL00013"/>affranchis d'agréments trop franches sur le divan<lb facs="P9_TL00014"/>fraîche corc.e reliant les pierres des pensées<lb facs="P9_TL00015"/>ou sable des formations indéfinies blanches<lb facs="P9_TL00016"/>la menthe a contouré ton âme sous le manteau<lb facs="P9_TL00017"/>malicieusement<lb facs="P9_TL00018"/>isothrope hymère assise sur if et divertissement</ab>
                               </div>
                            </div>
@@ -719,18 +798,24 @@
                   </div>
                   <div type="TextContent" corresp="c014">
                      <div type="Head">
-                        <ab facs="P9_TB00008">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P9_TB00008">
                            <lb facs="P9_TL00020"/>Villégiature</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P9_TB00010">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P9_TB00010">
                            <lb facs="P9_TL00035"/>R.H.L.</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P9_TB00009">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P9_TB00009">
                                     <lb facs="P9_TL00021"/>Un nègre qui joue du banjo . P<lb facs="P9_TL00022"/>et je songe qu'il faudra repartir p<lb facs="P9_TL00023"/>tennis blanc de la flanelle <lb facs="P9_TL00024"/>et banc de la famille S<lb facs="P9_TL00025"/>demain est jour sans viande y<lb facs="P9_TL00026"/>les feuilles pleurent N<lb facs="P9_TL00027"/>ce monsieur<lb facs="P9_TL00028"/>\<lb facs="P9_TL00029"/>la balle<lb facs="P9_TL00030"/>out<lb facs="P9_TL00031"/>mais j'emporterai l'océan bien serré<lb facs="P9_TL00032"/>dans mon sac en peau de porc et dans le filet du wagon<lb facs="P9_TL00033"/>symphonie en blanc et bleu<lb facs="P9_TL00034"/>Septembre 1918</ab>
                               </div>
                            </div>
@@ -739,18 +824,24 @@
                   </div>
                   <div type="TextContent" corresp="c015">
                      <div type="Head">
-                        <ab facs="P10_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P10_TB00002">
                            <lb facs="P10_TL00002"/>Par la lumière peints....<lb facs="P10_TL00003"/>Jean Royère.</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P10_TB00004">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P10_TB00004">
                            <lb facs="P10_TL00029"/>Louis de GONZAGUE-FRICK</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P10_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P10_TB00003">
                                     <lb facs="P10_TL00004"/>S'il est un poète facile à situer c'est bien M. Jean Royère à<lb facs="P10_TL00005"/>cause de la pure unité de son œuvre.<lb facs="P10_TL00006"/>La fantaisie qui a séduit tant d'artistes ne l'a point pris dans<lb facs="P10_TL00007"/>ses joyeux réseaux. Parti du rond-point symboliste, il en a fait<lb facs="P10_TL00008"/>le tour avec une lente majesté. S'il connait les allées adjacentes<lb facs="P10_TL00009"/>il ne s'y attarde pas pour rêver. Le rond-point lui suffit.<lb facs="P10_TL00010"/>Mais comme il a su le rendre éblouissant, le doter des plus<lb facs="P10_TL00011"/>somptueux attributs. Fidèle à la discipline mallarméennes il<lb facs="P10_TL00012"/>veut un vers tendre, roide, hiératique qui ait sa beauté propre<lb facs="P10_TL00013"/>indépendamment de l'ensemble du poème. C'est bien ce qu'il<lb facs="P10_TL00014"/>nous offre encore qu'il soit très amoureux du rejet. La poésie<lb facs="P10_TL00015"/>de M. Jean Royère repose sur une idée métaphysique qu'il<lb facs="P10_TL00016"/>enroule et déroule avec un lyrisme pictural qui constitue l'un<lb facs="P10_TL00017"/>de ses principaux attraits. Fils de cette lumineuse et élysénne<lb facs="P10_TL00018"/>Provence M. Jean Royère a joué avec l'onde et le ciel comme<lb facs="P10_TL00019"/>aucun autre poète. L'hyperbole est sa suivante; il a porté cette<lb facs="P10_TL00020"/>figure à son plus haut période; ce recueil ne devait-il pas s'inti<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P10_TL00021"/>tuler au préalable "Hyperboles". Le titre choisi définitivement<lb facs="P10_TL00022"/>par M Royère n'est pas moins caractéristique de son art. Les<lb facs="P10_TL00023"/>poèmes sont en effet, peints par la lumière. Ce sont des syl<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P10_TL00024"/>logismes esthétiques, des enthymèmes. La sagesse du philoso<pc type="endhypen" pre="false">-</pc>
@@ -763,18 +854,24 @@
                   </div>
                   <div type="TextContent" corresp="c016">
                      <div type="Head">
-                        <ab facs="P12_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P12_TB00002">
                            <lb facs="P12_TL00002"/>Sur le rideau, des scènes derrière des Tumultes</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P12_TB00004">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P12_TB00004">
                            <lb facs="P12_TL00043"/>J. PEREZ JORBA</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P12_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P12_TB00003">
                                     <lb facs="P12_TL00003"/>Gazelle aux échos Elle est bien à lui et mieux encore elle est bien<lb facs="P12_TL00004"/>à nous— à* nous sans qui, refléchissez-y, le jour ne serait pas d'hui - la<lb facs="P12_TL00005"/>musique d'Erik Satie au bruit parfois de casseroles jouant de la mé<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P12_TL00006"/>taphysique, là dans le quartier, près des courettes. A la « Galerie de<lb facs="P12_TL00007"/>l'Effort moderne». Séance. Des aigrettes en songe sur la pharmacie<lb facs="P12_TL00008"/>des rires piétinant l'au-delà. Musique en effet qui vit et qui a un<lb facs="P12_TL00009"/>corps et qui a une tête et qui a des jambes et qui s'enroule souvent<lb facs="P12_TL00010"/>dans son cache-nez. Musique qui velis nolis subit une volonté formida<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P12_TL00011"/>ble de création et dont seul le Maître est le maître. Musique d'Erik Satie.<lb facs="P12_TL00012"/>Cendrars de sa voix aux multiples appels alu<lb facs="P12_TL00013"/>son " J'ai tué "et le poème était le poète lui-même. Tragique, énergique,<lb facs="P12_TL00014"/>Cendrars a pris l'horreur par les cheveux et l'a à ses pieds sans<lb facs="P12_TL00015"/>prendre garde terrassée. Gladiateur. Applaudissements. Frissons. Joie.<lb facs="P12_TL00016"/>Le cosmos, tout le cosmos dans " j'ai tué " s'agitait, dansait, sursautait,<lb facs="P12_TL00017"/>éclatait en mille morceaux, que le poète ne se donnait pas la peine de<lb facs="P12_TL00018"/>ramasser. Pouah ! Cendrars est trop fier de la poésie invertébrée, n'ai<pc type="endhypen" pre="false">-</pc>
@@ -788,23 +885,31 @@
                   </div>
                   <div type="TextContent" corresp="c017">
                      <div type="Head">
-                        <ab facs="P12_TB00005">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P12_TB00005">
                            <lb facs="P12_TL00044"/>POÊMES</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P12_TB00011">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P12_TB00011">
                            <lb facs="P12_TL00061"/>Ch. GARDELLE</ab>
                      </div>
                      <div type="TextContent" corresp="c018">
                         <div type="Head">
-                           <ab facs="P12_TB00006">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P12_TB00006">
                               <lb facs="P12_TL00045"/>Pluie</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P12_TB00007">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P12_TB00007">
                                        <lb facs="P12_TL00046"/>0 pluie aimable<lb facs="P12_TL00047"/>Laveuse d'arbres<lb facs="P12_TL00048"/>et de toits<lb facs="P12_TL00049"/>qui les a préparés<lb facs="P12_TL00050"/>pour<lb facs="P12_TL00051"/>le rayon rose<lb facs="P12_TL00052"/>du soir</ab>
                                  </div>
                               </div>
@@ -813,14 +918,18 @@
                      </div>
                      <div type="TextContent" corresp="c019">
                         <div type="Head">
-                           <ab facs="P12_TB00009">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P12_TB00009">
                               <lb facs="P12_TL00054"/>Dimanche tranquille</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P12_TB00010">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P12_TB00010">
                                        <lb facs="P12_TL00055"/>Mon ami dort<lb facs="P12_TL00056"/>Je lis Ovide<lb facs="P12_TL00057"/>Et tout à l'heure<lb facs="P12_TL00058"/>Je peindrai un petit ornement<lb facs="P12_TL00059"/>Jaune<lb facs="P12_TL00060"/>sur des socques vertes</ab>
                                  </div>
                               </div>
@@ -831,15 +940,21 @@
                </div>
                <div type="SponsoredAdvertisement">
                   <div type="SponsoredAd" corresp="c020">
-                     <ab facs="P4_TB00002">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P4_TB00002">
                         <lb facs="P4_TL00021"/>S ÏS13 IE SB- 13 S G-TJE Z\Fl 3S<lb facs="P4_TL00022"/>Année 191© A r.née 19 i T Année 1918<lb facs="P4_TL00023"/>12 fV. lO f'x*. 12 fV.<lb facs="P4_TL00024"/>Les années réunies :<lb facs="P4_TL00025"/>25 ±V</ab>
                   </div>
                   <div type="SponsoredAd" corresp="c021">
-                     <ab facs="P10_TB00005">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P10_TB00005">
                         <lb facs="P10_TL00030"/>Vient de paraître :<lb facs="P10_TL00031"/>DE PIERRE ALBERT-BIROT<lb facs="P10_TL00032"/>La joie des sept couleurs. (Poème) 7fr<lb facs="P10_TL00033"/>Larountala. (Polydrame) 7fr<lb facs="P10_TL00034"/>Poèmes quotidiens. 5 fr<lb facs="P10_TL00035"/>Expédition franco sur mandat ou contre remboursement.<lb facs="P10_TL00036"/>Adresser commandes et mandats : Pierre Albert-Birot.<lb facs="P10_TL00037"/>37, rue de la Tombe-Issoire. PABIS (14em*)</ab>
                   </div>
                   <div type="SponsoredAd" corresp="c022">
-                     <ab facs="P11_TB00002">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P11_TB00002">
                         <lb facs="P11_TL00008"/>k<lb facs="P11_TL00009"/>108, Faubourg Saint-Honoré, PARIS. Téléphone: Elysée 46.24<lb facs="P11_TL00010"/>rtn-'m ig-.-rt-K ma . »-i TTii-ir»&gt;irT.—rrynr at nTrr ■ -nu fc-innniimi,Tnm*~»i'ii. w ".&lt;«&gt; t ir.i »i -i ■fir'intinnri "inr-na-iii-irnr r&lt;r r T-itTT-n-urrTmT-mii rrrwf m&lt;n »r iém&gt; imum<lb facs="P11_TL00011"/>iijS<lb facs="P11_TL00012"/>■\<lb facs="P11_TL00013"/>ail il a Mo<lb facs="P11_TL00014"/>uwirj i U<lb facs="P11_TL00015"/>D'OEUVRES<lb facs="P11_TL00016"/>m Matisse, Derain, Picasso, Vlaminck,<lb facs="P11_TL00017"/>« Chirico, Braque;<lb facs="P11_TL00018"/>des Maîtres Contemporains :<lb facs="P11_TL00019"/>Pissaro, Sisley, Berthe Morisol, Claude Monet, Degas, Marquet, etc.<lb facs="P11_TL00020"/>et de SCULPTURES NÈGRES de tout premier ordre.<lb facs="P11_TL00021"/>vnt-anc.jtxzJ&amp;iarßSXïKr- JWWWwraiswHW»««t&gt;'&lt;ïaw«arat*art a-t-»'rwsr(ar*-v^r-vœrjrx^tryszi&amp;^ctrzpißTtx-r-im.'imEMi<lb facs="P11_TL00022"/>M. Paul Guillaume se charge de l'exécution de tous ordres d'Achat<lb facs="P11_TL00023"/>aux Ventes publiques ou à l'amiable, aussi bien que de la Vente des Col-<lb facs="P11_TL00024"/>lections particulières.<lb facs="P11_TL00025"/>La revue " Les Arts à Paris " renseigne sur les actualités du mouvement<lb facs="P11_TL00026"/>des Arts et de la Curiosité.</ab>
                   </div>
                </div>

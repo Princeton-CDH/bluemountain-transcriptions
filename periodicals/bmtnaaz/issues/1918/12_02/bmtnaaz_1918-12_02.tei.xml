@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:mods="http://www.loc.gov/mods/v3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -40,6 +38,7 @@
                      <date when="1918-12"/>
                   </imprint>
                </monogr>
+               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
                <relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
@@ -153,8 +152,6 @@
                      <analytic>
                         <title level="a">
                            <seg type="main">COULEUR DU TEMPS</seg>
-                        </title>
-                        <title level="a">
                            <seg type="main">Drame de Guillaume Apollinaire</seg>
                         </title>
                         <respStmt>
@@ -176,8 +173,6 @@
                      <analytic>
                         <title level="a">
                            <seg type="main">Matoum &amp; Tévibar OU Histoire édifiante et récréative du vrai et du faux Poète.</seg>
-                        </title>
-                        <title level="a">
                            <seg type="main">Drame pour Marionnettes</seg>
                         </title>
                         <textLang mainLang="fre"/>
@@ -216,39 +211,57 @@
             <div type="Issue">
                <div type="PublicationInfo">
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00002">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00002">
                         <lb facs="P1_TL00003"/>Rr-e oe la TOMBE-ISSOIEE. PARIS</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00001">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00001">
                         <lb facs="P1_TL00001"/>Px : 0,50<lb facs="P1_TL00002"/>ÉTRANGER ! 0 60)</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00003">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00003">
                         <lb facs="P1_TL00004"/>3» ANNÉE<lb facs="P1_TL00005"/>DECEMBRE 1918 dM.M<lb facs="P1_TL00006"/>Paraît deux fois par mois<lb facs="P1_TL00007"/>N° 36 2e N° de Décembre</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00006">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00006">
                         <lb facs="P1_TL00016"/>A partir de Janvier 1919</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00007">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00007">
                         <lb facs="P1_TL00017"/>"SIC" paraîtra Deux fois par Mois<lb facs="P1_TL00018"/>(La Revue ne paraîtra pas pendant les 3 mois d'Eté : Juillet, Août, Septembre)<lb facs="P1_TL00019"/>Prix du Numéro 0,60<lb facs="P1_TL00020"/>Abonnement aux 18 numéros<lb facs="P1_TL00021"/>pour toute la Terre<lb facs="P1_TL00022"/>±0 fr.<lb facs="P1_TL00023"/>x<lb facs="P1_TL00024"/>En JANVIER, numéro consacré à la mémoire do BDILLAUME APOLLINAIRE<lb facs="P1_TL00025"/>A partir de Février, publication d'nn roman de Pierre Reverdy." L'IMPERMÉABLE "</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00008">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00008">
                         <lb facs="P1_TL00026"/>Tiragesur chin« G exemplair<lb facs="P1_TL00027"/>EXEMPLAIRE M'</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P2_TB00004">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P2_TB00004">
                         <lb facs="P2_TL00025"/>EDITION " SIC "<lb facs="P2_TL00026"/>Pour paraître en Janvier 1919 : GUILLAUME APOLLINAIRE, par Rocli GREY<lb facs="P2_TL00027"/>1" Partie : l'Enchanteur pourrissant, l'Hérésiarque, Alcools, le Poète assassiné.<lb facs="P2_TL00028"/>2m'Partie en préparation : Calligrammes, etc...</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P8_TB00004">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00004">
                         <lb facs="P8_TL00126"/>Imp. Spéciale de 44 Sic M.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P8_TB00005">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00005">
                         <lb facs="P8_TL00127"/>Le gérant : Pienre ALBERT-BIROT.</ab>
                   </div>
                </div>
@@ -258,14 +271,18 @@
                   </div>
                   <div type="TextContent" corresp="c002">
                      <div type="Head">
-                        <ab facs="P1_TB00004">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00004">
                            <lb facs="P1_TL00008"/>DANS CE NUMÉRO</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P1_TB00005">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00005">
                                     <lb facs="P1_TL00009"/>Mère (Poème) ARY JUSTMAN.<lb facs="P1_TL00010"/>T. S. F. (Poème) R. H. L.<lb facs="P1_TL00011"/>ET C <lb facs="P1_TL00012"/>Couleurs du temps (Drame de<lb facs="P1_TL00013"/>Guillaume Apollinaire) PIERRE ALBERT-BIROT.<lb facs="P1_TL00014"/>Matoum et; Tévibar. (Suile).... » » »<lb facs="P1_TL00015"/>Sommaires de PAnnée 1918»..</ab>
                               </div>
                            </div>
@@ -274,18 +291,24 @@
                   </div>
                   <div type="TextContent" corresp="c003">
                      <div type="Head">
-                        <ab facs="P2_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P2_TB00001">
                            <lb facs="P2_TL00001"/>LA MÈRE</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P2_TB00003">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P2_TB00003">
                            <lb facs="P2_TL00024"/>Ary JUSTMAN.</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P2_TB00002">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P2_TB00002">
                                     <lb facs="P2_TL00002"/>Des petites choses, mille bagatelles mesurent le jour et les<lb facs="P2_TL00003"/>rêves nocturnes.<lb facs="P2_TL00004"/>0 patience de la terre que de vie féconde tu crée intérieu<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P2_TL00005"/>rement !<lb facs="P2_TL00006"/>Une bagatelle microcosmique est la base du cosmos et lui<lb facs="P2_TL00007"/>estégale: 0 énergie élevée jusqu'aux dimensions du destin<lb facs="P2_TL00008"/>L'œil veille, l'ouïe veille, l'âme veille :<lb facs="P2_TL00009"/>le pouls souriant de l'enfant,<lb facs="P2_TL00010"/>mouvement de pieds, de mains,<lb facs="P2_TL00011"/>le cri, le pleur et le rire<lb facs="P2_TL00012"/>solaire, immortel.<lb facs="P2_TL00013"/>Tout est cher et doré<lb facs="P2_TL00014"/>et cacas dorés<lb facs="P2_TL00015"/>et cheveux dorés<lb facs="P2_TL00016"/>et yeux dorés<lb facs="P2_TL00017"/>0 souffrance parmi les craintes,<lb facs="P2_TL00018"/>soucis et travaux de chaque instant<lb facs="P2_TL00019"/>0 joie du geste, du regard, de la forme et de la voix<lb facs="P2_TL00020"/>Et parfois<lb facs="P2_TL00021"/>une image lointaine<lb facs="P2_TL00022"/>noie un rayon d'avenir<lb facs="P2_TL00023"/>dans le cœur de la mère.</ab>
                               </div>
@@ -295,18 +318,24 @@
                   </div>
                   <div type="TextContent" corresp="c004">
                      <div type="Head">
-                        <ab facs="P3_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00001">
                            <lb facs="P3_TL00001"/>T. S. F.</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P3_TB00003">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00003">
                            <lb facs="P3_TL00013"/>R.H.L.</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P3_TB00002">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00002">
                                     <lb facs="P3_TL00002"/>le manipulateur sur la seine<lb facs="P3_TL00003"/>champ de mars et ces rues-pucelles les bars crèvent d'alcool<lb facs="P3_TL00004"/>et les pailles attendent dans leur chemise de papier<lb facs="P3_TL00005"/>retour et choc je retombe de haut l'antenne et attention à ne<lb facs="P3_TL00006"/>pas briser cette vitre<lb facs="P3_TL00007"/>le vibrement des ondes hertziennes et ce chien qui aboie<lb facs="P3_TL00008"/>sans cesse silence la presse et des nombres compliqués<lb facs="P3_TL00009"/>ce petit nuage blanc intrigue Madeleine le quadrillage en fil<lb facs="P3_TL00010"/>de fer a clos mes pensées<lb facs="P3_TL00011"/>Mais j'ouïs le communiqué<lb facs="P3_TL00012"/>officiel</ab>
                               </div>
                            </div>
@@ -315,19 +344,25 @@
                   </div>
                   <div type="TextContent" corresp="c005">
                      <div type="Head">
-                        <ab facs="P3_TB00004">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00004">
                            <lb facs="P3_TL00014"/>ETC..</ab>
                      </div>
                      <div type="TextContent" corresp="c006">
                         <div type="Byline">
-                           <ab facs="P3_TB00006">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P3_TB00006">
                               <lb facs="P3_TL00043"/>P. A-B.</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P3_TB00005">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P3_TB00005">
                                        <lb facs="P3_TL00015"/>L'instant — N° 4 et 5 — Encore un excellent numéro, voici enlin une revue dirigée, il<lb facs="P3_TL00016"/>y a là de la bonne matière nutritive, nous ne demandons qu'un peu plus d'intransigeance<lb facs="P3_TL00017"/>et puis aussi nous espérons que M. H. Lecoultre nous dira désormais son nom quand il<lb facs="P3_TL00018"/>lui arrivera d'écrire des pages comme. Le locataire des nues.<lb facs="P3_TL00019"/>L'Éventail — Dans ce N° 11 quelques pages au sujet des Veillées du Lapin agile<lb facs="P3_TL00020"/>Et cela donne assez bien la note de cette revue qui garde toujours une nuance un peu pas<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P3_TL00021"/>sée malgré son directeur, M. François Laya, qui avait me semblait-il, l'intention de pi<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P3_TL00022"/>quer ça et là quelques touches de couleurs fraîches : c'est le temps des souhaits, j'en<lb facs="P3_TL00023"/>forme de sincères pour l'Eventail.<lb facs="P3_TL00024"/>Le Carnet critique. — On m'avait dit: attendez, ne jugez pas sur les premiers numéros<lb facs="P3_TL00025"/>Je ne me trouve pourtant pas mal de mon premier coup d'oeil, et je ne suis point surpris<lb facs="P3_TL00026"/>de trouver dans cette revue un article comme celui de M. Georges-Armand Masson.<lb facs="P3_TL00027"/>L'Art. — Un nouveau journal mensuel où il est longuement parlé d'art. Peu m'impor<pc type="endhypen" pre="false">-</pc>
@@ -343,20 +378,28 @@
                   </div>
                   <div type="TextContent" corresp="c007">
                      <div type="Head">
-                        <ab facs="P4_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P4_TB00001">
                            <lb facs="P4_TL00001"/>COULEUR DU TEMPS</ab>
-                        <ab facs="P4_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P4_TB00002">
                            <lb facs="P4_TL00002"/>Drame de Guillaume Apollinaire</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P5_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00002">
                            <lb facs="P5_TL00034"/>Pierre ALBERT-BIROT</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P4_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P4_TB00003">
                                     <lb facs="P4_TL00003"/>Je n'avais pas lu le manuscrit. Quelques jours avant la représentation je<lb facs="P4_TL00004"/>demandai : Apollinaire avait-il assisté à quelques répétitions ? Non il n a as<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P4_TL00005"/>sisté à aucune répétition. Quelqu'un de ses amis a-l-il pris la direction de ces<lb facs="P4_TL00006"/>répétitions? Aucun ne fut appelé. Dans ces conditions, dis-je, la pièce que<lb facs="P4_TL00007"/>nous allons voir ne sera pas d'Apollinaire. Le fait a malheureusement con<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P4_TL00008"/>firmé pleinement mon appréhension. Que je dise tout de suite qu il n est<lb facs="P4_TL00009"/>point en ma pensée le moindre sentiment de doute au sujet des excellentes<lb facs="P4_TL00010"/>intentions et du dévouement profond de Mme Lara et de ses amis du<lb facs="P4_TL00011"/>Français, ils se sont tous certes donnés sans compter et ils ont été parfaits,<lb facs="P4_TL00012"/>mais plus ils se sont efforcés vers leur perfection plus ils se sont éloignés<lb facs="P4_TL00013"/>de celle d'Apollinaire. Tous les comédiens actuels ont une conception réalis<pc type="endhypen" pre="false">-</pc>
@@ -371,7 +414,9 @@
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P5_TB00001">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00001">
                                     <lb facs="P5_TL00001"/>Mais ce n'est pas encore tout. Ceux qui ont vécu dans l'intimité d'Apollinaire<lb facs="P5_TL00002"/>savent comment il travaillait: dans la pâte. Pour le théâlre, chose nouvelle, ce<lb facs="P5_TL00003"/>pétrissage dans la matière s'intensifiait nécessairement. Je suis peut-être le<lb facs="P5_TL00004"/>seul à savoir exactement comment il bâtissait une pièce, car j'ai suivi dans sa<lb facs="P5_TL00005"/>pensée, sur le papier, sur la scène la formation des Mamelles de Tirésias. Je<lb facs="P5_TL00006"/>n'ai pas à en écrire ici toute la genèse, mais je puis affirmer que la pièce telle<lb facs="P5_TL00007"/>qu'elle fut représentée n'a je pourrais presque dire aucun rapport avec la piè<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P5_TL00008"/>ce qui servit de point de départ et dont j'ai eu grande partie le ler1er acte. En<lb facs="P5_TL00009"/>raison donc de ce précédent et de sa manière habituelle de travailler je me<lb facs="P5_TL00010"/>crois fondé à dire que le premier jet chez Apollinaire n'était qu'une base sur<lb facs="P5_TL00011"/>laquelle il édifiait et on peut même ajouter que l'ardeur édificatrice deve<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P5_TL00012"/>nait telle que bientôt la base n'était plus suffisante: parti pour construire un<lb facs="P5_TL00013"/>oratoire il lui prenait en cours d'exécution idée de construire une église et il<lb facs="P5_TL00014"/>rêvait de bâtir une cathédrale.<lb facs="P5_TL00015"/>Qu'avait-il voulu avec les Mamelles? Une pièce pour la masse et il l'avait<lb facs="P5_TL00016"/>faite à son étiage. Que voulait-il avec Couleur du temps? Une pièce pour<lb facs="P5_TL00017"/>l'élite. Dans ce drame tel qu'il nous fut présenté une quinzaine au plus de<lb facs="P5_TL00018"/>bons esprits ont pu séparer l'or de l'alliage et deux ou trois peut-être se sont<lb facs="P5_TL00019"/>nettement rendu compte de ce que ce drame fut devenu si Apollinaire avait<lb facs="P5_TL00020"/>pu le pétrir sur la scène. Voilà pourquoi je dis que pour bien servir la mémoire<lb facs="P5_TL00021"/>de Guillaume Apollinaire il n'eut pas fallu donner suite à ce projet de représen<pc type="endhypen" pre="false">-</pc>
@@ -381,7 +426,9 @@
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P5_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P5_TB00003">
                                     <lb facs="P5_TL00035"/>P. S. Notre confrère Fernand Divoire nous pardonnera d'avoir donné tou<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P5_TL00036"/>te la place à la voix du mort, et d'avoir ainsi sacrifié. La naissance du poème.<lb facs="P5_TL00037"/>Fort heureusement Fernand Divoire a la voix des vivants et d'autres poèmes<lb facs="P5_TL00038"/>naîtront de lui.</ab>
                               </div>
@@ -391,36 +438,50 @@
                   </div>
                   <div type="TextContent" corresp="c008">
                      <div type="Head">
-                        <ab facs="P6_TB00003">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P6_TB00003">
                            <lb facs="P6_TL00048"/>Matoum &amp; Tévibar<lb facs="P6_TL00049"/>OU<lb facs="P6_TL00050"/>Histoire édifiante et récréative du vrai et du faux<lb facs="P6_TL00051"/>Poète.</ab>
-                        <ab facs="P6_TB00004">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P6_TB00004">
                            <lb facs="P6_TL00052"/>Drame pour Marionnettes</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P6_TB00005">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00005">
                                     <lb facs="P6_TL00053"/>[Suite )</ab>
-                                 <ab facs="P6_TB00002">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00002">
                                     <lb facs="P6_TL00032"/>A quoi reconnaît-on la valeur d'un poème<lb facs="P6_TL00033"/>Cela va de soi-même<lb facs="P6_TL00034"/>A l'idée poétique<lb facs="P6_TL00035"/>Donc cet individu ne fait point de poèmes<lb facs="P6_TL00036"/>Et n'est pas un poète<lb facs="P6_TL00037"/>Ah monsieur vous voici démasqué<lb facs="P6_TL00038"/>Les temps sont révolus<lb facs="P6_TL00039"/>Et des fumistes il n'en faut plus<lb facs="P6_TL00040"/>Vous avez beau faire et beau dire<lb facs="P6_TL00041"/>On ne va plus se laisser prendre<lb facs="P6_TL00042"/>A vos manœuvres malhonnêtes<lb facs="P6_TL00043"/>Qui si je n'étais venu à temps<lb facs="P6_TL00044"/>Risquaient de contaminer notre temps<lb facs="P6_TL00045"/>Et de lui faire oublier le secret<lb facs="P6_TL00046"/>Des beauxfpoèmes émouvants<lb facs="P6_TL00047"/>Vous pouvez me regarder de travers</ab>
                               </div>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P6_TB00001">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00001">
                                     <lb facs="P6_TL00001"/>Vous ne saurez jamais<lb facs="P6_TL00002"/>Ce que c'est qu'un beau vers<lb facs="P6_TL00003"/>Oui mais ce soir j'ai sauvé la France<lb facs="P6_TL00004"/>Et je puis en attendant ma récompense<lb facs="P6_TL00005"/>M'aller coucher<lb facs="P6_TL00006"/>Le cœur plein d'espérance<lb facs="P6_TL00007"/>Car mes arguments<lb facs="P6_TL00008"/>Sont irrésistibles<lb facs="P6_TL00009"/>Et je comprends fort bien<lb facs="P6_TL00010"/>Que vous ne trouviez rien<lb facs="P6_TL00011"/>A répondre<lb facs="P6_TL00012"/>Dieu soit loué je puis me faire fort<lb facs="P6_TL00013"/>De vous avoir touché<lb facs="P6_TL00014"/>A mort<lb facs="P6_TL00015"/>(Le roi tombe)<lb facs="P6_TL00016"/>LA REINE<lb facs="P6_TL00017"/>Le roi s'est trouvé mal<lb facs="P6_TL00018"/>Le docteur le docteur<lb facs="P6_TL00019"/>LE DOCTEUR<lb facs="P6_TL00020"/>(après txamen<lb facs="P6_TL00021"/>Que votre majesté ne s'en fasse pas<lb facs="P6_TL00022"/>Ce n'est rien<lb facs="P6_TL00023"/>Le roi est simplement atteint<lb facs="P6_TL00024"/>De la maladie du sommeil<lb facs="P6_TL00025"/>11 va dormir ainsi peut-être un mois ou deux<lb facs="P6_TL00026"/>Puis il ouvrira les yeux<lb facs="P6_TL00027"/>LA REINE elle pleure<lb facs="P6_TL00028"/>Un mois ou deux<lb facs="P6_TL00029"/>MATOUM<lb facs="P6_TL00030"/>Ne pleurez pas Madame<lb facs="P6_TL00031"/>Je vais</ab>
                               </div>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P7_TB00002">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00002">
                                     <lb facs="P7_TL00025"/>TÉVIBAR (bousculant Matoum)<lb facs="P7_TL00026"/>Je vais le reveiller<lb facs="P7_TL00027"/>Midi. Gloire au soleil. Sur la campagne il darde•<lb facs="P7_TL00028"/>Il la couvre partout d'un manteau de beauté<lb facs="P7_TL00029"/>Il se couche sur elle et dessous lui la garde<lb facs="P7_TL00030"/>Immobile et muette ivre de sa clarté<lb facs="P7_TL00031"/>(aux autrei)<lb facs="P7_TL00032"/>N'a-t-il point bougé<lb facs="P7_TL00033"/>LE DOCTEUR (après examen)<lb facs="P7_TL00034"/>Reine le roi est mort<lb facs="P7_TL00035"/>LA REINE<lb facs="P7_TL00036"/>(bondissant sur Tévibar)<lb facs="P7_TL00037"/>Monstre c'est toi qui l'a tué<lb facs="P7_TL00038"/>LE DOCTEUR<lb facs="P7_TL00039"/>C'est lui inconlestablement<lb facs="P7_TL00040"/>Tous les deux tombent sur lui à crrands COUDS<lb facs="P7_TL00041"/>de bâton et le tuent.<lb facs="P7_TL00042"/>LA REINE<lb facs="P7_TL00043"/>(lui assénant le dernier coup)<lb facs="P7_TL00044"/>Maintenant tu ne mentiras plus<lb facs="P7_TL00045"/>MATOUM<lb facs="P7_TL00046"/>Je vais le ressusciter<lb facs="P7_TL00047"/>LA REINE<lb facs="P7_TL00048"/>(en colère montrant Tévibar)<lb facs="P7_TL00049"/>Lui<lb facs="P7_TL00050"/>MATOUM<lb facs="P7_TL00051"/>Le roi<lb facs="P7_TL00052"/>LA REINE<lb facs="P7_TL00053"/>Pourriez-vous cela<lb facs="P7_TL00054"/>MATOUM<lb facs="P7_TL00055"/>Je le puis</ab>
                               </div>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P7_TB00001">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00001">
                                     <lb facs="P7_TL00001"/>LA FLBINÈ<lb facs="P7_TL00002"/>(montrant Tévibar)<lb facs="P7_TL00003"/>Mais alors celui-ci<lb facs="P7_TL00004"/>MATOUM<lb facs="P7_TL00005"/>Je vais le ressusciter aussi<lb facs="P7_TL00006"/>LA REINE<lb facs="P7_TL00007"/>Ah gardez vous bien<lb facs="P7_TL00008"/>De ranimer cet assassin<lb facs="P7_TL00009"/>MATOUM<lb facs="P7_TL00010"/>Alors bouchez lui les oreilles<lb facs="P7_TL00011"/>(La reine met du coton dans les oreilles de Tévibar)<lb facs="P7_TL00012"/>Midi<lb facs="P7_TL00013"/>La glace brille<lb facs="P7_TL00014"/>Le soleil à la main<lb facs="P7_TL00015"/>Une femme regarde<lb facs="P7_TL00016"/>Ses yeux<lb facs="P7_TL00017"/>El son chagrin<lb facs="P7_TL00018"/>Le mur d'en face est dépoli<lb facs="P7_TL00019"/>Les ride s que le vent fait aux rideaux du lit<lb facs="P7_TL00020"/>Ce qui tremble<lb facs="P7_TL00021"/>LE ROI<lb facs="P7_TL00022"/>(se redressant d'un seul coup<lb facs="P7_TL00023"/>Ah mon amour je crois bien que j'étais mort<lb facs="P7_TL00024"/>(A suivre,.)</ab>
                               </div>
                            </div>
@@ -429,16 +490,22 @@
                   </div>
                   <div type="TextContent" corresp="c009">
                      <div type="Head">
-                        <ab facs="P8_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P8_TB00001">
                            <lb facs="P8_TL00001"/>Sommaires de I'Année 1918</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P8_TB00002">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00002">
                                     <lb facs="P8_TL00002"/>N* 25. Janvier<lb facs="P8_TL00003"/>Un dessin Léopold Survage<lb facs="P8_TL00004"/>Aux jeunes poètes. Poème genre didactique <lb facs="P8_TL00005"/>Pierre Àlberi-Birot<lb facs="P8_TL00006"/>Chocs. Poèmes . Roger L. Duprel<lb facs="P8_TL00007"/>Note l sur le cinéma Philippe Soupault<lb facs="P8_TL00008"/>Indifférence. Poème cinématographique » » »<lb facs="P8_TL00009"/>Relléxions sur la danse I Germaine Albert-Birot<lb facs="P8_TL00010"/>Orchestre de bois (danse) » » »<lb facs="P8_TL00011"/>Deux poèmes Pierre Albert-Biro<lb facs="P8_TL00012"/>Conte sentimental » » » i<lb facs="P8_TL00013"/>Ere * » »<lb facs="P8_TL00014"/>N* 26 Février.<lb facs="P8_TL00015"/>Ces Mamelles de Tirésias. (La couverture)<lb facs="P8_TL00016"/>Dessin de Serge Férat<lb facs="P8_TL00017"/>Epît re à mes dévoués détracteurs .. Pierre Albert-Birot<lb facs="P8_TL00018"/>Vision. Poème Arv Justman<lb facs="P8_TL00019"/>Reflexion sur la danse II Germaine Albèrt-Birot<lb facs="P8_TL00020"/>Deux dessins pour les Mamelles de Térisias Serge<lb facs="P8_TL00021"/>Férat<lb facs="P8_TL00022"/>L'amie le cheval mort. Poème J. Perez-Jorba<lb facs="P8_TL00023"/>Les projets de Sic<lb facs="P8_TL00024"/>Poème suppliant Georges Gaborv<lb facs="P8_TL00025"/>ETÇ Louis de Gonzague Fricfe<lb facs="P8_TL00026"/>P. A-B.<lb facs="P8_TL00027"/>W° 27 Mars.<lb facs="P8_TL00028"/>Dessin de X<lb facs="P8_TL00029"/>Poème anecdotique (Mamelles de Tirésias) Pierre<lb facs="P8_TL00030"/>Albert-Birot<lb facs="P8_TL00031"/>Epitre familière à Guillaume Apollinaire .. Gaston Picard<lb facs="P8_TL00032"/>Café Poème Philippe Soupault<lb facs="P8_TL00033"/>Payment. Poème Jessee Dismoor<lb facs="P8_TL00034"/>Chant 3. Poème à crier et à danser Pierre Albert-<lb facs="P8_TL00035"/>Birot<lb facs="P8_TL00036"/>Poèmes quotidiens I » » »<lb facs="P8_TL00037"/>Le 21 Juin 1917 • Louis Aragon<lb facs="P8_TL00038"/>Théâtre futuriste P. A-B.<lb facs="P8_TL00039"/>ETC...., » * »<lb facs="P8_TL00040"/>N° 28 Avril<lb facs="P8_TL00041"/>Les éclats. Poème idéograminatique .... Pierre Àlberi-<lb facs="P8_TL00042"/>Birot<lb facs="P8_TL00043"/>Vernissages. Chronique quelquefois rimée .. » » «<lb facs="P8_TL00044"/>Théâtre Antoine. Les essais de Gémier » » »<lb facs="P8_TL00045"/>Par pneumatique à Pierre Albert-Birot. Poème <lb facs="P8_TL00046"/>J. Perez-Jorba<lb facs="P8_TL00047"/>Paysage. Poème Arv Justinan<lb facs="P8_TL00048"/>Dieux-Lumières. Poème Gino Cantarelli<lb facs="P8_TL00049"/>Bois parlant ou intelligible. Poème Tristan Tzara<lb facs="P8_TL00050"/>Sentier battu. Poème Pierre Albert-Birot<lb facs="P8_TL00051"/>Poèmes quotidiens. II » » *<lb facs="P8_TL00052"/>ETC ♦. » * »<lb facs="P8_TL00053"/>N* 29 Mai<lb facs="P8_TL00054"/>Jeune femme. Bois de . •..., F. Torowaf<lb facs="P8_TL00055"/>Chronique historique „ Pierre Albert-Birot<lb facs="P8_TL00056"/>Treize etudes André Breton et Louis Aragon<lb facs="P8_TL00057"/>Escalade. Poème Philippe Soupault<lb facs="P8_TL00058"/>Poéme-paysage Pierre Albert-Birot<lb facs="P8_TL00059"/>Les Ardoises du toit Louis Aragon<lb facs="P8_TL00060"/>Nature presque morte. Poème Georges Gaborv<lb facs="P8_TL00061"/>ETC... Une lettre.<lb facs="P8_TL00062"/>N* 30 Juin<lb facs="P8_TL00063"/>Chronique d'été, mais pourtant véridique Pierre<lb facs="P8_TL00064"/>Albert-Birot<lb facs="P8_TL00065"/>Poèmes Louis Aragon<lb facs="P8_TL00066"/>ETC. (l*r* partie) L. G. F.<lb facs="P8_TL00067"/>Idylle. Poeme Gaston Picard<lb facs="P8_TL00068"/>Grabinoulor (fragment) Pierre Albert-Birot<lb facs="P8_TL00069"/>Promethée. Poème » » »<lb facs="P8_TL00070"/>Poème R. H. L.<lb facs="P8_TL00071"/>Poème Raymond Radiguet (Rairnon Rajky<lb facs="P8_TL00072"/>ETC. (Suite) P. A-B.</ab>
-                                 <ab facs="P8_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00003">
                                     <lb facs="P8_TL00073"/>N° 31 ler1er n° d'Octobre<lb facs="P8_TL00074"/>Gravure sur bois de Chana Orlofl<lb facs="P8_TL00075"/>Poèmes J - Perez Jorba<lb facs="P8_TL00076"/>idem R. H. L<lb facs="P8_TL00077"/>idem Pierre Albert-Birot.<lb facs="P8_TL00078"/>Les œuvres littéraires française Louis Aragon<lb facs="P8_TL00079"/>(critique synthétique(<lb facs="P8_TL00080"/>De l'édition P. A. B.<lb facs="P8_TL00081"/>Vociférations dans la clarté Pierre Reverdy<lb facs="P8_TL00082"/>Matoum et Tévibar Pierre Albert-Birot<lb facs="P8_TL00083"/>Drame pour marionnettes<lb facs="P8_TL00084"/>K° 32 -- 2°,ue n° d'Octobre<lb facs="P8_TL00085"/>Gravure sur bois de F. Torowaï<lb facs="P8_TL00086"/>Certains avantage® d'être seul Pierre Reverdy<lb facs="P8_TL00087"/>De l'édition appel aux dessinateurs<lb facs="P8_TL00088"/>Photographies animées Philippe Soupault<lb facs="P8_TL00089"/>Arc. Poème Tristan Tzara<lb facs="P8_TL00090"/>Matoum et Tévibar Suite Pierre Albert-Birot<lb facs="P8_TL00091"/>N° 33 ler1er n° de Novembre.<lb facs="P8_TL00092"/>Le l*r chant de Matoum et Tévibar .... Germaine Albér.t-<lb facs="P8_TL00093"/>Birot<lb facs="P8_TL00094"/>Les œuvres littéraires française. Critique synthétique<lb facs="P8_TL00095"/>Louis Aragon<lb facs="P8_TL00096"/>Poème Raymond Radiguet<lb facs="P8_TL00097"/>Photographies animées suite Philippe Soupault<lb facs="P8_TL00098"/>Siècle. Poème Pierre Reverdy<lb facs="P8_TL00099"/>Accidit. Poème Pierre Albert-Birot<lb facs="P8_TL00100"/>Matoum et Tévibar Suite » » »<lb facs="P8_TL00101"/>N° 34 -- 2me n° d 3 Novembre.<lb facs="P8_TL00102"/>Deux marionnettes d'après un dessin de Depero<lb facs="P8_TL00103"/>Les ballets plastiques traduction d'un article de . Settimeli<lb facs="P8_TL00104"/>14 heures-}- soir. Poème Gino Cantarelli<lb facs="P8_TL00105"/>Migraine. Poème J. Perez-Jorba<lb facs="P8_TL00106"/>Deux poème Pierre Reverdy<lb facs="P8_TL00107"/>Guillaume Apollinaire (nécrologie .. Pierre Albert-Birot<lb facs="P8_TL00108"/>Matoum et Tévibar sujte » » »<lb facs="P8_TL00109"/>N° S 5 i,,r n° de Décembre.<lb facs="P8_TL00110"/>Chronique d'Automne Pierre Albert-Birot<lb facs="P8_TL00111"/>Les œuvres littéraires françaises Louis Aragon<lb facs="P8_TL00112"/>Critique synthétique<lb facs="P8_TL00113"/>Poèmes J. Perez-Jorba<lb facs="P8_TL00114"/>ide m Philippe Soupault<lb facs="P8_TL00115"/>idem Georges Gabory<lb facs="P8_TL00116"/>La légende d'Oro extrait Pierre Albert-Birot<lb facs="P8_TL00117"/>Matoum et Tévibar suite » » »<lb facs="P8_TL00118"/>Tohu Raymond Radiguet<lb facs="P8_TL00119"/>N* 36 S*1" 31* de Décembre.<lb facs="P8_TL00120"/>Mére. Poème i Ary Justman<lb facs="P8_TL00121"/>T. S. F. Poème R, H. L.<lb facs="P8_TL00122"/>ETC <lb facs="P8_TL00123"/>Couleur du temps. Drame de G. Apollinaire <lb facs="P8_TL00124"/>Pierre Albert-Btrot<lb facs="P8_TL00125"/>Matoum et Tévibar suite * » »</ab>
                               </div>
                            </div>

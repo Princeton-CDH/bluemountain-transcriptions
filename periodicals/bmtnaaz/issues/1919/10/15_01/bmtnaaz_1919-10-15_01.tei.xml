@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:mods="http://www.loc.gov/mods/v3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -40,6 +38,7 @@
                      <date when=""/>
                   </imprint>
                </monogr>
+               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
                <relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
@@ -286,8 +285,6 @@
                      <analytic>
                         <title level="a">
                            <seg type="main">2+1=2</seg>
-                        </title>
-                        <title level="a">
                            <seg type="main">Première étude de drame cinématographique.</seg>
                         </title>
                         <respStmt>
@@ -445,55 +442,77 @@
             <div type="Issue">
                <div type="PublicationInfo">
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00001">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00001">
                         <lb facs="P1_TL00001"/>Paraît le 15 et le 30 de chaque mois<lb facs="P1_TL00002"/>H" 49* 50<lb facs="P1_TL00003"/>15 et 30 Octobre 1919</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00007">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00007">
                         <lb facs="P1_TL00029"/>ase sur Chine : 4 exemplaires<lb facs="P1_TL00030"/>Exemplaire N«</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00005">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00005">
                         <lb facs="P1_TL00023"/>37, RUE DE LA TOMBE-ISSOIRE<lb facs="P1_TL00024"/>PARIS (XIVe)<lb facs="P1_TL00025"/>Ce Numéro double : 1,20</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00006">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00006">
                         <lb facs="P1_TL00026"/>Abonnement pour toute la Terre<lb facs="P1_TL00027"/>ÎO francs<lb facs="P1_TL00028"/>à partir de Janvier 1919.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00002">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00002">
                         <lb facs="P1_TL00004"/>4 me ANNE E<lb facs="P1_TL00005"/>REVUE FONDEE<lb facs="P1_TL00006"/>EN JANVIER 181*<lb facs="P1_TL00007"/>FAR PIERRE<lb facs="P1_TL00008"/>ALBERT - RI ROT</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P2_TB00001">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P2_TB00001">
                         <lb facs="P2_TL00001"/>Réflexions poétiques et Reproductions de Sculptures, ARY JUSTMAN et<lb facs="P2_TL00002"/>GHANA ORLOF, in-4° carré. 10 fr.<lb facs="P2_TL00003"/>Trente et un poèmes de poche, PIERRE ALBERT-BIROT . Préface de<lb facs="P2_TL00004"/>Guillaume Apollinaire. ln-16° carré. , 5 fr.<lb facs="P2_TL00005"/>Les Mamelles de Tirésias, drame de GUILLAUME APOLLINAIRE, avec musi<pc type="endhypen" pre="false">-</pc>
                         <lb facs="P2_TL00006"/>que de Germaine Albert-Birot et dessins de Serge Férat, in-16jesus. 5 fr.<lb facs="P2_TL00007"/>Guillaume Apollinaire (Ire partie : L'Enchanteur pourrissant, l'Hérésiar<pc type="endhypen" pre="false">-</pc>
                         <lb facs="P2_TL00008"/>que, Alcools, le Poète assassiné), par ROCH GREY, in-8° jesus. 2,25<lb facs="P2_TL00009"/>DE PIERRE ALBERT-BIROT :<lb facs="P2_TL00010"/>Matoum et Tévibar, drame pour marionnettes, in-16 jesus. 4 fr.<lb facs="P2_TL00011"/>avec la musique de Germaine ALBERT-BIROT.<lb facs="P2_TL00012"/>Poèmes Quotidiens, in-64 jesus 5 fr.<lb facs="P2_TL00013"/>Larountala, polydrame, in-16 jesus. 7 fr.<lb facs="P2_TL00014"/>La joie des Sept Couleurs, poème, urné de o poèmes-oavsages,<lb facs="P2_TL00015"/>in-16 jesus; 7 fr.<lb facs="P2_TL00016"/>A PARAITRE :<lb facs="P2_TL00017"/>Les invectives contre l'Automne et la Légende poèmes.<lb facs="P2_TL00018"/>S</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P18_TB00019">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P18_TB00019">
                         <lb facs="P18_TL00047"/>Imp. Spéciale de " Sic ".</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P18_TB00020">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P18_TB00020">
                         <lb facs="P18_TL00048"/>Le gérant : Pießre ALBERT-BIROT</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P19_TB00001">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P19_TB00001">
                         <lb facs="P19_TL00001"/>REVUE et EDITIONS" SIC "<lb facs="P19_TL00002"/>Dépositaire pour la Suisse<lb facs="P19_TL00003"/>LIBRAIRIE KUND/G<lb facs="P19_TL00004"/>4, Rue du Rhône, GENÈVE<lb facs="P19_TL00005"/>'l + - ' \ - •. -N , V \ -<lb facs="P19_TL00006"/>TOUTE DEMANDE DE SPECIMEN DOIT ÊTRE ACCOMPAGNÉE DE 0,30»</ab>
                   </div>
                </div>
                <div type="EditorialContent">
                   <div type="TextContent" corresp="c001">
                      <div type="Head">
-                        <ab facs="P1_TB00003">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00003">
                            <lb facs="P1_TL00009"/>DANS CE NUMÉRO :</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P1_TB00004">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00004">
                                     <lb facs="P1_TL00010"/>Les Jeux (suite) PIERRE ALBERT-BIROT<lb facs="P1_TL00011"/>En pente Poème PIERRE REVERDY<lb facs="P1_TL00012"/>Ça change Poème » «<lb facs="P1_TL00013"/>Compositions de .. . ; SAMSON<lb facs="P1_TL00014"/>Bilan Poème TRISTAN TZARA<lb facs="P1_TL00015"/>Monologue ROCH GREY<lb facs="P1_TL00016"/>Ary Justman bois gravé GHANA ORLOFF<lb facs="P1_TL00017"/>Bu Cinéma PIERRE ALBERT-RIROT<lb facs="P1_TL00018"/>2-f-i—2 première étude de drame « « «<lb facs="P1_TL00019"/>cinématographique<lb facs="P1_TL00020"/>Caserne Poème OSIP ZARKINE<lb facs="P1_TL00021"/>ETC... P. A. B.<lb facs="P1_TL00022"/>\</ab>
                               </div>
                            </div>
@@ -505,24 +524,32 @@
                   </div>
                   <div type="TextContent" corresp="c003">
                      <div type="Head">
-                        <ab facs="P3_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00002">
                            <lb facs="P3_TL00002"/>LES JEUX</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P3_TB00005">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00005">
                            <lb facs="P3_TL00023"/>Pierre ALBERT-BIROT</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P3_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00003">
                                     <lb facs="P3_TL00003"/>(suite)</ab>
                               </div>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P3_TB00004">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P3_TB00004">
                                     <lb facs="P3_TL00004"/>Je ne crois pas qu'un bel arbre<lb facs="P3_TL00005"/>soit aimé, admiré, également par<lb facs="P3_TL00006"/>tous, mais il est devant tous: au<lb facs="P3_TL00007"/>dessus de l'amour et de l'admira<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P3_TL00008"/>tion<lb facs="P3_TL00009"/>Et ainsi du beau paysage, de la<lb facs="P3_TL00010"/>belle montagne, du bel océan, du<lb facs="P3_TL00011"/>beau soleil, de la bel le cathédrale<lb facs="P3_TL00012"/>d u beau palais,toutes beautés qu i<lb facs="P3_TL00013"/>sontdevanttousau dessusde l'a<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P3_TL00014"/>mouretde l'admiration.<lb facs="P3_TL00015"/>Je pense que cet autre beau so<pc type="endhypen" pre="false">-</pc>
@@ -535,23 +562,31 @@
                   </div>
                   <div type="TextContent" corresp="c004">
                      <div type="Head">
-                        <ab facs="P4_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P4_TB00002">
                            <lb facs="P4_TL00002"/>POÈME</ab>
                      </div>
                      <div type="TextContent" corresp="c005">
                         <div type="Head">
-                           <ab facs="P4_TB00003">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P4_TB00003">
                               <lb facs="P4_TL00003"/>En pente</ab>
                         </div>
                         <div type="Byline">
-                           <ab facs="P4_TB00005">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P4_TB00005">
                               <lb facs="P4_TL00026"/>Pierre REVERDY</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P4_TB00004">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P4_TB00004">
                                        <lb facs="P4_TL00004"/>Finis Retournés<lb facs="P4_TL00005"/>Bus<lb facs="P4_TL00006"/>Sur la colline et dans la rue<lb facs="P4_TL00007"/>Où l'oiseau change de note à chaque portée<lb facs="P4_TL00008"/>Les têtes seulement dépassent<lb facs="P4_TL00009"/>La troupe s'amoncelle et s'enferme<lb facs="P4_TL00010"/>Les cages sont prises dans le ciel<lb facs="P4_TL00011"/>Les acacias bordent tout ce qu'on voit<lb facs="P4_TL00012"/>Ce serait plus grand si on enlevait la clef<lb facs="P4_TL00013"/>Un paysan dans la marge<lb facs="P4_TL00014"/>Les autres en plein champ<lb facs="P4_TL00015"/>On laboure<lb facs="P4_TL00016"/>La musique s'inscrit<lb facs="P4_TL00017"/>Les animaux suivent derrière lui<lb facs="P4_TL00018"/>Les boules et les branches roulent sur le talus<lb facs="P4_TL00019"/>Ce sont des bras qui les entourent<lb facs="P4_TL00020"/>Tout devient gris<lb facs="P4_TL00021"/>Il ne reste plus rien<lb facs="P4_TL00022"/>En haut<lb facs="P4_TL00023"/>En bas<lb facs="P4_TL00024"/>Rien<lb facs="P4_TL00025"/>Qu'une large tache blanche au niveau du cœur</ab>
                                  </div>
                               </div>
@@ -561,23 +596,31 @@
                   </div>
                   <div type="TextContent" corresp="c006">
                      <div type="Head">
-                        <ab facs="P5_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00002">
                            <lb facs="P5_TL00002"/>POEME</ab>
                      </div>
                      <div type="TextContent" corresp="c007">
                         <div type="Head">
-                           <ab facs="P5_TB00003">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P5_TB00003">
                               <lb facs="P5_TL00003"/>Ça change.</ab>
                         </div>
                         <div type="Byline">
-                           <ab facs="P5_TB00005">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P5_TB00005">
                               <lb facs="P5_TL00026"/>Pierre REVERDY</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P5_TB00004">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P5_TB00004">
                                        <lb facs="P5_TL00004"/>La mort trop grande image<lb facs="P5_TL00005"/>Le mystère s'est soulevé<lb facs="P5_TL00006"/>Un soir<lb facs="P5_TL00007"/>Comme une jupe<lb facs="P5_TL00008"/>La bonne blague qui restait<lb facs="P5_TL00009"/>De son œil horrible<lb facs="P5_TL00010"/>11 regardait<lb facs="P5_TL00011"/>Minuit<lb facs="P5_TL00012"/>Il faisait, noir<lb facs="P5_TL00013"/>Il portait une lumière qui n'éclairait pas<lb facs="P5_TL00014"/>La flamme sortait de ses doigts<lb facs="P5_TL00015"/>Il avait voulu voir<lb facs="P5_TL00016"/>Par derrière<lb facs="P5_TL00017"/>Et il riait<lb facs="P5_TL00018"/>11 l'avait prise à sa manière<lb facs="P5_TL00019"/>Devant c'était d'un grand effet<lb facs="P5_TL00020"/>Trop<lb facs="P5_TL00021"/>pour lui seul<lb facs="P5_TL00022"/>Et il vivait<lb facs="P5_TL00023"/>Eternellement solennel<lb facs="P5_TL00024"/>Comique<lb facs="P5_TL00025"/>Et satisfait</ab>
                                  </div>
                               </div>
@@ -587,7 +630,9 @@
                   </div>
                   <div type="TextContent" corresp="c008">
                      <div type="Head">
-                        <ab facs="P6_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P6_TB00002">
                            <lb facs="P6_TL00002"/>COMPOSITIONS DE SAMSON</ab>
                      </div>
                      <div type="Music" corresp="c009">
@@ -597,7 +642,9 @@
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P6_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00003">
                                     <lb facs="P6_TL00003"/>Errata pour lô n° 47 -48 :<lb facs="P6_TL00004"/>page 367, 3me ligne, lire hué au lieu de tué<lb facs="P6_TL00005"/>» 373, 15me vers lire Sans virage au lieu de sans visage*<lb facs="P6_TL00006"/>» » dans le poème de Perez-Jorba, 12me ligne lire : les turpitudes libidi<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P6_TL00007"/>neuses ( supprimer des ) et à la dernièrè ligne lire voix au lieu de croix.<lb facs="P6_TL00008"/>\</ab>
                               </div>
@@ -607,11 +654,15 @@
                   </div>
                   <div type="TextContent" corresp="c010">
                      <div type="Head">
-                        <ab facs="P7_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00002">
                            <lb facs="P7_TL00002"/>BILAN</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P7_TB00004">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P7_TB00004">
                            <lb facs="P7_TL00022"/>TRISTAN TZARA</ab>
                      </div>
                      <div type="Illustration" corresp="c011">
@@ -621,7 +672,9 @@
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P7_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00003">
                                     <lb facs="P7_TL00003"/>arc voltaïque de ces deux nerfs qui ne se touchent pas<lb facs="P7_TL00004"/>près du cœur<lb facs="P7_TL00005"/>on constate le frisson noir sous une lentille<lb facs="P7_TL00006"/>est-ce sentait ce Maie jaillissement<lb facs="P7_TL00007"/>et l'amour méthodique<lb facs="P7_TL00008"/>partage en rayons mon corps<lb facs="P7_TL00009"/>pâte dentrifice<lb facs="P7_TL00010"/>billets<lb facs="P7_TL00011"/>transatlantique<lb facs="P7_TL00012"/>la foule casse la colonne couchée du vent<lb facs="P7_TL00013"/>évantail de fusées<lb facs="P7_TL00014"/>sur ma tête<lb facs="P7_TL00015"/>la revanche sanglante du two-siep libéré<lb facs="P7_TL00016"/>répertoire de prétentions à pris Sse<lb facs="P7_TL00017"/>folie à 3 heures 20<lb facs="P7_TL00018"/>ou 3 Frs. 50<lb facs="P7_TL00019"/>la cocaïne ronge pour son plaisir lentement les murs<lb facs="P7_TL00020"/>horoscope satanique se dilate sous ta vigueur<lb facs="P7_TL00021"/>VIGILANCE DE VIRGILE VÉRIFIE LE VENT VIRIL</ab>
                               </div>
                            </div>
@@ -630,18 +683,24 @@
                   </div>
                   <div type="TextContent" corresp="c012">
                      <div type="Head">
-                        <ab facs="P8_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P8_TB00002">
                            <lb facs="P8_TL00002"/>Monologue</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P8_TB00004">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P8_TB00004">
                            <lb facs="P8_TL00035"/>Roch GREY</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P8_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00003">
                                     <lb facs="P8_TL00003"/>Provence on Mogador ? Qu'importe la rue !<lb facs="P8_TL00004"/>Cet homme tellement épris chuchota à la femme préposée aux clefs de<lb facs="P8_TL00005"/>tous les étages ... *<lb facs="P8_TL00006"/>Une banquette était derrière le paravant :<lb facs="P8_TL00007"/>vu de dos, le couple se déroba sans déranger le silence.<lb facs="P8_TL00008"/>Un homme tellement épris ! pourtant ce trou-chambre-nuptiale m'effraya.<lb facs="P8_TL00009"/>Madame, c'est de la vaseline: tous les draps de la maison même les plus<lb facs="P8_TL00010"/>propres, portent ces taches cju aucune blanchisseuse n est capable d enlever.<lb facs="P8_TL00011"/>La femme en noir disparue, l'inconnu' enleva ses vêtemenls.<lb facs="P8_TL00012"/>. pouvais-je savoir qu'il existe une colonne, vertébrale se garnissant de deux<lb facs="P8_TL00013"/>prépondérances aussi mal un ventre de visant de biais le<lb facs="P8_TL00014"/>derrière affaissé sur les cuisses en accordéon.<lb facs="P8_TL00015"/>■— Ma gosse ! que tu es bien faite !<lb facs="P8_TL00016"/>Fondre !<lb facs="P8_TL00017"/>Ma maigreur subite détrôna toutes ces assurances qui me venaient de<lb facs="P8_TL00018"/>partout. Filiale, éviterais-je l'approche de cette offrande? cheval ou simple<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P8_TL00019"/>ment père-éternel régénérateur de la race humaine, engendrant dun seul<lb facs="P8_TL00020"/>coup la moitié du monde <lb facs="P8_TL00021"/>Un objet, une arme : suis-je indigne ?<lb facs="P8_TL00022"/>La massue écartela le dernier soupir.<lb facs="P8_TL00023"/>J ai appris le sens de la gravitation, la véritable situation des éphémè<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P8_TL00024"/>res, aussi la réduction des phrases en des mots gigantesques. _<lb facs="P8_TL00025"/>Mon linge me. sembla dépareillé.<lb facs="P8_TL00026"/>Maître descrime, quand je disais : non! il luttait croyant que j aime a imi<pc type="endhypen" pre="false">-</pc>
@@ -655,20 +714,26 @@
                   <div type="Illustration" corresp="c013">
                      <div type="Image"/>
                      <div type="Caption">
-                        <ab facs="P9_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P9_TB00002">
                            <lb facs="P9_TL00002"/>ARY JUSTMAN<lb facs="P9_TL00003"/>BOIS DE CHANA ORLOFF</ab>
                      </div>
                   </div>
                   <div type="TextContent" corresp="c014">
                      <div type="Head">
-                        <ab facs="P10_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P10_TB00002">
                            <lb facs="P10_TL00002"/>Du Cinéma</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P10_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P10_TB00003">
                                     <lb facs="P10_TL00003"/>On a cléja beaucoup écrit au sujet du cinéma, on a compris depuis longtemps<lb facs="P10_TL00004"/>qu il y ci là une possibilité d'expression nouvelle et Von a constaté que jusqu'ici<lb facs="P10_TL00005"/>on ne Va pas réalisée.<lb facs="P10_TL00006"/>Je ne parle pas bien entendu du cinéma documentaire et scientifique qui est<lb facs="P10_TL00007"/>en dehors de la question.<lb facs="P10_TL00008"/>I ous ceux qui étudient le cinéma glorifient Chaplin et les films américains.<lb facs="P10_TL00009"/>On ne peut faire moins, car les metteurs en scène américains sont à peu près<lb facs="P10_TL00010"/>les seuls qui aient des intentions cinématographiques et Chariot-Chaplin est<lb facs="P10_TL00011"/>celui qui a les meilleures. Chaplin en effet a transporté sur-Vécran les clow<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P10_TL00012"/>neries clu cirque, or la clownerie est un art et un art de la vue comme le ci<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P10_TL00013"/>néma, mais je dirai d'abord qu'il existe de par le monde et certainement même<lb facs="P10_TL00014"/>en France des Gug lis se supérieurs à Chariot et ensuite que adapter le<lb facs="P10_TL00015"/>cirque à l écran c est seulement avoir Vintuition de ce qu'il faudrait lui donner<lb facs="P10_TL00016"/>et en fait ce n'est point là réaliser une expression nouvelle ; le cirque est le<lb facs="P10_TL00017"/>cirque, le cinéma est le cinéma, c est pourquoi je dis le cinéma - art n'existe<lb facs="P10_TL00018"/>pas encore; avec de la peinture on peut peindre des persiennes, une devanture<lb facs="P10_TL00019"/>en faux bois, avec de la peinture Rembrandt, Rubens, Raphaël, Vélasquez ont<lb facs="P10_TL00020"/>peint des tableaux; pour le cinéma je pense que nous en sommes aux persien<pc type="endhypen" pre="false">-</pc>
@@ -687,7 +752,9 @@
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P11_TB00002">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P11_TB00002">
                                     <lb facs="P11_TL00002"/>J'ai volontairement traité ce drame d'une manière très élémentaire, il est évi<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P11_TL00003"/>dent qu on envisagera des actions beaucoup plus complexes, qu'on regardera<lb facs="P11_TL00004"/>beaucoup plus profondément.<lb facs="P11_TL00005"/>Je crois n'avoir emplogé dans ce drame que les moyens techniques actuellement<lb facs="P11_TL00006"/>employés pour des films déjà réalisés, ou tout au moins très près d'eux et qui ne<lb facs="P11_TL00007"/>demanderaient que de s perfectionnements sans doute possible.<lb facs="P11_TL00008"/>Si par hasard, quelque part, un directeur cinématographique<lb facs="P11_TL00009"/>avait le beau courage de vouloir réaliser le drame que je propose ci-dessous,<lb facs="P11_TL00010"/>je suis naturellement à sa disposition pour diriger toutes les recherches et cher<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P11_TL00011"/>cher avec lai, car il est bien entendu que ce n'est ici qu'une ébauche qu'il fau<pc type="endhypen" pre="false">-</pc>
@@ -699,20 +766,28 @@
                   </div>
                   <div type="TextContent" corresp="c015">
                      <div type="Head">
-                        <ab facs="P11_TB00003">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P11_TB00003">
                            <lb facs="P11_TL00013"/>2+1=2</ab>
-                        <ab facs="P11_TB00004">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P11_TB00004">
                            <lb facs="P11_TL00014"/>Première étude de drame cinématographique.</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P14_TB00003">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P14_TB00003">
                            <lb facs="P14_TL00020"/>Pierre ALBERT-BIROT</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P11_TB00005">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P11_TB00005">
                                     <lb facs="P11_TL00015"/>Un gigantesque calendrier à effeuiller est projeté: il est à la date du 2 Mai.<lb facs="P11_TL00016"/>Un intérieur bourgeois quelconque, salon petit, meublé très simplement.<lb facs="P11_TL00017"/>Le mari et la femme sont dans ce salon, lui lit, elle brode, etc..<lb facs="P11_TL00018"/>''s / m 9<lb facs="P11_TL00019"/>La bonne vient annoncer une visite."<lb facs="P11_TL00020"/>L ami entre. Le mari lui serre les mains avec effusion, ils s'embrassent, puis<lb facs="P11_TL00021"/>il présente son ami à sa femme. Compliments. On cause. Le mari se rapetisse<lb facs="P11_TL00022"/>graduellement cependant que l'ami et la femme grandissent. Cela se produit,<lb facs="P11_TL00023"/>plusieurs lois en se succédant à intervalles d'abord éloignés puis de plus en<lb facs="P11_TL00024"/>plus rapprochés, quand le mari se tait il devient de plus en plus petit, quand<lb facs="P11_TL00025"/>il parle tout redevient normal.<lb facs="P11_TL00026"/>On a parlé musique, l'ami et la femme vont au piano, elle se met.à chanter<lb facs="P11_TL00027"/>lui tourne les pages, le mari est conloî'tablement installé en face, graduelle<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P11_TL00028"/>ment il devient plus petit, les deux autres plus grands, en même temps le sa<lb facs="P11_TL00029"/>lon s agrandit autant qu'il est possible et s'enrichit, (mais ce sont les mêmes,<lb facs="P11_TL00030"/>meubles, la même disposition, seule la grandeur, l'ornementation, la matière<lb facs="P11_TL00031"/>les couleurs se transforment, c'est-à-dire que par exemple la commode qui était<lb facs="P11_TL00032"/>un petit meuble terne double de volume devient en bois clair et précieux, se<lb facs="P11_TL00033"/>couvre de bronzes dorés, et ainsi de toute la pièce) la lumière augmente d'in<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P11_TL00034"/>tensité, le mari a complètement disparu, tout se colore en bleu, en mauve,en<lb facs="P11_TL00035"/>rose et ces couleurs se succèdent plusieurs fois, puis le salon lui-même dis<pc type="endhypen" pre="false">-</pc>
@@ -724,7 +799,9 @@
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P12_TB00002">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P12_TB00002">
                                     <lb facs="P12_TL00002"/>qui indiquent que le mari et la femme sont à la fenêtre, puis il s'éloigne, ii<lb facs="P12_TL00003"/>marche, la rue s'élargit et se rétrécit plusieurs fois, par instant elle est grouil<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P12_TL00004"/>lante de passants et cfe voitures puis par instant tout mouvement dîsparait, voi<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P12_TL00005"/>ci que la femme se trouve à côté de lui, il passe son bras autour de sa taille,<lb facs="P12_TL00006"/>tout se colore en bleu, puis la femme disparait, retour au premier état, il mar<pc type="endhypen" pre="false">-</pc>
@@ -742,7 +819,9 @@
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P13_TB00002">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P13_TB00002">
                                     <lb facs="P13_TL00002"/>Aussitôt on voit la façade de la maison, en bas, à la porte, l'auto, la femme<lb facs="P13_TL00003"/>est toujours assise son double se dégage et s'élève cependant on voit un dou<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P13_TL00004"/>ble de l'ami qui descend, à mi-chemin ils s'enlacent. C'est àce moment que le<lb facs="P13_TL00005"/>mari et 1 ami sortent de la maison, compliments, serrements de mains, les<lb facs="P13_TL00006"/>deux doubles disparaissent, installation dans l'auto, départ.<lb facs="P13_TL00007"/>Ala campagne, en pique-nique. Gaîté, exubérance du trio. A un moment le<lb facs="P13_TL00008"/>mari déchire un journal, fait un bouchon de l'un des morceaux, puis s éloigne<lb facs="P13_TL00009"/>significativement. L'ami prend immédiatement la main de la femme, à ce mo<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P13_TL00010"/>ment un double d'elle-même se dégage et prend la place de la lcr% la main na<lb facs="P13_TL00011"/>quittant pas la main de 1 ami, un double se dégage de l'homme et enlace la fem<pc type="endhypen" pre="false">-</pc>
@@ -754,7 +833,9 @@
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P13_TB00003">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P13_TB00003">
                                     <lb facs="P13_TL00025"/>Le calendrier est projeté: il est au 1 Juin et s'effeuille jusqu'au 15 Juin.<lb facs="P13_TL00026"/>L'ami chez lui attend avec impatience, il prépare tout avec empressement<lb facs="P13_TL00027"/>pour recevoir la femme, il agit très fébrilement. La femme sonne, il se préci<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P13_TL00028"/>pite, ils se jettent dans les bras l'un de l'autre, toute la pièce s'illumine, les<lb facs="P13_TL00029"/>objets, les meubles bougent, s'entrecroisent, créent un grand désordre, etc...<lb facs="P13_TL00030"/>puis les murs de la pièce disparaissent, ensuite les meubles, puis le couple est<lb facs="P13_TL00031"/>animé d'un mouvement giratoire qui va sans cesse s'accélérant, puis le mouve<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P13_TL00032"/>ment giratoire change de plan, le couple fait maintenant la roue ce qui le pré<pc type="endhypen" pre="false">-</pc>
@@ -763,13 +844,17 @@
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P13_TB00004">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P13_TB00004">
                                     <lb facs="P13_TL00035"/>Le calendrier est projeté, à coté de celui-c second dont pas une feuille n'a<lb facs="P13_TL00036"/>été enlevée : le premier est toujours à la date du 15 Juin, il s'effeuille jusqu'à<lb facs="P13_TL00037"/>la fin, puis le second commence à son tour et s'effeuille jusqu'au 30 -Mai.<lb facs="P13_TL00038"/>Reproduction de la scène précédente jusqu'au moment inclusivement ou ils<lb facs="P13_TL00039"/>se jettent dans les bras l'un de l'autre mais en employant le ralentisseur, la<lb facs="P13_TL00040"/>pièce s'assombrit, puis successivement un double souriant du mari apparait, un<lb facs="P13_TL00041"/>autre, un autre et ainsi jusqu'à ce que la pièce soit remplie par lui, puis tous<lb facs="P13_TL00042"/>ces doubles paraissent et disparaissent plusieurs fois cependant que l'homme<lb facs="P13_TL00043"/>et la femme prennent une tasse de thé, toujours projection au ralentisseur,</ab>
                               </div>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P14_TB00002">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P14_TB00002">
                                     <lb facs="P14_TL00002"/>puis subitement, dans un mouvement très rapide, ils discutent, se disputent, se<lb facs="P14_TL00003"/>lancent des objets à la tête, elle court vers la porte puis de nouveau au raient<lb facs="P14_TL00004"/>tisseur le mari multiplié emplit la chambre, ils se serrent correctement le bou<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P14_TL00005"/>des doigts, le mari disparai!, la femme part, l'ami referme la porte en se frot<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P14_TL00006"/>tant les mains tout se colore en orangé.<lb facs="P14_TL00007"/>Le deux calendriers sont projetés: le second est au 30 Mai, il se/Jeuille jus<pc type="endhypen" pre="false">-</pc>
@@ -781,24 +866,32 @@
                   </div>
                   <div type="TextContent" corresp="c016">
                      <div type="Head">
-                        <ab facs="P14_TB00004">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P14_TB00004">
                            <lb facs="P14_TL00021"/>Caserne</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P14_TB00006">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P14_TB00006">
                            <lb facs="P14_TL00040"/>Osip ZADKINE</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P14_TB00005">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P14_TB00005">
                                     <lb facs="P14_TL00022"/>Jambe en bois<lb facs="P14_TL00023"/>Une plaie colorée de médailles allongées<lb facs="P14_TL00024"/>Comme de beaux morts endimanchés<lb facs="P14_TL00025"/>Baisers de patrie, béquilles, nouveaux crucifix<lb facs="P14_TL00026"/>Les christs ressuscités gardent le beau sourire<lb facs="P14_TL00027"/>Et toi tristesse vite aux matelas aux sales draps<lb facs="P14_TL00028"/>Cache-toi et tes loques devant le vainqueur<lb facs="P14_TL00029"/>Quand même !<lb facs="P14_TL00030"/>Hautes fenêtres imprimeries mortes<lb facs="P14_TL00031"/>Sur le langage jaune des briques<lb facs="P14_TL00032"/>La jambe s'est détachée<lb facs="P14_TL00033"/>Montant les trois cent trente trois marches de l'escalier<lb facs="P14_TL00034"/>Mais son œil de verre s'est détaché<lb facs="P14_TL00035"/>Laissant l'orbite pleurer sous les accords<lb facs="P14_TL00036"/>De la prunelle magique qui comptait<lb facs="P14_TL00037"/>Ses pas vers la terre<lb facs="P14_TL00038"/>En bas un réforme lui crie<lb facs="P14_TL00039"/>" Le voilà, ton œil, oh beau !</ab>
                               </div>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P14_TB00007">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P14_TB00007">
                                     <lb facs="P14_TL00041"/>Clignancourt. 1917</ab>
                               </div>
                            </div>
@@ -807,19 +900,25 @@
                   </div>
                   <div type="TextContent" corresp="c017">
                      <div type="Head">
-                        <ab facs="P15_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P15_TB00002">
                            <lb facs="P15_TL00002"/>ETC...</ab>
                      </div>
                      <div type="TextContent" corresp="c018">
                         <div type="Byline">
-                           <ab facs="P18_TB00018">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P18_TB00018">
                               <lb facs="P18_TL00046"/>P.A - B.</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P15_TB00003">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P15_TB00003">
                                        <lb facs="P15_TL00003"/>Le chemin des pieds-nus. KER BRANK-HOUX. EX lihris Arisle• —Mr Ker Frank-Houx<lb facs="P15_TL00004"/>est monté tout au haut de sa tour pour entendre chanter le coucou en la compagnie aussi<lb facs="P15_TL00005"/>choisie que silencieuse de ses grands amis aux or atténués, aux polychromes mosaïques,<lb facs="P15_TL00006"/>aux dos ronds solidement bandés, c'est de là qu'il regarde le'monde, sœur Anne ne vois-tu<lb facs="P15_TL00007"/>rien venir. Je vois.une femme nue qui se promène dans les bois avec les loups avec la nuit<lb facs="P15_TL00008"/>avec l'aurore elle a froid, elle a peur et elle prêche aux loups la bonne parole, or celui que<lb facs="P15_TL00009"/>j'aimerai tournera le dos à la route dit-elle et elle dit encore beaucoup d'autres choses dé<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P15_TL00010"/>sagréables qu'une femme n'a pas coutume de dire aux loups dans la forêt, c'est pourquoi<lb facs="P15_TL00011"/>sans doute ils ont grand envie de la battre et peut-être même de la manger au clair de lu<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P15_TL00012"/>ne et la voici qui pénétré plus avant dans la forêt, elle va, elle va, longtemps longtemps<lb facs="P15_TL00013"/>sans lassitude sans crainte et c'est maintenant qu'elle rencontre un faune et qu'elle le cul<pc type="endhypen" pre="false">-</pc>
@@ -830,7 +929,9 @@
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P15_TB00004">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P15_TB00004">
                                        <lb facs="P15_TL00020"/>Essai sur le lyrisme. L'initiation à la joie - Sensations.— CARLOS LARRONDE.<lb facs="P15_TL00021"/>Edit. de VAffranchi. Trois brochures. La première est un petit précis d'histoire littéraire<lb facs="P15_TL00022"/>qui conduira sans doute son auteur à faire d'ici une étude sérieuse et am<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P15_TL00023"/>ple de la grande période littéraire dans laquelle nous entrons. La deuxième est une com<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P15_TL00024"/>position française de fin d'année que l'auteur reniera bientôt s'iPa foi en la troisième. Cet<pc type="endhypen" pre="false">-</pc>
@@ -840,65 +941,85 @@
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P15_TB00005">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P15_TB00005">
                                        <lb facs="P15_TL00032"/>L'appartement des jeunes filles. ROGER ALLARD. Camille Bloch. édit. Petit traité<lb facs="P15_TL00033"/>où les jeunes gens pourront apprendre poétiquement à se servir de leurs mains et de leur<lb facs="P15_TL00034"/>langues mais pas pour parler. La poésie est partout même sous les jupons des jeunes filles<lb facs="P15_TL00035"/>et l'auteur a vraiment bien employé ses vacances. Tout de même au XVIIIe il y avait autre<lb facs="P15_TL00036"/>chose, ce qui ne veut pas dire qu'ici il n'y ait vraiment rien. Il y a aussi paraît-il des gravu.<lb facs="P15_TL00037"/>res de Laboureur, je n'en dirai rien parce que les exemplaires réservés au service de<lb facs="P15_TL00038"/>presse sont sans gravure: on n'a pas voulu distraire M. M. les critiques.<lb facs="P15_TL00039"/>Sous le masque de Molière. —xx Figuière édit. Un coup de théâtre: Louis XIV <lb facs="P15_TL00040"/>Molière et Molière est Jean-Baptiste Poquelin tapissier-décorateur-cabotin et la preuve<lb facs="P15_TL00041"/>qu'il n'est pas Molière c'est qu'il était tapissier.Toutefois le Misanthrope n'a rien de changé.<lb facs="P15_TL00042"/>Nous l'avons en dormant, Madame, échappé belle.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P15_TB00006">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P15_TB00006">
                                        <lb facs="P15_TL00043"/>Le Jardin sans soleil - - LOUIS BOUMAL. Editions des Cahiers. Ce sont des poèmes<lb facs="P15_TL00044"/>émouvants sans doute pour celle à qui ils sont dédiés, mais ils n'apportent rien aux hom<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P15_TL00045"/>mes. Dura lex sed lex.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P16_TB00002">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P16_TB00002">
                                        <lb facs="P16_TL00002"/>Temps de guerre. GEORGES GILLET. Figuière édit. Il y a 96 pages y compris la<lb facs="P16_TL00003"/>table des matières. C'est rimé Je vous prie de m'excuser.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P16_TB00003">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P16_TB00003">
                                        <lb facs="P16_TL00004"/>L'abri 56-A-2 JEAN AZAIS - Arts et lettres édit. Ce livre doit être très intéres<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P16_TL00005"/>sant pour celui qui l a éciit.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P16_TB00004">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P16_TB00004">
                                        <lb facs="P16_TL00006"/>Le Mercure de France. Ils sont trop! Dans le n° du lcp Septembre. Mr Charles Hen<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P16_TL00007"/>ry Hirsch aime les raisons précises, il crie Kssi Kssi àMr Pierre Lasserre qui s'essaie à<lb facs="P16_TL00008"/>envoyer Rimbaud dans l'autre monde. Ces grands critiques sont admirables, ils n'oublient<lb facs="P16_TL00009"/>que Dieu.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P16_TB00005">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P16_TB00005">
                                        <lb facs="P16_TL00010"/>Les 3 roses. Le dernier n° reçu ici est de Février-Mars. Cette revue vit-elle encore ?<lb facs="P16_TL00011"/>En égard à ce qui se fait actuellement sa ligne est assez bonne, quoi qu'elle soit bien*<lb facs="P16_TL00012"/>souvent brisée.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P16_TB00006">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P16_TB00006">
                                        <lb facs="P16_TL00013"/>L'instant. Barcelone-Paris. L'instant paraît maintenant à Barcelone, cette bonne<lb facs="P16_TL00014"/>revue fondée à Paris par J. Perez-Jorba est devenue plus luxueuse depuis qu'elle a passé<lb facs="P16_TL00015"/>les Pyrénées, c'est un plaisir pour les yeux : belle matière, bon travail, belle ordonnance,<lb facs="P16_TL00016"/>et bon esprit puisque la direction n'a pas changé. Pour nous, en France, nous y avons<lb facs="P16_TL00017"/>peut-être un peu perdu parce qu'on y parle un peu plus catalan que français, enfin nous<lb facs="P16_TL00018"/>apprendrons le catalan puisque vous le voulez mon cher confrère.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P16_TB00007">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P16_TB00007">
                                        <lb facs="P16_TL00019"/>Terramar. Silges. Barcelone. Une nouvelle revue qui nous arrive également de<lb facs="P16_TL00020"/>Catalogne. Les Catalans font très bien les choses, ils font ce qu'on ferait en France si on<lb facs="P16_TL00021"/>pouvait y faire quelque chose. Nous retrouvons ici Perez-Jorba et J. M. Junoy, c'est une<lb facs="P16_TL00022"/>garantie pour Terramar et ces deux têtes là auront fait beaucoup pour qu'il n'y ait plus de<lb facs="P16_TL00023"/>Pyrénées. Et vous savez qu'il y a de bons peintres à Barcelone, témoins les reproduc<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P16_TL00024"/>tions de l'lnstant et de Terramar.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P16_TB00008">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P16_TB00008">
                                        <lb facs="P16_TL00025"/>Atys Rome. - De très grands dessins imprimés en deux couleurs, des textes italiens<lb facs="P16_TL00026"/>anglais et même français. Revue qui a sans doute des intentions très sympathiques, mais<lb facs="P16_TL00027"/>elle me paraît bien indécise. Je la reçois d'ailleurs très irrégulièrement.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P16_TB00009">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P16_TB00009">
                                        <lb facs="P16_TL00028"/>Le Crapouillot Paris. Nos 10 et 11 Chercher un homme est assez àla mode ces temps<lb facs="P16_TL00029"/>ci, c'est tellement plus facile avec les lanternes électriques de poche, Mr Dominique Braga<lb facs="P16_TL00030"/>vient d'en découvrir un vivant : Daniel de Foë. Dans ce même n° il y a aussi Décalogue,<lb facs="P16_TL00031"/>une quelconque blague de Mr Georges-Armand Masson. M. Jean Bernier voit des différen<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P16_TL00032"/>ces entre la mimique la danse et la musique : moi aussi. Ce qui n'empêche pas Mr Wal<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P16_TL00033"/>dernar Georges, dans le n° suivant, de remettre Isadora sur le trône.</ab>
@@ -906,19 +1027,25 @@
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P16_TB00010">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P16_TB00010">
                                        <lb facs="P16_TL00034"/>La Revista. Barcelone. Revue toujours docte où Théorie l'emporte sur Pratique.<lb facs="P16_TL00035"/>Dans le n° de Septembre Mr J. M. Lopez-Pico a tenu à ne pas me compter au nombre,<lb facs="P16_TL00036"/>des poètes nouveaux î serais-je déjà si classique?</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P16_TB00011">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P16_TB00011">
                                        <lb facs="P16_TL00037"/>Vell i nou. Barcelone. Ces temps-ci il me semble que Vell i Nou tendrait à devenir<lb facs="P16_TL00038"/>plus nou que vell, mais nous y perdons, car au mauvais nouveau je préféré le bon ancien</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P16_TB00012">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P16_TB00012">
                                        <lb facs="P16_TL00039"/>La rose rouge. Paris. C'est un bazar où l'on trouve à peu près tous les articles<lb facs="P16_TL00040"/>depuis les articles Un tel quart pompier-pompier de quart jusqu'aux articles Salmon et<lb facs="P16_TL00041"/>Cendras, même dans un rayon on a été jusqu'à mentionné l'article collaborateur de " Sic<lb facs="P16_TL00042"/>il est vrai que c'était pour rire, il y a aussi les titres de six purs chefs-d'œuvre offerts en<lb facs="P16_TL00043"/>prime par Mr de Max. Il y a aussi les lamentation de Mr André Warnod sur la mort<lb facs="P16_TL00044"/>d'Apollinaire, que ne s'est-il aperçu qu'Apollinaire pendant qu'il vivait a écrit " Les ma<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P16_TL00045"/>melles de Tirésias " pièce animée d'un esprit réellement nouveau et représentée par la re<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P16_TL00046"/>vue Sic sans le secours d'aucune société, d'aucun directeur de théâtre, d'aucun éditeur.</ab>
@@ -926,20 +1053,26 @@
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P16_TB00013">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P16_TB00013">
                                        <lb facs="P16_TL00047"/>Ariste. Nantes. Je reçois ces cahiers très irrégulièrement, j'ai ici le n° 3 et le n° 6.<lb facs="P16_TL00048"/>Le n° 3 contient " Comment est né Satyre " de Ker Frank-Houx. C'est une petite chose</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P17_TB00002">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P17_TB00002">
                                        <lb facs="P17_TL00002"/>charmante que l'auteur a pris grand plaisir à écrire certains soirs en pensant aux caractè<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P17_TL00003"/>res typographiques qu'il emploierait, aux compositions en deux tons, aux lettrines ornées<lb facs="P17_TL00004"/>rubriquées et enluminées au pinceau auxquelles il l'unirait. Je parie que Mr Ker-Frank-<lb facs="P17_TL00005"/>Houx n'a pas l'électricité dans sa maison, je ne veux pourtant pas dire que son conte ait<lb facs="P17_TL00006"/>goût d'huile.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P17_TB00003">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P17_TB00003">
                                        <lb facs="P17_TL00007"/>Les cahiers idéalistes. Paris n° 31-3*2. Ce numéro contient la fin de la conférence<lb facs="P17_TL00008"/>de Mr Dujardin : il y est parlé, bien parlé de la Bible, le livre que j'aime, et tant qu'à moi<lb facs="P17_TL00009"/>j'approuve nettement tout ce qui est dit ici, je crois d'ailleurs que " La joie des sept cou<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P17_TL00010"/>leurs " dit un peu déjà ce que je pense à ce sujet, combien ont su le voir ? Qu'importe la<lb facs="P17_TL00011"/>question n'est pas là. Pour le reste je ne crois pas beaucoup aux bons conseils, qu'on en<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P17_TL00012"/>voie les jeunes poètes à la Bible, aux grecs, aux chinois cela ne fera pas un poète de plus,<lb facs="P17_TL00013"/>qu'on les envoie donc au diable et gloire à celui qui en reviendra</ab>
@@ -947,14 +1080,18 @@
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P17_TB00004">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P17_TB00004">
                                        <lb facs="P17_TL00014"/>Le nouveau spectateur. Paris. Le n° 5 est le dernier reçu. M. Roger Allard, a jus<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P17_TL00015"/>qu'au 10 juillet, saisi, noté, défini, commenté. Vive Boileau. Amen.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P17_TB00005">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P17_TB00005">
                                        <lb facs="P17_TL00016"/>Le carnet critique. Paris. n° 13. La première partie d'une étude intéressante de<lb facs="P17_TL00017"/>Mr Paul Blanchart sur le théâtre de Mr Saint-Georges de Bouhélier : et puis tournant les<lb facs="P17_TL00018"/>pages on rencontre Mr G A. Masson qui à propos du dernier livre de Mr Louis Chadour<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P17_TL00019"/>ne saisit, définit, commente et pardonne et aussi Mr Waldemar Georges qui jette à la fa<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P17_TL00020"/>ce de notre temps une honte nouvelle: n'avoir pas pris au sérieux le doux Raymond, l'hom<pc type="endhypen" pre="false">-</pc>
@@ -963,14 +1100,18 @@
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P17_TB00006">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P17_TB00006">
                                        <lb facs="P17_TL00022"/>Le Scarabée. Paris. Dans le n° 19 Mr Jean Noury nous affirme en une dizaine de<lb facs="P17_TL00023"/>pages que M. Louis de Royaumont était un excellent homme. Eh oui c'est très probable ...<lb facs="P17_TL00024"/>mais que Balzac serait-il devenu sans Mr de Rayaumont. Dans le n° 20 Mr Etienne Marie<lb facs="P17_TL00025"/>dit je crois qu'il n'aime pas beaucoup les conférences engueulo-contradictoires qui lui<lb facs="P17_TL00026"/>semblent un peu vaines, c'est assez ce que je pensais un jour que sans le faire exprès<lb facs="P17_TL00027"/>j'étais entré à l'lmpérial. Plus loin on a l'occasion de constater que M. Gustave-Louis Tau<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P17_TL00028"/>tain est plus sage que dame Fortune ; il n'aime pas les audacieux. Tout de même M. G. L.<lb facs="P17_TL00029"/>Tautain soyez prudent jusqu'à ne pas être méchant, on vous croira plus fort.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P17_TB00007">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P17_TB00007">
                                        <lb facs="P17_TL00030"/>Les Humbles. Paris. Dans le n° de Mai Mr Marcel Sauvage retrousse ses manches et<lb facs="P17_TL00031"/>se prépare à embrocher les " pantins et les imbéciles tout d'abord on tendrait àle remer<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P17_TL00032"/>cier de ce geste chevaleresque, mais à la réflexion on se dit qu'il va se donner chaud bien<lb facs="P17_TL00033"/>inutilement, ces pauvres gens sont si peu gênants. Dans le n° suivant (Juin) il y a une col<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P17_TL00034"/>lection de petites histoires qui ne m'intéressent pas, vous non plus n'est-ce pas ? Dans le<lb facs="P17_TL00035"/>n 0 de Juillet une très généreuse " Harangue aux vieillards de ce temps " de Mr Christian.<lb facs="P17_TL00036"/>Dans ce même numéro Madame ou Mademoiselle Renée Dunan se complait à définir aussi<lb facs="P17_TL00037"/>précisément que possible les divers sens du mot " pédéraste</ab>
@@ -978,13 +1119,17 @@
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P17_TB00008">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P17_TB00008">
                                        <lb facs="P17_TL00038"/>Le Faubourg. Paris. J'en suis au n° 8, deuxième année. Je le préférais quand il était<lb facs="P17_TL00039"/>plus jeune, ah joli mois de Mai quand reviendras-tu?</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P17_TB00009">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P17_TB00009">
                                        <lb facs="P17_TL00040"/>Les Pionniers de Normandie. Aunaij. Odon. Calvados. Le dernier n° reçu est de Jan<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P17_TL00041"/>vier-Février 1919. Mr Edouard Dujardin de Mr Paul Morisse, étude très consciencieuse na<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P17_TL00042"/>turellement. 11 y a aussi un " Pionniers ! 0 Pionniers " de Walt Whitman, c'est un petit<lb facs="P17_TL00043"/>lingot de cuivre gros comme une noisette dont on a fait un kilomètre de fil.</ab>
@@ -992,20 +1137,26 @@
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P17_TB00010">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P17_TB00010">
                                        <lb facs="P17_TL00044"/>Pagina d'Arte. Milan cl Rome. Il n'est question ici que de choses trouvées, j'y re<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P17_TL00045"/>garde les reproductions d'art ancien.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P17_TB00011">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P17_TB00011">
                                        <lb facs="P17_TL00046"/>Infinito. Dumfries. En ce qui concerne les lettres françaises on ne me paraît pas très<lb facs="P17_TL00047"/>exactement renseigné là-bas, mais après tout c'est bien excusable, il y a tant de gens ici<lb facs="P17_TL00048"/>même qui jouent à coilin-maillard.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P17_TB00012">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P17_TB00012">
                                        <lb facs="P17_TL00049"/>Les Tablettes. Saint-Raphaël. \ar. Je connais un vieux bonhomme qui a édité pen<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P17_TL00050"/>dant vingt ans une revue mensuelle de 32 page in 4° sur 2 colonnes imprimées en corps 8<lb facs="P17_TL00051"/>contenant uniquement des vers, la collection complète est imposante comme le grand La<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P17_TL00052"/>rousse. Le bonhomme en est très fier et il a la conviction de n'avoir jamais lait de mal à<lb facs="P17_TL00053"/>personne, je crois au fond qu'il a raison.</ab>
@@ -1013,98 +1164,128 @@
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P18_TB00002">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P18_TB00002">
                                        <lb facs="P18_TL00002"/>La Tramontane. Perpignan. —A la réflexion c'est un peu déconcertant. Perpignan est<lb facs="P18_TL00003"/>un peu loin de Paris évidemment, mais tout de même on doit bien en entendre parler<lb facs="P18_TL00004"/>quelquefois. Jeunes gens et jeunes filles amusez-vous bien.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P18_TB00003">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P18_TB00003">
                                        <lb facs="P18_TL00005"/>Les Mouettes. Rhône. —n° 1. Cette revue n'ayant que 16 pages il lui faudra quarante<lb facs="P18_TL00006"/>ans pour former une collection dans le genre de celle du bonhomme cité glus haut, seule<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P18_TL00007"/>ment elle sera tout de même d'un format un peu moins grand et elle contiendra moins de<lb facs="P18_TL00008"/>vers, puisqu'elle n'est imprimée que sur une colonne.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P18_TB00004">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P18_TB00004">
                                        <lb facs="P18_TL00009"/>Les Facettes. Toulon. Idem. Mais il faudra au moins soixante ans et la collection<lb facs="P18_TL00010"/>sera d'un format beaucoup moins imposant.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P18_TB00005">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P18_TB00005">
                                        <lb facs="P18_TL00011"/>Le Divan. Deux-Sèvres. n° 58. Quand on lit cette revue après les cinq ou six qui pré<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P18_TL00012"/>cèdent on la trouve possible, elle fait comme les sages cochers qui ont peur des accidents<lb facs="P18_TL00013"/>et des contraventions : elle tient toujours sa droite et va au pas.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P18_TB00006">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P18_TB00006">
                                        <lb facs="P18_TL00014"/>Les Feuilles libres. Paris. —n° 8 "Le mensonge de la beauté" Mr Poinsot fait une<lb facs="P18_TL00015"/>découverte sensationnelle.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P18_TB00007">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P18_TB00007">
                                        <lb facs="P18_TL00016"/>La Lucarne. Liège. Pour l'encouragement des jeunes poètes et le découragement<lb facs="P18_TL00017"/>des autres.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P18_TB00008">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P18_TB00008">
                                        <lb facs="P18_TL00018"/>Arts et lettres. Paris-Carcassonne. Ta ta ta ta ta ta, ta ta ta ta ta ta.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P18_TB00009">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P18_TB00009">
                                        <lb facs="P18_TL00019"/>L'Expansion. Toulouse. Entre amis. Union consacrée. Les jeunes gens embrasse<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P18_TL00020"/>ront les jeunes filles. Mlle Doette Fourgassié déviait laisser là le trésor de la trésorerie et<lb facs="P18_TL00021"/>de l'honorariat et partir faire le tour du diable, peut-être qu'un beau malin, elle ferait un<lb facs="P18_TL00022"/>poème. Partez Mademoiselle, un poète n'ouvre les yeux qu'après avoir été baptisé par le<lb facs="P18_TL00023"/>diable et le diable n'est ni à Toulouse ni à Perpignan.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P18_TB00010">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P18_TB00010">
                                        <lb facs="P18_TL00024"/>L'Encrier. Paris. Je crois que Mr R. Dévigne est très bien intentionné, l'art a besoin<lb facs="P18_TL00025"/>de lui le voici; son devoir est d'écrire, il écrit. Art, Beauté, Amour, délice et orgue.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P18_TB00011">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P18_TB00011">
                                        <lb facs="P18_TL00026"/>Artistique revue. Nice. Je n'ai plus reçu cette revue depuis le mois de Mai. Gui<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P18_TL00027"/>gnol mon brave n'oublie pas ceux qui t'aiment.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P18_TB00012">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P18_TB00012">
                                        <lb facs="P18_TL00028"/>Le trait d'union. Paris. Revue qui a une très belle couverture. Je n'ai reçu que le<lb facs="P18_TL00029"/>n° 1, daté d'Avril, est-ce une revue annuelle ?</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P18_TB00013">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P18_TB00013">
                                        <lb facs="P18_TL00030"/>Los estados unidos. Barcelone. New-York. Chicago. Revue qui ne nous intéresse<lb facs="P18_TL00031"/>pas directement, mais elle est bien faite, on s'y occupe de tout une partie de l'activité hu<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P18_TL00032"/>maine et nihil humanum.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P18_TB00014">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P18_TB00014">
                                        <lb facs="P18_TL00033"/>Petit messager. Paris. Mr H. Marcel Magne nous apprend des choses très intéres<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P18_TL00034"/>santes au sujet des construction industrielles de guerre, nos ingénieurs et nos architectes<lb facs="P18_TL00035"/>ont fait de grandes choses sans en avoir l'air, n'en est-il pas toujours ainsi, mais il est<lb facs="P18_TL00036"/>bon que quelqu'un le dise.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P18_TB00015">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P18_TB00015">
                                        <lb facs="P18_TL00037"/>La nouvelle égalité. Paris. La rubrique " Vie artistique " ne contient guère que<lb facs="P18_TL00038"/>des informations après la lettre ce qui n'est peut-être pas tout à fait le propre de l'infor<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P18_TL00039"/>mation.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P18_TB00016">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P18_TB00016">
                                        <lb facs="P18_TL00040"/>Lutétia. Paris.—Changement de figure mais non d'esprit. Un de ces numéros est pour<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P18_TL00041"/>tant intéressant puisqu'il contient de Louis de Gonzague Frick, un éloge ( malgré les co<pc type="endhypen" pre="false">-</pc>
                                        <lb facs="P18_TL00042"/>quilles) quotidiens.</ab>
@@ -1112,7 +1293,9 @@
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P18_TB00017">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P18_TB00017">
                                        <lb facs="P18_TL00043"/>La Publicidad. Barcelone. — Un quotidien de 12 pages qui est vendu 5 centimes, c'est<lb facs="P18_TL00044"/>presqu'aussi bien qu'en France, et un quotidien qui consacre une pege presqu'entière-la<lb facs="P18_TL00045"/>matière d'une brochure — aux œuvres du directeur de Sic,</ab>
                                  </div>
                               </div>
@@ -1126,17 +1309,25 @@
                </div>
                <div type="SponsoredAdvertisement">
                   <div type="SponsoredAd" corresp="c020">
-                     <ab facs="P2_TB00002"/>
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P2_TB00002"/>
                   </div>
                   <div type="SponsoredAd" corresp="c021">
-                     <ab facs="P4_TB00006"/>
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P4_TB00006"/>
                   </div>
                   <div type="SponsoredAd" corresp="c022">
-                     <ab facs="P5_TB00006">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P5_TB00006">
                         <lb facs="P5_TL00027"/>A PARAITRE<lb facs="P5_TL00028"/>SELF DEFENSE<lb facs="P5_TL00029"/>PARAGRAPHES ESTHÉTIQUES, CRITIQUES ET QUELQUES LUEURS SUR LA<lb facs="P5_TL00030"/>FORMATION D'UN ESTHÉTIQUE<lb facs="P5_TL00031"/>PAR<lb facs="P5_TL00032"/>PIERRE REVERDY</ab>
                   </div>
                   <div type="SponsoredAd" corresp="c023">
-                     <ab facs="P19_TB00002">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P19_TB00002">
                         <lb facs="P19_TL00007"/>Galerie Paul Guillaume<lb facs="P19_TL00008"/>108, Faubourg Saint-Honoré, PARIS. Téléphone: Elysée 46.24.<lb facs="P19_TL00009"/>ACHAT et VENTE<lb facs="P19_TL00010"/>D'ŒUVRES<lb facs="P19_TL00011"/>«JA 1 n ÎAimn DAiniiifa ■ Matisse, Derain, Picasso, Vlaminck,<lb facs="P19_TL00012"/>oe 13. J6Une reiniure . Chirico, Braque;<lb facs="P19_TL00013"/>1100 MîlîfyoC f* All "Fa mil A I*sll MO " Cézanne, Manet, Renoir,<lb facs="P19_TL00014"/>Uuo lfld.l II CO OUlllUllipUi allia . Courbet, Toulouse-Lautrec,<lb facs="P19_TL00015"/>Pissaro, Sisley, Berthe Morisot, Claude Monet, Degas, Marquet, etc.<lb facs="P19_TL00016"/>et de SCULPTURES NÈGRES de tout premier ordre.<lb facs="P19_TL00017"/>M. Paul Guillaume se charge de l'exécution de tous ordres d'Achat<lb facs="P19_TL00018"/>aux Ventes publiques ou à l'amiable, aussi bien que de la Vente des Col-<lb facs="P19_TL00019"/>lections particulières.<lb facs="P19_TL00020"/>La revue " Les Arts à Paris " renseigne sur les actualités du mouvement<lb facs="P19_TL00021"/>des Arts et de la Curiosité.</ab>
                   </div>
                </div>

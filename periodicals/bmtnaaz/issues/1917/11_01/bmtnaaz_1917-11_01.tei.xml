@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:mods="http://www.loc.gov/mods/v3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -40,6 +38,7 @@
                      <date when="1917-11"/>
                   </imprint>
                </monogr>
+               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
                <relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
@@ -59,7 +58,7 @@
                   <biblStruct>
                      <analytic>
                         <title level="a">
-                           <seg type="main">DANS CE NUMERO :</seg>
+                           <seg type="main">DANS CE NUMERO</seg>
                         </title>
                         <textLang mainLang="fre"/>
                      </analytic>
@@ -76,7 +75,12 @@
                      <analytic>
                         <title level="a">
                            <seg type="main">AUX COMEDIENS</seg>
+                           <seg type="sub">Poème didactique</seg>
                         </title>
+                        <respStmt>
+                           <persName>P. A. B.</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -92,7 +96,7 @@
                                  <seg type="main">Poème didactique</seg>
                               </title>
                               <respStmt>
-                                 <persName>P.A. B</persName>
+                                 <persName>P. A. B.</persName>
                                  <resp>cre</resp>
                               </respStmt>
                               <textLang mainLang="fre"/>
@@ -127,6 +131,10 @@
                               <title level="a">
                                  <seg type="main">ROUTE</seg>
                               </title>
+                              <respStmt>
+                                 <persName>PHILIPPE SOUPAULT</persName>
+                                 <resp>cre</resp>
+                              </respStmt>
                               <textLang mainLang="fre"/>
                            </analytic>
                            <monogr>
@@ -163,7 +171,7 @@
                   <biblStruct>
                      <analytic>
                         <title level="a">
-                           <seg type="main">E T c...</seg>
+                           <seg type="main">ETC...</seg>
                         </title>
                         <textLang mainLang="fre"/>
                      </analytic>
@@ -177,7 +185,7 @@
                         <biblStruct>
                            <analytic>
                               <title level="a">
-                                 <seg type="main">LES LIVRES. — Le Voleur de Talan. Roman, Pierre Reverdy,</seg>
+                                 <seg type="main">LES LIVRES</seg>
                               </title>
                               <textLang mainLang="fre"/>
                            </analytic>
@@ -197,6 +205,10 @@
                         <title level="a">
                            <seg type="main">POEME A CRIER ET A DANSER</seg>
                         </title>
+                        <respStmt>
+                           <persName>PIERRE ALBERT-BIROT</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -233,9 +245,10 @@
                         <title level="a">
                            <seg type="main">Bois gravé</seg>
                         </title>
-                        <title level="a">
-                           <seg type="main">Chana Orloff.</seg>
-                        </title>
+                        <respStmt>
+                           <persName>Chana Orloff</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                      </analytic>
                      <monogr>
                         <imprint>
@@ -259,58 +272,66 @@
                            <biblScope unit="page">6</biblScope>
                         </imprint>
                      </monogr>
-                  </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c014">
-                  <biblStruct>
-                     <analytic>
-                        <title level="a">
-                           <seg type="nonSort">UN</seg>
-                           <seg type="main">COIN D'HOPITAL</seg>
-                        </title>
-                        <respStmt>
-                           <persName>KITAHARA</persName>
-                           <resp>cre</resp>
-                        </respStmt>
-                        <textLang mainLang="fre"/>
-                     </analytic>
-                     <monogr>
-                        <imprint>
-                           <classCode scheme="CCS">TextContent</classCode>
-                           <biblScope unit="page">6</biblScope>
-                        </imprint>
-                     </monogr>
-                  </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c015">
-                  <biblStruct>
-                     <analytic>
-                        <title level="a">
-                           <seg type="nonSort">LE</seg>
-                           <seg type="main">SOMMEIL-CAUCHEMAR</seg>
-                        </title>
-                        <respStmt>
-                           <persName>MIKI ROFOÛ</persName>
-                           <resp>cre</resp>
-                        </respStmt>
-                        <textLang mainLang="fre"/>
-                     </analytic>
-                     <monogr>
-                        <imprint>
-                           <classCode scheme="CCS">TextContent</classCode>
-                           <biblScope unit="page">6</biblScope>
-                        </imprint>
-                     </monogr>
+                     <relatedItem type="constituent" xml:id="c014">
+                        <biblStruct>
+                           <analytic>
+                              <title level="a">
+                                 <seg type="nonSort">UN</seg>
+                                 <seg type="main">COIN D'HOPITAL</seg>
+                              </title>
+                              <respStmt>
+                                 <persName>KITAHARA</persName>
+                                 <resp>cre</resp>
+                              </respStmt>
+                              <respStmt>
+                                 <persName>Saye Mondo</persName>
+                                 <resp>trl</resp>
+                              </respStmt>
+                              <textLang mainLang="fre"/>
+                           </analytic>
+                           <monogr>
+                              <imprint>
+                                 <classCode scheme="CCS">TextContent</classCode>
+                                 <biblScope unit="page">6</biblScope>
+                              </imprint>
+                           </monogr>
+                        </biblStruct>
+                     </relatedItem>
+                     <relatedItem type="constituent" xml:id="c015">
+                        <biblStruct>
+                           <analytic>
+                              <title level="a">
+                                 <seg type="nonSort">LE</seg>
+                                 <seg type="main">SOMMEIL-CAUCHEMAR</seg>
+                              </title>
+                              <respStmt>
+                                 <persName>MIKI ROFOÛ</persName>
+                                 <resp>cre</resp>
+                              </respStmt>
+                              <respStmt>
+                                 <persName>Saye Mondo</persName>
+                                 <resp>trl</resp>
+                              </respStmt>
+                              <textLang mainLang="fre"/>
+                           </analytic>
+                           <monogr>
+                              <imprint>
+                                 <classCode scheme="CCS">TextContent</classCode>
+                                 <biblScope unit="page">6</biblScope>
+                              </imprint>
+                           </monogr>
+                        </biblStruct>
+                     </relatedItem>
                   </biblStruct>
                </relatedItem>
                <relatedItem type="constituent" xml:id="c016">
                   <biblStruct>
                      <analytic>
                         <title level="a">
-                           <seg type="main">La fatigue vient au bout de quelque temps</seg>
+                           <seg type="main">"La fatigue vient au bout de quelque temps"</seg>
                         </title>
                         <respStmt>
-                           <persName>P A. B</persName>
+                           <persName>P A. B.</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -318,7 +339,7 @@
                      <monogr>
                         <imprint>
                            <classCode scheme="CCS">TextContent</classCode>
-                           <biblScope unit="page" from="7" to="8">7-8</biblScope>
+                           <biblScope unit="page">7</biblScope>
                         </imprint>
                      </monogr>
                   </biblStruct>
@@ -333,43 +354,63 @@
             <div type="Issue">
                <div type="PublicationInfo">
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00002">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00002">
                         <lb facs="P1_TL00005"/>Pierre ÀLBERT-BiROT, Directeur</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00001">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00001">
                         <lb facs="P1_TL00001"/>SONS<lb facs="P1_TL00002"/>IDÉES<lb facs="P1_TL00003"/>OODDETJJÊtS<lb facs="P1_TL00004"/>FORMES</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00006">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00006">
                         <lb facs="P1_TL00020"/>Px 030<lb facs="P1_TL00021"/>f<lb facs="P1_TL00022"/>Parait nne fois par mois</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00007">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00007">
                         <lb facs="P1_TL00023"/>Adresser tout ce qui concerne<lb facs="P1_TL00024"/>la Revue<lb facs="P1_TL00025"/>37, Hue de la Tombe-Issoire. — Paris.<lb facs="P1_TL00026"/>ou s'y adresser tous les jours de onze heures à midi.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P1_TB00008">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P1_TB00008">
                         <lb facs="P1_TL00027"/>N° 23<lb facs="P1_TL00028"/>iMovetnbpe<lb facs="P1_TL00029"/>1917<lb facs="P1_TL00030"/>Deaxiftm* Année</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P3_TB00008">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P3_TB00008">
                         <lb facs="P3_TL00014"/>Éditions S/G- LES MAMELLES DE TIRÉSïAS. AUX souscripteurs : Ce livre<lb facs="P3_TL00015"/>paraîtra fi ri novembre.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P8_TB00004">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00004">
                         <lb facs="P8_TL00040"/>Paraîtra prochainement : « La République Juive » hebdomadaire, organe de la démocratie<lb facs="P8_TL00041"/>Nationale Juive. Directeur et Rédacteur en Chef : Enric F. BRAUNSTEIN.<lb facs="P8_TL00042"/>Pour toute information s'adresser : Enric F. BRAUNSTEIN, 5, Square Arago, Paris.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P8_TB00005">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00005">
                         <lb facs="P8_TL00043"/>ABONNEMENTS<lb facs="P8_TL00044"/>Ala 2* série (4917) Ala l*e série (1916) Aux deux séries (1916 et 1917)<lb facs="P8_TL00045"/>Paris 3 fr. 50 Paris et Province.... 10 fr. Paris 12 fr.<lb facs="P8_TL00046"/>Province 4 fr. Etranger 12 fr. Province 12 fr. 50<lb facs="P8_TL00047"/>Etranger 5 fr. Etranger 15 fr.<lb facs="P8_TL00048"/>Édition de Luxe (série 1917), tirage sur vieux Japon àla forme à 6 exemplaires, numérotés. 75 fr.<lb facs="P8_TL00049"/>1 Vente au numéro de la lre série 1916 :<lb facs="P8_TL00050"/>N° 1: 2 fr. 75. —N° 2 : 1 franc. —N°3 : 2 francs. — Nos 4, 5, 6, 11 et 12 : 0 fr. 50.<lb facs="P8_TL00051"/>—N° 7 : 2 fr. 25. — Nos 8, 9, 10 (réunis) : 2 fr. 75.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P8_TB00006">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00006">
                         <lb facs="P8_TL00052"/>Imprimerie LEVÉ, 71, rue de Rennes, Paris.</ab>
                   </div>
                   <div type="GenericPubInfo">
-                     <ab facs="P8_TB00007">
+                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                         xmlns:mods="http://www.loc.gov/mods/v3"
+                         facs="P8_TB00007">
                         <lb facs="P8_TL00053"/>Le gérant : Pierre ALBERT-BIROT.</ab>
                   </div>
                </div>
@@ -379,20 +420,26 @@
                   </div>
                   <div type="TextContent" corresp="c002">
                      <div type="Head">
-                        <ab facs="P1_TB00003">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P1_TB00003">
                            <lb facs="P1_TL00006"/>DANS CE NUMERO :</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P1_TB00004">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00004">
                                     <lb facs="P1_TL00007"/>Aux comédiens. Poème didactique <lb facs="P1_TL00008"/>Deux poèmes « <lb facs="P1_TL00009"/>ETG... lrc partie <lb facs="P1_TL00010"/>Poème à, crier et à, danser <lb facs="P1_TL00011"/>Bois gravé <lb facs="P1_TL00012"/>Au Japon <lb facs="P1_TL00013"/>ETC... suite </ab>
                               </div>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P1_TB00005">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P1_TB00005">
                                     <lb facs="P1_TL00014"/>P. A. B.<lb facs="P1_TL00015"/>PHILIPPE SOUPAULT<lb facs="P1_TL00016"/>***<lb facs="P1_TL00017"/>PIERRE ALBERT-BIROT.<lb facs="P1_TL00018"/>CHARRA ORLOFP.<lb facs="P1_TL00019"/>SAYE MONDO.</ab>
                               </div>
                            </div>
@@ -401,29 +448,39 @@
                   </div>
                   <div type="TextContent" corresp="c003">
                      <div type="Head">
-                        <ab facs="P2_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P2_TB00001">
                            <lb facs="P2_TL00001"/>AUX COMEDIENS</ab>
                      </div>
                      <div type="TextContent" corresp="c004">
                         <div type="Head">
-                           <ab facs="P2_TB00002">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P2_TB00002">
                               <lb facs="P2_TL00002"/>Poème didactique</ab>
                         </div>
                         <div type="Byline">
-                           <ab facs="P2_TB00005">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P2_TB00005">
                               <lb facs="P2_TL00065"/>P.A.B.</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P2_TB00003">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P2_TB00003">
                                        <lb facs="P2_TL00003"/>Un poème<lb facs="P2_TL00004"/>N'est plus poème<lb facs="P2_TL00005"/>Si vous le parlez<lb facs="P2_TL00006"/>Et votre naturel dénature<lb facs="P2_TL00007"/>L'art<lb facs="P2_TL00008"/>Qui n'est pas la nature<lb facs="P2_TL00009"/>Nous vous donnons de la substance<lb facs="P2_TL00010"/>N'en faites pas de la matière<lb facs="P2_TL00011"/>Et ne soyez pas nos interprètes<lb facs="P2_TL00012"/>Les poètes<lb facs="P2_TL00013"/>Ne veulent pas être traduits<lb facs="P2_TL00014"/>Trahis<lb facs="P2_TL00015"/>Et ne peuvent<lb facs="P2_TL00016"/>Donnez-les comme ils sont<lb facs="P2_TL00017"/>C'est ici tout votre art<lb facs="P2_TL00018"/>Et c'est là croyez-moi<lb facs="P2_TL00019"/>De quoi suffire à votre gloire<lb facs="P2_TL00020"/>Ce rythme auquel le poète obéi<lb facs="P2_TL00021"/>N'allez pas croire<lb facs="P2_TL00022"/>Que pour montrer votre tempérament<lb facs="P2_TL00023"/>Il soit bon de l'escamoter carrément<lb facs="P2_TL00024"/>Et ce vers<lb facs="P2_TL00025"/>Que je coupe<lb facs="P2_TL00026"/>Ici<lb facs="P2_TL00027"/>N'allez pas de peur de paraître un enfant<lb facs="P2_TL00028"/>A l'école<lb facs="P2_TL00029"/>Le relier au suivant<lb facs="P2_TL00030"/>Car lorsque je m'exprime<lb facs="P2_TL00031"/>En trois vers<lb facs="P2_TL00032"/>Ce n'est pas me servir<lb facs="P2_TL00033"/>Que de les fondre en un<lb facs="P2_TL00034"/>C'est l'enfant qui fait bien</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P2_TB00004">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P2_TB00004">
                                        <lb facs="P2_TL00035"/>Votre « science » a tort<lb facs="P2_TL00036"/>N'ajoutez rien<lb facs="P2_TL00037"/>Pas un soupir et pas un temps<lb facs="P2_TL00038"/>Mais transmettez lettre à lettre<lb facs="P2_TL00039"/>Tout ce que le poète a su mettre<lb facs="P2_TL00040"/>Et ne vous pressez pas<lb facs="P2_TL00041"/>Un bon prêtre ne dit pas la messe en courant<lb facs="P2_TL00042"/>Un poème est une prière<lb facs="P2_TL00043"/>Et quand on se met à prier<lb facs="P2_TL00044"/>On doit se plaire<lb facs="P2_TL00045"/>En sa prière<lb facs="P2_TL00046"/>Et ne point désirer<lb facs="P2_TL00047"/>En venir à la fin<lb facs="P2_TL00048"/>Ne soyez pas une vieille dévote<lb facs="P2_TL00049"/>Soyez un saint<lb facs="P2_TL00050"/>Mais quand je vous parle<lb facs="P2_TL00051"/>De messe et de prière<lb facs="P2_TL00052"/>Ne pensez pas à nos religions<lb facs="P2_TL00053"/>De tristesse et de mort<lb facs="P2_TL00054"/>Qui parlent bas dans une crypte sombre<lb facs="P2_TL00055"/>Mais à quelqu'un<lb facs="P2_TL00056"/>De ces cultes païens<lb facs="P2_TL00057"/>Qui aiment le Soleil<lb facs="P2_TL00058"/>Surtout n'oubliez pas que poème est<lb facs="P2_TL00059"/>Vérité<lb facs="P2_TL00060"/>Mes chers amis ne mentez pas<lb facs="P2_TL00061"/>En jouant vrai<lb facs="P2_TL00062"/>Et puis<lb facs="P2_TL00063"/>Perfection<lb facs="P2_TL00064"/>N'est pas dans le milieu</ab>
                                  </div>
                               </div>
@@ -433,7 +490,9 @@
                   </div>
                   <div type="TextContent" corresp="c005">
                      <div type="Head">
-                        <ab facs="P3_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00001">
                            <lb facs="P3_TL00001"/>DEUX POÈMES</ab>
                      </div>
                      <div type="TextContent" corresp="c006">
@@ -441,13 +500,17 @@
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P3_TB00002">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P3_TB00002">
                                        <lb facs="P3_TL00002"/>ROUTE</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P3_TB00003">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P3_TB00003">
                                        <lb facs="P3_TL00003"/>J'aperçus le souvenir de ta voix se percher<lb facs="P3_TL00004"/>Mon corps berçait mes pensées<lb facs="P3_TL00005"/>les fils télégraphiques s'enfuyaient<lb facs="P3_TL00006"/>Le heurt d'un caillou sonna midi</ab>
                                  </div>
                               </div>
@@ -456,24 +519,32 @@
                      </div>
                      <div type="TextContent" corresp="c007">
                         <div type="Head">
-                           <ab facs="P3_TB00004">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P3_TB00004">
                               <lb facs="P3_TL00007"/>MIROIR</ab>
                         </div>
                         <div type="Byline">
-                           <ab facs="P3_TB00007">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P3_TB00007">
                               <lb facs="P3_TL00013"/>PHILIPPE SOUPAULT</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P3_TB00005">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P3_TB00005">
                                        <lb facs="P3_TL00008"/>Il y a des hommes sur le toit qui essaient de toucher le ciel<lb facs="P3_TL00009"/>Les pigeons applaudissent<lb facs="P3_TL00010"/>Narquois les nuages s'en vont<lb facs="P3_TL00011"/>La cave est pleine de monde</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P3_TB00006">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P3_TB00006">
                                        <lb facs="P3_TL00012"/>J'ai regardé jouer les enfants</ab>
                                  </div>
                               </div>
@@ -483,7 +554,9 @@
                   </div>
                   <div type="TextContent" corresp="c008">
                      <div type="Head">
-                        <ab facs="P3_TB00009">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P3_TB00009">
                            <lb facs="P3_TL00016"/>E T c...</ab>
                      </div>
                      <div type="TextContent" corresp="c009">
@@ -491,7 +564,9 @@
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P3_TB00010">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P3_TB00010">
                                        <lb facs="P3_TL00017"/>LES LIVRES. — Le Voleur de Talan. Roman, Pierre Reverdy,<lb facs="P3_TL00018"/>« Qui ceste estoire en romanz mist,... »En langage roman.<lb facs="P3_TL00019"/>Les œuvres de nos premiers poètes écrites en « patois de France » furent des romans. « Ceux<lb facs="P3_TL00020"/>qui s'amusaient d'escrire les faits héroïques de nos chevaliers, premièrement en vers, puis en prose,<lb facs="P3_TL00021"/>appelleront leurs œuvres romans,.. »<lb facs="P3_TL00022"/>Môme au xvn* siècle, quoique le roman ait déjà depuis longtemps changé de peau (comme la<lb facs="P3_TL00023"/>boulangère; Boileau dit encore : «Je montrerai qu'il y a des genres le poésies, où non seulement les<lb facs="P3_TL00024"/>Latins ne nous ont pas surpassés, mais qu'ils n'ont pas même connus comme par exemple, ces poèmes<lb facs="P3_TL00025"/>en prose que nous appelons romans. »<lb facs="P3_TL00026"/>P ; Les poésies du moyen âge ayant surtout un caractère narratif, cette caractéristique est<lb facs="P3_TL00027"/>devenue rapidement la dominante et le roman a bifurqué.<lb facs="P3_TL00028"/>r ; Pourtant Villemain voulait encore voir dans le roman le poème épique des nations modernes.<lb facs="P3_TL00029"/>Or nous savons ce qu il est devenu. Mais qu'importe, le roman était un poème, Pierre Reverdy a<lb facs="P3_TL00030"/>gratté jusqu'à ce qu'il ait retrouvé l'or qui était si bien recouvert d'épaisses couches de matières<lb facs="P3_TL00031"/>hétéroclites que l'on se trouvait tenté volontiers de mettre au rebut cette vieille ferraille.<lb facs="P3_TL00032"/>Mais comme nous sommes des créateurs et non des alexandrins, Pierre Reverdy n'a point fait<lb facs="P3_TL00033"/>un roman du xne siècle mais du xxe et animé du plus ardent désir de pureté, il l'a conçu comme<lb facs="P3_TL00034"/>nous concevons nos poèmes, à base d'ultra réalisme.<lb facs="P3_TL00035"/>Des « détails », en voici :<lb facs="P3_TL00036"/>Les années passent vite dans la<lb facs="P3_TL00037"/>tête obscure d'un enfant<lb facs="P3_TL00038"/>Au fond de soi il y a toujours un pauvre<lb facs="P3_TL00039"/>enfant qui pleure</ab>
                                  </div>
                               </div>
@@ -501,29 +576,39 @@
                   </div>
                   <div type="TextContent" corresp="c010">
                      <div type="Head">
-                        <ab facs="P4_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P4_TB00001">
                            <lb facs="P4_TL00001"/>POEME A CRIER ET A DANSER</ab>
                      </div>
                      <div type="TextContent" corresp="c011">
                         <div type="Head">
-                           <ab facs="P4_TB00002">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P4_TB00002">
                               <lb facs="P4_TL00002"/>L'AVION</ab>
                         </div>
                         <div type="Byline">
-                           <ab facs="P4_TB00004">
+                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                               xmlns:mods="http://www.loc.gov/mods/v3"
+                               facs="P4_TB00004">
                               <lb facs="P4_TL00021"/>PIERRE ALBERT-BIROT</ab>
                         </div>
                         <div type="Copy">
                            <div type="BodyContent">
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P4_TB00003">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P4_TB00003">
                                        <lb facs="P4_TL00003"/>vrron (1) on— on— on on on<lb facs="P4_TL00004"/>vrrr vrrr vrrr<lb facs="P4_TL00005"/>hihihi<lb facs="P4_TL00006"/>ouououitt<lb facs="P4_TL00007"/>#<lb facs="P4_TL00008"/>|j I ouououitt<lb facs="P4_TL00009"/>ouououitt<lb facs="P4_TL00010"/>trrra trrra trrra trrra trrra<lb facs="P4_TL00011"/>trrratrrra triTatrrra<lb facs="P4_TL00012"/>hihihihihihihihihihihihihihihihiliihihihi<lb facs="P4_TL00013"/>vrrr vrrr<lb facs="P4_TL00014"/>(2)oua oua oua oua oua oua oua oua oua oua oua oua o uaoua<lb facs="P4_TL00015"/>{2) iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii<lb facs="P4_TL00016"/>ouououitt<lb facs="P4_TL00017"/>ouououitt<lb facs="P4_TL00018"/>ouououitt<lb facs="P4_TL00019"/>vrr vrr<lb facs="P4_TL00020"/>(2) iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
-                                    <ab facs="P4_TB00005">
+                                    <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                        xmlns:mods="http://www.loc.gov/mods/v3"
+                                        facs="P4_TB00005">
                                        <lb facs="P4_TL00022"/>(1) Prolonger le son.<lb facs="P4_TL00023"/>(2) Mettre la main en soupape sur la bouche.</ab>
                                  </div>
                               </div>
@@ -534,22 +619,30 @@
                   <div type="Illustration" corresp="c012">
                      <div type="Image"/>
                      <div type="Caption">
-                        <ab facs="P5_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00001">
                            <lb facs="P5_TL00001"/>Bois gravé</ab>
-                        <ab facs="P5_TB00002">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P5_TB00002">
                            <lb facs="P5_TL00002"/>Chana Orloff.</ab>
                      </div>
                   </div>
                   <div type="TextContent" corresp="c013">
                      <div type="Head">
-                        <ab facs="P6_TB00001">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P6_TB00001">
                            <lb facs="P6_TL00001"/>AU JAPON</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P6_TB00002">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00002">
                                     <lb facs="P6_TL00002"/>II a été fait mention dans le dernier numéro de SIC, d'un mouvement poétique à! axant-garde<lb facs="P6_TL00003"/>au Japon. C'est trop dire. L'influence des poètes français, d'avant-garde, est certaine, mais<lb facs="P6_TL00004"/>seulement relative.<lb facs="P6_TL00005"/>Pendant des siècles toute la poésie japonaise fut la même, c'est-à-dire résidait dans l'emploi<lb facs="P6_TL00006"/>de vers de outa et de haikou (31 et 17 syllabes).<lb facs="P6_TL00007"/>C'est grâce à Verlaine surtout que se produisit cette double métamorphose énorme de<lb facs="P6_TL00008"/>l'adaptation au vers couleur européenne, toutefois vers libre et de l'enfantement d'un sentiment<lb facs="P6_TL00009"/>multiforme, le symbolisme, ignoré jusqu'alors comme au fond des forêts vierges.<lb facs="P6_TL00010"/>Le choix offrait d'autant plus de difficultés qu'ils sont légions ces nouveaux poètes nippons.<lb facs="P6_TL00011"/>Voici un coin du voile, voici des esquisses de tout jeunes poètes, Kitahara et Niki Rofoû.</ab>
                               </div>
                            </div>
@@ -558,24 +651,32 @@
                   </div>
                   <div type="TextContent" corresp="c014">
                      <div type="Head">
-                        <ab facs="P6_TB00003">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P6_TB00003">
                            <lb facs="P6_TL00012"/>UN COIN D'HOPITAL</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P6_TB00006">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P6_TB00006">
                            <lb facs="P6_TL00044"/>KITAHARA.</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P6_TB00004">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00004">
                                     <lb facs="P6_TL00013"/>Avant de m'endormir<lb facs="P6_TL00014"/>sous la puissance d'un narcotique;<lb facs="P6_TL00015"/>le grillon chantonnait.<lb facs="P6_TL00016"/>Et voilà un tout petit liseron,<lb facs="P6_TL00017"/>tout, tout rouge, en fleur,<lb facs="P6_TL00018"/>là, au ras de la fenêtre.<lb facs="P6_TL00019"/>Tandis que le liseron m'apparaît<lb facs="P6_TL00020"/>si petit et si rouge^<lb facs="P6_TL00021"/>Ma vie va s'éteindre...<lb facs="P6_TL00022"/>— Allons ! Chante, grillon !<lb facs="P6_TL00023"/>Un tantinet<lb facs="P6_TL00024"/>d'odeur de fruits.<lb facs="P6_TL00025"/>0 ! Que je me sens mal,<lb facs="P6_TL00026"/>mon âme !<lb facs="P6_TL00027"/>La blessure me dévore,<lb facs="P6_TL00028"/>Ami grillon chante, tout près,<lb facs="P6_TL00029"/>là-bas, dans la salle des fous.<lb facs="P6_TL00030"/>Une veuve folle<lb facs="P6_TL00031"/>d'extrême pâleur<lb facs="P6_TL00032"/>jette sa langueur<lb facs="P6_TL00033"/>sur le liseron fleuri.<lb facs="P6_TL00034"/>A quoi songe<lb facs="P6_TL00035"/>la jeune infirmière?</ab>
                               </div>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P6_TB00005">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00005">
                                     <lb facs="P6_TL00036"/>— L'été est fini !<lb facs="P6_TL00037"/>Et dans la nuit pluvieuse, que vois-je?<lb facs="P6_TL00038"/>— Le feu d artifice !<lb facs="P6_TL00039"/>Un interminable couloir...<lb facs="P6_TL00040"/>Un patient, très pâle.<lb facs="P6_TL00041"/>Dans la main, un flacon<lb facs="P6_TL00042"/>à la liqueur jaune sale.<lb facs="P6_TL00043"/>— Et voici venir l'automne...</ab>
                               </div>
                            </div>
@@ -584,24 +685,32 @@
                   </div>
                   <div type="TextContent" corresp="c015">
                      <div type="Head">
-                        <ab facs="P6_TB00007">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P6_TB00007">
                            <lb facs="P6_TL00045"/>LE SOMMEIL-CAUCHEMAR</ab>
                      </div>
                      <div type="Byline">
-                        <ab facs="P6_TB00009">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P6_TB00009">
                            <lb facs="P6_TL00058"/>MIKI ROFOÛ.</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P6_TB00008">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00008">
                                     <lb facs="P6_TL00046"/>C est bien lui le sommeil-cauchemar!<lb facs="P6_TL00047"/>Qu'on ferme la porte !<lb facs="P6_TL00048"/>Le ciel se déteint par la douleur.<lb facs="P6_TL00049"/>II plane sur mon cœur.<lb facs="P6_TL00050"/>L'oiseau en fièvre<lb facs="P6_TL00051"/>bat des ailes<lb facs="P6_TL00052"/>en un vieux « iyé » abandonné.<lb facs="P6_TL00053"/>Dans mon cœur<lb facs="P6_TL00054"/>ligotté de tristesse et de souvenirs,<lb facs="P6_TL00055"/>Ah ! comme il sait courir<lb facs="P6_TL00056"/>pour m'empoigner<lb facs="P6_TL00057"/>ce sommeil-cauchemar !</ab>
                               </div>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P6_TB00010">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P6_TB00010">
                                     <lb facs="P6_TL00059"/>Traduit du Japonais, par Saye Mondo.</ab>
                               </div>
                            </div>
@@ -610,21 +719,27 @@
                   </div>
                   <div type="TextContent" corresp="c016">
                      <div type="Byline">
-                        <ab facs="P8_TB00003">
+                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            facs="P8_TB00003">
                            <lb facs="P8_TL00039"/>P A. B.</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P7_TB00001">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P7_TB00001">
                                     <lb facs="P7_TL00001"/>La fatigue vient au bout de quelque temps<lb facs="P7_TL00002"/>et chaque voyageur a toujours un bagage<lb facs="P7_TL00003"/>Le reste de ses sentiments se<lb facs="P7_TL00004"/>perdit dans sa barbe<lb facs="P7_TL00005"/>À table<lb facs="P7_TL00006"/>des figures dansent au fond de la<lb facs="P7_TL00007"/>glace autour de la mienne qui ne bouge pas<lb facs="P7_TL00008"/>La voiture qui passe a fatigué son ombre<lb facs="P7_TL00009"/>Les hommes qui s'en vont ont tous le<lb facs="P7_TL00010"/>même dos<lb facs="P7_TL00011"/>Et aucun d'eux ne se retourne<lb facs="P7_TL00012"/>La mémoire marche derrière nous<lb facs="P7_TL00013"/>Une grimace vint s'épanouir<lb facs="P7_TL00014"/>sur son visage triangulaire<lb facs="P7_TL00015"/>Quand le voleur de talan s'assit le<lb facs="P7_TL00016"/>silence gêna les objets dans la chambre<lb facs="P7_TL00017"/>Après avoir bien couru on s'aperçoit que<lb facs="P7_TL00018"/>les autres sont loin<lb facs="P7_TL00019"/>• « • « • • •<lb facs="P7_TL00020"/>Le wagon qui emporte l'espoir et le souvenir<lb facs="P7_TL00021"/>est une chambre tiède qui marche<lb facs="P7_TL00022"/>Isolée dans l'air<lb facs="P7_TL00023"/>Des morceaux d'univers s'écartent<lb facs="P7_TL00024"/>Des blocs s'écrasent<lb facs="P7_TL00025"/>Et sur la route<lb facs="P7_TL00026"/>On aperçoit d'autres existences qui étonnent<lb facs="P7_TL00027"/>Il faut bien écouter pour entendre<lb facs="P7_TL00028"/>Quelqu'un qui pleure<lb facs="P7_TL00029"/>Il pense aux matelots qui chantent<lb facs="P7_TL00030"/>en partant pour l'autre bout du monde<lb facs="P7_TL00031"/>Et on reste là<lb facs="P7_TL00032"/>Quand on sent le besoin d'avoir des ailes<lb facs="P7_TL00033"/>Dans une petite maison perdue entre les<lb facs="P7_TL00034"/>arbres la traversée s'achève<lb facs="P7_TL00035"/>Il n'a jamais vécu<lb facs="P7_TL00036"/>Pour dire net tout ce que je pense, j'ajouterai encore ceci : l'édifice me semble manquer un<lb facs="P7_TL00037"/>peu de volumes et de saillies, son ensemble me paraît se colorer un peu trop en blond et quant à<lb facs="P7_TL00038"/>moi, il m'a laissé dans l'esprit une impression, à mon gré, trop monotone et mélancolique. Mais il<lb facs="P7_TL00039"/>n'empêche que le Voleur de Talan est un livre qui tiendra belle place dans la noble période litté<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P7_TL00040"/>raire qui commence.<lb facs="P7_TL00041"/>Aquarium. — Philippe Soupault. — Je suis heureux de pouvoir dire que le jour où j'ai reçu<lb facs="P7_TL00042"/>parmi tant d'autres, les premiers poèmes de Soupault j'ai pressenti le petit livre qu'il nous donne<lb facs="P7_TL00043"/>aujourd'hui et les gros qu'il nous donnera plus tard.<lb facs="P7_TL00044"/>Très rapidement il s'est assimilé le véritable esprit moderne et comme il est poète nous<lb facs="P7_TL00045"/>pouvons compter sur lui.<lb facs="P7_TL00046"/>Voici le début de son livre, par ces quelques vers il a parfaitement réussi à exprimer la qualité<lb facs="P7_TL00047"/>de sa sensibilité ;<lb facs="P7_TL00048"/>AVANT-DIRE<lb facs="P7_TL00049"/>Penche toi<lb facs="P7_TL00050"/>et perce la lisse surface<lb facs="P7_TL00051"/>Oranges<lb facs="P7_TL00052"/>bleus<lb facs="P7_TL00053"/>gris<lb facs="P7_TL00054"/>vermillons<lb facs="P7_TL00055"/>glissent et nagent</ab>
                               </div>
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P8_TB00001">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00001">
                                     <lb facs="P8_TL00001"/>mes poèmes<lb facs="P8_TL00002"/>Tout autour de ma pensée<lb facs="P8_TL00003"/>virevoltent<lb facs="P8_TL00004"/>les poissons verts<lb facs="P8_TL00005"/>Commémoration d'un mort de printemps. Louis Chadourne. Depuis de longues années,<lb facs="P8_TL00006"/>— et l'on pourrait môme dire depuis l'ère chrétienne —la poésie a broyé du noir et du blanc, à tel<lb facs="P8_TL00007"/>point que bon nombre de personnes considèrent que la tristesse est la vraie génératrice de l'art et<lb facs="P8_TL00008"/>croient à cela comme à un dogme absolument inattaquable : poésie = gris.<lb facs="P8_TL00009"/>Développer ce sujet, chercher les causes, les raisons, inutile, c'est un fait, je le constate et<lb facs="P8_TL00010"/>comme l'art est l'expression la plus parfaite du temps où il nait nous pouvons en conclure que<lb facs="P8_TL00011"/>depuis fort longtemps les peuples modernes, les Français en particulier, étaient quelque peu chlo<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P8_TL00012"/>rotiques et se sont complus trop souvent en des arts pâles. Or depuis un certain temps déjà<lb facs="P8_TL00013"/>un afflux de sang rouge bouillonne à nouveau dans nos artères et en gens de bonne santé nous<lb facs="P8_TL00014"/>trouvons que la vie qui vit est beaucoup plus belle que la vie qui se meurt et nous tendons a des<lb facs="P8_TL00015"/>arts chauds. Nous allons au plein soleil et non au crépuscule, à l'action non àla méditation, à<lb facs="P8_TL00016"/>l'optimisme non au pessimisme, nous disons oui et point non.<lb facs="P8_TL00017"/>Et j'ai fondé cette revue pour apporter toute mon énergie au service de ce très verdoyant<lb facs="P8_TL00018"/>renouveau : voilà pourquoi je ne peux louer sans réserves le poème de M. Louis Chadourne malgré<lb facs="P8_TL00019"/>les très réelles beautés poétiques \qu'il contient.<lb facs="P8_TL00020"/>INTERROGATION. — Pierre Drieu la Rochelle. — Nous avons reçu trop tard ce livre de poèmes<lb facs="P8_TL00021"/>qui nous paraît très substantiel, nous en parlerons dans le prochain numéro.<lb facs="P8_TL00022"/>MUSIQUE.— CHANSONS D'ENFANTS. Lucien de Flagny. L'art pour enfants est une question<lb facs="P8_TL00023"/>très complexe susceptible d'engendrer de longues discussions. Je me contenterai de dire que<lb facs="P8_TL00024"/>cela doit être sans doute très dificile car nous pouvons voir que en tous les temps bien<lb facs="P8_TL00025"/>peu ont réussi parmi les artistes qui s'y sont essayés (dans tous les arts). Les uns estiment qu'ils<lb facs="P8_TL00026"/>doivent se mettre à ta portée de l'enfant et font des choses enfantines, les autres estiment qu'ils<lb facs="P8_TL00027"/>doivent éveiller le goût de l'enfant et dans cette intention font pour lui des œuvres d'un art très<lb facs="P8_TL00028"/>simple mais qui sont parfois ce qu'il y a de plus difficile à réaliser. Les chansons de M. de Flagny<lb facs="P8_TL00029"/>nous semblent deux exemples de ce que nous venons de dire. La première nous ne pouvons vrai<pc type="endhypen" pre="false">-</pc>
                                     <lb facs="P8_TL00030"/>ment rien en dire et 1a seconde est d'une jolie simplicité qui ne peut guère intéresser un enfant<lb facs="P8_TL00031"/>et qui nous paraît au contraire parfaitement écrite pour le chanteur fin technicien William Gwin<lb facs="P8_TL00032"/>auquel elle est dédiée et nous aurons certainement plaisir à l'entendre chanter par lui.<lb facs="P8_TL00033"/>Au reste nous pensons qu'il ne serait pas du tout impossible de faire des choses pour enfants<lb facs="P8_TL00034"/>basées sur l'esthétique moderne à laquelle nous sacrifions, au contraire puisque notre art est essen<pc type="endhypen" pre="false">-</pc>
@@ -633,7 +748,9 @@
                            </div>
                            <div type="Paragraph">
                               <div type="Text">
-                                 <ab facs="P8_TB00002">
+                                 <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
+                                     xmlns:mods="http://www.loc.gov/mods/v3"
+                                     facs="P8_TB00002">
                                     <lb facs="P8_TL00038"/>nègres, à côté des Boucher les Derain.</ab>
                               </div>
                            </div>
