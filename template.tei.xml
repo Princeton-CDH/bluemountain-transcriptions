@@ -31,7 +31,7 @@
                                     <material><!-- describe paper --></material>
                                 </support>
                                 <extent>
-                                    <measure type="count" unit="leaf" quantity="">
+                                    <measure type="count" unit="leaf" quantity="0">
                                         <!-- We measure extent in terms of leaves, including covers. -->
                                     </measure>
                                     <dimensions type="page" unit="cm">
@@ -49,10 +49,9 @@
                                 distinctive ornaments (save description of ornaments for the <decoDesc> section), etc.  
                                 If there are several distinct types of pages, use separate <layout> elements
                                 to describe them.-->
-                                <layout n="advertisements"></layout>
-                                <layout/>
-                                <layout>
-                                    <p><!-- If there are images, describe their general layout here (e.g., images on glossy paper, glued in --></p></layout>
+				<layout><p>Most pages are laid out in single columns with wide margins. There are running heads containing the title of	the current article; running footers contain the page number.</p></layout>
+                                <layout><p>Illustrations occupy full pages. There is a title above the image and a caption below.</p></layout>
+				<layout><p>There are two pages of advertisements; these are arranged in two columns, with hairline rules separating each ad.</p></layout>
                             </layoutDesc>
                         </objectDesc>
 
