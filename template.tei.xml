@@ -55,11 +55,12 @@
                             </layoutDesc>
                         </objectDesc>
 
+			<!-- Note only  -->
                         <typeDesc>
                             <summary>
-                                <p>General description of typefaces and general typography.</p>
+                                <p>Mention only remarkable or unusual typographic features (unless you are a specialist in typography. Otherwise, leave this section empty (i.e., delete this text).</p>
                             </summary>
-                            <typeNote><!-- Use this element to describe note-worthy typographical features in detail. --></typeNote>
+			    <typeNote>Similarly, if you have professional knowledge of typography, record remarkable features; Otherwise, leave this element empty.</typeNote>
                         </typeDesc>
 
                         <decoDesc>
@@ -77,7 +78,7 @@
                     </physDesc>
 
                     <history>
-                        <summary>
+                      <summary>
                             <!-- Anything that didn't fit in the elements above.  In particular,
                             if there is price information, uncomment the <p> element below and 
                             capture the price following the model, adjusting units and quantities as 
