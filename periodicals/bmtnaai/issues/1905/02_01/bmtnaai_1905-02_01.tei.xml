@@ -29,6 +29,85 @@
             <title level="s">The Blue Mountain Project</title>
          </seriesStmt>
          <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Princeton University Library</institution>
+                 
+               </msIdentifier>
+               
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="paper">
+                        <support>
+                           <material>paper</material>
+                        </support>
+                        <extent>
+                           <measure type="count" unit="leaf" quantity="24">
+                              Each leaf consists of recto and verso
+                           </measure>
+                           <dimensions type="page" unit="cm">
+                              <height>25</height>
+                              <width>27</width>
+                           </dimensions>
+                        </extent>
+                        <foliation>
+                           16 numbered pages, page numbering starts on 3r
+                        </foliation>
+                     </supportDesc>
+                     
+                     <layoutDesc>
+                        <!-- Describe general layout of pages. E.g., number of columns; presence of running heads; presence of
+                                distinctive ornaments (save description of ornaments for the <decoDesc> section), etc.  
+                                If there are several distinct types of pages, use separate <layout> elements
+                                to describe them.-->
+                        <layout><p>Most pages are laid out in two columns; running footers contain the page number.</p></layout>
+                        <layout><p>Illustrations occupy full pages. There is a title above the image and a caption below.</p></layout>
+                        <layout><p>There are two pages of advertisements; these are arranged in two columns, with hairline rules separating each ad.</p></layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  
+                  <!-- Note only  -->
+                  <typeDesc>
+                     <summary>
+                        <p>Mention only remarkable or unusual typographic features (unless you are a specialist in typography. Otherwise, leave this section empty (i.e., delete this text).</p>
+                     </summary>
+                     <typeNote></typeNote>
+                  </typeDesc>
+                  
+                  <decoDesc>
+                     <p>Cover drawing by Alberto Martini. Two logos. One cover logo, one logo reading 'Poesia' and 'Rassegna Internazionale'. 3 decorated initials.</p>
+                  </decoDesc>
+                  
+                  <bindingDesc>
+                     
+                     <condition>
+                        covers intact
+                     </condition>
+                  </bindingDesc>
+                  
+               </physDesc>
+               
+               <history>
+                  <summary>
+                     Text in Italian, French, and English
+                     <!--<p>Sold for
+                                <measureGrp type="salesprice">
+                                    <measure unit="dollars" quantity=".5">50 cents</measure>
+                                    <measure unit="lire" quantity="1">1 lire</measure>
+                                    <measure unit="francs" quantity="6">6 francs</measure>
+                                    <measure unit="shillings" quantity="3/6">3/6</measure>
+                                </measureGrp>.</p>-->
+                  </summary>
+                  <provenance>
+                     
+                  </provenance>
+                  
+                  <acquisition>
+                     
+                  </acquisition>
+               </history>
+               
+            </msDesc>
             <biblStruct>
                <monogr>
                   <title level="j">
