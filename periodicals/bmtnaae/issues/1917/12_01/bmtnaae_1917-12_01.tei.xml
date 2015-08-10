@@ -35,19 +35,20 @@
             <objectDesc form="codex">
               <supportDesc material="paper">
                 <support>
-                  <material><!-- describe paper --></material>
+                  <material>orange card (cover)</material>
+                  <material>white glossy paper (inside)</material>
                 </support>
                 <extent>
-                  <measure type="count" unit="page">
-                    <!-- the page count of the source document, not the digital edition -->
+                  <measure type="count" unit="page">26
+                    
                   </measure>
                   <dimensions type="page" unit="cm">
-                    <height><!-- the height --></height>
-                    <width><!-- the width --></width>
+                    <height>22.5</height>
+                    <width>18.2</width>
                   </dimensions>
                 </extent>
                 <foliation>
-                  <!-- Describe pagination: new pagination; continuous with previous issue; different schemes for ads and content, etc. -->
+                   Not paginated
                 </foliation>
               </supportDesc>
 
@@ -65,7 +66,7 @@
 
             <typeDesc>
               <summary>
-                <p>Contains typographically experimental poem by
+                <p>Contains a typographically experimental poem by
                 Pierre Albert-Birot, which repeats syllables for
                 onomatopoeic and visual effect, and uses unusual
                 spacing. </p>
@@ -79,22 +80,22 @@
 
             <bindingDesc>
 	      <p>Wrapper is dark orange with title and illustration.</p>
+              <p>Insides and wrapper were originally sewn.</p>
+              <p>wrappers are torn and taped</p>
             </bindingDesc>
-
+            <accMat>
+              <p>Hand-written note in pencil on first page, lists price as '4.-'.</p>
+            </accMat>
           </physDesc>
 
           <history>
             <summary>
-              <!-- Anything that didn't fit in the elements above.  In particular,
-                   if there is price information, uncomment the <p> element below and 
-                   capture the price following the model, adjusting units and quantities as 
-                   necessary. -->
+              Did not contain commercial ads, but advertised other Dada publications (Dada 1) and chapbooks by Huelsenbeck, Janco, and Tzara, also section on other Dada-related or Dada-affiliated publications (like 'SIC')
               <!--<p>Sold for
                   <measureGrp type="salesprice">
-                  <measure unit="dollars" quantity=".5">50 cents</measure>
-                  <measure unit="lire" quantity="10">10 lire</measure>
-                  <measure unit="francs" quantity="6">6 francs</measure>
-                  <measure unit="shillings" quantity="3/6">3/6</measure>
+                 
+                  <measure unit="francs" quantity="2">2 francs</measure>
+                
                   </measureGrp>.</p>-->
             </summary>
             <provenance>
