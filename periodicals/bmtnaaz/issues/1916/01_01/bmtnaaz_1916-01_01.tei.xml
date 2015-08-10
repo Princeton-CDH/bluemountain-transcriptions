@@ -3,9 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>
-        Transcription of
-        <biblStruct>
+            <title> Transcription of <biblStruct>
                   <monogr>
                      <title level="j">
                         <seg type="main">Sic</seg>
@@ -17,6 +15,91 @@
                      </imprint>
                   </monogr>
                </biblStruct>
+               <msDesc>
+                  <msIdentifier>
+                     <institution>Princeton University Library</institution>
+
+                  </msIdentifier>
+
+                  <physDesc>
+                     <objectDesc form="codex">
+                        <supportDesc material="paper">
+                           <support>
+                              <material>paper</material>
+                           </support>
+                           <extent>
+                              <measure type="count" unit="page"> Each leaf consists of recto and
+                                 verso </measure>
+                              <dimensions type="page" unit="cm">
+                                 <height>28 cm</height>
+                                 <width>22.7 cm</width>
+                              </dimensions>
+                           </extent>
+                           <foliation>
+                              <foliation> pages unnumbered </foliation>
+                           </foliation>
+                        </supportDesc>
+
+                        <layoutDesc>
+                           <!-- Describe general layout of pages. E.g., number of columns; presence of running heads; presence of
+                                distinctive ornaments (save description of ornaments for the <decoDesc> section), etc.  
+                                If there are several distinct types of pages, use separate <layout> elements
+                                to describe them.-->
+                           <layout n="advertisements"/>
+                           <layout/>
+                           <layout>
+                              <p><!-- If there are images, describe their general layout here (e.g., images on glossy paper, glued in --></p></layout>
+                        </layoutDesc>
+                     </objectDesc>
+
+                     <typeDesc>
+                        <summary>
+                           <p>General description of typefaces and general typography.</p>
+                        </summary>
+                        <typeNote><!-- Use this element to describe note-worthy typographical features in detail. --></typeNote>
+                     </typeDesc>
+
+                     <decoDesc>
+                        <p><!-- Woodcuts; ornaments; etc.  --></p>
+                     </decoDesc>
+
+                     <bindingDesc>
+                        <!-- What's known about the binding of this issue. What sort of covers? Perfect bound, staple bound, etc? 
+                            Did the publisher issue bound volumes? etc.-->
+                        <condition>
+                           <!-- Note the condition of the covers here and if covers have been removed from current specimen. -->
+                        </condition>
+                     </bindingDesc>
+
+                  </physDesc>
+
+                  <history>
+                     <summary>
+                        <!-- Anything that didn't fit in the elements above.  In particular,
+                            if there is price information, uncomment the <p> element below and 
+                            capture the price following the model, adjusting units and quantities as 
+                            necessary. -->
+                        <!--<p>Sold for
+                                <measureGrp type="salesprice">
+                                    <measure unit="dollars" quantity=".5">50 cents</measure>
+                                    <measure unit="lire" quantity="10">10 lire</measure>
+                                    <measure unit="francs" quantity="6">6 francs</measure>
+                                    <measure unit="shillings" quantity="3/6">3/6</measure>
+                                </measureGrp>.</p>-->
+                     </summary>
+                     <provenance>
+                        <!--contains any descriptive or other information concerning a single
+                                identifiable episode during the history of the issue, 
+                                after its creation but before its acquisition  -->
+                     </provenance>
+
+                     <acquisition>
+                        <!-- Descriptive information about how the issue came to be acquired 
+                                by the holding institution -->
+                     </acquisition>
+                  </history>
+
+               </msDesc>
             </title>
          </titleStmt>
          <publicationStmt>
@@ -206,7 +289,8 @@
                         <biblStruct>
                            <analytic>
                               <title level="a">
-                                 <seg type="main">LETTRES. Oui, nous sommes d'accord, il y a de fort belles choses dans Claudel, malheureusement c'est</seg>
+                                 <seg type="main">LETTRES. Oui, nous sommes d'accord, il y a de fort
+                                    belles choses dans Claudel, malheureusement c'est</seg>
                               </title>
                               <textLang mainLang="fre"/>
                            </analytic>
@@ -279,39 +363,53 @@
                <div type="PublicationInfo">
                   <div type="GenericPubInfo">
                      <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                         xmlns:mods="http://www.loc.gov/mods/v3"
-                         facs="P1_TB00001">
+                        xmlns:mods="http://www.loc.gov/mods/v3" facs="P1_TB00001">
                         <lb facs="P1_TL00001"/>Prix 0,20</ab>
                   </div>
                   <div type="GenericPubInfo">
                      <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                         xmlns:mods="http://www.loc.gov/mods/v3"
-                         facs="P1_TB00002">
-                        <lb facs="P1_TL00002"/>Parait une fois par mois<lb facs="P1_TL00003"/>Janvier 1916<lb facs="P1_TL00004"/>Adresser tout ce qui concerne<lb facs="P1_TL00005"/>* S X c *<lb facs="P1_TL00006"/>à Pierre ALBERT-BIROT, Directeur<lb facs="P1_TL00007"/>37, Rue de la Tombe-Issoire— Paris.<lb facs="P1_TL00008"/>î QIA Desireux de faire connaissance avec tous ses amis, reçoit: l<lb facs="P1_TL00009"/>le Samedi soir à partir de 8 h. 11 le Mardi de 5 à 6 h. i<lb facs="P1_TL00010"/>37, Rue de la Tombe-Issoire (| 11-, Rue de Maubeuge j<lb facs="P1_TL00011"/>♦ ♦ 4 ♦ ♦♦ • •• « «•♦♦♦♦♦♦ *«•« ««»• » ♦ *• ♦♦ •• i ♦</ab>
+                        xmlns:mods="http://www.loc.gov/mods/v3" facs="P1_TB00002">
+                        <lb facs="P1_TL00002"/>Parait une fois par mois<lb facs="P1_TL00003"
+                        />Janvier 1916<lb facs="P1_TL00004"/>Adresser tout ce qui concerne<lb
+                           facs="P1_TL00005"/>* S X c *<lb facs="P1_TL00006"/>à Pierre ALBERT-BIROT,
+                           Directeur<lb facs="P1_TL00007"/>37, Rue de la Tombe-Issoire— Paris.<lb
+                           facs="P1_TL00008"/>î QIA Desireux de faire connaissance avec tous ses
+                        amis, reçoit: l<lb facs="P1_TL00009"/>le Samedi soir à partir de 8 h. 11 le
+                        Mardi de 5 à 6 h. i<lb facs="P1_TL00010"/>37, Rue de la Tombe-Issoire (|
+                        11-, Rue de Maubeuge j<lb facs="P1_TL00011"/>♦ ♦ 4 ♦ ♦♦ • •• « «•♦♦♦♦♦♦ *«•«
+                        ««»• » ♦ *• ♦♦ •• i ♦</ab>
                   </div>
                   <div type="GenericPubInfo">
                      <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                         xmlns:mods="http://www.loc.gov/mods/v3"
-                         facs="P1_TB00003">
-                        <lb facs="P1_TL00012"/>SOHS<lb facs="P1_TL00013"/>IDÉES<lb facs="P1_TL00014"/>COTJIDBXJÏIS<lb facs="P1_TL00015"/>FORMES</ab>
+                        xmlns:mods="http://www.loc.gov/mods/v3" facs="P1_TB00003">
+                        <lb facs="P1_TL00012"/>SOHS<lb facs="P1_TL00013"/>IDÉES<lb facs="P1_TL00014"
+                           />COTJIDBXJÏIS<lb facs="P1_TL00015"/>FORMES</ab>
                   </div>
                   <div type="GenericPubInfo">
                      <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                         xmlns:mods="http://www.loc.gov/mods/v3"
-                         facs="P4_TB00003">
-                        <lb facs="P4_TL00065"/>Imp. Spéciale de'" Sic". Le gérant : Pierre ALBERT-BIROT.</ab>
+                        xmlns:mods="http://www.loc.gov/mods/v3" facs="P4_TB00003">
+                        <lb facs="P4_TL00065"/>Imp. Spéciale de'" Sic". Le gérant : Pierre
+                        ALBERT-BIROT.</ab>
                   </div>
                   <div type="GenericPubInfo">
                      <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                         xmlns:mods="http://www.loc.gov/mods/v3"
-                         facs="P10_TB00004">
-                        <lb facs="P10_TL00081"/>'gi -C£23 : OOCl=-<lb facs="P10_TL00082"/>A I publie des poèmes, de la musique, des dessins, des reproductions de tableaux, des<lb facs="P10_TL00083"/>OI V* croquis d'architecture, de meubles, etc.... (<lb facs="P10_TL00084"/>000 , CGQ <lb facs="P10_TL00085"/>LE NUMERO: 20 CENTIMES<lb facs="P10_TL00086"/>ABONNEMENTS<lb facs="P10_TL00087"/>La série de 12 Nos » . • 2.25 Tirage de luxe limité àlO exempî.<lb facs="P10_TL00088"/>Étranger 3.50 sur Japon 50 Fs.<lb facs="P10_TL00089"/>Un numéro specimen sera envoyé à toutes les adresses qu'on nous communiquera.<lb facs="P10_TL00090"/>(Service régulier à tous les mobilisés)<lb facs="P10_TL00091"/>% DCO COQ ==Â'.</ab>
+                        xmlns:mods="http://www.loc.gov/mods/v3" facs="P10_TB00004">
+                        <lb facs="P10_TL00081"/>'gi -C£23 : OOCl=-<lb facs="P10_TL00082"/>A I publie
+                        des poèmes, de la musique, des dessins, des reproductions de tableaux,
+                           des<lb facs="P10_TL00083"/>OI V* croquis d'architecture, de meubles,
+                        etc.... (<lb facs="P10_TL00084"/>000 , CGQ <lb facs="P10_TL00085"/>LE
+                        NUMERO: 20 CENTIMES<lb facs="P10_TL00086"/>ABONNEMENTS<lb facs="P10_TL00087"
+                        />La série de 12 Nos » . • 2.25 Tirage de luxe limité àlO exempî.<lb
+                           facs="P10_TL00088"/>Étranger 3.50 sur Japon 50 Fs.<lb facs="P10_TL00089"
+                        />Un numéro specimen sera envoyé à toutes les adresses qu'on nous
+                           communiquera.<lb facs="P10_TL00090"/>(Service régulier à tous les
+                           mobilisés)<lb facs="P10_TL00091"/>% DCO COQ ==Â'.</ab>
                   </div>
                   <div type="GenericPubInfo">
                      <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                         xmlns:mods="http://www.loc.gov/mods/v3"
-                         facs="P10_TB00005">
-                        <lb facs="P10_TL00092"/>Imprimerie RIRACHOVSKY, 50, Bd St-Jacques, Paris. Le gérant Pierre ALBERT-BIROT</ab>
+                        xmlns:mods="http://www.loc.gov/mods/v3" facs="P10_TB00005">
+                        <lb facs="P10_TL00092"/>Imprimerie RIRACHOVSKY, 50, Bd St-Jacques, Paris. Le
+                        gérant Pierre ALBERT-BIROT</ab>
                   </div>
                </div>
                <div type="EditorialContent">
@@ -321,14 +419,12 @@
                   <div type="TextContent" corresp="c002">
                      <div type="Head">
                         <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                            xmlns:mods="http://www.loc.gov/mods/v3"
-                            facs="P2_TB00001">
+                           xmlns:mods="http://www.loc.gov/mods/v3" facs="P2_TB00001">
                            <lb facs="P2_TL00001"/>PREMIERS MOTS.</ab>
                      </div>
                      <div type="Byline">
                         <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                            xmlns:mods="http://www.loc.gov/mods/v3"
-                            facs="P2_TB00003">
+                           xmlns:mods="http://www.loc.gov/mods/v3" facs="P2_TB00003">
                            <lb facs="P2_TL00020"/>SIC</ab>
                      </div>
                      <div type="Copy">
@@ -336,10 +432,26 @@
                            <div type="Paragraph">
                               <div type="Text">
                                  <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                                     xmlns:mods="http://www.loc.gov/mods/v3"
-                                     facs="P2_TB00002">
-                                    <lb facs="P2_TL00002"/>Notre volonté:<lb facs="P2_TL00003"/>*<lb facs="P2_TL00004"/>Agir. Prendre des initiatives, ne pas attendre qu'elles<lb facs="P2_TL00005"/>nous reviennent d'Outre-Rhin.<lb facs="P2_TL00006"/>Notre désir:<lb facs="P2_TL00007"/>Regarder, voir, entendre, chercher, et vous emmener avec<lb facs="P2_TL00008"/>nous.<lb facs="P2_TL00009"/>' . - - ; ■ * V<lb facs="P2_TL00010"/>Aimer la vie et vous le dire ; la vivre et vous y convier.<lb facs="P2_TL00011"/>\<lb facs="P2_TL00012"/>Un jour vous ne compreniez pas telle chose que vous com<pc type="endhypen" pre="false">-</pc>
-                                    <lb facs="P2_TL00013"/>prenez aujourd'hui;' rappelez vous combien cette chose était<lb facs="P2_TL00014"/>inexistante pour vous AYANT, et combien elle existe<lb facs="P2_TL00015"/>* /<lb facs="P2_TL00016"/>DEPUIS; rappelez-vous, rappelez-vous, et ne dites pas: je*<lb facs="P2_TL00017"/>/<lb facs="P2_TL00018"/>ne comprends point telle chose, donc elle n est pas.<lb facs="P2_TL00019"/>Venez avec nous, regardons, voyons, entendons, cherchons.</ab>
+                                    xmlns:mods="http://www.loc.gov/mods/v3" facs="P2_TB00002">
+                                    <lb facs="P2_TL00002"/>Notre volonté:<lb facs="P2_TL00003"/>*<lb
+                                       facs="P2_TL00004"/>Agir. Prendre des initiatives, ne pas
+                                    attendre qu'elles<lb facs="P2_TL00005"/>nous reviennent
+                                       d'Outre-Rhin.<lb facs="P2_TL00006"/>Notre désir:<lb
+                                       facs="P2_TL00007"/>Regarder, voir, entendre, chercher, et
+                                    vous emmener avec<lb facs="P2_TL00008"/>nous.<lb
+                                       facs="P2_TL00009"/>' . - - ; ■ * V<lb facs="P2_TL00010"
+                                    />Aimer la vie et vous le dire ; la vivre et vous y convier.<lb
+                                       facs="P2_TL00011"/>\<lb facs="P2_TL00012"/>Un jour vous ne
+                                    compreniez pas telle chose que vous com<pc type="endhypen"
+                                       pre="false">-</pc>
+                                    <lb facs="P2_TL00013"/>prenez aujourd'hui;' rappelez vous
+                                    combien cette chose était<lb facs="P2_TL00014"/>inexistante pour
+                                    vous AYANT, et combien elle existe<lb facs="P2_TL00015"/>* /<lb
+                                       facs="P2_TL00016"/>DEPUIS; rappelez-vous, rappelez-vous, et
+                                    ne dites pas: je*<lb facs="P2_TL00017"/>/<lb facs="P2_TL00018"
+                                    />ne comprends point telle chose, donc elle n est pas.<lb
+                                       facs="P2_TL00019"/>Venez avec nous, regardons, voyons,
+                                    entendons, cherchons.</ab>
                               </div>
                            </div>
                         </div>
@@ -348,8 +460,7 @@
                   <div type="TextContent" corresp="c003">
                      <div type="Head">
                         <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                            xmlns:mods="http://www.loc.gov/mods/v3"
-                            facs="P3_TB00001">
+                           xmlns:mods="http://www.loc.gov/mods/v3" facs="P3_TB00001">
                            <lb facs="P3_TL00001"/>ETC...</ab>
                      </div>
                      <div type="TextContent" corresp="c004">
@@ -358,54 +469,279 @@
                               <div type="Paragraph">
                                  <div type="Text">
                                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                                        xmlns:mods="http://www.loc.gov/mods/v3"
-                                        facs="P3_TB00002">
+                                       xmlns:mods="http://www.loc.gov/mods/v3" facs="P3_TB00002">
                                        <lb facs="P3_TL00002"/>(suite)</ab>
                                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                                        xmlns:mods="http://www.loc.gov/mods/v3"
-                                        facs="P3_TB00003">
-                                       <lb facs="P3_TL00003"/>La Lucarne Ovale— Pierre Reverdy (Deuxième édition). Celle-ci est toute, petite, elle est<lb facs="P3_TL00004"/>très a l'aise dans une poche de veston. Tous les livres de poèmes devraient paraître en<lb facs="P3_TL00005"/>deux éditions: l'une serait un majestueux in-folio et l'autre un intime in-32.<lb facs="P3_TL00006"/>L'immortalité littéraire selon M. de Goncourt. Léon Deffoux. «Avec les éléments d'ob<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00007"/>servation recueillis par Alphonse Daudet nous expliquerons aisément et la forme du tes<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00008"/>tament, et la création de F Académie, et la nature de ce journal dont l'Académie a la char<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00009"/>ge expresse de publier l'intégralité vingt ans après la mort de son fondateur, c'est-à-dire<lb facs="P3_TL00010"/>en 1916. » Et en effet M. Léon Deffoux explique tout cela, ce qui ne laissera pas d'être<lb facs="P3_TL00011"/>agréable aux curieux de lettres qui aiment les explications. En passant l'auteur nous pré<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00012"/>sente un parrain littéraire des Goncourt : Pierre-Charles de Yilledeuil, un personnage qui a<lb facs="P3_TL00013"/>failli être extraordinaire.<lb facs="P3_TL00014"/>Air à jouer après cinq heures. Pierre Grange. Ce n'est pas une chose considérable,<lb facs="P3_TL00015"/>certes, mais il y a dans ces premiers chants une certaine sensibilité vraie qui me paraît<lb facs="P3_TL00016"/>mériter une mention dans Sic. Il se pourrait que l'auteur tournât bien.<lb facs="P3_TL00017"/>André G-odin, sa vie et son œuvre. Berthe de Ngse.— Pour nous qui voulons être intè<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00018"/>gres nous devons repousser toute influence née de considérations étrangères à l'art. Or la<lb facs="P3_TL00019"/>mort me parait bien être une considération de ce genre. En ces temps où tellement de<lb facs="P3_TL00020"/>jeunes hommes disparaissent, pour se consoler ceux qui les ont beaucoup aimés leurs<lb facs="P3_TL00021"/>donnent beaucoup de valeur : c'est humain. Ce bénéfice d'ailleurs s'étend aux blessés, aux<lb facs="P3_TL00022"/>mutilés, aux combattants. Pour moi un poème reste le même qu'il ne soit pas ou qu'il soit<lb facs="P3_TL00023"/>l'œuvre d'un héros, et j'estime que nous devons juger un auteur mort exactement comme<lb facs="P3_TL00024"/>nous le jugerions s'il était vivant. André Godin nous est donné comme un grand, un pur<lb facs="P3_TL00025"/>poète, je ne puis souscrire à cette affirmation que les pages données ici ne me paraissent<lb facs="P3_TL00026"/>pas justifier. Je ne vois là qu'un esprit cultivé, curieux des choses lointaines, mais abondan<lb facs="P3_TL00027"/>ce de connaissances n'est pas richesse de création et je tiens à m'élever très franchement<lb facs="P3_TL00028"/>contre cette erreur qui tend a établir une confusion entre le savant littéraire et le poète.<lb facs="P3_TL00029"/>Il faut que l'un ou l'autre prédomine. Pour être juste il convient de reconnaître que dans<lb facs="P3_TL00030"/>les proses " inconditionnées " le poète s'éfforce assez victorieusement à dominer le savant<lb facs="P3_TL00031"/>et peut-être que si André Godin avait eu la faveur de vivre des années de plus il aurait lais<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00032"/>sé après sa mort les grands, les purs poèmes que Mme Berthe de Nyse veut qu'il aitlaissés<lb facs="P3_TL00033"/>dès 1916.<lb facs="P3_TL00034"/>Essai de Cathéchisme - Léon Meunier L'auteur, comme tant d'autres, estime que le<lb facs="P3_TL00035"/>catholicisme ne peut plus nous convenir et il nous propose un " système " très chrétien.<lb facs="P3_TL00036"/>Autant vaudrait revenir au pur Calvin. Oui il nous faut un culte, mais allumeur non extinc<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00037"/>teur.<lb facs="P3_TL00038"/>Ariste Nantes. M. Ker- Frank - Houx m'accuse et il ne me pardonne pas : j'ai commis<lb facs="P3_TL00039"/>un crime philologique. J'ai écrit : les moderne ne recherchent que la vérité, il c.d assez<lb facs="P3_TL00040"/>naturel qu'ils soient incompréhensibles; Mr Ker-Frank-Houx eut voulu je crois, incompris.<lb facs="P3_TL00041"/>Certes, à la lettre, il a raison, mais j'ai pensé et je pense encore que dans nos revues il nous<lb facs="P3_TL00042"/>est permis d'aller au delà et je ne puis croire que l'esprit qui m'a dicté incompréhensible<lb facs="P3_TL00043"/>soit nié par un écrivain qui n'en est évidemment pas privé.<lb facs="P3_TL00044"/>Pour moi je lerai un reproche plus grave au directeur de cette publication de goût. Pour<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00045"/>quoi les Essais Ariste sont-ils si inférieurs à la Chronique? Il y a là une idée très intéres<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00046"/>sante et une réalisation séduisante, on regrette de ne point voir de belles choses en faire<lb facs="P3_TL00047"/>l'objet.<lb facs="P3_TL00048"/>Les cahiers idéalistes M.Edouard Dujardin et ses collaborateurs continuent ponctuel<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00049"/>lement à publier des pages austères. A noter dans le n° de Mars des conseils de M. Marcel<lb facs="P3_TL00050"/>Martinet qui ne sont pas à dédaigner ; dans le n° d'Avril une étude un peu simple de Mr<lb facs="P3_TL00051"/>Harold F. Mac Cormick sur la préparation de la paix; dans le n® de Mai un acte puérile<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00052"/>ment évangélique de M. Mathias Morhardt, un article dithyrambique de Louis de Gonza<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00053"/>gue-Frick sur " La Renaissance " de Walter Pater, une lettre pleine d'altière noblesse du<lb facs="P3_TL00054"/>lieutenant J. G. D. sur les préparations militaires, un poème " explicatif " de Mr Edouard<lb facs="P3_TL00055"/>Dujardin. On s'étonnerait que Sic ne s'élevât pas contre cette façon d'utiliser la poésie.<lb facs="P3_TL00056"/>L?éveutail Genève —On sent dans cette revue si sympathique déjà par sa présentation<lb facs="P3_TL00057"/>soignée que la direction a le vif désir de se mettre à l'heure de la Tour Eiffel, M. François<lb facs="P3_TL00058"/>Laya n'a pas manqué de prendre nettement position, notamment à propos des Mamelles<lb facs="P3_TL00059"/>de Tirésias et du livre de Lefèvre. (Dans le n° de Mars l'Eventail annonce une édition de<lb facs="P3_TL00060"/>luxe de " Douze nuits " de Claude Misery avec 8 desseins de Gustave Buchet. D'après la<lb facs="P3_TL00061"/>revue elle même et d'après le spécimen nous pouvons imaginer quelles joies vos éditions<lb facs="P3_TL00062"/>Messieurs, apporteront aux yeux des bibliophiles. 0 vous qui pouvez bellement imprimer<lb facs="P3_TL00063"/>soyez bénis et enviés.)</ab>
+                                       xmlns:mods="http://www.loc.gov/mods/v3" facs="P3_TB00003">
+                                       <lb facs="P3_TL00003"/>La Lucarne Ovale— Pierre Reverdy
+                                       (Deuxième édition). Celle-ci est toute, petite, elle est<lb
+                                          facs="P3_TL00004"/>très a l'aise dans une poche de veston.
+                                       Tous les livres de poèmes devraient paraître en<lb
+                                          facs="P3_TL00005"/>deux éditions: l'une serait un
+                                       majestueux in-folio et l'autre un intime in-32.<lb
+                                          facs="P3_TL00006"/>L'immortalité littéraire selon M. de
+                                       Goncourt. Léon Deffoux. «Avec les éléments d'ob<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P3_TL00007"/>servation recueillis par Alphonse
+                                       Daudet nous expliquerons aisément et la forme du tes<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P3_TL00008"/>tament, et la création de F Académie,
+                                       et la nature de ce journal dont l'Académie a la char<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P3_TL00009"/>ge expresse de publier l'intégralité
+                                       vingt ans après la mort de son fondateur, c'est-à-dire<lb
+                                          facs="P3_TL00010"/>en 1916. » Et en effet M. Léon Deffoux
+                                       explique tout cela, ce qui ne laissera pas d'être<lb
+                                          facs="P3_TL00011"/>agréable aux curieux de lettres qui
+                                       aiment les explications. En passant l'auteur nous pré<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P3_TL00012"/>sente un parrain littéraire des
+                                       Goncourt : Pierre-Charles de Yilledeuil, un personnage qui
+                                          a<lb facs="P3_TL00013"/>failli être extraordinaire.<lb
+                                          facs="P3_TL00014"/>Air à jouer après cinq heures. Pierre
+                                       Grange. Ce n'est pas une chose considérable,<lb
+                                          facs="P3_TL00015"/>certes, mais il y a dans ces premiers
+                                       chants une certaine sensibilité vraie qui me paraît<lb
+                                          facs="P3_TL00016"/>mériter une mention dans Sic. Il se
+                                       pourrait que l'auteur tournât bien.<lb facs="P3_TL00017"
+                                       />André G-odin, sa vie et son œuvre. Berthe de Ngse.— Pour
+                                       nous qui voulons être intè<pc type="endhypen" pre="false"
+                                          >-</pc>
+                                       <lb facs="P3_TL00018"/>gres nous devons repousser toute
+                                       influence née de considérations étrangères à l'art. Or la<lb
+                                          facs="P3_TL00019"/>mort me parait bien être une
+                                       considération de ce genre. En ces temps où tellement de<lb
+                                          facs="P3_TL00020"/>jeunes hommes disparaissent, pour se
+                                       consoler ceux qui les ont beaucoup aimés leurs<lb
+                                          facs="P3_TL00021"/>donnent beaucoup de valeur : c'est
+                                       humain. Ce bénéfice d'ailleurs s'étend aux blessés, aux<lb
+                                          facs="P3_TL00022"/>mutilés, aux combattants. Pour moi un
+                                       poème reste le même qu'il ne soit pas ou qu'il soit<lb
+                                          facs="P3_TL00023"/>l'œuvre d'un héros, et j'estime que
+                                       nous devons juger un auteur mort exactement comme<lb
+                                          facs="P3_TL00024"/>nous le jugerions s'il était vivant.
+                                       André Godin nous est donné comme un grand, un pur<lb
+                                          facs="P3_TL00025"/>poète, je ne puis souscrire à cette
+                                       affirmation que les pages données ici ne me paraissent<lb
+                                          facs="P3_TL00026"/>pas justifier. Je ne vois là qu'un
+                                       esprit cultivé, curieux des choses lointaines, mais
+                                          abondan<lb facs="P3_TL00027"/>ce de connaissances n'est
+                                       pas richesse de création et je tiens à m'élever très
+                                          franchement<lb facs="P3_TL00028"/>contre cette erreur qui
+                                       tend a établir une confusion entre le savant littéraire et le
+                                          poète.<lb facs="P3_TL00029"/>Il faut que l'un ou l'autre
+                                       prédomine. Pour être juste il convient de reconnaître que
+                                          dans<lb facs="P3_TL00030"/>les proses " inconditionnées "
+                                       le poète s'éfforce assez victorieusement à dominer le
+                                          savant<lb facs="P3_TL00031"/>et peut-être que si André
+                                       Godin avait eu la faveur de vivre des années de plus il
+                                       aurait lais<pc type="endhypen" pre="false">-</pc>
+                                       <lb facs="P3_TL00032"/>sé après sa mort les grands, les purs
+                                       poèmes que Mme Berthe de Nyse veut qu'il aitlaissés<lb
+                                          facs="P3_TL00033"/>dès 1916.<lb facs="P3_TL00034"/>Essai
+                                       de Cathéchisme - Léon Meunier L'auteur, comme tant d'autres,
+                                       estime que le<lb facs="P3_TL00035"/>catholicisme ne peut plus
+                                       nous convenir et il nous propose un " système " très
+                                          chrétien.<lb facs="P3_TL00036"/>Autant vaudrait revenir au
+                                       pur Calvin. Oui il nous faut un culte, mais allumeur non
+                                          extinc<pc type="endhypen" pre="false">-</pc>
+                                       <lb facs="P3_TL00037"/>teur.<lb facs="P3_TL00038"/>Ariste
+                                       Nantes. M. Ker- Frank - Houx m'accuse et il ne me pardonne
+                                       pas : j'ai commis<lb facs="P3_TL00039"/>un crime
+                                       philologique. J'ai écrit : les moderne ne recherchent que la
+                                       vérité, il c.d assez<lb facs="P3_TL00040"/>naturel qu'ils
+                                       soient incompréhensibles; Mr Ker-Frank-Houx eut voulu je
+                                       crois, incompris.<lb facs="P3_TL00041"/>Certes, à la lettre,
+                                       il a raison, mais j'ai pensé et je pense encore que dans nos
+                                       revues il nous<lb facs="P3_TL00042"/>est permis d'aller au
+                                       delà et je ne puis croire que l'esprit qui m'a dicté
+                                          incompréhensible<lb facs="P3_TL00043"/>soit nié par un
+                                       écrivain qui n'en est évidemment pas privé.<lb
+                                          facs="P3_TL00044"/>Pour moi je lerai un reproche plus
+                                       grave au directeur de cette publication de goût. Pour<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P3_TL00045"/>quoi les Essais Ariste sont-ils si
+                                       inférieurs à la Chronique? Il y a là une idée très intéres<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P3_TL00046"/>sante et une réalisation séduisante,
+                                       on regrette de ne point voir de belles choses en faire<lb
+                                          facs="P3_TL00047"/>l'objet.<lb facs="P3_TL00048"/>Les
+                                       cahiers idéalistes M.Edouard Dujardin et ses collaborateurs
+                                       continuent ponctuel<pc type="endhypen" pre="false">-</pc>
+                                       <lb facs="P3_TL00049"/>lement à publier des pages austères. A
+                                       noter dans le n° de Mars des conseils de M. Marcel<lb
+                                          facs="P3_TL00050"/>Martinet qui ne sont pas à dédaigner ;
+                                       dans le n° d'Avril une étude un peu simple de Mr<lb
+                                          facs="P3_TL00051"/>Harold F. Mac Cormick sur la
+                                       préparation de la paix; dans le n® de Mai un acte puérile<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P3_TL00052"/>ment évangélique de M. Mathias
+                                       Morhardt, un article dithyrambique de Louis de Gonza<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P3_TL00053"/>gue-Frick sur " La Renaissance " de
+                                       Walter Pater, une lettre pleine d'altière noblesse du<lb
+                                          facs="P3_TL00054"/>lieutenant J. G. D. sur les
+                                       préparations militaires, un poème " explicatif " de Mr
+                                          Edouard<lb facs="P3_TL00055"/>Dujardin. On s'étonnerait
+                                       que Sic ne s'élevât pas contre cette façon d'utiliser la
+                                          poésie.<lb facs="P3_TL00056"/>L?éveutail Genève —On sent
+                                       dans cette revue si sympathique déjà par sa présentation<lb
+                                          facs="P3_TL00057"/>soignée que la direction a le vif désir
+                                       de se mettre à l'heure de la Tour Eiffel, M. François<lb
+                                          facs="P3_TL00058"/>Laya n'a pas manqué de prendre
+                                       nettement position, notamment à propos des Mamelles<lb
+                                          facs="P3_TL00059"/>de Tirésias et du livre de Lefèvre.
+                                       (Dans le n° de Mars l'Eventail annonce une édition de<lb
+                                          facs="P3_TL00060"/>luxe de " Douze nuits " de Claude
+                                       Misery avec 8 desseins de Gustave Buchet. D'après la<lb
+                                          facs="P3_TL00061"/>revue elle même et d'après le spécimen
+                                       nous pouvons imaginer quelles joies vos éditions<lb
+                                          facs="P3_TL00062"/>Messieurs, apporteront aux yeux des
+                                       bibliophiles. 0 vous qui pouvez bellement imprimer<lb
+                                          facs="P3_TL00063"/>soyez bénis et enviés.)</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
                                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                                        xmlns:mods="http://www.loc.gov/mods/v3"
-                                        facs="P4_TB00001">
-                                       <lb facs="P4_TL00001"/>L'Horizon — Secteur 12.— J'en ai reçu plusieurs de ces journaux de tranchées, hélas on<lb facs="P4_TL00002"/>ne peut jamais rien en dire. Celui-ci a de meilleures intentions puisqu'a côté de choses à<lb facs="P4_TL00003"/>passer j'en ai trouvé une à lire. Cet article a pour titre " l'Art et la guerre " ( dans le n° 11)<lb facs="P4_TL00004"/>Cet article il faut bien le dire est surtout constitué par une citation empruntée à une étude<lb facs="P4_TL00005"/>de Félix Yalloton — étude que je n'ai jamais eu le plaisir de recevoir — mais je félicite Mr<lb facs="P4_TL00006"/>S. d'avoir mis cette bonne page à l'Horizon et je souhaite qiril se plaise à en glisser d'au<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00007"/>tres de même intérêt.<lb facs="P4_TL00008"/>Vellinou — Barcelone. —Je n'ai encore jamais rien dit de cette publication parce qu'el<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00009"/>le est plutôt " vell " que non mais je veux une fois au moins remercier la direction qui<lb facs="P4_TL00010"/>m'en fait l'envoi très régulier et lui dire ici que j'ai beaucoup de joie à contempler les re<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00011"/>productions de ces grandes œuvres de jadis que m'apporte presque chacun des numéros<lb facs="P4_TL00012"/>de cette revue et que bien souvent if m'arrive de feuilleter la très belle collection qu'elle<lb facs="P4_TL00013"/>constitue déjà.<lb facs="P4_TL00014"/>La Bevista. — Barcelone. — Je reçois régulièrement cette docte revue qui s'est occupée<lb facs="P4_TL00015"/>mainte fois de Sic intelligemment. Un très sympathique confrère catalan qui va devenir<lb facs="P4_TL00016"/>mon collaborateur régulier et s'occupera ici du mouvement de Barcelone aura très certai<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00017"/>nement l'occasion de faire des réflexions intéressantes à l'occasion des sérieuses études<lb facs="P4_TL00018"/>publiées dans la Revista.<lb facs="P4_TL00019"/>Trossos — Barcelone — Cette revue fondée par J. M. Junoy (1) est maintenant dirigée par<lb facs="P4_TL00020"/>J. Y. Foix. C'est a la vérité une parente de Sic qui lui offre très sympathiquement le pain<lb facs="P4_TL00021"/>et le sel. Sic est très heureux de cet hommage rendu à son rude labeur et il se doit de di<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00022"/>re ici que c'est à Barcelone, la ville vivante, qu'il a trouvé le plus d'amis (ce mot pris dans<lb facs="P4_TL00023"/>son sens propre ). Je regrette seulement que les dessins publiés par " Trossos " ne s'har<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00024"/>monisent point suffisamment avec l'esprit qui anime la direction; l'un est quelque pe|<lb facs="P4_TL00025"/>• impressionniste, les autres d'un futurismocubisme un peu simpliste. De plus Sic serai<lb facs="P4_TL00026"/>heureux de voir une indication d'origine devant les morceaux qu'il plaît à Trossos de re<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00027"/>produire ou de traduire. Nous espérons vivement pour l'art et pour Barcelone que cette<lb facs="P4_TL00028"/>revue aura longue et régulière vie.<lb facs="P4_TL00029"/>El Garni: Barcelone— Encore une preuve de la brillante activité catalane. Les excellen<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00030"/>tes intentions de cette revue ne me paraissent pas douteuses, la direction pressent certai<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00031"/>nement la vérité, mais jusqu'à présent j'y vois de regrettables hésitations que trahit un<lb facs="P4_TL00032"/>certain éclectisme redoutable. Etre ou ne pas être. Nous devons, si nous voulons faire<lb facs="P4_TL00033"/>quelque chose de grand, avoir une opinion nette, confiante, laissons à la sagesse sénile le<lb facs="P4_TL00034"/>mol éclectisme qui est nettement négatif. Messieurs " d'El Cami " prenez le chemin et en<lb facs="P4_TL00035"/>route.<lb facs="P4_TL00036"/>Iberia Barcelone— Publication correspondant à peu près à nos " journaux illustrés<lb facs="P4_TL00037"/>Mais tandis que les nôtres demeurent de vagues et obtus magazines, " Iberia s'occupe de<lb facs="P4_TL00038"/>Nord-Sud, de Sic, de l'Elan, et s'en occupe non pas pour avoir le plaisir de sortir quelques<lb facs="P4_TL00039"/>plaisanteries usinières mais pour les étudier. Les commentaires sont inutiles, les incuiables<lb facs="P4_TL00040"/>ici sont innombrables : constatons-le une fois de plus.<lb facs="P4_TL00041"/>La Raccolta Bologne. — Nouvelle r<lb facs="P4_TL00042"/>, . Il* I • • | r Ai «rvm» mA<lb facs="P4_TL00043"/>deux numéros parus j'incline à penser que cette publication aura un intérêt car elle sem<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00044"/>ble à la fois vouloir être réellement moderne et laisser a ses ébats le bruyant iutuiisme,<lb facs="P4_TL00045"/>nui fut une réaction nécessaire en Italie et peut mener loin à condition de le laisser en<lb facs="P4_TL00046"/>route et il nie paraît que particulièrement des esprits tels que G. de Chirico et A. Savinio<lb facs="P4_TL00047"/>sont destinés à orienter le mouvement artistique italien vers une période d art plus simple,<lb facs="P4_TL00048"/>nlus humain, plus grand, se rapprochant de l'orientation classique française. Il faut a 1 Ita<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00049"/>lie un organe puissant et calme capable d'amener les artistes à œuvrer silencieusement. Je<lb facs="P4_TL00050"/>souhaite à la Raccolta de devenir cet organe.<lb facs="P4_TL00051"/>Antoloeia délia Diana—Naples.— Ce recueil parait représenter assez fidèlement la<lb facs="P4_TL00052"/>noésie itahenne d'aujourd'hui. ( Toutefois j'ai été surpris de n y point rencontrer le bon<lb facs="P4_TL00053"/>poète Cantarelli ). Je ne puis faire ici une analyse complète de ce livre assez gros, je note<lb facs="P4_TL00054"/>rai seulement quelques remarques générales : les poètes italiens ne me paraissent pas su -<lb facs="P4_TL00055"/>tîsaminent dégagés du côté " frisé les poètes italiens me paraissent encore sous la domi<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00056"/>naUon du petlmisme ; les poètes italiens ne me paraissent pas désireux d'aller vers la<lb facs="P4_TL00057"/>concentration et la concision, je ne trouve qu à de très rares exceptions 1 esprit veiitab e<lb facs="P4_TL00058"/>ment noétiaue c'est à dire l'esprit de création; et enfin l'humain est oublié. Parmi les cho<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00059"/>ses que je dis à propos de la Raccolta bon nombre pourrait être considéré comme la suite<lb facs="P4_TL00060"/>de cette note un peu sèche mais animée de la meilleure amitié confrateine e.<lb facs="P4_TL00061"/>ui]n istituto per suicidi" de Gilbert Clavel et "Imbottigliatura" de Primo Conti.<lb facs="P4_TL00062"/>Nous avons reçu ces deux livres dont il nous est impossible de parler dans ce numéro<lb facs="P4_TL00063"/>faute de place.</ab>
+                                       xmlns:mods="http://www.loc.gov/mods/v3" facs="P4_TB00001">
+                                       <lb facs="P4_TL00001"/>L'Horizon — Secteur 12.— J'en ai reçu
+                                       plusieurs de ces journaux de tranchées, hélas on<lb
+                                          facs="P4_TL00002"/>ne peut jamais rien en dire. Celui-ci a
+                                       de meilleures intentions puisqu'a côté de choses à<lb
+                                          facs="P4_TL00003"/>passer j'en ai trouvé une à lire. Cet
+                                       article a pour titre " l'Art et la guerre " ( dans le n°
+                                          11)<lb facs="P4_TL00004"/>Cet article il faut bien le dire
+                                       est surtout constitué par une citation empruntée à une
+                                          étude<lb facs="P4_TL00005"/>de Félix Yalloton — étude que
+                                       je n'ai jamais eu le plaisir de recevoir — mais je félicite
+                                          Mr<lb facs="P4_TL00006"/>S. d'avoir mis cette bonne page à
+                                       l'Horizon et je souhaite qiril se plaise à en glisser d'au<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P4_TL00007"/>tres de même intérêt.<lb
+                                          facs="P4_TL00008"/>Vellinou — Barcelone. —Je n'ai encore
+                                       jamais rien dit de cette publication parce qu'el<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P4_TL00009"/>le est plutôt " vell " que non mais je
+                                       veux une fois au moins remercier la direction qui<lb
+                                          facs="P4_TL00010"/>m'en fait l'envoi très régulier et lui
+                                       dire ici que j'ai beaucoup de joie à contempler les re<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P4_TL00011"/>productions de ces grandes œuvres de
+                                       jadis que m'apporte presque chacun des numéros<lb
+                                          facs="P4_TL00012"/>de cette revue et que bien souvent if
+                                       m'arrive de feuilleter la très belle collection qu'elle<lb
+                                          facs="P4_TL00013"/>constitue déjà.<lb facs="P4_TL00014"
+                                       />La Bevista. — Barcelone. — Je reçois régulièrement cette
+                                       docte revue qui s'est occupée<lb facs="P4_TL00015"/>mainte
+                                       fois de Sic intelligemment. Un très sympathique confrère
+                                       catalan qui va devenir<lb facs="P4_TL00016"/>mon
+                                       collaborateur régulier et s'occupera ici du mouvement de
+                                       Barcelone aura très certai<pc type="endhypen" pre="false"
+                                          >-</pc>
+                                       <lb facs="P4_TL00017"/>nement l'occasion de faire des
+                                       réflexions intéressantes à l'occasion des sérieuses études<lb
+                                          facs="P4_TL00018"/>publiées dans la Revista.<lb
+                                          facs="P4_TL00019"/>Trossos — Barcelone — Cette revue
+                                       fondée par J. M. Junoy (1) est maintenant dirigée par<lb
+                                          facs="P4_TL00020"/>J. Y. Foix. C'est a la vérité une
+                                       parente de Sic qui lui offre très sympathiquement le pain<lb
+                                          facs="P4_TL00021"/>et le sel. Sic est très heureux de cet
+                                       hommage rendu à son rude labeur et il se doit de di<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P4_TL00022"/>re ici que c'est à Barcelone, la ville
+                                       vivante, qu'il a trouvé le plus d'amis (ce mot pris dans<lb
+                                          facs="P4_TL00023"/>son sens propre ). Je regrette
+                                       seulement que les dessins publiés par " Trossos " ne s'har<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P4_TL00024"/>monisent point suffisamment avec
+                                       l'esprit qui anime la direction; l'un est quelque pe|<lb
+                                          facs="P4_TL00025"/>• impressionniste, les autres d'un
+                                       futurismocubisme un peu simpliste. De plus Sic serai<lb
+                                          facs="P4_TL00026"/>heureux de voir une indication
+                                       d'origine devant les morceaux qu'il plaît à Trossos de re<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P4_TL00027"/>produire ou de traduire. Nous espérons
+                                       vivement pour l'art et pour Barcelone que cette<lb
+                                          facs="P4_TL00028"/>revue aura longue et régulière vie.<lb
+                                          facs="P4_TL00029"/>El Garni: Barcelone— Encore une preuve
+                                       de la brillante activité catalane. Les excellen<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P4_TL00030"/>tes intentions de cette revue ne me
+                                       paraissent pas douteuses, la direction pressent certai<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P4_TL00031"/>nement la vérité, mais jusqu'à présent
+                                       j'y vois de regrettables hésitations que trahit un<lb
+                                          facs="P4_TL00032"/>certain éclectisme redoutable. Etre ou
+                                       ne pas être. Nous devons, si nous voulons faire<lb
+                                          facs="P4_TL00033"/>quelque chose de grand, avoir une
+                                       opinion nette, confiante, laissons à la sagesse sénile le<lb
+                                          facs="P4_TL00034"/>mol éclectisme qui est nettement
+                                       négatif. Messieurs " d'El Cami " prenez le chemin et en<lb
+                                          facs="P4_TL00035"/>route.<lb facs="P4_TL00036"/>Iberia
+                                       Barcelone— Publication correspondant à peu près à nos "
+                                       journaux illustrés<lb facs="P4_TL00037"/>Mais tandis que les
+                                       nôtres demeurent de vagues et obtus magazines, " Iberia
+                                       s'occupe de<lb facs="P4_TL00038"/>Nord-Sud, de Sic, de
+                                       l'Elan, et s'en occupe non pas pour avoir le plaisir de
+                                       sortir quelques<lb facs="P4_TL00039"/>plaisanteries usinières
+                                       mais pour les étudier. Les commentaires sont inutiles, les
+                                          incuiables<lb facs="P4_TL00040"/>ici sont innombrables :
+                                       constatons-le une fois de plus.<lb facs="P4_TL00041"/>La
+                                       Raccolta Bologne. — Nouvelle r<lb facs="P4_TL00042"/>, . Il*
+                                       I • • | r Ai «rvm» mA<lb facs="P4_TL00043"/>deux numéros
+                                       parus j'incline à penser que cette publication aura un
+                                       intérêt car elle sem<pc type="endhypen" pre="false">-</pc>
+                                       <lb facs="P4_TL00044"/>ble à la fois vouloir être réellement
+                                       moderne et laisser a ses ébats le bruyant iutuiisme,<lb
+                                          facs="P4_TL00045"/>nui fut une réaction nécessaire en
+                                       Italie et peut mener loin à condition de le laisser en<lb
+                                          facs="P4_TL00046"/>route et il nie paraît que
+                                       particulièrement des esprits tels que G. de Chirico et A.
+                                          Savinio<lb facs="P4_TL00047"/>sont destinés à orienter le
+                                       mouvement artistique italien vers une période d art plus
+                                          simple,<lb facs="P4_TL00048"/>nlus humain, plus grand, se
+                                       rapprochant de l'orientation classique française. Il faut a 1
+                                          Ita<pc type="endhypen" pre="false">-</pc>
+                                       <lb facs="P4_TL00049"/>lie un organe puissant et calme
+                                       capable d'amener les artistes à œuvrer silencieusement. Je<lb
+                                          facs="P4_TL00050"/>souhaite à la Raccolta de devenir cet
+                                          organe.<lb facs="P4_TL00051"/>Antoloeia délia
+                                       Diana—Naples.— Ce recueil parait représenter assez fidèlement
+                                          la<lb facs="P4_TL00052"/>noésie itahenne d'aujourd'hui. (
+                                       Toutefois j'ai été surpris de n y point rencontrer le bon<lb
+                                          facs="P4_TL00053"/>poète Cantarelli ). Je ne puis faire
+                                       ici une analyse complète de ce livre assez gros, je note<lb
+                                          facs="P4_TL00054"/>rai seulement quelques remarques
+                                       générales : les poètes italiens ne me paraissent pas su -<lb
+                                          facs="P4_TL00055"/>tîsaminent dégagés du côté " frisé les
+                                       poètes italiens me paraissent encore sous la domi<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P4_TL00056"/>naUon du petlmisme ; les poètes
+                                       italiens ne me paraissent pas désireux d'aller vers la<lb
+                                          facs="P4_TL00057"/>concentration et la concision, je ne
+                                       trouve qu à de très rares exceptions 1 esprit veiitab e<lb
+                                          facs="P4_TL00058"/>ment noétiaue c'est à dire l'esprit de
+                                       création; et enfin l'humain est oublié. Parmi les cho<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P4_TL00059"/>ses que je dis à propos de la Raccolta
+                                       bon nombre pourrait être considéré comme la suite<lb
+                                          facs="P4_TL00060"/>de cette note un peu sèche mais animée
+                                       de la meilleure amitié confrateine e.<lb facs="P4_TL00061"
+                                       />ui]n istituto per suicidi" de Gilbert Clavel et
+                                       "Imbottigliatura" de Primo Conti.<lb facs="P4_TL00062"/>Nous
+                                       avons reçu ces deux livres dont il nous est impossible de
+                                       parler dans ce numéro<lb facs="P4_TL00063"/>faute de
+                                       place.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
                                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                                        xmlns:mods="http://www.loc.gov/mods/v3"
-                                        facs="P4_TB00002">
-                                       <lb facs="P4_TL00064"/>(1) L'auteur de "Guynemer" une très belle idée de poète qui fat appréciée en France et ailleurs,</ab>
+                                       xmlns:mods="http://www.loc.gov/mods/v3" facs="P4_TB00002">
+                                       <lb facs="P4_TL00064"/>(1) L'auteur de "Guynemer" une très
+                                       belle idée de poète qui fat appréciée en France et
+                                       ailleurs,</ab>
                                  </div>
                               </div>
                            </div>
@@ -415,8 +751,7 @@
                   <div type="TextContent" corresp="c005">
                      <div type="Head">
                         <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                            xmlns:mods="http://www.loc.gov/mods/v3"
-                            facs="P5_TB00001">
+                           xmlns:mods="http://www.loc.gov/mods/v3" facs="P5_TB00001">
                            <lb facs="P5_TL00001"/>RÉFLEXIONS.</ab>
                      </div>
                      <div type="TextContent" corresp="c006">
@@ -425,10 +760,20 @@
                               <div type="Paragraph">
                                  <div type="Text">
                                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                                        xmlns:mods="http://www.loc.gov/mods/v3"
-                                        facs="P5_TB00002">
-                                       <lb facs="P5_TL00002"/>I<lb facs="P5_TL00003"/>JL • ;<lb facs="P5_TL00004"/>\ . . ■_ • ■ ' . . /<lb facs="P5_TL00005"/>'<lb facs="P5_TL00006"/>L'Art commence où finit l'imitation.<lb facs="P5_TL00007"/>II.<lb facs="P5_TL00008"/>JT '<lb facs="P5_TL00009"/>Comment, Monsieur, vous ne portez pas per<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P5_TL00010"/>ruque, habit bleu et jabot! Vous riez? — Et<lb facs="P5_TL00011"/>vous ne riez pas de vous voir en complet<lb facs="P5_TL00012"/>veston assis dans votre BERGERE?<lb facs="P5_TL00013"/>»<lb facs="P5_TL00014"/>m.<lb facs="P5_TL00015"/>Le mieux est l'ennemi de l'Art.</ab>
+                                       xmlns:mods="http://www.loc.gov/mods/v3" facs="P5_TB00002">
+                                       <lb facs="P5_TL00002"/>I<lb facs="P5_TL00003"/>JL • ;<lb
+                                          facs="P5_TL00004"/>\ . . ■_ • ■ ' . . /<lb
+                                          facs="P5_TL00005"/>'<lb facs="P5_TL00006"/>L'Art commence
+                                       où finit l'imitation.<lb facs="P5_TL00007"/>II.<lb
+                                          facs="P5_TL00008"/>JT '<lb facs="P5_TL00009"/>Comment,
+                                       Monsieur, vous ne portez pas per<pc type="endhypen"
+                                          pre="false">-</pc>
+                                       <lb facs="P5_TL00010"/>ruque, habit bleu et jabot! Vous riez?
+                                       — Et<lb facs="P5_TL00011"/>vous ne riez pas de vous voir en
+                                          complet<lb facs="P5_TL00012"/>veston assis dans votre
+                                          BERGERE?<lb facs="P5_TL00013"/>»<lb facs="P5_TL00014"
+                                          />m.<lb facs="P5_TL00015"/>Le mieux est l'ennemi de
+                                       l'Art.</ab>
                                  </div>
                               </div>
                            </div>
@@ -439,23 +784,20 @@
                      <div type="Image"/>
                      <div type="Caption">
                         <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                            xmlns:mods="http://www.loc.gov/mods/v3"
-                            facs="P6_TB00001">
+                           xmlns:mods="http://www.loc.gov/mods/v3" facs="P6_TB00001">
                            <lb facs="P6_TL00001"/>LE BRACELET</ab>
                      </div>
                   </div>
                   <div type="TextContent" corresp="c008">
                      <div type="Head">
                         <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                            xmlns:mods="http://www.loc.gov/mods/v3"
-                            facs="P7_TB00001">
+                           xmlns:mods="http://www.loc.gov/mods/v3" facs="P7_TB00001">
                            <lb facs="P7_TL00001"/>UN POÈME</ab>
                      </div>
                      <div type="TextContent" corresp="c009">
                         <div type="Head">
                            <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                               xmlns:mods="http://www.loc.gov/mods/v3"
-                               facs="P7_TB00002">
+                              xmlns:mods="http://www.loc.gov/mods/v3" facs="P7_TB00002">
                               <lb facs="P7_TL00002"/>LA KOUAN INN BLEUE.</ab>
                         </div>
                         <div type="Copy">
@@ -463,19 +805,48 @@
                               <div type="Paragraph">
                                  <div type="Text">
                                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                                        xmlns:mods="http://www.loc.gov/mods/v3"
-                                        facs="P7_TB00003">
-                                       <lb facs="P7_TL00003"/>Assise sur tes talons, que fais-tu petite Kouan'inn bleue?<lb facs="P7_TL00004"/>Comme tu semblés attristée, et quel parfum contient le<lb facs="P7_TL00005"/>vase que tes mains portent?<lb facs="P7_TL00006"/>Peut-être 1 artiste qui fa formée a-t-il voulu mettre sur ton<lb facs="P7_TL00007"/>visage la tristesse humaine.<lb facs="P7_TL00008"/>Peut-être a-t-il voulu que tu sois limage de notre douleur<lb facs="P7_TL00009"/>et 1 Aimée de ceux qui souffrent.<lb facs="P7_TL00010"/>Peut-être dans le vase que tes mains portent a-t-il en<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P7_TL00011"/>fermé le parfum de la consolation.<lb facs="P7_TL00012"/>Non, non, petite Kouan'inn bleue, assise sur tes talons,<lb facs="P7_TL00013"/>\■(i ■ ■ $<lb facs="P7_TL00014"/>Je crois que celui qui t'a faite a cherché et trouvé toute<lb facs="P7_TL00015"/>sa joie dans la splendeur de ton bleu.</ab>
+                                       xmlns:mods="http://www.loc.gov/mods/v3" facs="P7_TB00003">
+                                       <lb facs="P7_TL00003"/>Assise sur tes talons, que fais-tu
+                                       petite Kouan'inn bleue?<lb facs="P7_TL00004"/>Comme tu
+                                       semblés attristée, et quel parfum contient le<lb
+                                          facs="P7_TL00005"/>vase que tes mains portent?<lb
+                                          facs="P7_TL00006"/>Peut-être 1 artiste qui fa formée
+                                       a-t-il voulu mettre sur ton<lb facs="P7_TL00007"/>visage la
+                                       tristesse humaine.<lb facs="P7_TL00008"/>Peut-être a-t-il
+                                       voulu que tu sois limage de notre douleur<lb
+                                          facs="P7_TL00009"/>et 1 Aimée de ceux qui souffrent.<lb
+                                          facs="P7_TL00010"/>Peut-être dans le vase que tes mains
+                                       portent a-t-il en<pc type="endhypen" pre="false">-</pc>
+                                       <lb facs="P7_TL00011"/>fermé le parfum de la consolation.<lb
+                                          facs="P7_TL00012"/>Non, non, petite Kouan'inn bleue,
+                                       assise sur tes talons,<lb facs="P7_TL00013"/>\■(i ■ ■ $<lb
+                                          facs="P7_TL00014"/>Je crois que celui qui t'a faite a
+                                       cherché et trouvé toute<lb facs="P7_TL00015"/>sa joie dans la
+                                       splendeur de ton bleu.</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
                                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                                        xmlns:mods="http://www.loc.gov/mods/v3"
-                                        facs="P8_TB00001">
-                                       <lb facs="P8_TL00001"/>IV.<lb facs="P8_TL00002"/>En cour d'assise un savant s'écriait: «De l'ar<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00003"/>senic, il y en a partout, j'en trouverais dans<lb facs="P8_TL00004"/>le bras de ce fauteuil!» Comme l'arsenic la<lb facs="P8_TL00005"/>beauté est partout, excepté dans la plupart<lb facs="P8_TL00006"/>des «ŒUVRES D'ART».<lb facs="P8_TL00007"/>V.<lb facs="P8_TL00008"/>La technique en Art me fait un peu l'effet<lb facs="P8_TL00009"/>de la raison dans l'amour.<lb facs="P8_TL00010"/>VI.<lb facs="P8_TL00011"/>Rien n'égale notre orgueil si ce n'est notre<lb facs="P8_TL00012"/>modestie. Nous n'avons d'admiration que<lb facs="P8_TL00013"/>pour ce que les autres ont fait AUTREFOIS.<lb facs="P8_TL00014"/>VII.<lb facs="P8_TL00015"/>La spécialisation pour l'artiste c'est 1 oeillère<lb facs="P8_TL00016"/>pour les chevaux. SUPPRIMONS L'ŒILLÈRE!</ab>
+                                       xmlns:mods="http://www.loc.gov/mods/v3" facs="P8_TB00001">
+                                       <lb facs="P8_TL00001"/>IV.<lb facs="P8_TL00002"/>En cour
+                                       d'assise un savant s'écriait: «De l'ar<pc type="endhypen"
+                                          pre="false">-</pc>
+                                       <lb facs="P8_TL00003"/>senic, il y en a partout, j'en
+                                       trouverais dans<lb facs="P8_TL00004"/>le bras de ce
+                                       fauteuil!» Comme l'arsenic la<lb facs="P8_TL00005"/>beauté
+                                       est partout, excepté dans la plupart<lb facs="P8_TL00006"
+                                       />des «ŒUVRES D'ART».<lb facs="P8_TL00007"/>V.<lb
+                                          facs="P8_TL00008"/>La technique en Art me fait un peu
+                                          l'effet<lb facs="P8_TL00009"/>de la raison dans
+                                          l'amour.<lb facs="P8_TL00010"/>VI.<lb facs="P8_TL00011"
+                                       />Rien n'égale notre orgueil si ce n'est notre<lb
+                                          facs="P8_TL00012"/>modestie. Nous n'avons d'admiration
+                                          que<lb facs="P8_TL00013"/>pour ce que les autres ont fait
+                                          AUTREFOIS.<lb facs="P8_TL00014"/>VII.<lb facs="P8_TL00015"
+                                       />La spécialisation pour l'artiste c'est 1 oeillère<lb
+                                          facs="P8_TL00016"/>pour les chevaux. SUPPRIMONS
+                                       L'ŒILLÈRE!</ab>
                                  </div>
                               </div>
                            </div>
@@ -485,8 +856,7 @@
                   <div type="TextContent" corresp="c010">
                      <div type="Head">
                         <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                            xmlns:mods="http://www.loc.gov/mods/v3"
-                            facs="P9_TB00001">
+                           xmlns:mods="http://www.loc.gov/mods/v3" facs="P9_TB00001">
                            <lb facs="P9_TL00001"/>ETC...</ab>
                      </div>
                      <div type="TextContent" corresp="c011">
@@ -495,15 +865,74 @@
                               <div type="Paragraph">
                                  <div type="Text">
                                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                                        xmlns:mods="http://www.loc.gov/mods/v3"
-                                        facs="P9_TB00002">
-                                       <lb facs="P9_TL00002"/>LETTRES. Oui, nous sommes d'accord, il y a de fort belles choses dans Claudel, malheureusement c'est<lb facs="P9_TL00003"/>bien vieux. Cette inspiration parfois biblique, parfois chrétienne, parfois bondieu s'arde = anachron<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P9_TL00004"/>isme -f- anachronisme -j- anachronisme. Claudel est un beau poète d'avant-hier, nous voudrions<lb facs="P9_TL00005"/>bien faire la connaissance d'un poète d'aujourd'hui.<lb facs="P9_TL00006"/>MUSIQUE. Les Français constituent le seul peuple qui ne puisse vivre en paix s'il n'a au cœur quelque<lb facs="P9_TL00007"/>béguin qui ne soit pas français. En fin de compte cette étrangigite aigûe originelle lui fait <lb facs="P9_TL00008"/>mais bien coupable serait celui qui même par un détour, nous ramènerait au doux italianisme.<lb facs="P9_TL00009"/>THEATRE. Pour avoir quelque chose à dire nous avons bien peur d'être obligé d'attendre la réouver<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P9_TL00010"/>ture du Vieux-Colombier, toutefois nous ne savons pas tout, peut-être que quelque part des ten<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P9_TL00011"/>tatives se font, des œuvres nouvelles s'élaborent, nous ne demandons qu'à pouvoir en parler.<lb facs="P9_TL00012"/>ARCHITECTURE. Ouf! la cathédrale ne sera pas reconstruite, et Reims quand même gardera le sou<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P9_TL00013"/>rire, et pendant des siècles les hommes de la terre viendront voir ce qui n'existe plus; et les<lb facs="P9_TL00014"/>architectes de l'école le reconstitueront...<lb facs="P9_TL00015"/>SCULPTURE. Alerte, Alerte! on dit, j'ai ouï dire, discitur, qu'on a déjà commandé des monuments:<lb facs="P9_TL00016"/>«Aux soldats morts pour la Patrie.&gt; Un socle, le Droit devant, le Devoir derrière, un soldat tom<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P9_TL00017"/>/ bant dans les bras de la France dessus.<lb facs="P9_TL00018"/>Je vous en prie mes amis inconnus croisons la baïonnete, nous ne méritons pas ça et EUX non<lb facs="P9_TL00019"/>plus. Souvenons-nous de 70!<lb facs="P9_TL00020"/>PEINTURE. Y'a bon, y'a bon! nous connaissons un éditeur malin qui s'était dit: Tous ces faiseurs<lb facs="P9_TL00021"/>d'estampes qui ne savent pas dessiner je ne veux pas de ça, il n'y a que la belle gravure qui se<lb facs="P9_TL00022"/>vende. Et il commanda tout une série de tableaux touchants à un hors concours du salon d'hiver<lb facs="P9_TL00023"/>Pauv' type! tout son tirage est empilé chez lui; le public n'a voulu que les estampes mal dessinées*<lb facs="P9_TL00024"/>Pas très fameuses ces estampes, je le sais, mais tout même y'a bon, y'a bon!<lb facs="P9_TL00025"/>MEUBLE &amp; DECORATION. Tout va bien. Regardez autour de vous, cherchez ce que l'on pense, voyez<lb facs="P9_TL00026"/>ce que l'on fait, et vous reconnaîtrez avec joie les indices certains de la fin très prochaine de l'é<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P9_TL00027"/>pidémie du «Style * Après la guerre on n'achètera plus une seule salle-à-manger Henri II; et pour<lb facs="P9_TL00028"/>parer à la déconfiture qui pourrait s'en suivre dans le «faubourg Antoine», on dit même qu'un<lb facs="P9_TL00029"/>groupe de philantropes s'occupe de réunir d'importants capitaux afin d'acheter fous les stocks en<lb facs="P9_TL00030"/>magasins que l'Assistance publique distribuerait généreusement l'hiver prochain sous forme de<lb facs="P9_TL00031"/>cotrets, et de bûches. Ce serait l'œuvre de la Bâche de Style.<lb facs="P9_TL00032"/>MODE. Le costume fait nettement partie de la section des arts. Nous étudierons les robes et les<lb facs="P9_TL00033"/>chapeaux en artistes si les couturiers et les modistes veulent bien nous faciliter cette étude.</ab>
+                                       xmlns:mods="http://www.loc.gov/mods/v3" facs="P9_TB00002">
+                                       <lb facs="P9_TL00002"/>LETTRES. Oui, nous sommes d'accord, il
+                                       y a de fort belles choses dans Claudel, malheureusement
+                                          c'est<lb facs="P9_TL00003"/>bien vieux. Cette inspiration
+                                       parfois biblique, parfois chrétienne, parfois bondieu s'arde
+                                       = anachron<pc type="endhypen" pre="false">-</pc>
+                                       <lb facs="P9_TL00004"/>isme -f- anachronisme -j-
+                                       anachronisme. Claudel est un beau poète d'avant-hier, nous
+                                          voudrions<lb facs="P9_TL00005"/>bien faire la connaissance
+                                       d'un poète d'aujourd'hui.<lb facs="P9_TL00006"/>MUSIQUE. Les
+                                       Français constituent le seul peuple qui ne puisse vivre en
+                                       paix s'il n'a au cœur quelque<lb facs="P9_TL00007"/>béguin
+                                       qui ne soit pas français. En fin de compte cette étrangigite
+                                       aigûe originelle lui fait <lb facs="P9_TL00008"/>mais bien
+                                       coupable serait celui qui même par un détour, nous ramènerait
+                                       au doux italianisme.<lb facs="P9_TL00009"/>THEATRE. Pour
+                                       avoir quelque chose à dire nous avons bien peur d'être obligé
+                                       d'attendre la réouver<pc type="endhypen" pre="false">-</pc>
+                                       <lb facs="P9_TL00010"/>ture du Vieux-Colombier, toutefois
+                                       nous ne savons pas tout, peut-être que quelque part des
+                                          ten<pc type="endhypen" pre="false">-</pc>
+                                       <lb facs="P9_TL00011"/>tatives se font, des œuvres nouvelles
+                                       s'élaborent, nous ne demandons qu'à pouvoir en parler.<lb
+                                          facs="P9_TL00012"/>ARCHITECTURE. Ouf! la cathédrale ne
+                                       sera pas reconstruite, et Reims quand même gardera le sou<pc
+                                          type="endhypen" pre="false">-</pc>
+                                       <lb facs="P9_TL00013"/>rire, et pendant des siècles les
+                                       hommes de la terre viendront voir ce qui n'existe plus; et
+                                          les<lb facs="P9_TL00014"/>architectes de l'école le
+                                          reconstitueront...<lb facs="P9_TL00015"/>SCULPTURE.
+                                       Alerte, Alerte! on dit, j'ai ouï dire, discitur, qu'on a déjà
+                                       commandé des monuments:<lb facs="P9_TL00016"/>«Aux soldats
+                                       morts pour la Patrie.&gt; Un socle, le Droit devant, le
+                                       Devoir derrière, un soldat tom<pc type="endhypen" pre="false"
+                                          >-</pc>
+                                       <lb facs="P9_TL00017"/>/ bant dans les bras de la France
+                                          dessus.<lb facs="P9_TL00018"/>Je vous en prie mes amis
+                                       inconnus croisons la baïonnete, nous ne méritons pas ça et
+                                       EUX non<lb facs="P9_TL00019"/>plus. Souvenons-nous de 70!<lb
+                                          facs="P9_TL00020"/>PEINTURE. Y'a bon, y'a bon! nous
+                                       connaissons un éditeur malin qui s'était dit: Tous ces
+                                          faiseurs<lb facs="P9_TL00021"/>d'estampes qui ne savent
+                                       pas dessiner je ne veux pas de ça, il n'y a que la belle
+                                       gravure qui se<lb facs="P9_TL00022"/>vende. Et il commanda
+                                       tout une série de tableaux touchants à un hors concours du
+                                       salon d'hiver<lb facs="P9_TL00023"/>Pauv' type! tout son
+                                       tirage est empilé chez lui; le public n'a voulu que les
+                                       estampes mal dessinées*<lb facs="P9_TL00024"/>Pas très
+                                       fameuses ces estampes, je le sais, mais tout même y'a bon,
+                                       y'a bon!<lb facs="P9_TL00025"/>MEUBLE &amp; DECORATION. Tout
+                                       va bien. Regardez autour de vous, cherchez ce que l'on pense,
+                                          voyez<lb facs="P9_TL00026"/>ce que l'on fait, et vous
+                                       reconnaîtrez avec joie les indices certains de la fin très
+                                       prochaine de l'é<pc type="endhypen" pre="false">-</pc>
+                                       <lb facs="P9_TL00027"/>pidémie du «Style * Après la guerre on
+                                       n'achètera plus une seule salle-à-manger Henri II; et pour<lb
+                                          facs="P9_TL00028"/>parer à la déconfiture qui pourrait
+                                       s'en suivre dans le «faubourg Antoine», on dit même qu'un<lb
+                                          facs="P9_TL00029"/>groupe de philantropes s'occupe de
+                                       réunir d'importants capitaux afin d'acheter fous les stocks
+                                          en<lb facs="P9_TL00030"/>magasins que l'Assistance
+                                       publique distribuerait généreusement l'hiver prochain sous
+                                       forme de<lb facs="P9_TL00031"/>cotrets, et de bûches. Ce
+                                       serait l'œuvre de la Bâche de Style.<lb facs="P9_TL00032"
+                                       />MODE. Le costume fait nettement partie de la section des
+                                       arts. Nous étudierons les robes et les<lb facs="P9_TL00033"
+                                       />chapeaux en artistes si les couturiers et les modistes
+                                       veulent bien nous faciliter cette étude.</ab>
                                  </div>
                               </div>
                            </div>
@@ -513,8 +942,7 @@
                   <div type="TextContent" corresp="c012">
                      <div type="Head">
                         <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                            xmlns:mods="http://www.loc.gov/mods/v3"
-                            facs="P9_TB00003">
+                           xmlns:mods="http://www.loc.gov/mods/v3" facs="P9_TB00003">
                            <lb facs="P9_TL00034"/>?</ab>
                      </div>
                      <div type="Copy">
@@ -522,9 +950,13 @@
                            <div type="Paragraph">
                               <div type="Text">
                                  <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                                     xmlns:mods="http://www.loc.gov/mods/v3"
-                                     facs="P9_TB00004">
-                                    <lb facs="P9_TL00035"/>Afin d'avoir quelques données au sujet de t'influence que la guerre pourra exercer sur l'art, „ SIC " serait<lb facs="P9_TL00036"/>heureux que ses lecteurs mobilisés veuillent bien lui exposer leurs idées sur cette question. {Les réponses très<lb facs="P9_TL00037"/>concises ne doivent pas dépasser 5 lignes).</ab>
+                                    xmlns:mods="http://www.loc.gov/mods/v3" facs="P9_TB00004">
+                                    <lb facs="P9_TL00035"/>Afin d'avoir quelques données au sujet de
+                                    t'influence que la guerre pourra exercer sur l'art, „ SIC "
+                                       serait<lb facs="P9_TL00036"/>heureux que ses lecteurs
+                                    mobilisés veuillent bien lui exposer leurs idées sur cette
+                                    question. {Les réponses très<lb facs="P9_TL00037"/>concises ne
+                                    doivent pas dépasser 5 lignes).</ab>
                               </div>
                            </div>
                         </div>
@@ -533,8 +965,7 @@
                   <div type="TextContent" corresp="c013">
                      <div type="Head">
                         <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                            xmlns:mods="http://www.loc.gov/mods/v3"
-                            facs="P10_TB00001">
+                           xmlns:mods="http://www.loc.gov/mods/v3" facs="P10_TB00001">
                            <lb facs="P10_TL00001"/>OPINION D'UN PEKIN</ab>
                      </div>
                      <div type="TextContent" corresp="c014">
@@ -543,17 +974,78 @@
                               <div type="Paragraph">
                                  <div type="Text">
                                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                                        xmlns:mods="http://www.loc.gov/mods/v3"
-                                        facs="P10_TB00002">
-                                       <lb facs="P10_TL00002"/>Lecteurs blasés,<lb facs="P10_TL00003"/>Rasés,<lb facs="P10_TL00004"/>Par tant de choses<lb facs="P10_TL00005"/>En prose,<lb facs="P10_TL00006"/>N'est-il pas bon qu'enfin un esprit de travers<lb facs="P10_TL00007"/>Jase<lb facs="P10_TL00008"/>Et vous rase<lb facs="P10_TL00009"/>En vers?<lb facs="P10_TL00010"/>Le poète a le pouvoir<lb facs="P10_TL00011"/>D'aimer sa fantaisie<lb facs="P10_TL00012"/>Et d'y voir »<lb facs="P10_TL00013"/>La poésie,<lb facs="P10_TL00014"/>Même en vers<lb facs="P10_TL00015"/>Très divers<lb facs="P10_TL00016"/>Qu'un sens rassis nie.<lb facs="P10_TL00017"/>Or<lb facs="P10_TL00018"/>D'autres mettront en strophes d'or<lb facs="P10_TL00019"/>D'académique harmonie<lb facs="P10_TL00020"/>Tous ces combats surhumains<lb facs="P10_TL00021"/>Des hommes et des Germains.<lb facs="P10_TL00022"/>Mais ma Muse,<lb facs="P10_TL00023"/>Nez au vent<lb facs="P10_TL00024"/>Muse<lb facs="P10_TL00025"/>Et court souvent,<lb facs="P10_TL00026"/>Et je m'use<lb facs="P10_TL00027"/>En la suivant;<lb facs="P10_TL00028"/>Elle est moqueuse,<lb facs="P10_TL00029"/>Parfois boiteuse,<lb facs="P10_TL00030"/>Et ne sait pas<lb facs="P10_TL00031"/>Deux vers de suite<lb facs="P10_TL00032"/>Marcher au pas,<lb facs="P10_TL00033"/>A sa poursuite<lb facs="P10_TL00034"/>Je suis toujours,<lb facs="P10_TL00035"/>Quand je cours<lb facs="P10_TL00036"/>Elle s'arrête,<lb facs="P10_TL00037"/>Quand je m'apprête<lb facs="P10_TL00038"/>A la saisir<lb facs="P10_TL00039"/>Elle s'entête<lb facs="P10_TL00040"/>A fuir</ab>
+                                       xmlns:mods="http://www.loc.gov/mods/v3" facs="P10_TB00002">
+                                       <lb facs="P10_TL00002"/>Lecteurs blasés,<lb
+                                          facs="P10_TL00003"/>Rasés,<lb facs="P10_TL00004"/>Par tant
+                                       de choses<lb facs="P10_TL00005"/>En prose,<lb
+                                          facs="P10_TL00006"/>N'est-il pas bon qu'enfin un esprit de
+                                          travers<lb facs="P10_TL00007"/>Jase<lb facs="P10_TL00008"
+                                       />Et vous rase<lb facs="P10_TL00009"/>En vers?<lb
+                                          facs="P10_TL00010"/>Le poète a le pouvoir<lb
+                                          facs="P10_TL00011"/>D'aimer sa fantaisie<lb
+                                          facs="P10_TL00012"/>Et d'y voir »<lb facs="P10_TL00013"
+                                       />La poésie,<lb facs="P10_TL00014"/>Même en vers<lb
+                                          facs="P10_TL00015"/>Très divers<lb facs="P10_TL00016"
+                                       />Qu'un sens rassis nie.<lb facs="P10_TL00017"/>Or<lb
+                                          facs="P10_TL00018"/>D'autres mettront en strophes d'or<lb
+                                          facs="P10_TL00019"/>D'académique harmonie<lb
+                                          facs="P10_TL00020"/>Tous ces combats surhumains<lb
+                                          facs="P10_TL00021"/>Des hommes et des Germains.<lb
+                                          facs="P10_TL00022"/>Mais ma Muse,<lb facs="P10_TL00023"
+                                       />Nez au vent<lb facs="P10_TL00024"/>Muse<lb
+                                          facs="P10_TL00025"/>Et court souvent,<lb
+                                          facs="P10_TL00026"/>Et je m'use<lb facs="P10_TL00027"/>En
+                                       la suivant;<lb facs="P10_TL00028"/>Elle est moqueuse,<lb
+                                          facs="P10_TL00029"/>Parfois boiteuse,<lb
+                                          facs="P10_TL00030"/>Et ne sait pas<lb facs="P10_TL00031"
+                                       />Deux vers de suite<lb facs="P10_TL00032"/>Marcher au
+                                          pas,<lb facs="P10_TL00033"/>A sa poursuite<lb
+                                          facs="P10_TL00034"/>Je suis toujours,<lb
+                                          facs="P10_TL00035"/>Quand je cours<lb facs="P10_TL00036"
+                                       />Elle s'arrête,<lb facs="P10_TL00037"/>Quand je m'apprête<lb
+                                          facs="P10_TL00038"/>A la saisir<lb facs="P10_TL00039"
+                                       />Elle s'entête<lb facs="P10_TL00040"/>A fuir</ab>
                                  </div>
                               </div>
                               <div type="Paragraph">
                                  <div type="Text">
                                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                                        xmlns:mods="http://www.loc.gov/mods/v3"
-                                        facs="P10_TB00003">
-                                       <lb facs="P10_TL00041"/>■■„ f i s■ ' \ !<lb facs="P10_TL00042"/>Et se paie à plaisir<lb facs="P10_TL00043"/>Ma tête.<lb facs="P10_TL00044"/>O grands soldats du droit, chevaliers de clarté,<lb facs="P10_TL00045"/>O morts auréolés, donneurs de liberté,<lb facs="P10_TL00046"/>Je ne serai pas votre chantre,<lb facs="P10_TL00047"/>Car vous voyez bien<lb facs="P10_TL00048"/>Que ma Muse n'a rien,<lb facs="P10_TL00049"/>Comme on dit, dans le ventre.<lb facs="P10_TL00050"/>Alors, me dira-t-on,<lb facs="P10_TL00051"/>Pourquoi prendre la plume<lb facs="P10_TL00052"/>Pour pondre sur le ton<lb facs="P10_TL00053"/>Des vers de mirliton<lb facs="P10_TL00054"/>Tout un volume! &gt;<lb facs="P10_TL00055"/>Amis, c'est vrai,<lb facs="P10_TL00056"/>Mirliton suis et je veux être,<lb facs="P10_TL00057"/>Et j'aurai<lb facs="P10_TL00058"/>Peut-être<lb facs="P10_TL00059"/>Vos<lb facs="P10_TL00060"/>Bravos<lb facs="P10_TL00061"/>Quand même. ,<lb facs="P10_TL00062"/>Si je parviens<lb facs="P10_TL00063"/>A ce qu'on m'aime,<lb facs="P10_TL00064"/>Allons ma Muse, viens! <lb facs="P10_TL00065"/>Vous trouverez qu'il est des heures<lb facs="P10_TL00066"/>Supérieures<lb facs="P10_TL00067"/>Où mieux vaudrait ouïr mirlitonner<lb facs="P10_TL00068"/>Que claironner,<lb facs="P10_TL00069"/>Et me direz chaque semaine:<lb facs="P10_TL00070"/>« Amène<lb facs="P10_TL00071"/>Ton<lb facs="P10_TL00072"/>Mirliton. »<lb facs="P10_TL00073"/>Tout y sera je vous jure<lb facs="P10_TL00074"/>Sans place et sans mesure,<lb facs="P10_TL00075"/>Tout en fouillis, tout au hasard,<lb facs="P10_TL00076"/>Comme au bazar,<lb facs="P10_TL00077"/>Et s'il arrive que j'imprime<lb facs="P10_TL00078"/>Jphrase vaine ou mot creux.<lb facs="P10_TL00079"/>Soyez grands et généreux:<lb facs="P10_TL00080"/>C'est pour la rime.</ab>
+                                       xmlns:mods="http://www.loc.gov/mods/v3" facs="P10_TB00003">
+                                       <lb facs="P10_TL00041"/>■■„ f i s■ ' \ !<lb
+                                          facs="P10_TL00042"/>Et se paie à plaisir<lb
+                                          facs="P10_TL00043"/>Ma tête.<lb facs="P10_TL00044"/>O
+                                       grands soldats du droit, chevaliers de clarté,<lb
+                                          facs="P10_TL00045"/>O morts auréolés, donneurs de
+                                          liberté,<lb facs="P10_TL00046"/>Je ne serai pas votre
+                                          chantre,<lb facs="P10_TL00047"/>Car vous voyez bien<lb
+                                          facs="P10_TL00048"/>Que ma Muse n'a rien,<lb
+                                          facs="P10_TL00049"/>Comme on dit, dans le ventre.<lb
+                                          facs="P10_TL00050"/>Alors, me dira-t-on,<lb
+                                          facs="P10_TL00051"/>Pourquoi prendre la plume<lb
+                                          facs="P10_TL00052"/>Pour pondre sur le ton<lb
+                                          facs="P10_TL00053"/>Des vers de mirliton<lb
+                                          facs="P10_TL00054"/>Tout un volume! &gt;<lb
+                                          facs="P10_TL00055"/>Amis, c'est vrai,<lb
+                                          facs="P10_TL00056"/>Mirliton suis et je veux être,<lb
+                                          facs="P10_TL00057"/>Et j'aurai<lb facs="P10_TL00058"
+                                          />Peut-être<lb facs="P10_TL00059"/>Vos<lb
+                                          facs="P10_TL00060"/>Bravos<lb facs="P10_TL00061"/>Quand
+                                       même. ,<lb facs="P10_TL00062"/>Si je parviens<lb
+                                          facs="P10_TL00063"/>A ce qu'on m'aime,<lb
+                                          facs="P10_TL00064"/>Allons ma Muse, viens! <lb
+                                          facs="P10_TL00065"/>Vous trouverez qu'il est des heures<lb
+                                          facs="P10_TL00066"/>Supérieures<lb facs="P10_TL00067"/>Où
+                                       mieux vaudrait ouïr mirlitonner<lb facs="P10_TL00068"/>Que
+                                          claironner,<lb facs="P10_TL00069"/>Et me direz chaque
+                                          semaine:<lb facs="P10_TL00070"/>« Amène<lb
+                                          facs="P10_TL00071"/>Ton<lb facs="P10_TL00072"/>Mirliton.
+                                          »<lb facs="P10_TL00073"/>Tout y sera je vous jure<lb
+                                          facs="P10_TL00074"/>Sans place et sans mesure,<lb
+                                          facs="P10_TL00075"/>Tout en fouillis, tout au hasard,<lb
+                                          facs="P10_TL00076"/>Comme au bazar,<lb facs="P10_TL00077"
+                                       />Et s'il arrive que j'imprime<lb facs="P10_TL00078"/>Jphrase
+                                       vaine ou mot creux.<lb facs="P10_TL00079"/>Soyez grands et
+                                          généreux:<lb facs="P10_TL00080"/>C'est pour la rime.</ab>
                                  </div>
                               </div>
                            </div>
