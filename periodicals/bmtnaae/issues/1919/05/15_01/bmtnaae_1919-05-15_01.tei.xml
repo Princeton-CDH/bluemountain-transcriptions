@@ -38,16 +38,17 @@
                   <material>Inside pages are variously white, red, blue, and orange</material>
                 </support>
                 <extent>
-                  <measure type="count" unit="page">
-                    <!-- the page count of the source document, not the digital edition -->
-                  </measure>
-                  <dimensions type="page" unit="cm">
-                    <height><!-- the height --></height>
-                    <width><!-- the width --></width>
-                  </dimensions>
+                  <measure unit="plate" type="count" quantity="6">6 plates</measure>
+                  <measure unit="advertising_page" type="count" quantity="1">1 page of advertisements</measure>
+                  <measure type="count" unit="leaf" quantity="36"> Each leaf consists of recto and verso </measure>
+                   <dimensions type="page" unit="cm">
+                   <height>26.3</height>
+                   <width>18.3</width>
+                   </dimensions> <measure></measure>
                 </extent>
+                
                 <foliation>
-                  <!-- Describe pagination: new pagination; continuous with previous issue; different schemes for ads and content, etc. -->
+                  Not paginated
                 </foliation>
               </supportDesc>
 
@@ -85,10 +86,9 @@
             </decoDesc>
 
             <bindingDesc>
-              <!-- What's known about the binding of this issue. What sort of covers? Perfect bound, staple bound, etc? 
-                   Did the publisher issue bound volumes? etc.-->
+              <p>Staple-bound, with glued in wrappers</p>
               <condition>
-                <!-- Note the condition of the covers here and if covers have been removed from current specimen. -->
+                wrappers are torn and taped along the spine
               </condition>
             </bindingDesc>
 
@@ -96,8 +96,16 @@
 
           <history>
             <summary>
-	      <p> The issue was published in two versions, one in
-	      German, and one in both German and French.</p>
+	      <p> The issue was published in two versions, one which included
+	      German contributions among French contributions, and one in which German contributions were replaced by French ones to avoid French censorship. .</p>
+              <p>Note at the back, under printer's name: il à été de cet ouvrage 38 exemplaires à part numérotés de 1 à 38 et contenant 2 bois originaux de Arp</p>
+              <p>In addition to one commercial ad for a printer, the issue advertised Dada 3, 391 No. 8, and Picabia's Poésie ronron; address for correspondence given as 'Mouvement Dada, Zurich—Bahnhofstr. 63; also other chapbooks advertised; also advertises 'TNT' (a NYC Dada 'revue')</p>
+              <!--<p>Sold for
+                  <measureGrp type="salesprice">
+                  
+                 
+                  <measure unit="francs" quantity="4">4 francs</measure>
+                  </p>-->
             </summary>
             <provenance>
               <!--contains any descriptive or other information concerning a single
