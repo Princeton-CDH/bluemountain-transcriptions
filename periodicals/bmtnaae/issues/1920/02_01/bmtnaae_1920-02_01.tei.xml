@@ -35,19 +35,19 @@
             <objectDesc form="codex">
               <supportDesc material="paper">
                 <support>
-                  <material><!-- describe paper --></material>
+                  <material>newspaper stock paper</material>
                 </support>
                 <extent>
-                  <measure type="count" unit="page">
-                    <!-- the page count of the source document, not the digital edition -->
+                  <measure type="count" unit="page"> 4
+                    
                   </measure>
                   <dimensions type="page" unit="cm">
-                    <height><!-- the height --></height>
-                    <width><!-- the width --></width>
+                    <height>37</height>
+                    <width>27.5</width>
                   </dimensions>
                 </extent>
                 <foliation>
-                  <!-- Describe pagination: new pagination; continuous with previous issue; different schemes for ads and content, etc. -->
+                  Unpaginated
                 </foliation>
               </supportDesc>
 
@@ -60,7 +60,7 @@
 		  arranged in blocks inside frames, sometimes
 		  horizontally, vertically, or diagonally.</p>
 		</layout>
-                <layout n="advertisements"></layout>
+                <layout n="advertisements inside boxed text"></layout>
               </layoutDesc>
             </objectDesc>
 
@@ -69,18 +69,18 @@
                 <p>Typefaces vary in size and color (red and black),
                 with text printed diagonally and over other text.</p>
               </summary>
-              <typeNote><!-- Use this element to describe note-worthy typographical features in detail. --></typeNote>
+              <typeNote>slab-serif typeface</typeNote>
             </typeDesc>
 
             <decoDesc>
-              <p><!-- Woodcuts; ornaments; etc.  --></p>
+              <p>One red manicule</p>
+              <p>Two illustrations, one black and white, one in color</p>
             </decoDesc>
 
             <bindingDesc>
-              <!-- What's known about the binding of this issue. What sort of covers? Perfect bound, staple bound, etc? 
-                   Did the publisher issue bound volumes? etc.-->
+              <p>no binding; one sheet of paper (folded in half)</p>
               <condition>
-                <!-- Note the condition of the covers here and if covers have been removed from current specimen. -->
+                fine
               </condition>
             </bindingDesc>
 
@@ -88,16 +88,12 @@
 
           <history>
             <summary>
-              <!-- Anything that didn't fit in the elements above.  In particular,
-                   if there is price information, uncomment the <p> element below and 
-                   capture the price following the model, adjusting units and quantities as 
-                   necessary. -->
+              Contains ads for other Dada magazines and for an upcoming Dada event (Grande Saison de La section d'or). Its whimsical layout, use of a printer's symbol (a manicule), and the slab-serif typeface on the cover evoke fairground or saloon aesthetic.
               <!--<p>Sold for
                   <measureGrp type="salesprice">
-                  <measure unit="dollars" quantity=".5">50 cents</measure>
-                  <measure unit="lire" quantity="10">10 lire</measure>
-                  <measure unit="francs" quantity="6">6 francs</measure>
-                  <measure unit="shillings" quantity="3/6">3/6</measure>
+                 
+                  <measure unit="francs" quantity="2">2 francs</measure>
+                 
                   </measureGrp>.</p>-->
             </summary>
             <provenance>
