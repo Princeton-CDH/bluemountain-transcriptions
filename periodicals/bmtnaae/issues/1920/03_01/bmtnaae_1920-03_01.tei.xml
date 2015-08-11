@@ -35,19 +35,19 @@
             <objectDesc form="codex">
               <supportDesc material="paper">
                 <support>
-                  <material><!-- describe paper --></material>
+                  <material>matt</material>
                 </support>
                 <extent>
                   <measure type="count" unit="page">
-                    <!-- the page count of the source document, not the digital edition -->
+                    8
                   </measure>
                   <dimensions type="page" unit="cm">
-                    <height><!-- the height --></height>
-                    <width><!-- the width --></width>
+                    <height>27.1</height>
+                    <width>19</width>
                   </dimensions>
                 </extent>
                 <foliation>
-                  <!-- Describe pagination: new pagination; continuous with previous issue; different schemes for ads and content, etc. -->
+                  Unpaginated
                 </foliation>
               </supportDesc>
 
@@ -71,14 +71,14 @@
             </typeDesc>
 
             <decoDesc>
-              <p><!-- Woodcuts; ornaments; etc.  --></p>
+              <p>Two black and white illustrations</p>
+              <p>Nine black and white photographs</p>
             </decoDesc>
 
             <bindingDesc>
-              <!-- What's known about the binding of this issue. What sort of covers? Perfect bound, staple bound, etc? 
-                   Did the publisher issue bound volumes? etc.-->
+              <p>Staple-bound</p>
               <condition>
-                <!-- Note the condition of the covers here and if covers have been removed from current specimen. -->
+                wrappers intact
               </condition>
             </bindingDesc>
 
@@ -86,16 +86,12 @@
 
           <history>
             <summary>
-              <!-- Anything that didn't fit in the elements above.  In particular,
-                   if there is price information, uncomment the <p> element below and 
-                   capture the price following the model, adjusting units and quantities as 
-                   necessary. -->
+              Issue advertises Dada exhibition (Galerie Dada), and other Dada-affiliated journals amd publications.
               <!--<p>Sold for
                   <measureGrp type="salesprice">
-                  <measure unit="dollars" quantity=".5">50 cents</measure>
-                  <measure unit="lire" quantity="10">10 lire</measure>
-                  <measure unit="francs" quantity="6">6 francs</measure>
-                  <measure unit="shillings" quantity="3/6">3/6</measure>
+                  
+                  <measure unit="francs" quantity="1.50">1.50 francs</measure>
+                
                   </measureGrp>.</p>-->
             </summary>
             <provenance>
