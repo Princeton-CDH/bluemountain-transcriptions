@@ -30,6 +30,88 @@
             <title level="s">The Blue Mountain Project</title>
          </seriesStmt>
          <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Princeton University Library</institution>
+                  <!-- If the copy isn't from PUL, remove Princeton University
+                        Library from the <institution> element above and replace it with the
+                        institution owning the copy.-->
+               </msIdentifier>
+               
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="paper">
+                        <support>
+                           <material>handmade</material>
+                        </support>
+                        <extent>
+                           <measure type="count" unit="leaf" quantity="23">
+                              <!-- We measure extent in terms of leaves, including covers. -->
+                           </measure>
+                           <dimensions type="page" unit="cm">
+                              <height>22</height>
+                              <width>15.7</width>
+                           </dimensions>
+                        </extent>
+                        <foliation>
+                           pagination starts with p. 2 on 1v
+                        </foliation>
+                     </supportDesc>
+                     
+                     <layoutDesc>
+                       
+                        <layout><p>Most pages are laid out in one, two, or three columns with narrow margins.</p></layout>
+                        <layout><p>There is one cover logo, depicting a Venetian mask.</p></layout>
+                        <layout><p>Twelve illustrations, including reproduced images. Illustrations generally do not occupy full pages, except once. Only the reprocuded images carry a caption.</p></layout>
+                        <layout><p>There are two pages of advertisements; these are arranged in two columns, with hairline rules separating each ad.</p></layout>
+                        <layout><p>There are ten ornaments</p></layout>
+                        <layout><p>Text is aligned vertically on one page.</p></layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  
+                  <!-- Note only  -->
+                  <typeDesc>
+                     <summary>
+                        <p></p>
+                     </summary>
+                     <typeNote>Elzevir font</typeNote>
+                  </typeDesc>
+                  
+                  <decoDesc>
+                     <p><!-- Woodcuts; ornaments; etc.  --></p>
+                  </decoDesc>
+                  
+                  <bindingDesc>
+                     <!-- What's known about the binding of this issue. What sort of covers? Perfect bound, staple bound, etc? 
+                            Did the publisher issue bound volumes? etc.-->
+                     <condition>
+                        <!-- Note the condition of the covers here and if covers have been removed from current specimen. -->
+                     </condition>
+                  </bindingDesc>
+                  
+               </physDesc>
+               
+               <history>
+                  <summary>
+                     <!-- Anything that didn't fit in the elements above.  In particular,
+                            if there is price information, uncomment the <p> element below and 
+                            capture the price following the model, adjusting units and quantities as 
+                            necessary. -->
+                     <p>no price given</p>
+                  </summary>
+                  <provenance>
+                     <!--contains any descriptive or other information concerning a single
+                                identifiable episode during the history of the issue, 
+                                after its creation but before its acquisition  -->
+                  </provenance>
+                  
+                  <acquisition>
+                     <!-- Descriptive information about how the issue came to be acquired 
+                                by the holding institution -->
+                  </acquisition>
+               </history>
+               
+            </msDesc>
             <biblStruct>
                <monogr>
                   <title level="j">
