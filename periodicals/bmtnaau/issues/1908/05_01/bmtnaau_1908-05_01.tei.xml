@@ -30,6 +30,86 @@
             <title level="s">The Blue Mountain Project</title>
          </seriesStmt>
          <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Princeton University Library</institution>
+                  <!-- If the copy isn't from PUL, remove Princeton University
+                        Library from the <institution> element above and replace it with the
+                        institution owning the copy.-->
+               </msIdentifier>
+               
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="paper">
+                        <support>
+                           <material>handmade</material>
+                        </support>
+                        <extent>
+                           <measure type="count" unit="leaf" quantity="41">
+                              <!-- We measure extent in terms of leaves, including covers. -->
+                           </measure>
+                           <dimensions type="page" unit="cm">
+                              <height><!-- the height --></height>
+                              <width><!-- the width --></width>
+                           </dimensions>
+                        </extent>
+                        <foliation>
+                           Pagination starts with p. 96 on 6v; pagination continues from previous issue.
+                        </foliation>
+                     </supportDesc>
+                     
+                     <layoutDesc>
+                        <!-- Describe general layout of pages. E.g., number of columns; presence of running heads; presence of
+                                distinctive ornaments (save description of ornaments for the <decoDesc> section), etc.  
+                                If there are several distinct types of pages, use separate <layout> elements
+                                to describe them.-->
+                        <layout><p>Pages are laid out in one, two, or three columns with narrow margins.</p></layout>
+                        <layout><p>There are 40 illustrations and 12 ornaments. Illustrations do not occupy full pages, plates, however, do. All plates, and some illustrations, contain a title and a caption below.</p></layout>
+                        <layout><p>The issue contains 16 pages of advertising, including ads for the Mask itself and the editor's woodcut sales.</p></layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  
+                  <!-- Note only  -->
+                  <typeDesc>
+                     <summary>
+                        <p>Mention only remarkable or unusual typographic features (unless you are a specialist in typography. Otherwise, leave this section empty (i.e., delete this text).</p>
+                     </summary>
+                     <typeNote>Elzevir font</typeNote>
+                  </typeDesc>
+                  
+                  <decoDesc>
+                     <p><!-- Woodcuts; ornaments; etc.  --></p>
+                  </decoDesc>
+                  
+                  <bindingDesc>
+                     <!-- What's known about the binding of this issue. What sort of covers? Perfect bound, staple bound, etc? 
+                            Did the publisher issue bound volumes? etc.-->
+                     <condition>
+                        <!-- Note the condition of the covers here and if covers have been removed from current specimen. -->
+                     </condition>
+                  </bindingDesc>
+                  
+               </physDesc>
+               
+               <history>
+                  <summary>
+                     <p>The annual subscription for the so-called popular edition was 10 shillings or 2.50 dollars.</p>
+                     <p>The annual subscription for the deluxe version was 20 shillings or 5 dollars.</p>
+                     <p>contains price and binding information for previous volumes.</p>
+                  </summary>
+                  <provenance>
+                     <!--contains any descriptive or other information concerning a single
+                                identifiable episode during the history of the issue, 
+                                after its creation but before its acquisition  -->
+                  </provenance>
+                  
+                  <acquisition>
+                     <!-- Descriptive information about how the issue came to be acquired 
+                                by the holding institution -->
+                  </acquisition>
+               </history>
+               
+            </msDesc>
             <biblStruct>
                <monogr>
                   <title level="j">
