@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -11,8 +12,9 @@
                      </title>
                      <imprint>
                         <biblScope unit="vol">2</biblScope>
-                        <biblScope unit="issue">19 20</biblScope>
-                        <date when="">Juillet-Août 1917</date>
+                        <biblScope unit="issue">19</biblScope>
+                     	<biblScope unit="issue">20</biblScope>
+                     	<date from-iso="1917-07" to-iso="1917-08">Juillet-Août 1917</date>  
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -105,11 +107,12 @@
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
-                  <imprint>
-                     <biblScope unit="vol">2</biblScope>
-                     <biblScope unit="issue">19 20</biblScope>
-                     <date when=""/>
-                  </imprint>
+               	<imprint>
+               		<biblScope unit="vol">2</biblScope>
+               		<biblScope unit="issue">19</biblScope>
+               		<biblScope unit="issue">20</biblScope>
+               		<date from-iso="1917-07" to-iso="1917-08">Juillet-Août 1917</date>  
+               	</imprint>
                </monogr>
                <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
                <relatedItem type="constituent" xml:id="c001">
@@ -232,7 +235,8 @@
                            <classCode scheme="CCS">Illustration</classCode>
                            <biblScope unit="page">10</biblScope>
                         </imprint>
-                     </monogr>Gravure sur bois de Chana Orloff</biblStruct>
+                     </monogr>
+                  	<note type="caption">Gravure sur bois de Chana Orloff</note></biblStruct>
                </relatedItem>
                <relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
