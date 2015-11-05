@@ -26,11 +26,67 @@
             <title level="s">The Blue Mountain Project</title>
          </seriesStmt>
          <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>Princeton University Library</institution>
+                  <repository>Department of Rare Books and Special Collections</repository>
+                  <idno>Oversize GAX 2007-0018E</idno>
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="paper">
+                        <support>
+                           <material>Regular edition paper</material>
+                        </support>
+                        <extent>
+                           <measure unit="page" type="count">4</measure>
+                           <dimensions type="page" unit="cm">
+                              <height>46.5</height>
+                              <width>31.8</width>
+                           </dimensions>
+                        </extent>
+                        <collation>four-page folded leaflet printed on both
+                           sides</collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>1 full page image on cover page by Marin (color)</layout>
+                        <layout>1 full page image (black and white)</layout>
+                        <layout>1 full page contains a poem printed with variable spacing within stanzas, with ellipses and a vertically and diagonally drawn line</layout>
+                        <layout>1 full page of text laid-out in two columns</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <typeDesc>
+                     <p>variable spacing, text in two columns</p>
+                  </typeDesc>
+                  <decoDesc>
+                     <p>logo 1, probably linocut</p>
+                  </decoDesc>
+                  <bindingDesc>
+                     <binding>
+                        <p>Unbound; no wrappers</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <p>Printed in regular and deluxe editions. Advertisement declares
+                     <quote>Special edition limited to one hundred autographed copies on
+                        special paper</quote>. Regular edition sold for <measure
+                           type="saleprice" unit="cents" quantity="10">10 cents</measure>;
+                     deluxe edition for <measure type="saleprice" unit="dollars" quantity="1"
+                        >1 dollar</measure>.</p>
+               </history>
+            </msDesc>
             <biblStruct>
                <monogr>
                   <title level="j">
                      <seg type="main">291</seg>
                   </title>
+                  <respStmt>
+                     <resp>edt</resp>
+                     <persName ref="http://viaf.org/viaf/37033179">Paul B.
+                        Haviland</persName>
+                     <persName ref="http://viaf.org/viaf/49231990">Alfred Stieglitz</persName>
+                  </respStmt>
                   <imprint>
                      <biblScope unit="issue">4</biblScope>
                      <date when="1915-06"/>
