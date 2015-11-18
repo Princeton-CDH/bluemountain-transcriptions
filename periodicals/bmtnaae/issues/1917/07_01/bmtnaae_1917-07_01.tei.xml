@@ -113,11 +113,28 @@
                      <seg type="main">Dada 1</seg>
                      <seg type="sub">Recueil littéraire et artistique</seg>
                   </title>
+                  <respStmt>
+                     <persName ref="http://viaf.org/viaf/29501079">M. Janco</persName>
+                     <resp>pbl</resp>
+                  </respStmt>
+                  <respStmt>
+                     <orgName>Imprimerie J. Heuberger</orgName>
+                     <resp>prt</resp>
+                  </respStmt>
+                  
+                  
                   <imprint>
                      <biblScope unit="vol">1</biblScope>
                      <biblScope unit="issue">1</biblScope>
+                     <pubPlace>
+                        <address>
+                  <addrLine>Zurich Rämistrasse 33</addrLine>
+                </address>
+                     </pubPlace>
+                    
                      <date when="1917-07"/>
                   </imprint>
+                  
                </monogr>
                <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaae"/>
                <relatedItem type="constituent" xml:id="c001">
