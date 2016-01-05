@@ -1,0 +1,492 @@
+<?xml version="1.0"?>
+<project basedir="." xmlns:xdb="http://exist-db.org/ant">
+  <description>Blue Mountain transcriptions ant tasks</description>
+  
+<!--  <property name="eXist_home" value="/opt/local/exist" /> -->
+  <property name="eXist_home" value="/opt/local/exist" />
+  
+  <typedef resource="org/exist/ant/antlib.xml" uri="http://exist-db.org/ant">
+    <classpath>
+      <fileset dir="${eXist_home}/lib/core">
+	<include name="*.jar" />
+      </fileset>
+      <pathelement location="${eXist_home}/exist.jar" />
+      <pathelement location="${eXist_home}/exist-optional.jar" />
+    </classpath>
+  </typedef>
+  
+  
+  <property name="xmldb.host" value="localhost" />
+  <property name="xmldb.port" value="8080" />
+  <property name="xmldb.user" value="admin" />
+  <property name="xmldb.passwd" value="admin" />
+  <property name="xmldb.url" value="xmldb:exist://${xmldb.host}:${xmldb.port}/exist/xmlrpc/db" />
+  <property name="xmldb.approot" value="${xmldb.url}/bmtn-data/transcriptions/periodicals" />
+
+  <property name="approot" value="/Users/cwulfman/repos/github/cwulfman/bluemountain-transcriptions/periodicals" />
+  
+  <target name="load-conf" description="load the Blue Mountain collection.xconf record">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.url}/system/config/db/bmtn-data/transcriptions/periodicals"
+	       createcollection="true">
+      <fileset dir="${approot}/db">
+	<include name="collection.xconf" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-all" description="load all titles" depends="load-bmtnaab, load-bmtnaac, load-bmtnaad, load-bmtnaae, load-bmtnaaf, load-bmtnaag, load-bmtnaai, load-bmtnaaj, load-bmtnaal, load-bmtnaam, load-bmtnaan, load-bmtnaao, load-bmtnaap, load-bmtnaaq, load-bmtnaar, load-bmtnaas, load-bmtnaat, load-bmtnaau, load-bmtnaav, load-bmtnaaw, load-bmtnaay, load-bmtnaaz, load-bmtnaba, load-bmtnabb, load-bmtnabc, load-bmtnabd, load-bmtnabg, load-bmtnabh, load-bmtnabi, load-bmtnabj, load-bmtnabk, load-bmtnabl, load-bmtnabm, load-bmtnabn"></target>
+
+  <target name="load-pilot" description="load pilot METS"
+	  depends="load-bmtnaad, load-bmtnaae, load-bmtnaaj, load-bmtnaao, load-bmtnaap, load-bmtnaau, load-bmtnaaz"/>
+
+  <target name="load-bmtnaab" description="load Action">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaab" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaab">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaac" description="load la cite">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaac" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaac">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaad" description="load Le Coeur a Barbe">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaad" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaad">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaae" description="load Dada">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaae" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaae">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaaf" description="load l'elan">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaaf" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaaf">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaag" description="load Klingen">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaag" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaag">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <!-- no bmtnaah -->
+
+  <target name="load-bmtnaai" description="load Poesia">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaai" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaai">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaaj" description="load Surrealisme">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaaj" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaaj">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <!-- no btnaak -->
+
+  <target name="load-bmtnaal" description="load Sturm-Buhne">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaal" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaal">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaam" description="load Veshch">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaam" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaam">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaan" description="load Volne Smery">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaan" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaan">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaao" description="load 291">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaao" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaao">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaap" description="load Broom">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaap" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaap">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaaq" description="load Bruno's Weekly">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaaq" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaaq">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaar" description="load East and West">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaar" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaar">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaas" description="load Les Entretiens">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaas" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaas">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaat" description="load The Glebe">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaat" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaat">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaau" description="load The Mask">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaau" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaau">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaav" description="load New Numbers">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaav" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaav">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaaw" description="load Nord-Sud">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaaw" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaaw">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaax" description="load Plowshare">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaax" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaax">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaay" description="load Secession">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaay" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaay">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaaz" description="load SIC">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaaz" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaaz">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnaba" description="load The Signature">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnaba" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnaba">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnabb" description="load Zeit-Echo">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnabb" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnabb">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnabc" description="load la Chronique musicale">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnabc" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnabc">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnabd" description="load Dalibor">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnabd" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnabd">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnabe" description="load Pan">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnabe" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnabe">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnabf" description="load Ver Sacrum">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnabf" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnabf">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnabg" description="load der Sturm">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnabg" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnabg">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnabh" description="load SIM">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnabh" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnabh">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnabi" description="load Niederrheinische Musik=Zeitung">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnabi" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnabi">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnabj" description="load la Revue Musicale">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnabj" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnabj">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnabk" description="load Umelecky">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnabk" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnabk">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnabl" description="load Proverbe">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnabl" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnabl">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnabm" description="load Nowa Sztuka">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnabm" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnabm">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+  <target name="load-bmtnabn" description="load Ultra">
+    <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
+	       uri="${xmldb.approot}/bmtnabn" createcollection="true"
+	       createsubcollections="true"
+	       type="xml"
+	       mimetypesfile="mime-types.xml">
+      <fileset dir="${approot}/bmtnabn">
+	<include name="**/*.tei.xml" />
+      </fileset>
+    </xdb:store>
+  </target>
+
+</project>
+
