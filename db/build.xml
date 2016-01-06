@@ -29,7 +29,7 @@
     <xdb:store user="${xmldb.user}" password="${xmldb.passwd}"
 	       uri="${xmldb.url}/system/config/db/bmtn-data/transcriptions/periodicals"
 	       createcollection="true">
-      <fileset dir="${approot}/db">
+      <fileset dir="${approot}/../db">
 	<include name="collection.xconf" />
       </fileset>
     </xdb:store>
