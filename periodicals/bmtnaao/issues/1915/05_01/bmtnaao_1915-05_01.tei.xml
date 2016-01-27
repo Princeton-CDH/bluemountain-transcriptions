@@ -80,17 +80,18 @@
 	    <title level="j">
 	      <seg type="main">291</seg>
 	    </title>
-	    <respStmt>
-	      <resp>edt</resp>
+	    <respStmt>      
 	      <persName ref="http://viaf.org/viaf/49231990">Alfred Stieglitz</persName>
+	      <resp>edt</resp>
 	    </respStmt>
 	    <imprint>
 	      <biblScope unit="issue">3</biblScope>
 	      <date when="1915-05"/>
-	      <respStmt>
-		<resp>pbl</resp>
-		<orgName><name>291 Gallery</name><address><addrLine>291, Fifth Avenue, New York, N.Y.</addrLine></address></orgName>
-	      </respStmt>
+	      <pubPlace>
+	        <address>
+                    <addrLine>291 Fifth Avenue, New York, N.Y.</addrLine>
+                  </address>
+	      </pubPlace>
 	    </imprint>
 	  </monogr>
 	  <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaao"/>
