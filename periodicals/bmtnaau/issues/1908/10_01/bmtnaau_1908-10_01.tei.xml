@@ -10,10 +10,23 @@
                         <seg type="nonSort">The</seg>
                         <seg type="main">Mask</seg>
                      </title>
+                     <respStmt>
+                        <persName ref="http://viaf.org/viaf/100201551">Edward Gordon Craig</persName>
+                        <resp>edt</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>E. Morandi</persName>
+                        <resp>prt</resp>
+                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">1</biblScope>
                         <biblScope unit="issue">8</biblScope>
                         <date when="1908-10">October 1908</date>
+                        <pubPlace>
+                           <address>
+                           <addrLine>8, Borgo S. Jacopo</addrLine>
+                        </address>
+                        </pubPlace>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -116,22 +129,11 @@
                      <seg type="nonSort">The</seg>
                      <seg type="main">Mask</seg>
                   </title>
-                  <respStmt>
-                     <persName ref="http://viaf.org/viaf/100201551">Edward Gordon Craig</persName>
-                     <resp>edt</resp>
-                  </respStmt>
-                  <respStmt>
-                     <persName>E. Morandi</persName>
-                     <resp>prt</resp>
-                  </respStmt>
+               
                   <imprint>
                      <biblScope unit="vol">1</biblScope>
                      <biblScope unit="issue">8</biblScope>
-                     <pubPlace>
-                        <address>
-                           <addrLine>8, Borgo S. Jacopo</addrLine>
-                        </address>
-                     </pubPlace>
+                    
                      <date when="1908-10"/>
                   </imprint>
                </monogr>

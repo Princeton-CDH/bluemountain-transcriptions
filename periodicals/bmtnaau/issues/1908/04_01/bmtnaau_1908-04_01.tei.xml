@@ -10,9 +10,22 @@
                         <seg type="nonSort">The</seg>
                         <seg type="main">Mask</seg>
                      </title>
+                     <respStmt>
+                        <persName ref="http://viaf.org/viaf/100201551">Edward Gordon Craig</persName>
+                        <resp>edt</resp>
+                     </respStmt>
+                     <respStmt>
+                        <persName>E. Morandi</persName>
+                        <resp>prt</resp>
+                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">1</biblScope>
                         <biblScope unit="issue">2</biblScope>
+                        <pubPlace>
+                           <address>
+                           <addrLine>2 Lung'Arno Acciaiuoli</addrLine>
+                        </address>
+                        </pubPlace>
                         <date when="1908-04">April 1908</date>
                      </imprint>
                   </monogr>
@@ -29,9 +42,7 @@
          <sourceDesc><msDesc xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:mods="http://www.loc.gov/mods/v3">
                <msIdentifier>
                   <institution>Princeton University Library</institution>
-                  <!-- If the copy isn't from PUL, remove Princeton University
-                        Library from the <institution> element above and replace it with the
-                        institution owning the copy.-->
+               
                </msIdentifier>
                
                <physDesc>
@@ -55,10 +66,7 @@
                      </supportDesc>
                      
                      <layoutDesc>
-                        <!-- Describe general layout of pages. E.g., number of columns; presence of running heads; presence of
-                                distinctive ornaments (save description of ornaments for the <decoDesc> section), etc.  
-                                If there are several distinct types of pages, use separate <layout> elements
-                                to describe them.-->
+                     
                         <layout><p>Pages are laid out in one, two, or three columns with narrow margins.</p></layout>
                         <layout><p>There are 21 illustrations and 5 ornaments. Illustrations do not occupy full pages, plates, however, do. All plates, and some illustrations, contain a title and a caption below.</p></layout>
                         <layout><p>The issue does not contain advertising</p></layout>
@@ -110,22 +118,11 @@
                      <seg type="nonSort">The</seg>
                      <seg type="main">Mask</seg>
                   </title>
-                  <respStmt>
-                     <persName ref="http://viaf.org/viaf/100201551">Edward Gordon Craig</persName>
-                     <resp>edt</resp>
-                  </respStmt>
-                  <respStmt>
-                     <persName>E. Morandi</persName>
-                     <resp>prt</resp>
-                  </respStmt>
+                 
                   <imprint>
                      <biblScope unit="vol">1</biblScope>
                      <biblScope unit="issue">2</biblScope>
-                     <pubPlace>
-                        <address>
-                           <addrLine>2 Lung'Arno Acciaiuoli</addrLine>
-                        </address>
-                     </pubPlace>
+                    
                      <date when="1908-04"/>
                   </imprint>
                </monogr>
