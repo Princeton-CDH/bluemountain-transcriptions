@@ -26,8 +26,7 @@
          <seriesStmt>
             <title level="s">The Blue Mountain Project</title>
          </seriesStmt>
-         <sourceDesc>
-            <msDesc>
+         <sourceDesc><msDesc>
                <msIdentifier>
                   <institution>Princeton University Library</institution>
                   
@@ -100,7 +99,7 @@
                <history>
                   <summary>
                      <p>Sold for <measureGrp type="salesprice">
-                        <measure unit="shilling" quantity="0"></measure>
+                        <measure unit="shilling" quantity="0"/>
                      </measureGrp>.</p>
                   </summary>
                   <provenance> </provenance>
@@ -109,8 +108,7 @@
                </history>
                
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="nonSort">The</seg>
                      <seg type="main">Mask</seg>
@@ -120,9 +118,7 @@
                      <biblScope unit="issue">3</biblScope>
                      <date when="1918-05"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -137,8 +133,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -153,8 +148,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -169,8 +163,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -178,7 +171,7 @@
                            <seg type="sub">(A SAILOR SPEAKS)</seg>
                         </title>
                         <respStmt>
-                           <persName>Captain Marryat</persName>
+                           <persName ref="http://viaf.org/viaf/39380934">Captain Marryat</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -190,15 +183,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">FRATERNITY</seg>
                         </title>
                         <respStmt>
-                           <persName>Beranger</persName>
+                           <persName ref="http://viaf.org/viaf/12319139">Beranger</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -210,15 +202,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">DEGRADE FIRST THE ARTS IF</seg>
                         </title>
                         <respStmt>
-                           <persName>William Blake</persName>
+                           <persName ref="http://viaf.org/viaf/54144439">William Blake</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -246,8 +237,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -263,8 +253,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -295,8 +284,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c011">
+               </relatedItem><relatedItem type="constituent" xml:id="c011">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -304,7 +292,7 @@
                            <seg type="sub">A 14th Chapter to "On the Art of the Theatre"</seg>
                         </title>
                         <respStmt>
-                           <persName>Gordon Craig</persName>
+                           <persName ref="https://viaf.org/viaf/100201551">Gordon Craig</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -316,14 +304,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="31440" lry="43890">
-         <tei:graphic url="0011.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaau/issues/1918/05_01/delivery/bmtnaau_1918-05_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="31440" lry="2030"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="2030" lrx="1240" lry="43780"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="29160" uly="2030" lrx="31440" lry="43780"/>
@@ -1342,7 +1329,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="31440" lry="43890">
-         <tei:graphic url="0012.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaau/issues/1918/05_01/delivery/bmtnaau_1918-05_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="31440" lry="1570">
             <tei:zone type="TextBlock" xml:id="P2_TB00001" ulx="2170" uly="1100" lrx="2690" lry="1540">
                <tei:zone type="TextLine" xml:id="P2_TL00001" ulx="2170" uly="1100" lrx="2690" lry="1540">
@@ -2156,7 +2143,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="31440" lry="43890">
-         <tei:graphic url="0013.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaau/issues/1918/05_01/delivery/bmtnaau_1918-05_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="31440" lry="1440">
             <tei:zone type="TextBlock" xml:id="P3_TB00001" ulx="28700" uly="980" lrx="29100" lry="1420">
                <tei:zone type="TextLine" xml:id="P3_TL00001" ulx="28700" uly="980" lrx="29100" lry="1420">
@@ -3356,7 +3343,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="31420" lry="44180">
-         <tei:graphic url="0014.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaau/issues/1918/05_01/delivery/bmtnaau_1918-05_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="31420" lry="1490">
             <tei:zone type="TextBlock" xml:id="P4_TB00001" ulx="1970" uly="1040" lrx="2460" lry="1470">
                <tei:zone type="TextLine" xml:id="P4_TL00001" ulx="1970" uly="1040" lrx="2460" lry="1470">
