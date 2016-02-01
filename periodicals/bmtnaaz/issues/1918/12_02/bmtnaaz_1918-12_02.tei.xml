@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">3</biblScope>
                         <biblScope unit="issue">36</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                           </address>
-                        </pubPlace>
                         <date when="1918-12">DECEMBRE 1918</date>
                      </imprint>
                   </monogr>
@@ -104,8 +95,7 @@
                   <acquisition> </acquisition>
                </history>
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -114,9 +104,7 @@
                      <biblScope unit="issue">36</biblScope>
                      <date when="1918-12"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -130,8 +118,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -146,8 +133,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -167,8 +153,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -187,13 +172,16 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">ETC..</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/14765320">P. A.-B.</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -202,29 +190,8 @@
                            <biblScope unit="page">3</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c006">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">Untitled Text</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/14765320">P. A.-B.</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">3</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c007">
+               </relatedItem><relatedItem type="constituent" xml:id="c007">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -244,8 +211,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -261,8 +227,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -277,14 +242,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="32570" lry="41290">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/12_02/delivery/bmtnaaz_1918-12_02_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="32570" lry="1260"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="1260" lrx="180" lry="37950"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="32560" uly="1260" lrx="32570" lry="37950"/>
@@ -497,7 +461,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="26900" lry="38250">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/12_02/delivery/bmtnaaz_1918-12_02_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="26900" lry="3050"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="3050" lrx="2630" lry="35220"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="24500" uly="3050" lrx="26900" lry="35220"/>
@@ -732,7 +696,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="26900" lry="38250">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/12_02/delivery/bmtnaaz_1918-12_02_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="26900" lry="2360"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="2360" lrx="2020" lry="36010"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="24820" uly="2360" lrx="26900" lry="36010"/>
@@ -1272,7 +1236,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="26900" lry="38250">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/12_02/delivery/bmtnaaz_1918-12_02_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="26900" lry="4140"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="4140" lrx="2310" lry="35220"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="24910" uly="4140" lrx="26900" lry="35220"/>
@@ -1872,7 +1836,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="26900" lry="38250">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/12_02/delivery/bmtnaaz_1918-12_02_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="26900" lry="1990"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="1990" lrx="1800" lry="34830"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="24610" uly="1990" lrx="26900" lry="34830"/>
@@ -2438,7 +2402,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="26900" lry="38250">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/12_02/delivery/bmtnaaz_1918-12_02_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="26900" lry="0"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="0" lrx="0" lry="38250"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="26890" uly="0" lrx="26900" lry="38250"/>
@@ -2800,7 +2764,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="26900" lry="38250">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/12_02/delivery/bmtnaaz_1918-12_02_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="26900" lry="0"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="0" lrx="0" lry="38250"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="26890" uly="0" lrx="26900" lry="38250"/>
@@ -3137,7 +3101,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="26900" lry="38250">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/12_02/delivery/bmtnaaz_1918-12_02_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="26900" lry="2400"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="2400" lrx="2010" lry="35850"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="24870" uly="2400" lrx="26900" lry="35850"/>
@@ -4154,24 +4118,22 @@
                         <ab facs="P3_TB00004">
                            <lb facs="P3_TL00014"/>ETC..</ab>
                      </div>
-                     <div type="TextContent" corresp="c006">
-                        <div type="Byline">
-                           <ab facs="P3_TB00006">
-                              <lb facs="P3_TL00043"/>P. A-B.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P3_TB00005">
-                                       <lb facs="P3_TL00015"/>L'instant — N° 4 et 5 — Encore un excellent numéro, voici enlin une revue dirigée, il<lb facs="P3_TL00016"/>y a là de la bonne matière nutritive, nous ne demandons qu'un peu plus d'intransigeance<lb facs="P3_TL00017"/>et puis aussi nous espérons que M. H. Lecoultre nous dira désormais son nom quand il<lb facs="P3_TL00018"/>lui arrivera d'écrire des pages comme. Le locataire des nues.<lb facs="P3_TL00019"/>L'Éventail — Dans ce N° 11 quelques pages au sujet des Veillées du Lapin agile<lb facs="P3_TL00020"/>Et cela donne assez bien la note de cette revue qui garde toujours une nuance un peu pas<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00021"/>sée malgré son directeur, M. François Laya, qui avait me semblait-il, l'intention de pi<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00022"/>quer ça et là quelques touches de couleurs fraîches : c'est le temps des souhaits, j'en<lb facs="P3_TL00023"/>forme de sincères pour l'Eventail.<lb facs="P3_TL00024"/>Le Carnet critique. — On m'avait dit: attendez, ne jugez pas sur les premiers numéros<lb facs="P3_TL00025"/>Je ne me trouve pourtant pas mal de mon premier coup d'oeil, et je ne suis point surpris<lb facs="P3_TL00026"/>de trouver dans cette revue un article comme celui de M. Georges-Armand Masson.<lb facs="P3_TL00027"/>L'Art. — Un nouveau journal mensuel où il est longuement parlé d'art. Peu m'impor<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00028"/>te que M. Carlos Larronde ne voit en moi qu'un poète-télégraphiste tandis que d'autres ne<lb facs="P3_TL00029"/>veulent voir qu'un poète-onomatopéiste, d'autres un poète-chroniqueur, cher monsieur<lb facs="P3_TL00030"/>je vous en prie, rendez-moi mon prénom s'il vous plaît, Luc est trop dangereux, je<lb facs="P3_TL00031"/>préféré Pierre.<lb facs="P3_TL00032"/>La Syrinx —Quelques poèmes présentés avec goût. Mais cela ne suffit pas, M.Lu<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00033"/>cien Jacques, je ne dirai pas que le temps des églogues est passé, mais les vôtres sont<lb facs="P3_TL00034"/>bien passées. Supprimer la ponctuation ne suffit pas absolument pour faire un poème<lb facs="P3_TL00035"/>neuf.<lb facs="P3_TL00036"/>!\<lb facs="P3_TL00037"/>Valori Plastici —Rome. nc 1. — Nouvelles revue qui se propose comme son nom<lb facs="P3_TL00038"/>l'indique d'étudier tous les problèmes d'art plastique. On y trouve des études de Car<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00039"/>ra, Savinio, Folgore, de Chirico, Clavel, Melli, De Pisis, Broglio et de fort belles repro<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00040"/>duction de Carra et de Chirico.<lb facs="P3_TL00041"/>Casa d'Arte Italiana — Tentative de E. Prampolini pour aller à la création d'un<lb facs="P3_TL00042"/>art décoratif italien moderne.</ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P3_TB00006">
+                           <lb facs="P3_TL00043"/>P. A-B.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P3_TB00005">
+                                    <lb facs="P3_TL00015"/>L'instant — N° 4 et 5 — Encore un excellent numéro, voici enlin une revue dirigée, il<lb facs="P3_TL00016"/>y a là de la bonne matière nutritive, nous ne demandons qu'un peu plus d'intransigeance<lb facs="P3_TL00017"/>et puis aussi nous espérons que M. H. Lecoultre nous dira désormais son nom quand il<lb facs="P3_TL00018"/>lui arrivera d'écrire des pages comme. Le locataire des nues.<lb facs="P3_TL00019"/>L'Éventail — Dans ce N° 11 quelques pages au sujet des Veillées du Lapin agile<lb facs="P3_TL00020"/>Et cela donne assez bien la note de cette revue qui garde toujours une nuance un peu pas<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00021"/>sée malgré son directeur, M. François Laya, qui avait me semblait-il, l'intention de pi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00022"/>quer ça et là quelques touches de couleurs fraîches : c'est le temps des souhaits, j'en<lb facs="P3_TL00023"/>forme de sincères pour l'Eventail.<lb facs="P3_TL00024"/>Le Carnet critique. — On m'avait dit: attendez, ne jugez pas sur les premiers numéros<lb facs="P3_TL00025"/>Je ne me trouve pourtant pas mal de mon premier coup d'oeil, et je ne suis point surpris<lb facs="P3_TL00026"/>de trouver dans cette revue un article comme celui de M. Georges-Armand Masson.<lb facs="P3_TL00027"/>L'Art. — Un nouveau journal mensuel où il est longuement parlé d'art. Peu m'impor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00028"/>te que M. Carlos Larronde ne voit en moi qu'un poète-télégraphiste tandis que d'autres ne<lb facs="P3_TL00029"/>veulent voir qu'un poète-onomatopéiste, d'autres un poète-chroniqueur, cher monsieur<lb facs="P3_TL00030"/>je vous en prie, rendez-moi mon prénom s'il vous plaît, Luc est trop dangereux, je<lb facs="P3_TL00031"/>préféré Pierre.<lb facs="P3_TL00032"/>La Syrinx —Quelques poèmes présentés avec goût. Mais cela ne suffit pas, M.Lu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00033"/>cien Jacques, je ne dirai pas que le temps des églogues est passé, mais les vôtres sont<lb facs="P3_TL00034"/>bien passées. Supprimer la ponctuation ne suffit pas absolument pour faire un poème<lb facs="P3_TL00035"/>neuf.<lb facs="P3_TL00036"/>!\<lb facs="P3_TL00037"/>Valori Plastici —Rome. nc 1. — Nouvelles revue qui se propose comme son nom<lb facs="P3_TL00038"/>l'indique d'étudier tous les problèmes d'art plastique. On y trouve des études de Car<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00039"/>ra, Savinio, Folgore, de Chirico, Clavel, Melli, De Pisis, Broglio et de fort belles repro<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00040"/>duction de Carra et de Chirico.<lb facs="P3_TL00041"/>Casa d'Arte Italiana — Tentative de E. Prampolini pour aller à la création d'un<lb facs="P3_TL00042"/>art décoratif italien moderne.</ab>
                               </div>
                            </div>
                         </div>

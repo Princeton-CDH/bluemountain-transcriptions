@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">1</biblScope>
                         <biblScope unit="issue">4</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace>
                         <date when="1916-04">Avril 1916</date>
                      </imprint>
                   </monogr>
@@ -99,8 +90,7 @@
                </history>
                
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -109,9 +99,7 @@
                      <biblScope unit="issue">4</biblScope>
                      <date when="1916-04"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -125,8 +113,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -141,8 +128,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -157,8 +143,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -166,7 +151,7 @@
                            <seg type="sub">Recherche nouvelle de GINO SEVERINI.</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/54163042&#xA;">Gino Severini</persName>
+                           <persName ref="http://viaf.org/viaf/54163042">Gino Severini</persName>
                            <resp>cre</resp>
                         </respStmt>
                      </analytic>
@@ -177,15 +162,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
-                           <seg type="main">L'A VENIR</seg>
+                           <seg type="main">L'AVENIR</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/66462795&#xA;">GUILLAUME APOLLINAIRE</persName>
+                           <persName ref="http://viaf.org/viaf/66462795">GUILLAUME APOLLINAIRE</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -197,8 +181,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c007">
+               </relatedItem><relatedItem type="constituent" xml:id="c007">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -213,8 +196,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -233,8 +215,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -253,8 +234,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c010">
+               </relatedItem><relatedItem type="constituent" xml:id="c010">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -268,31 +248,14 @@
                            <biblScope unit="page">8</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c011">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">THEATRE. Des amis enthousiasmés nous demandent où et quand va s'ouvrir notre théâtre. Merci du</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">8</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="29790" lry="39670">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/04_01/delivery/bmtnaaz_1916-04_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="29790" lry="1970"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="1970" lrx="2500" lry="36420"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="27110" uly="1970" lrx="29790" lry="36420"/>
@@ -414,7 +377,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="29790" lry="39670">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/04_01/delivery/bmtnaaz_1916-04_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="29790" lry="3520"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="3520" lrx="3350" lry="34460"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="27020" uly="3520" lrx="29790" lry="34460"/>
@@ -515,7 +478,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="29790" lry="39670">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/04_01/delivery/bmtnaaz_1916-04_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="29790" lry="3560"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="3560" lrx="3140" lry="34270"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="27080" uly="3560" lrx="29790" lry="34270"/>
@@ -617,7 +580,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="29790" lry="39670">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/04_01/delivery/bmtnaaz_1916-04_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="29790" lry="2030"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="2030" lrx="1350" lry="38490"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="28730" uly="2030" lrx="29790" lry="38490"/>
@@ -671,7 +634,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="29790" lry="39670">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/04_01/delivery/bmtnaaz_1916-04_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="29790" lry="3180"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="3180" lrx="4880" lry="34300"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="24430" uly="3180" lrx="29790" lry="34300"/>
@@ -790,7 +753,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="29790" lry="39670">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/04_01/delivery/bmtnaaz_1916-04_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="29790" lry="0"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="0" lrx="0" lry="39660"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="29780" uly="0" lrx="29790" lry="39660"/>
@@ -808,7 +771,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="29790" lry="39670">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/04_01/delivery/bmtnaaz_1916-04_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="29790" lry="4150"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="4150" lrx="2980" lry="35500"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="26790" uly="4150" lrx="29790" lry="35500"/>
@@ -1229,7 +1192,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="29790" lry="39670">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/04_01/delivery/bmtnaaz_1916-04_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="29790" lry="3710"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="3710" lrx="2930" lry="35570"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="26740" uly="3710" lrx="29790" lry="35570"/>
@@ -1935,15 +1898,13 @@
                         <ab facs="P8_TB00001">
                            <lb facs="P8_TL00001"/>ETC...</ab>
                      </div>
-                     <div type="TextContent" corresp="c011">
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00002">
-                                       <lb facs="P8_TL00002"/>THEATRE. Des amis enthousiasmés nous demandent où et quand va s'ouvrir notre théâtre. Merci du<lb facs="P8_TL00003"/>bon accueil fait à notre idée, mais Sic ne veut pas construire sur l'argile. Il attend d'abord des<lb facs="P8_TL00004"/>auteurs vraiment CRÉATEURS, quand il les aura trouvés, il s'efforcera de former des acteurs nou<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00005"/>veaux pour ces œuvres nouvelles, et c'est alors seulement qu'il appellera l'architecte. Que Messieurs<lb facs="P8_TL00006"/>les auteurs commencent.<lb facs="P8_TL00007"/>PEINTURE. Nous nous étions promis une étude de l'exposition de dessins qui eut lieu le mois dernier<lb facs="P8_TL00008"/>* en l'hôtel de madame Bongard. Madame Grippe et sa suite n'a pas été de notre avis et s'est<lb facs="P8_TL00009"/>plue à nous mettre des bâtons dans les* jambes. Qu'importe! nous pouvons toujours dire une<lb facs="P8_TL00010"/>chose : C'est que les peintres d'avant-garde c'est-à-dire les peintres tout court continuent<lb facs="P8_TL00011"/>laborieusement leur mission et qu'il est de beaux esprits pour les accueillir. Tout va bien, tout<lb facs="P8_TL00012"/>va bien !<lb facs="P8_TL00013"/>MEUBLES et DECORATION. Où diable a-t-on pu prendre que le pastellisé, le blond, le pâle, enfin<lb facs="P8_TL00014"/>toute la gamme des fadaises est la caractéristique « bien Française ». Cela me rappelle ceci:<lb facs="P8_TL00015"/>Mounet-Sully faisait travailler une petite oie blonde, qui avait eu beaucoup de prix de récitation;<lb facs="P8_TL00016"/>exaspéré, soudain il s'écrie: «Vous n'avez donc rien entre les jambes, Mademoiselle?». Il<lb facs="P8_TL00017"/>y a encore bien des Français auxquels il faudrait poser cette question, et rappeler que même<lb facs="P8_TL00018"/>* dans le Louis XV et le Louis XVI, il est des jaunes qui gueulent à faire sauver Martine.<lb facs="P8_TL00019"/>MODES. Qu'on ait songé à la jupe courte, bien. Ça a du charme et de l'allure.<lb facs="P8_TL00020"/>Légère et court vêtue elle allait à grands pas,<lb facs="P8_TL00021"/>Ayant mis ce jour-là, pour être plus agile,<lb facs="P8_TL00022"/>Cotillon simple et souliers plats.<lb facs="P8_TL00023"/>Mais les paniers, ah non! Mais les corsages étriqués, boutonnés et aussi hermétiquement fermés<lb facs="P8_TL00024"/>que l'esprit d'un homme important, ah! non, non, non! Assez de «dixhuitièmisme», assez de<lb facs="P8_TL00025"/>« dixhuitcentrentisme ». Assez de « bienpensantisme ». Et quand la France se montre si jeune,<lb facs="P8_TL00026"/>si forte, si belle, ne se trouvera-t-il donc pas un couturier capable de lui donner la robe qui lui<lb facs="P8_TL00027"/>convient?</ab>
-                                 </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00002">
+                                    <lb facs="P8_TL00002"/>THEATRE. Des amis enthousiasmés nous demandent où et quand va s'ouvrir notre théâtre. Merci du<lb facs="P8_TL00003"/>bon accueil fait à notre idée, mais Sic ne veut pas construire sur l'argile. Il attend d'abord des<lb facs="P8_TL00004"/>auteurs vraiment CRÉATEURS, quand il les aura trouvés, il s'efforcera de former des acteurs nou<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00005"/>veaux pour ces œuvres nouvelles, et c'est alors seulement qu'il appellera l'architecte. Que Messieurs<lb facs="P8_TL00006"/>les auteurs commencent.<lb facs="P8_TL00007"/>PEINTURE. Nous nous étions promis une étude de l'exposition de dessins qui eut lieu le mois dernier<lb facs="P8_TL00008"/>* en l'hôtel de madame Bongard. Madame Grippe et sa suite n'a pas été de notre avis et s'est<lb facs="P8_TL00009"/>plue à nous mettre des bâtons dans les* jambes. Qu'importe! nous pouvons toujours dire une<lb facs="P8_TL00010"/>chose : C'est que les peintres d'avant-garde c'est-à-dire les peintres tout court continuent<lb facs="P8_TL00011"/>laborieusement leur mission et qu'il est de beaux esprits pour les accueillir. Tout va bien, tout<lb facs="P8_TL00012"/>va bien !<lb facs="P8_TL00013"/>MEUBLES et DECORATION. Où diable a-t-on pu prendre que le pastellisé, le blond, le pâle, enfin<lb facs="P8_TL00014"/>toute la gamme des fadaises est la caractéristique « bien Française ». Cela me rappelle ceci:<lb facs="P8_TL00015"/>Mounet-Sully faisait travailler une petite oie blonde, qui avait eu beaucoup de prix de récitation;<lb facs="P8_TL00016"/>exaspéré, soudain il s'écrie: «Vous n'avez donc rien entre les jambes, Mademoiselle?». Il<lb facs="P8_TL00017"/>y a encore bien des Français auxquels il faudrait poser cette question, et rappeler que même<lb facs="P8_TL00018"/>* dans le Louis XV et le Louis XVI, il est des jaunes qui gueulent à faire sauver Martine.<lb facs="P8_TL00019"/>MODES. Qu'on ait songé à la jupe courte, bien. Ça a du charme et de l'allure.<lb facs="P8_TL00020"/>Légère et court vêtue elle allait à grands pas,<lb facs="P8_TL00021"/>Ayant mis ce jour-là, pour être plus agile,<lb facs="P8_TL00022"/>Cotillon simple et souliers plats.<lb facs="P8_TL00023"/>Mais les paniers, ah non! Mais les corsages étriqués, boutonnés et aussi hermétiquement fermés<lb facs="P8_TL00024"/>que l'esprit d'un homme important, ah! non, non, non! Assez de «dixhuitièmisme», assez de<lb facs="P8_TL00025"/>« dixhuitcentrentisme ». Assez de « bienpensantisme ». Et quand la France se montre si jeune,<lb facs="P8_TL00026"/>si forte, si belle, ne se trouvera-t-il donc pas un couturier capable de lui donner la robe qui lui<lb facs="P8_TL00027"/>convient?</ab>
                               </div>
                            </div>
                         </div>

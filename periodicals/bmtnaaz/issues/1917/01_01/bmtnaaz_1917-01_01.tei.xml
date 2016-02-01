@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">2</biblScope>
                         <biblScope unit="issue">13</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace>
                         <date when="1917-01">Janvier 1917</date>
                      </imprint>
                   </monogr>
@@ -109,8 +100,7 @@
                   <acquisition> </acquisition>
                </history>
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -119,9 +109,7 @@
                      <biblScope unit="issue">13</biblScope>
                      <date when="1917-01"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -135,8 +123,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -151,8 +138,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -167,8 +153,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -178,38 +163,26 @@
                            <persName>J. Rij ROUSSEAU</persName>
                            <resp>cre</resp>
                         </respStmt>
-                        <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
                         <imprint>
-                           <classCode scheme="CCS">TextContent</classCode>
+                           <classCode scheme="CCS">Illustration</classCode>
                            <biblScope unit="page">3</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c005">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">VIBRISME</seg>
-                              </title>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">Illustration</classCode>
-                                 <biblScope unit="page">3</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="nonSort">UN</seg>
                            <seg type="main">POÈME</seg>
+                           <seg type="main">QUAI AUX FLEURS</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/61551365">PIERRE REVERDY</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -218,29 +191,8 @@
                            <biblScope unit="page">4</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c007">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">QUAI AUX FLEURS</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/61551365&#xA;">PIERRE REVERDY</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">4</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -255,8 +207,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -271,12 +222,11 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c010">
+               </relatedItem><relatedItem type="constituent" xml:id="c010">
                   <biblStruct>
                      <analytic>
                         <title level="a">
-                           <seg type="main">« SIC AMBULANT ».</seg>
+                           <seg type="main">"SIC AMBULANT"</seg>
                         </title>
                         <textLang mainLang="fre"/>
                      </analytic>
@@ -287,8 +237,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c011">
+               </relatedItem><relatedItem type="constituent" xml:id="c011">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -303,15 +252,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c012">
+               </relatedItem><relatedItem type="constituent" xml:id="c012">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Nature-morte</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/229696062&#xA;">Fritz R. VANDERPYL</persName>
+                           <persName ref="http://viaf.org/viaf/229696062">Fritz R. VANDERPYL</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -323,8 +271,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -340,8 +287,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c014">
+               </relatedItem><relatedItem type="constituent" xml:id="c014">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -355,31 +301,14 @@
                            <biblScope unit="page">6</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c015">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">Untitled Text</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">6</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="32570" lry="39240">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/01_01/delivery/bmtnaaz_1917-01_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="32570" lry="1840"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="1840" lrx="1570" lry="39090"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="30210" uly="1840" lrx="32570" lry="39090"/>
@@ -616,7 +545,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="29280" lry="39490">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/01_01/delivery/bmtnaaz_1917-01_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="29280" lry="5030"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="5030" lrx="2260" lry="34160"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="26490" uly="5030" lrx="29280" lry="34160"/>
@@ -741,7 +670,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="29280" lry="39490">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/01_01/delivery/bmtnaaz_1917-01_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="29280" lry="0"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="0" lrx="0" lry="39480"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="29270" uly="0" lrx="29280" lry="39480"/>
@@ -764,7 +693,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="42120" lry="26350">
-         <tei:graphic url="0009.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/01_01/delivery/bmtnaaz_1917-01_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="42120" lry="2110"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="2110" lrx="3430" lry="26040"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="39760" uly="2110" lrx="42120" lry="26040"/>
@@ -1275,7 +1204,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="29280" lry="39490">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/01_01/delivery/bmtnaaz_1917-01_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="29280" lry="3750"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="3750" lrx="2530" lry="35590"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="26560" uly="3750" lrx="29280" lry="35590"/>
@@ -1855,7 +1784,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="29280" lry="39490">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/01_01/delivery/bmtnaaz_1917-01_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="29280" lry="3940"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="3940" lrx="2760" lry="35480"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="26560" uly="3940" lrx="29280" lry="35480"/>
@@ -2675,7 +2604,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="29280" lry="39490">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/01_01/delivery/bmtnaaz_1917-01_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="29280" lry="3860"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="3860" lrx="2770" lry="35410"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="26500" uly="3860" lrx="29280" lry="35410"/>
@@ -3388,17 +3317,15 @@
                         </div>
                      </div>
                   </div>
-                  <div type="TextContent" corresp="c004">
+                  <div type="Illustration" corresp="c005">
+                     <div type="Image"/>
                      <div type="Byline">
                         <ab facs="P3_TB00001">
                            <lb facs="P3_TL00001"/>Dessin de J. Rij ROUSSEAU</ab>
                      </div>
-                     <div type="Illustration" corresp="c005">
-                        <div type="Image"/>
-                        <div type="Caption">
-                           <ab facs="P3_TB00002">
-                              <lb facs="P3_TL00002"/>VIBRISME</ab>
-                        </div>
+                     <div type="Caption">
+                        <ab facs="P3_TB00002">
+                           <lb facs="P3_TL00002"/>VIBRISME</ab>
                      </div>
                   </div>
                   <div type="TextContent" corresp="c006">
@@ -3406,30 +3333,28 @@
                         <ab facs="P4_TB00001">
                            <lb facs="P4_TL00001"/>UN POÈME</ab>
                      </div>
-                     <div type="TextContent" corresp="c007">
-                        <div type="Head">
-                           <ab facs="P4_TB00002">
-                              <lb facs="P4_TL00002"/>QUAI AUX FLEURS</ab>
-                        </div>
-                        <div type="Byline">
-                           <ab facs="P4_TB00008">
-                              <lb facs="P4_TL00030"/>PIERRE REYERDY</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P4_TB00003">
-                                       <lb facs="P4_TL00003"/>Petite poitrine<lb facs="P4_TL00004"/>O<lb facs="P4_TL00005"/>Nuages<lb facs="P4_TL00006"/>Dans l'étang où elle se noya <lb facs="P4_TL00007"/>L'hiver ne passe plus <lb facs="P4_TL00008"/>Et<lb facs="P4_TL00009"/>Loin de son bord <lb facs="P4_TL00010"/>Il passe, ayant remis son pardessus </ab>
-                                    <ab facs="P4_TB00004">
-                                       <lb facs="P4_TL00011"/>Dans la vitrine tout le monde la regarde<lb facs="P4_TL00012"/>Elle est morte et sourit à ces gens qui ne savent<lb facs="P4_TL00013"/>. . qU,e . °^er<lb facs="P4_TL00014"/>sa petite poitrine a 1 air de remuer</ab>
-                                    <ab facs="P4_TB00005">
-                                       <lb facs="P4_TL00015"/>Avec vos lèvres vous soufflez dessus <lb facs="P4_TL00016"/>Et ses yeux se ferment ou vous regardent </ab>
-                                    <ab facs="P4_TB00006">
-                                       <lb facs="P4_TL00017"/>es messieurs habillés de noir<lb facs="P4_TL00018"/>es Yeux brillants de malice<lb facs="P4_TL00019"/>ï<lb facs="P4_TL00020"/>TT ,<lb facs="P4_TL00021"/>Une petite femme que j ai beaucoup<lb facs="P4_TL00022"/>connue.</ab>
-                                    <ab facs="P4_TB00007">
-                                       <lb facs="P4_TL00023"/>La misère passe avec le vent<lb facs="P4_TL00024"/>et balaie le boulevard.<lb facs="P4_TL00025"/>Elle avait de bien jolies jambes.<lb facs="P4_TL00026"/>Elle dansait, elle riait.<lb facs="P4_TL00027"/>Et maintenant, que va-t-elle devenir ?<lb facs="P4_TL00028"/>TOURNANT LA TETE ELLE DEMANDAIT<lb facs="P4_TL00029"/>QU'ON LA LAISSÂT DORMIR,</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P4_TB00002">
+                           <lb facs="P4_TL00002"/>QUAI AUX FLEURS</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab facs="P4_TB00008">
+                           <lb facs="P4_TL00030"/>PIERRE REYERDY</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P4_TB00003">
+                                    <lb facs="P4_TL00003"/>Petite poitrine<lb facs="P4_TL00004"/>O<lb facs="P4_TL00005"/>Nuages<lb facs="P4_TL00006"/>Dans l'étang où elle se noya <lb facs="P4_TL00007"/>L'hiver ne passe plus <lb facs="P4_TL00008"/>Et<lb facs="P4_TL00009"/>Loin de son bord <lb facs="P4_TL00010"/>Il passe, ayant remis son pardessus </ab>
+                                 <ab facs="P4_TB00004">
+                                    <lb facs="P4_TL00011"/>Dans la vitrine tout le monde la regarde<lb facs="P4_TL00012"/>Elle est morte et sourit à ces gens qui ne savent<lb facs="P4_TL00013"/>. . qU,e . °^er<lb facs="P4_TL00014"/>sa petite poitrine a 1 air de remuer</ab>
+                                 <ab facs="P4_TB00005">
+                                    <lb facs="P4_TL00015"/>Avec vos lèvres vous soufflez dessus <lb facs="P4_TL00016"/>Et ses yeux se ferment ou vous regardent </ab>
+                                 <ab facs="P4_TB00006">
+                                    <lb facs="P4_TL00017"/>es messieurs habillés de noir<lb facs="P4_TL00018"/>es Yeux brillants de malice<lb facs="P4_TL00019"/>ï<lb facs="P4_TL00020"/>TT ,<lb facs="P4_TL00021"/>Une petite femme que j ai beaucoup<lb facs="P4_TL00022"/>connue.</ab>
+                                 <ab facs="P4_TB00007">
+                                    <lb facs="P4_TL00023"/>La misère passe avec le vent<lb facs="P4_TL00024"/>et balaie le boulevard.<lb facs="P4_TL00025"/>Elle avait de bien jolies jambes.<lb facs="P4_TL00026"/>Elle dansait, elle riait.<lb facs="P4_TL00027"/>Et maintenant, que va-t-elle devenir ?<lb facs="P4_TL00028"/>TOURNANT LA TETE ELLE DEMANDAIT<lb facs="P4_TL00029"/>QU'ON LA LAISSÂT DORMIR,</ab>
                               </div>
                            </div>
                         </div>
@@ -3543,24 +3468,22 @@
                         <ab facs="P6_TB00001">
                            <lb facs="P6_TL00001"/>ETC...</ab>
                      </div>
-                     <div type="TextContent" corresp="c015">
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P6_TB00002">
-                                       <lb facs="P6_TL00002"/>LETTRES. — Autres poèmes durant la guerre. PAUL CLAUDEL. — Dormir, tel est l'idéal du<lb facs="P6_TL00003"/>bon chrétien. Le poète nous en donne confirmation à la fin du poème « Rome », quand, voulant<lb facs="P6_TL00004"/>exprimer combien Saint-Pierre du Vatican est au-dessus de tout, il dit : « Cette longue ligne à<lb facs="P6_TL00005"/>l'horizon là-bas toute droite plus désirable que le sommeil. »<lb facs="P6_TL00006"/>Et d'ailleurs le sommeil si désirable est généreusement dispensé par la lecture de ce livre<lb facs="P6_TL00007"/>artificiel. Grand Dieu ! est-il possible qu'il faille être si ennuyeux pour te plaire?<lb facs="P6_TL00008"/>La guerre au Luxembourg. BLAISE CENDRARS.—AU retour des vrais champs de bataille— où<lb facs="P6_TL00009"/>il a laissé une partie si précieuse de lui-même — le poète Biaise Cendrars est allé se rafraîchir les<lb facs="P6_TL00010"/>yeux et l'esprit aux spectacles des jeux d'enfants, il a déambulé à travers chaises, bancs, arbres et<lb facs="P6_TL00011"/>gosses, il s'est complu à regarder candidement la petite guerre pour rire des petits, et il a rapporté<lb facs="P6_TL00012"/>de quoi construire « La guerre au Luxembourg » qu'il nous donne aujourd'hui en un in-4° où pour<lb facs="P6_TL00013"/>sa propre joie il a tout réuni pour la nôtre (couverture à part). Combien le primitivisme du peintre<lb facs="P6_TL00014"/>Kisling est ici le bienvenu.<lb facs="P6_TL00015"/>Etudier ce poème, non, il est trop frais, l'étude le ternirait (comme elle ternit d'ailleurs toute<lb facs="P6_TL00016"/>œuvre d'art). En voici une page, ce qui vaut beaucoup mieux que ce que j'en saurais dire :<lb facs="P6_TL00017"/>Le lendemain ou un autre jour<lb facs="P6_TL00018"/>Il y a une tranchée dans le tas de sable<lb facs="P6_TL00019"/>Il y a un petit bois dans le tas de sable<lb facs="P6_TL00020"/>Des cilles<lb facs="P6_TL00021"/>Une maison<lb facs="P6_TL00022"/>Tout le pays La mer<lb facs="P6_TL00023"/>Et peut-être bien la mer<lb facs="P6_TL00024"/>L'artillerie improvisée tourne autour des barbelés imaginaires<lb facs="P6_TL00025"/>Les arbres se dégonflent et les feuilles tombent par-dessus bord et tournent en parachute<lb facs="P6_TL00026"/>Les 3 veines du drapeau se gonflent à chaque coup de Vobusier du vent<lb facs="P6_TL00027"/>Tu ne sera3 pas emportée petite arche de sable<lb facs="P6_TL00028"/>Enfants prodiges, plus que les ingénieurs<lb facs="P6_TL00029"/>On joue en riant au gaz-asphyxiants au tank au sous-marin-devant-new-york-qui-ne-peut-pas-passer<lb facs="P6_TL00030"/>Je suis australien tu es nègre il se lave pour faire la-vie-des-soldats-anglais-en-belgique.<lb facs="P6_TL00031"/>La Lucarne Ovale. Poèmes. PIERRE REVERDY. — Expression de l'inexprimable, compéné<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P6_TL00032"/>tration de l'abstrait et du concret, de l'intérieur et de l'extérieur, de l'être et des choses. La lecture<lb facs="P6_TL00033"/>de ce livre vous plonge dans un bain de poésie vivante, il me semble que tous ceux qui le lisent<lb facs="P6_TL00034"/>doivent se trouver soudainement envahis par un piquant désir d'être poète.<lb facs="P6_TL00035"/>Qu'est-ce qu'un poète? On pourrait peut-être répondre: c est un être-Dieu qui a le pouvoir de<lb facs="P6_TL00036"/>matérialiser l'immatériel, ou encore c'est un appareil enrégistreur admirablement perfectionné qui<lb facs="P6_TL00037"/>conserve pour la joie des hommes toutes les choses merveilleuses du dehors et du dedans que<lb facs="P6_TL00038"/>leurs sens imparfaits ne sauraient percevoir, ou encore c'est un être anormal qui pompe le suc de<lb facs="P6_TL00039"/>la vie et sécrète en tous lieux en tous temps un miel extraordinairement aromatisé que l'on nomme<lb facs="P6_TL00040"/>des poèmes; c'est Pierre Reverdy, par exemple.<lb facs="P6_TL00041"/>Âlmanach des Lettres et des Arts. — Certes l'idée est intéressante, la réalisation l'est<lb facs="P6_TL00042"/>peut-être un peu moins. Je m'explique. Si ce livre était édité par X... ou Y..., je dirais c est très<lb facs="P6_TL00043"/>bien pour lui, il s'est vraiment surpassé, mais comme il est édité par Martine je dis que nous<lb facs="P6_TL00044"/>étions en droit d'espérer beaucoup plus et avant tout beaucoup plus d'originalité dans la présen<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P6_TL00045"/>tation et un choix plus audacieux dans les œuvres, mais nous voulons croire que la volonté du chef<lb facs="P6_TL00046"/>a été quelque peu trahie et que PAlmanach pour 1918 sera tout à fait à l'heure.<lb facs="P6_TL00047"/>Le manuel de l£t volonté, par B. DANOENNES. — En raison de sa forme didactique, ce livre se<lb facs="P6_TL00048"/>trouve en dehors de notre domaine, mais en raison du but que son auteur se propose, Sic se doit<lb facs="P6_TL00049"/>de ne pas le passer sous silence. La volonté n'est-elle pas en effet chère à tous les esprits forts qui<lb facs="P6_TL00050"/>constituent ce qu'on nomme le mouvement moderne, le mouvement nunique ; tout notre mouve<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P6_TL00051"/>ment n'est-il pas en fin de compte une réaction de la volonté contre l'impulsion, et la façon dont<lb facs="P6_TL00052"/>vont les choses en France nous autorise je pense à être en droit de souhaiter et d espérer que cette</ab>
-                                 </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P6_TB00002">
+                                    <lb facs="P6_TL00002"/>LETTRES. — Autres poèmes durant la guerre. PAUL CLAUDEL. — Dormir, tel est l'idéal du<lb facs="P6_TL00003"/>bon chrétien. Le poète nous en donne confirmation à la fin du poème « Rome », quand, voulant<lb facs="P6_TL00004"/>exprimer combien Saint-Pierre du Vatican est au-dessus de tout, il dit : « Cette longue ligne à<lb facs="P6_TL00005"/>l'horizon là-bas toute droite plus désirable que le sommeil. »<lb facs="P6_TL00006"/>Et d'ailleurs le sommeil si désirable est généreusement dispensé par la lecture de ce livre<lb facs="P6_TL00007"/>artificiel. Grand Dieu ! est-il possible qu'il faille être si ennuyeux pour te plaire?<lb facs="P6_TL00008"/>La guerre au Luxembourg. BLAISE CENDRARS.—AU retour des vrais champs de bataille— où<lb facs="P6_TL00009"/>il a laissé une partie si précieuse de lui-même — le poète Biaise Cendrars est allé se rafraîchir les<lb facs="P6_TL00010"/>yeux et l'esprit aux spectacles des jeux d'enfants, il a déambulé à travers chaises, bancs, arbres et<lb facs="P6_TL00011"/>gosses, il s'est complu à regarder candidement la petite guerre pour rire des petits, et il a rapporté<lb facs="P6_TL00012"/>de quoi construire « La guerre au Luxembourg » qu'il nous donne aujourd'hui en un in-4° où pour<lb facs="P6_TL00013"/>sa propre joie il a tout réuni pour la nôtre (couverture à part). Combien le primitivisme du peintre<lb facs="P6_TL00014"/>Kisling est ici le bienvenu.<lb facs="P6_TL00015"/>Etudier ce poème, non, il est trop frais, l'étude le ternirait (comme elle ternit d'ailleurs toute<lb facs="P6_TL00016"/>œuvre d'art). En voici une page, ce qui vaut beaucoup mieux que ce que j'en saurais dire :<lb facs="P6_TL00017"/>Le lendemain ou un autre jour<lb facs="P6_TL00018"/>Il y a une tranchée dans le tas de sable<lb facs="P6_TL00019"/>Il y a un petit bois dans le tas de sable<lb facs="P6_TL00020"/>Des cilles<lb facs="P6_TL00021"/>Une maison<lb facs="P6_TL00022"/>Tout le pays La mer<lb facs="P6_TL00023"/>Et peut-être bien la mer<lb facs="P6_TL00024"/>L'artillerie improvisée tourne autour des barbelés imaginaires<lb facs="P6_TL00025"/>Les arbres se dégonflent et les feuilles tombent par-dessus bord et tournent en parachute<lb facs="P6_TL00026"/>Les 3 veines du drapeau se gonflent à chaque coup de Vobusier du vent<lb facs="P6_TL00027"/>Tu ne sera3 pas emportée petite arche de sable<lb facs="P6_TL00028"/>Enfants prodiges, plus que les ingénieurs<lb facs="P6_TL00029"/>On joue en riant au gaz-asphyxiants au tank au sous-marin-devant-new-york-qui-ne-peut-pas-passer<lb facs="P6_TL00030"/>Je suis australien tu es nègre il se lave pour faire la-vie-des-soldats-anglais-en-belgique.<lb facs="P6_TL00031"/>La Lucarne Ovale. Poèmes. PIERRE REVERDY. — Expression de l'inexprimable, compéné<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00032"/>tration de l'abstrait et du concret, de l'intérieur et de l'extérieur, de l'être et des choses. La lecture<lb facs="P6_TL00033"/>de ce livre vous plonge dans un bain de poésie vivante, il me semble que tous ceux qui le lisent<lb facs="P6_TL00034"/>doivent se trouver soudainement envahis par un piquant désir d'être poète.<lb facs="P6_TL00035"/>Qu'est-ce qu'un poète? On pourrait peut-être répondre: c est un être-Dieu qui a le pouvoir de<lb facs="P6_TL00036"/>matérialiser l'immatériel, ou encore c'est un appareil enrégistreur admirablement perfectionné qui<lb facs="P6_TL00037"/>conserve pour la joie des hommes toutes les choses merveilleuses du dehors et du dedans que<lb facs="P6_TL00038"/>leurs sens imparfaits ne sauraient percevoir, ou encore c'est un être anormal qui pompe le suc de<lb facs="P6_TL00039"/>la vie et sécrète en tous lieux en tous temps un miel extraordinairement aromatisé que l'on nomme<lb facs="P6_TL00040"/>des poèmes; c'est Pierre Reverdy, par exemple.<lb facs="P6_TL00041"/>Âlmanach des Lettres et des Arts. — Certes l'idée est intéressante, la réalisation l'est<lb facs="P6_TL00042"/>peut-être un peu moins. Je m'explique. Si ce livre était édité par X... ou Y..., je dirais c est très<lb facs="P6_TL00043"/>bien pour lui, il s'est vraiment surpassé, mais comme il est édité par Martine je dis que nous<lb facs="P6_TL00044"/>étions en droit d'espérer beaucoup plus et avant tout beaucoup plus d'originalité dans la présen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00045"/>tation et un choix plus audacieux dans les œuvres, mais nous voulons croire que la volonté du chef<lb facs="P6_TL00046"/>a été quelque peu trahie et que PAlmanach pour 1918 sera tout à fait à l'heure.<lb facs="P6_TL00047"/>Le manuel de l£t volonté, par B. DANOENNES. — En raison de sa forme didactique, ce livre se<lb facs="P6_TL00048"/>trouve en dehors de notre domaine, mais en raison du but que son auteur se propose, Sic se doit<lb facs="P6_TL00049"/>de ne pas le passer sous silence. La volonté n'est-elle pas en effet chère à tous les esprits forts qui<lb facs="P6_TL00050"/>constituent ce qu'on nomme le mouvement moderne, le mouvement nunique ; tout notre mouve<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00051"/>ment n'est-il pas en fin de compte une réaction de la volonté contre l'impulsion, et la façon dont<lb facs="P6_TL00052"/>vont les choses en France nous autorise je pense à être en droit de souhaiter et d espérer que cette</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P7_TB00001">
-                                       <lb facs="P7_TL00001"/>réaction commencée si vigoureusement par les artistes s'étende bienfaisante sur le reste de la nation<lb facs="P7_TL00002"/>comme les eaux du Nil sur les terres d'Egypte. Et nous sommes tout à fait de l'avis de l'auteur qui<lb facs="P7_TL00003"/>termine son livre par ces mots qui méritent d'être entendus par l'U NI VER SI TÉ : «L'étude de la<lb facs="P7_TL00004"/>Volonté devrait àl heure actuelle, s'imposer aussi nécessairement que toutes celles qui s'inscrivent<lb facs="P7_TL00005"/>aux programme universitaires. »<lb facs="P7_TL00006"/>« Avanscoperta ». — Tel est le titre d'une revue d'avant-garde qui vient de naître à Rome, créée<lb facs="P7_TL00007"/>disent les fondateurs pour opposer aux nombreuses revuettes faites d'interminables et ennuyeux<lb facs="P7_TL00008"/>bavardages, une publication ayant pour unique but de créer une atmosphère d'art plus électrique,<lb facs="P7_TL00009"/>plus vivante et plus libre. Dans le premier numéro, au hasard, des poèmes de Contini, Raimondi|<lb facs="P7_TL00010"/>Pisis, P. Buzzi, un dessin très intéressant « Muscles en mouvement » de Prampolini, etc... Bravo'<lb facs="P7_TL00011"/>bonne chance, et toujours debout.<lb facs="P7_TL00012"/>Rome. — Nous recevons cette petite note de notre correspondant M. Pierre Lerat. « Je viens<lb facs="P7_TL00013"/>de voir la 4e Exposition des « Secessionistes » (nos indépendants). Exposition très courageuse de la<lb facs="P7_TL00014"/>ténacité des artistes de la jeune Italie. Ensemble de tendances diverses se rattachant à l'art d'avant<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P7_TL00015"/>gai de. Parfum, couleur, jeunesse, joie. Une foule de jeunes dont beaucoup sont sur le front. »</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P7_TB00001">
+                                    <lb facs="P7_TL00001"/>réaction commencée si vigoureusement par les artistes s'étende bienfaisante sur le reste de la nation<lb facs="P7_TL00002"/>comme les eaux du Nil sur les terres d'Egypte. Et nous sommes tout à fait de l'avis de l'auteur qui<lb facs="P7_TL00003"/>termine son livre par ces mots qui méritent d'être entendus par l'U NI VER SI TÉ : «L'étude de la<lb facs="P7_TL00004"/>Volonté devrait àl heure actuelle, s'imposer aussi nécessairement que toutes celles qui s'inscrivent<lb facs="P7_TL00005"/>aux programme universitaires. »<lb facs="P7_TL00006"/>« Avanscoperta ». — Tel est le titre d'une revue d'avant-garde qui vient de naître à Rome, créée<lb facs="P7_TL00007"/>disent les fondateurs pour opposer aux nombreuses revuettes faites d'interminables et ennuyeux<lb facs="P7_TL00008"/>bavardages, une publication ayant pour unique but de créer une atmosphère d'art plus électrique,<lb facs="P7_TL00009"/>plus vivante et plus libre. Dans le premier numéro, au hasard, des poèmes de Contini, Raimondi|<lb facs="P7_TL00010"/>Pisis, P. Buzzi, un dessin très intéressant « Muscles en mouvement » de Prampolini, etc... Bravo'<lb facs="P7_TL00011"/>bonne chance, et toujours debout.<lb facs="P7_TL00012"/>Rome. — Nous recevons cette petite note de notre correspondant M. Pierre Lerat. « Je viens<lb facs="P7_TL00013"/>de voir la 4e Exposition des « Secessionistes » (nos indépendants). Exposition très courageuse de la<lb facs="P7_TL00014"/>ténacité des artistes de la jeune Italie. Ensemble de tendances diverses se rattachant à l'art d'avant<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00015"/>gai de. Parfum, couleur, jeunesse, joie. Une foule de jeunes dont beaucoup sont sur le front. »</ab>
                               </div>
                            </div>
                         </div>

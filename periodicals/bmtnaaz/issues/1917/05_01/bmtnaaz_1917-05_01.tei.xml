@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">2</biblScope>
                         <biblScope unit="issue">17</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace>
                         <date when="1917-05">Mai 1917</date>
                      </imprint>
                   </monogr>
@@ -111,8 +102,7 @@
                </history>
                
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -121,9 +111,7 @@
                      <biblScope unit="issue">17</biblScope>
                      <date when="1917-05"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -137,8 +125,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -154,8 +141,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -170,8 +156,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -179,7 +164,7 @@
                            <seg type="main">FUTURISME</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/73872493&#xA;">Luciano FOLGORE</persName>
+                           <persName ref="http://viaf.org/viaf/73872493">Luciano FOLGORE</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -191,8 +176,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -207,8 +191,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -228,8 +211,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c007">
+               </relatedItem><relatedItem type="constituent" xml:id="c007">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -245,8 +227,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -261,15 +242,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">scène plastique pour la Symphonie de Strawinsky "LE FEU D'ARTIFICE"</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/29596654&#xA;">Giacomo Balla</persName>
+                           <persName ref="http://viaf.org/viaf/29596654">Giacomo Balla</persName>
                            <resp>cre</resp>
                         </respStmt>
                      </analytic>
@@ -278,16 +258,17 @@
                            <classCode scheme="CCS">Illustration</classCode>
                            <biblScope unit="page">4</biblScope>
                         </imprint>
-                     </monogr> Dessin du Peintre Futuriste Giacomo BALLA Tiré de sa scène plastique pour la Symphonie de Strawinsky "LE FEU D'ARTIFICE" </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c010">
+                     </monogr>
+                     <note> Dessin du Peintre Futuriste Giacomo BALLA Tiré de sa scène plastique pour la Symphonie de Strawinsky "LE FEU D'ARTIFICE" </note>
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c010">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">PABLO PICASSO</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/66462795&#xA;">GUILLAUME APOLLINAIRE</persName>
+                           <persName ref="http://viaf.org/viaf/66462795">GUILLAUME APOLLINAIRE</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -299,15 +280,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c011">
+               </relatedItem><relatedItem type="constituent" xml:id="c011">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Costumes pour le ballet de Strawinsky "LE CHANT DU ROSSIGNOL"</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/14782093&#xA;">Depero</persName>
+                           <persName ref="http://viaf.org/viaf/14782093">Depero</persName>
                            <resp>cre</resp>
                         </respStmt>
                      </analytic>
@@ -316,9 +296,10 @@
                            <classCode scheme="CCS">Illustration</classCode>
                            <biblScope unit="page">6</biblScope>
                         </imprint>
-                     </monogr> Ie. (Dame de la cour, Jaune Bleu Vert. IIe. (Mandarin) Rouge, Noir </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c012">
+                     </monogr>
+                     <note> Ie. (Dame de la cour, Jaune Bleu Vert. IIe. (Mandarin) Rouge, Noir </note>
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c012">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -327,7 +308,7 @@
                            <seg type="main">Restaurant de Nuit</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/12306661&#xA;">JEAN COCTEAU</persName>
+                           <persName ref="http://viaf.org/viaf/12306661">JEAN COCTEAU</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -339,8 +320,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -355,8 +335,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c014">
+               </relatedItem><relatedItem type="constituent" xml:id="c014">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -364,7 +343,7 @@
                            <seg type="sub">Costume choréographique grotesque futuriste</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/19762459&#xA;">E. Prampolini</persName>
+                           <persName ref="http://viaf.org/viaf/19762459">E. Prampolini</persName>
                            <resp>cre</resp>
                         </respStmt>
                      </analytic>
@@ -373,14 +352,20 @@
                            <classCode scheme="CCS">Illustration</classCode>
                            <biblScope unit="page">7</biblScope>
                         </imprint>
-                     </monogr>Gravure sur bois de E. Prampolini</biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c015">
+                     </monogr>
+                     <note>Gravure sur bois de E. Prampolini</note>
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c015">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">POÈME</seg>
+                           <seg type="main">ENTERREMENT</seg>
                         </title>
+                        <respStmt>
+                           <persName>LUCIEN MARGOTON</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -389,35 +374,14 @@
                            <biblScope unit="page">8</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c016">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">ENTERREMENT</seg>
-                              </title>
-                              <respStmt>
-                                 <persName>LUCIEN MARGOTON</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">8</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="31440" lry="39860">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/05_01/delivery/bmtnaaz_1917-05_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="31440" lry="1470"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="1470" lrx="1270" lry="39470"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="30280" uly="1470" lrx="31440" lry="39470"/>
@@ -617,7 +581,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="29440" lry="37970">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/05_01/delivery/bmtnaaz_1917-05_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="29440" lry="3010"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="3010" lrx="2770" lry="34070"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="27250" uly="3010" lrx="29440" lry="34070"/>
@@ -1208,7 +1172,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="29440" lry="37970">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/05_01/delivery/bmtnaaz_1917-05_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="29440" lry="3510"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="3510" lrx="2640" lry="34470"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="26770" uly="3510" lrx="29440" lry="34470"/>
@@ -2061,7 +2025,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="29440" lry="37970">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/05_01/delivery/bmtnaaz_1917-05_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="29440" lry="0"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="0" lrx="0" lry="37970"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="29430" uly="0" lrx="29440" lry="37970"/>
@@ -2097,7 +2061,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="29440" lry="37970">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/05_01/delivery/bmtnaaz_1917-05_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="29440" lry="2740"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="2740" lrx="2580" lry="35190"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="26820" uly="2740" lrx="29440" lry="35190"/>
@@ -2589,7 +2553,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="29440" lry="37970">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/05_01/delivery/bmtnaaz_1917-05_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="29440" lry="5600"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="5600" lrx="1400" lry="32190"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="28290" uly="5600" lrx="29440" lry="32190"/>
@@ -2638,7 +2602,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="29440" lry="37970">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/05_01/delivery/bmtnaaz_1917-05_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="29440" lry="2500"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="2500" lrx="2670" lry="35460"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="26790" uly="2500" lrx="29440" lry="35460"/>
@@ -2894,7 +2858,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="29440" lry="37970">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/05_01/delivery/bmtnaaz_1917-05_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="29440" lry="3050"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="3050" lrx="2910" lry="34870"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="26880" uly="3050" lrx="29440" lry="34870"/>
@@ -3546,22 +3510,20 @@
                         <ab facs="P8_TB00001">
                            <lb facs="P8_TL00001"/>POÈME</ab>
                      </div>
-                     <div type="TextContent" corresp="c016">
-                        <div type="Head">
-                           <ab facs="P8_TB00002">
-                              <lb facs="P8_TL00002"/>ENTERREMENT</ab>
-                        </div>
-                        <div type="Byline">
-                           <ab facs="P8_TB00004">
-                              <lb facs="P8_TL00012"/>LUCIEN MARGOTON.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00003">
-                                       <lb facs="P8_TL00003"/>La Sirène a des sons de pieuvre<lb facs="P8_TL00004"/>Sinistres enchevêtrements<lb facs="P8_TL00005"/>Tramways<lb facs="P8_TL00006"/>Charrettes<lb facs="P8_TL00007"/>Taxi-Autos<lb facs="P8_TL00008"/>« Intran, Liberté, Presse »<lb facs="P8_TL00009"/>Trait charbonneux dans un déploiement <lb facs="P8_TL00010"/>Sous les perles et les fleurs<lb facs="P8_TL00011"/>le mort vacille.</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P8_TB00002">
+                           <lb facs="P8_TL00002"/>ENTERREMENT</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab facs="P8_TB00004">
+                           <lb facs="P8_TL00012"/>LUCIEN MARGOTON.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00003">
+                                    <lb facs="P8_TL00003"/>La Sirène a des sons de pieuvre<lb facs="P8_TL00004"/>Sinistres enchevêtrements<lb facs="P8_TL00005"/>Tramways<lb facs="P8_TL00006"/>Charrettes<lb facs="P8_TL00007"/>Taxi-Autos<lb facs="P8_TL00008"/>« Intran, Liberté, Presse »<lb facs="P8_TL00009"/>Trait charbonneux dans un déploiement <lb facs="P8_TL00010"/>Sous les perles et les fleurs<lb facs="P8_TL00011"/>le mort vacille.</ab>
                               </div>
                            </div>
                         </div>

@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">1</biblScope>
                         <biblScope unit="issue">7</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace>
                         <date when="1916-07">Juillet 1916</date>
                      </imprint>
                   </monogr>
@@ -106,8 +97,7 @@
                   <acquisition> </acquisition>
                </history>
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -116,9 +106,7 @@
                      <biblScope unit="issue">7</biblScope>
                      <date when="1916-07"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -132,8 +120,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -148,8 +135,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -164,13 +150,17 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">POÈME</seg>
+                           <seg type="main">Deux lacs nègres</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/66462795">GUILLAUME APOLLINAIRE</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -179,29 +169,8 @@
                            <biblScope unit="page">4</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c005">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">Deux lacs nègres</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/66462795&#xA;">GUILLAUME APOLLINAIRE</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">4</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -215,8 +184,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c007">
+               </relatedItem><relatedItem type="constituent" xml:id="c007">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -231,8 +199,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -247,12 +214,12 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
-                           <seg type="main">DIALOGUE NUNIQUE Z et A</seg>
+                           <seg type="main">DIALOGUE NUNIQUE</seg>
+                           <seg type="sub">Z et AEN MARCHE</seg>
                         </title>
                         <textLang mainLang="fre"/>
                      </analytic>
@@ -262,25 +229,8 @@
                            <biblScope unit="page">6</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c010">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">EN MARCHE</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">6</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c011">
+               </relatedItem><relatedItem type="constituent" xml:id="c011">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -294,7 +244,142 @@
                            <biblScope unit="page">7</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c012">
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c014">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">? RÉPONSES</seg>
+                        </title>
+                        <textLang mainLang="fre"/>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">TextContent</classCode>
+                           <biblScope unit="page">8</biblScope>
+                        </imprint>
+                     </monogr>
+                     <relatedItem type="constituent" xml:id="c015">
+                        <biblStruct>
+                           <analytic>
+                              <title level="a">
+                                 <seg type="main">Untitled text</seg>
+                              </title>
+                              <respStmt>
+                                 <persName ref="http://viaf.org/viaf/59386060">F. Berthet</persName>
+                                 <resp>cre</resp>
+                              </respStmt>
+                              <textLang mainLang="fre"/>
+                           </analytic>
+                           <monogr>
+                              <imprint>
+                                 <classCode scheme="CCS">TextContent</classCode>
+                                 <biblScope unit="page">8</biblScope>
+                              </imprint>
+                           </monogr>
+                        </biblStruct>
+                     </relatedItem>
+                     <relatedItem type="constituent" xml:id="c016">
+                        <biblStruct>
+                           <analytic>
+                              <title level="a">
+                                 <seg type="main">Untitled text</seg>
+                              </title>
+                              <respStmt>
+                                 <persName>Emile Geney</persName>
+                                 <resp>cre</resp>
+                              </respStmt>
+                              <textLang mainLang="fre"/>
+                           </analytic>
+                           <monogr>
+                              <imprint>
+                                 <classCode scheme="CCS">TextContent</classCode>
+                                 <biblScope unit="page">8</biblScope>
+                              </imprint>
+                           </monogr>
+                        </biblStruct>
+                     </relatedItem>
+                     <relatedItem type="constituent" xml:id="c017">
+                        <biblStruct>
+                           <analytic>
+                              <title level="a">
+                                 <seg type="main">Untitled text</seg>
+                              </title>
+                              <respStmt>
+                                 <persName>Tranchées de 1-re ligne</persName>
+                                 <resp>cre</resp>
+                              </respStmt>
+                              <textLang mainLang="fre"/>
+                           </analytic>
+                           <monogr>
+                              <imprint>
+                                 <classCode scheme="CCS">TextContent</classCode>
+                                 <biblScope unit="page">8</biblScope>
+                              </imprint>
+                           </monogr>
+                        </biblStruct>
+                     </relatedItem>
+                     <relatedItem type="constituent" xml:id="c018">
+                        <biblStruct>
+                           <analytic>
+                              <title level="a">
+                                 <seg type="main">Untitled text</seg>
+                              </title>
+                              <respStmt>
+                                 <persName>Marcel Mil</persName>
+                                 <resp>cre</resp>
+                              </respStmt>
+                              <textLang mainLang="fre"/>
+                           </analytic>
+                           <monogr>
+                              <imprint>
+                                 <classCode scheme="CCS">TextContent</classCode>
+                                 <biblScope unit="page">8</biblScope>
+                              </imprint>
+                           </monogr>
+                        </biblStruct>
+                     </relatedItem>
+                     <relatedItem type="constituent" xml:id="c019">
+                        <biblStruct>
+                           <analytic>
+                              <title level="a">
+                                 <seg type="main">Untitled text</seg>
+                              </title>
+                              <respStmt>
+                                 <persName>J. B.</persName>
+                                 <resp>cre</resp>
+                              </respStmt>
+                              <textLang mainLang="fre"/>
+                           </analytic>
+                           <monogr>
+                              <imprint>
+                                 <classCode scheme="CCS">TextContent</classCode>
+                                 <biblScope unit="page">8</biblScope>
+                              </imprint>
+                           </monogr>
+                        </biblStruct>
+                     </relatedItem>
+                     <relatedItem type="constituent" xml:id="c020">
+                        <biblStruct>
+                           <analytic>
+                              <title level="a">
+                                 <seg type="main">Untitled text</seg>
+                              </title>
+                              <respStmt>
+                                 <persName>E. Dupuis</persName>
+                                 <resp>cre</resp>
+                              </respStmt>
+                              <textLang mainLang="fre"/>
+                           </analytic>
+                           <monogr>
+                              <imprint>
+                                 <classCode scheme="CCS">TextContent</classCode>
+                                 <biblScope unit="page">8</biblScope>
+                              </imprint>
+                           </monogr>
+                        </biblStruct>
+                     </relatedItem>
+                     <relatedItem type="constituent" xml:id="c021">
                         <biblStruct>
                            <analytic>
                               <title level="a">
@@ -305,188 +390,19 @@
                            <monogr>
                               <imprint>
                                  <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">7</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
-                  </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
-                  <biblStruct>
-                     <analytic>
-                        <title level="a">
-                           <seg type="main">?</seg>
-                        </title>
-                        <textLang mainLang="fre"/>
-                     </analytic>
-                     <monogr>
-                        <imprint>
-                           <classCode scheme="CCS">TextContent</classCode>
-                           <biblScope unit="page">8</biblScope>
-                        </imprint>
-                     </monogr>
-                     <relatedItem type="constituent" xml:id="c014">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">RÉPONSES</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
                                  <biblScope unit="page">8</biblScope>
                               </imprint>
                            </monogr>
-                           <relatedItem type="constituent" xml:id="c015">
-                              <biblStruct>
-                                 <analytic>
-                                    <title level="a">
-                                       <seg type="main">Untitled text</seg>
-                                    </title>
-                                    <respStmt>
-                                       <persName ref="http://viaf.org/viaf/59386060">F. Berthet</persName>
-                                       <resp>cre</resp>
-                                    </respStmt>
-                                    <textLang mainLang="fre"/>
-                                 </analytic>
-                                 <monogr>
-                                    <imprint>
-                                       <classCode scheme="CCS">TextContent</classCode>
-                                       <biblScope unit="page">8</biblScope>
-                                    </imprint>
-                                 </monogr>
-                              </biblStruct>
-                           </relatedItem>
-                           <relatedItem type="constituent" xml:id="c016">
-                              <biblStruct>
-                                 <analytic>
-                                    <title level="a">
-                                       <seg type="main">Untitled text</seg>
-                                    </title>
-                                    <respStmt>
-                                       <persName>Emile Geney</persName>
-                                       <resp>cre</resp>
-                                    </respStmt>
-                                    <textLang mainLang="fre"/>
-                                 </analytic>
-                                 <monogr>
-                                    <imprint>
-                                       <classCode scheme="CCS">TextContent</classCode>
-                                       <biblScope unit="page">8</biblScope>
-                                    </imprint>
-                                 </monogr>
-                              </biblStruct>
-                           </relatedItem>
-                           <relatedItem type="constituent" xml:id="c017">
-                              <biblStruct>
-                                 <analytic>
-                                    <title level="a">
-                                       <seg type="main">Untitled text</seg>
-                                    </title>
-                                    <respStmt>
-                                       <persName>Tranchées de 1-re ligne</persName>
-                                       <resp>cre</resp>
-                                    </respStmt>
-                                    <textLang mainLang="fre"/>
-                                 </analytic>
-                                 <monogr>
-                                    <imprint>
-                                       <classCode scheme="CCS">TextContent</classCode>
-                                       <biblScope unit="page">8</biblScope>
-                                    </imprint>
-                                 </monogr>
-                              </biblStruct>
-                           </relatedItem>
-                           <relatedItem type="constituent" xml:id="c018">
-                              <biblStruct>
-                                 <analytic>
-                                    <title level="a">
-                                       <seg type="main">Untitled text</seg>
-                                    </title>
-                                    <respStmt>
-                                       <persName>Marcel Mil</persName>
-                                       <resp>cre</resp>
-                                    </respStmt>
-                                    <textLang mainLang="fre"/>
-                                 </analytic>
-                                 <monogr>
-                                    <imprint>
-                                       <classCode scheme="CCS">TextContent</classCode>
-                                       <biblScope unit="page">8</biblScope>
-                                    </imprint>
-                                 </monogr>
-                              </biblStruct>
-                           </relatedItem>
-                           <relatedItem type="constituent" xml:id="c019">
-                              <biblStruct>
-                                 <analytic>
-                                    <title level="a">
-                                       <seg type="main">Untitled text</seg>
-                                    </title>
-                                    <respStmt>
-                                       <persName>J. B.</persName>
-                                       <resp>cre</resp>
-                                    </respStmt>
-                                    <textLang mainLang="fre"/>
-                                 </analytic>
-                                 <monogr>
-                                    <imprint>
-                                       <classCode scheme="CCS">TextContent</classCode>
-                                       <biblScope unit="page">8</biblScope>
-                                    </imprint>
-                                 </monogr>
-                              </biblStruct>
-                           </relatedItem>
-                           <relatedItem type="constituent" xml:id="c020">
-                              <biblStruct>
-                                 <analytic>
-                                    <title level="a">
-                                       <seg type="main">Untitled text</seg>
-                                    </title>
-                                    <respStmt>
-                                       <persName>E. Dupuis</persName>
-                                       <resp>cre</resp>
-                                    </respStmt>
-                                    <textLang mainLang="fre"/>
-                                 </analytic>
-                                 <monogr>
-                                    <imprint>
-                                       <classCode scheme="CCS">TextContent</classCode>
-                                       <biblScope unit="page">8</biblScope>
-                                    </imprint>
-                                 </monogr>
-                              </biblStruct>
-                           </relatedItem>
-                           <relatedItem type="constituent" xml:id="c021">
-                              <biblStruct>
-                                 <analytic>
-                                    <title level="a">
-                                       <seg type="main">Untitled text</seg>
-                                    </title>
-                                    <textLang mainLang="fre"/>
-                                 </analytic>
-                                 <monogr>
-                                    <imprint>
-                                       <classCode scheme="CCS">TextContent</classCode>
-                                       <biblScope unit="page">8</biblScope>
-                                    </imprint>
-                                 </monogr>
-                              </biblStruct>
-                           </relatedItem>
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="29650" lry="36360">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/07_01/delivery/bmtnaaz_1916-07_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="29650" lry="1920"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="1920" lrx="2270" lry="34320"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="27400" uly="1920" lrx="29650" lry="34320"/>
@@ -558,7 +474,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="29890" lry="41220">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/07_01/delivery/bmtnaaz_1916-07_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="29890" lry="3040"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="3040" lrx="2830" lry="37570"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="27100" uly="3040" lrx="29890" lry="37570"/>
@@ -698,7 +614,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="29890" lry="41220">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/07_01/delivery/bmtnaaz_1916-07_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="29890" lry="3430"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="3430" lrx="2900" lry="34540"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="26800" uly="3430" lrx="29890" lry="34540"/>
@@ -1051,7 +967,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="29890" lry="41220">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/07_01/delivery/bmtnaaz_1916-07_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="29890" lry="4650"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="4650" lrx="3400" lry="36000"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="27110" uly="4650" lrx="29890" lry="36000"/>
@@ -1225,7 +1141,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="33740" lry="43420">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/07_01/delivery/bmtnaaz_1916-07_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="33740" lry="0"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="0" lrx="0" lry="43410"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="33730" uly="0" lrx="33740" lry="43410"/>
@@ -1241,7 +1157,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="29890" lry="41220">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/07_01/delivery/bmtnaaz_1916-07_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="29890" lry="3390"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="3390" lrx="2960" lry="35060"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="26920" uly="3390" lrx="29890" lry="35060"/>
@@ -1555,7 +1471,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="29890" lry="41220">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/07_01/delivery/bmtnaaz_1916-07_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="29890" lry="4640"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="4640" lrx="2610" lry="36380"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="26870" uly="4640" lrx="29890" lry="36380"/>
@@ -2122,7 +2038,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="29890" lry="41220">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/07_01/delivery/bmtnaaz_1916-07_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="29890" lry="4810"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="4810" lrx="3020" lry="36350"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="27060" uly="4810" lrx="29890" lry="36350"/>
@@ -2851,62 +2767,60 @@
                         <ab facs="P4_TB00001">
                            <lb facs="P4_TL00001"/>POÈME</ab>
                      </div>
-                     <div type="TextContent" corresp="c005">
-                        <div type="Byline">
-                           <ab facs="P4_TB00012">
-                              <lb facs="P4_TL00022"/>GUILLAUME APOLLINAIRE</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="MinorHead">
-                                 <ab facs="P4_TB00002">
-                                    <lb facs="P4_TL00002"/>I</ab>
+                     <div type="Byline">
+                        <ab facs="P4_TB00012">
+                           <lb facs="P4_TL00022"/>GUILLAUME APOLLINAIRE</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="MinorHead">
+                              <ab facs="P4_TB00002">
+                                 <lb facs="P4_TL00002"/>I</ab>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P4_TB00003">
+                                    <lb facs="P4_TL00003"/>Deux lacs nègres<lb facs="P4_TL00004"/>Entre une forêt<lb facs="P4_TL00005"/>Et une chemise qui sèche</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P4_TB00003">
-                                       <lb facs="P4_TL00003"/>Deux lacs nègres<lb facs="P4_TL00004"/>Entre une forêt<lb facs="P4_TL00005"/>Et une chemise qui sèche</ab>
-                                 </div>
+                           </div>
+                           <div type="MinorHead">
+                              <ab facs="P4_TB00004">
+                                 <lb facs="P4_TL00006"/>II</ab>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P4_TB00005">
+                                    <lb facs="P4_TL00007"/>Bouche ouverte sur une harmonium<lb facs="P4_TL00008"/>C'était une voix faite d'yeux<lb facs="P4_TL00009"/>Tandis qu'il traîne de petites gens</ab>
                               </div>
-                              <div type="MinorHead">
-                                 <ab facs="P4_TB00004">
-                                    <lb facs="P4_TL00006"/>II</ab>
+                           </div>
+                           <div type="MinorHead">
+                              <ab facs="P4_TB00006">
+                                 <lb facs="P4_TL00010"/>III</ab>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P4_TB00007">
+                                    <lb facs="P4_TL00011"/>Une petite vieille au nez pointu<lb facs="P4_TL00012"/>J'admire la bouillotte d'émail bleu<lb facs="P4_TL00013"/>Mais le rat pénètre dans le cadavre et y demeure</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P4_TB00005">
-                                       <lb facs="P4_TL00007"/>Bouche ouverte sur une harmonium<lb facs="P4_TL00008"/>C'était une voix faite d'yeux<lb facs="P4_TL00009"/>Tandis qu'il traîne de petites gens</ab>
-                                 </div>
+                           </div>
+                           <div type="MinorHead">
+                              <ab facs="P4_TB00008">
+                                 <lb facs="P4_TL00014"/>IV</ab>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P4_TB00009">
+                                    <lb facs="P4_TL00015"/>Un monsieur en bras de chemise<lb facs="P4_TL00016"/>Se rase près de la fenêtre<lb facs="P4_TL00017"/>En chantant un petit air qu'il ne sait pas très bien<lb facs="P4_TL00018"/>Ça fait tout un opéra.</ab>
                               </div>
-                              <div type="MinorHead">
-                                 <ab facs="P4_TB00006">
-                                    <lb facs="P4_TL00010"/>III</ab>
-                              </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P4_TB00007">
-                                       <lb facs="P4_TL00011"/>Une petite vieille au nez pointu<lb facs="P4_TL00012"/>J'admire la bouillotte d'émail bleu<lb facs="P4_TL00013"/>Mais le rat pénètre dans le cadavre et y demeure</ab>
-                                 </div>
-                              </div>
-                              <div type="MinorHead">
-                                 <ab facs="P4_TB00008">
-                                    <lb facs="P4_TL00014"/>IV</ab>
-                              </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P4_TB00009">
-                                       <lb facs="P4_TL00015"/>Un monsieur en bras de chemise<lb facs="P4_TL00016"/>Se rase près de la fenêtre<lb facs="P4_TL00017"/>En chantant un petit air qu'il ne sait pas très bien<lb facs="P4_TL00018"/>Ça fait tout un opéra.</ab>
-                                 </div>
-                              </div>
-                              <div type="MinorHead">
-                                 <ab facs="P4_TB00010">
-                                    <lb facs="P4_TL00019"/>V</ab>
-                              </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P4_TB00011">
-                                       <lb facs="P4_TL00020"/>Toi qui te tournes vers le roi<lb facs="P4_TL00021"/>Est-ce que Dieu voudrait mourir encore</ab>
-                                 </div>
+                           </div>
+                           <div type="MinorHead">
+                              <ab facs="P4_TB00010">
+                                 <lb facs="P4_TL00019"/>V</ab>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P4_TB00011">
+                                    <lb facs="P4_TL00020"/>Toi qui te tournes vers le roi<lb facs="P4_TL00021"/>Est-ce que Dieu voudrait mourir encore</ab>
                               </div>
                            </div>
                         </div>
@@ -2952,27 +2866,25 @@
                         <ab facs="P6_TB00003">
                            <lb facs="P6_TL00017"/>DIALOGUE NUNIQUE<lb facs="P6_TL00018"/>Z et A</ab>
                      </div>
-                     <div type="TextContent" corresp="c010">
-                        <div type="Head">
-                           <ab facs="P6_TB00004">
-                              <lb facs="P6_TL00019"/>EN MARCHE</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P6_TB00005">
-                                       <lb facs="P6_TL00020"/>A. —Je suis très heureux de voue rencontrer. J'étais en train de me dire qu'en<lb facs="P6_TL00021"/>somme l'art est objectivo-subjectif.<lb facs="P6_TL00022"/>Z. Oui, jusqu'à présent, puisque l'œuvre est «quelque chose» qui contient l'objet<lb facs="P6_TL00023"/>et le sujet.<lb facs="P6_TL00024"/>A. Bon, mais dans quelles proportions? L'œuvre doit-elle contenir plus de l'un que<lb facs="P6_TL00025"/>de l'autre?<lb facs="P6_TL00026"/>Z. De ce que nous avons dit jusqu'ici aucune loi relative à cette question ne me<lb facs="P6_TL00027"/>semble se dégager ; mais cherchons. Nous avons vu que l'image de l'appareil<lb facs="P6_TL00028"/>photographique ne contient que l'objet. Devons-nous reconnaître à cette image<lb facs="P6_TL00029"/>un caractère d'art?<lb facs="P6_TL00030"/>A. Non sans aucun doute, c'est une image mécanique.<lb facs="P6_TL00031"/>Z. A partir de quel moment une image appartient-elle au domaine de l'art?<lb facs="P6_TL00032"/>A. Dès qu'elle est création du sujet sensible et pensant.</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P6_TB00004">
+                           <lb facs="P6_TL00019"/>EN MARCHE</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P6_TB00005">
+                                    <lb facs="P6_TL00020"/>A. —Je suis très heureux de voue rencontrer. J'étais en train de me dire qu'en<lb facs="P6_TL00021"/>somme l'art est objectivo-subjectif.<lb facs="P6_TL00022"/>Z. Oui, jusqu'à présent, puisque l'œuvre est «quelque chose» qui contient l'objet<lb facs="P6_TL00023"/>et le sujet.<lb facs="P6_TL00024"/>A. Bon, mais dans quelles proportions? L'œuvre doit-elle contenir plus de l'un que<lb facs="P6_TL00025"/>de l'autre?<lb facs="P6_TL00026"/>Z. De ce que nous avons dit jusqu'ici aucune loi relative à cette question ne me<lb facs="P6_TL00027"/>semble se dégager ; mais cherchons. Nous avons vu que l'image de l'appareil<lb facs="P6_TL00028"/>photographique ne contient que l'objet. Devons-nous reconnaître à cette image<lb facs="P6_TL00029"/>un caractère d'art?<lb facs="P6_TL00030"/>A. Non sans aucun doute, c'est une image mécanique.<lb facs="P6_TL00031"/>Z. A partir de quel moment une image appartient-elle au domaine de l'art?<lb facs="P6_TL00032"/>A. Dès qu'elle est création du sujet sensible et pensant.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P7_TB00001">
-                                       <lb facs="P7_TL00001"/>Z. Très bien, voici que nous avons fixé un point : une pari du sujet est indispen<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P7_TL00002"/>sable ; l'image objective ne devient représentation d'art qu'après avoir été re<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P7_TL00003"/>créée par le sujet. En d'autres termes l'art commence au sujet. Donc de ces<lb facs="P7_TL00004"/>deux parts que nous trouvons dans l'œuvre d'art: l'objet et le sujet, en est-il<lb facs="P7_TL00005"/>une plus nécessaire que l'autre ?<lb facs="P7_TL00006"/>A. Evidemment, la part du sujet, puisque sans elle, il n'y a qu'une image mécanique.<lb facs="P7_TL00007"/>Z. Alors, quel est le rôle de l'objet?<lb facs="P7_TL00008"/>A. 11 semble n'être que le point de départ d'une modification du sujet.<lb facs="P7_TL00009"/>Z. Par conséquent le sujet me semble bien libre de ne retenir de l'objet que ce<lb facs="P7_TL00010"/>qui l'intéresse, c'est à dire ce qui entraine sa modification, je dirai même<lb facs="P7_TL00011"/>qu'il doit ne retenir que cela, à quoi servirait le reste? ce qui nous amène<lb facs="P7_TL00012"/>à conclure que l'artiste est seul juge dans la mesure des proportions de l'ob<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P7_TL00013"/>jectif et du subjectif, et il mettra d'autant moins d'objectif qu'il aura plus<lb facs="P7_TL00014"/>d'émotion ou d'idéal réactif.<lb facs="P7_TL00015"/>A. Je comprends maintenant notre tort vis à vis des cubistes et des futuristes,<lb facs="P7_TL00016"/>nous voulons toujours retrouver l'objet.<lb facs="P7_TL00017"/>Z. ..tandis qu'ils n'en ont pris que certains éléments constitutifs, suivant en cela<lb facs="P7_TL00018"/>la loi nunique qui tend au minimum d'objectif et au maximum de subjectif.<lb facs="P7_TL00019"/>A. Mais alors ne pourrait-on déjà concevoir un art plus absolument subjectif dont<lb facs="P7_TL00020"/>les œuvres laisseraient complètement en dehors l'objet dont elles sont nées?<lb facs="P7_TL00021"/>Z. Mon cher A je n'ai plus rien à vous apprendre : ce que vous demandez là c'est<lb facs="P7_TL00022"/>à peu près ce qui a été essayé dans l'expression plastique « Guerre » que SIC<lb facs="P7_TL00023"/>a publiée. Ah! je suis en retard, au revoir...<lb facs="P7_TL00024"/>A. Déjà, pourtant que de choses je voudrais encore vous demander sur la peinture<lb facs="P7_TL00025"/>la sculpture, l'architecture, la poésie, la musique, la danse...<lb facs="P7_TL00026"/>Z. Après les vacances nous nous retrouverons et nous parlerons de tout ce que vous<lb facs="P7_TL00027"/>voudrez.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P7_TB00001">
+                                    <lb facs="P7_TL00001"/>Z. Très bien, voici que nous avons fixé un point : une pari du sujet est indispen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00002"/>sable ; l'image objective ne devient représentation d'art qu'après avoir été re<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00003"/>créée par le sujet. En d'autres termes l'art commence au sujet. Donc de ces<lb facs="P7_TL00004"/>deux parts que nous trouvons dans l'œuvre d'art: l'objet et le sujet, en est-il<lb facs="P7_TL00005"/>une plus nécessaire que l'autre ?<lb facs="P7_TL00006"/>A. Evidemment, la part du sujet, puisque sans elle, il n'y a qu'une image mécanique.<lb facs="P7_TL00007"/>Z. Alors, quel est le rôle de l'objet?<lb facs="P7_TL00008"/>A. 11 semble n'être que le point de départ d'une modification du sujet.<lb facs="P7_TL00009"/>Z. Par conséquent le sujet me semble bien libre de ne retenir de l'objet que ce<lb facs="P7_TL00010"/>qui l'intéresse, c'est à dire ce qui entraine sa modification, je dirai même<lb facs="P7_TL00011"/>qu'il doit ne retenir que cela, à quoi servirait le reste? ce qui nous amène<lb facs="P7_TL00012"/>à conclure que l'artiste est seul juge dans la mesure des proportions de l'ob<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00013"/>jectif et du subjectif, et il mettra d'autant moins d'objectif qu'il aura plus<lb facs="P7_TL00014"/>d'émotion ou d'idéal réactif.<lb facs="P7_TL00015"/>A. Je comprends maintenant notre tort vis à vis des cubistes et des futuristes,<lb facs="P7_TL00016"/>nous voulons toujours retrouver l'objet.<lb facs="P7_TL00017"/>Z. ..tandis qu'ils n'en ont pris que certains éléments constitutifs, suivant en cela<lb facs="P7_TL00018"/>la loi nunique qui tend au minimum d'objectif et au maximum de subjectif.<lb facs="P7_TL00019"/>A. Mais alors ne pourrait-on déjà concevoir un art plus absolument subjectif dont<lb facs="P7_TL00020"/>les œuvres laisseraient complètement en dehors l'objet dont elles sont nées?<lb facs="P7_TL00021"/>Z. Mon cher A je n'ai plus rien à vous apprendre : ce que vous demandez là c'est<lb facs="P7_TL00022"/>à peu près ce qui a été essayé dans l'expression plastique « Guerre » que SIC<lb facs="P7_TL00023"/>a publiée. Ah! je suis en retard, au revoir...<lb facs="P7_TL00024"/>A. Déjà, pourtant que de choses je voudrais encore vous demander sur la peinture<lb facs="P7_TL00025"/>la sculpture, l'architecture, la poésie, la musique, la danse...<lb facs="P7_TL00026"/>Z. Après les vacances nous nous retrouverons et nous parlerons de tout ce que vous<lb facs="P7_TL00027"/>voudrez.</ab>
                               </div>
                            </div>
                         </div>
@@ -2983,143 +2895,139 @@
                         <ab facs="P7_TB00002">
                            <lb facs="P7_TL00028"/>ETC...</ab>
                      </div>
-                     <div type="TextContent" corresp="c012">
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P7_TB00003">
-                                       <lb facs="P7_TL00029"/>PEINTURE. Exposition 5, rue de Penthièvre. Encore une belle offensive d'avant-garde qui témoigne<lb facs="P7_TL00030"/>du merveilleux mordant de nos troupes. N'ayant ni assez de place, ni assez de temps pour faire<lb facs="P7_TL00031"/>l'étude sérieuse que mérite une exposition comme celle-ci, nous préférons nous abstenir plutôt que<lb facs="P7_TL00032"/>d'aligner des noms avec des épithètes (critique des Salons). Nous regrettons vivement de ne pou.<lb facs="P7_TL00033"/>voir étudier entr'autres les deux danseuses de Severini qui contiennent tant de choses.<lb facs="P7_TL00034"/>P. S. Galerie Marseille, rue de Seine. Dans ce petit temple d'art sont offerts religieusement aux yeux<lb facs="P7_TL00035"/>des croyants une série de dessins de Luc-Albert Moreau, mitrailleur aux armées. Que ne pouvons-nous<lb facs="P7_TL00036"/>dire tout le bien que nous pensons de ces puissants crayons.</ab>
-                                 </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P7_TB00003">
+                                    <lb facs="P7_TL00029"/>PEINTURE. Exposition 5, rue de Penthièvre. Encore une belle offensive d'avant-garde qui témoigne<lb facs="P7_TL00030"/>du merveilleux mordant de nos troupes. N'ayant ni assez de place, ni assez de temps pour faire<lb facs="P7_TL00031"/>l'étude sérieuse que mérite une exposition comme celle-ci, nous préférons nous abstenir plutôt que<lb facs="P7_TL00032"/>d'aligner des noms avec des épithètes (critique des Salons). Nous regrettons vivement de ne pou.<lb facs="P7_TL00033"/>voir étudier entr'autres les deux danseuses de Severini qui contiennent tant de choses.<lb facs="P7_TL00034"/>P. S. Galerie Marseille, rue de Seine. Dans ce petit temple d'art sont offerts religieusement aux yeux<lb facs="P7_TL00035"/>des croyants une série de dessins de Luc-Albert Moreau, mitrailleur aux armées. Que ne pouvons-nous<lb facs="P7_TL00036"/>dire tout le bien que nous pensons de ces puissants crayons.</ab>
                               </div>
                            </div>
                         </div>
                      </div>
                   </div>
-                  <div type="TextContent" corresp="c013">
+                  <div type="TextContent" corresp="c014">
                      <div type="Head">
                         <ab facs="P8_TB00001">
                            <lb facs="P8_TL00001"/>?</ab>
                      </div>
-                     <div type="TextContent" corresp="c014">
-                        <div type="Head">
-                           <ab facs="P8_TB00002">
-                              <lb facs="P8_TL00002"/>RÉPONSES</ab>
+                     <div type="Head">
+                        <ab facs="P8_TB00002">
+                           <lb facs="P8_TL00002"/>RÉPONSES</ab>
+                     </div>
+                     <div type="TextContent" corresp="c015">
+                        <div type="Byline">
+                           <ab facs="P8_TB00005">
+                              <lb facs="P8_TL00010"/>F. Berthet.</ab>
                         </div>
-                        <div type="TextContent" corresp="c015">
-                           <div type="Byline">
-                              <ab facs="P8_TB00005">
-                                 <lb facs="P8_TL00010"/>F. Berthet.</ab>
-                           </div>
-                           <div type="Copy">
-                              <div type="BodyContent">
-                                 <div type="Paragraph">
-                                    <div type="Text">
-                                       <ab facs="P8_TB00003">
-                                          <lb facs="P8_TL00003"/>Aux Armé»», I» 85 Février 1916<lb facs="P8_TL00004"/>Pour oublier la science au service d® la mort l'ar<pc type="endhypen" pre="false">-</pc>
-                                          <lb facs="P8_TL00005"/>tiste mettra son art au service de 1» vie. Son œuvri<lb facs="P8_TL00006"/>sera un. hymne aux formes, aux couleurs, aux sons,<lb facs="P8_TL00007"/>aux idées le programme de ~Sic" cher monsieur—<lb facs="P8_TL00008"/>je croisque les ~Poilus" auront le droit de gueuler et</ab>
-                                       <ab facs="P8_TB00004">
-                                          <lb facs="P8_TL00009"/>d'imposer leur vision.</ab>
-                                    </div>
+                        <div type="Copy">
+                           <div type="BodyContent">
+                              <div type="Paragraph">
+                                 <div type="Text">
+                                    <ab facs="P8_TB00003">
+                                       <lb facs="P8_TL00003"/>Aux Armé»», I» 85 Février 1916<lb facs="P8_TL00004"/>Pour oublier la science au service d® la mort l'ar<pc type="endhypen" pre="false">-</pc>
+                                       <lb facs="P8_TL00005"/>tiste mettra son art au service de 1» vie. Son œuvri<lb facs="P8_TL00006"/>sera un. hymne aux formes, aux couleurs, aux sons,<lb facs="P8_TL00007"/>aux idées le programme de ~Sic" cher monsieur—<lb facs="P8_TL00008"/>je croisque les ~Poilus" auront le droit de gueuler et</ab>
+                                    <ab facs="P8_TB00004">
+                                       <lb facs="P8_TL00009"/>d'imposer leur vision.</ab>
                                  </div>
                               </div>
                            </div>
                         </div>
-                        <div type="TextContent" corresp="c016">
-                           <div type="Byline">
-                              <ab facs="P8_TB00007">
-                                 <lb facs="P8_TL00015"/>Emile Geney.<lb facs="P8_TL00016"/>347-e Inf. S. P. 99.</ab>
-                           </div>
-                           <div type="Copy">
-                              <div type="BodyContent">
-                                 <div type="Paragraph">
-                                    <div type="Text">
-                                       <ab facs="P8_TB00006">
-                                          <lb facs="P8_TL00011"/>' Quoique la guerre ait fait et quoi qu'elle- ait laissé,<lb facs="P8_TL00012"/>l'Humanité étant un éternel recommencement, nous ne<lb facs="P8_TL00013"/>sommes pas près encore Hélas ! d® voir la fin des<lb facs="P8_TL00014"/>Imbécilités.</ab>
-                                    </div>
+                     </div>
+                     <div type="TextContent" corresp="c016">
+                        <div type="Byline">
+                           <ab facs="P8_TB00007">
+                              <lb facs="P8_TL00015"/>Emile Geney.<lb facs="P8_TL00016"/>347-e Inf. S. P. 99.</ab>
+                        </div>
+                        <div type="Copy">
+                           <div type="BodyContent">
+                              <div type="Paragraph">
+                                 <div type="Text">
+                                    <ab facs="P8_TB00006">
+                                       <lb facs="P8_TL00011"/>' Quoique la guerre ait fait et quoi qu'elle- ait laissé,<lb facs="P8_TL00012"/>l'Humanité étant un éternel recommencement, nous ne<lb facs="P8_TL00013"/>sommes pas près encore Hélas ! d® voir la fin des<lb facs="P8_TL00014"/>Imbécilités.</ab>
                                  </div>
                               </div>
                            </div>
                         </div>
-                        <div type="TextContent" corresp="c017">
-                           <div type="Byline">
-                              <ab facs="P8_TB00009">
-                                 <lb facs="P8_TL00020"/>Tranchées de 1-re ligne<lb facs="P8_TL00021"/>L-t R. S.</ab>
-                           </div>
-                           <div type="Copy">
-                              <div type="BodyContent">
-                                 <div type="Paragraph">
-                                    <div type="Text">
-                                       <ab facs="P8_TB00008">
-                                          <lb facs="P8_TL00017"/>Bon nombr» de faiblards timides reviendront de<lb facs="P8_TL00018"/>cette rude école forts ©t audacieux. Or on peut fout<lb facs="P8_TL00019"/>espérer de la force et de l'audace.</ab>
-                                    </div>
+                     </div>
+                     <div type="TextContent" corresp="c017">
+                        <div type="Byline">
+                           <ab facs="P8_TB00009">
+                              <lb facs="P8_TL00020"/>Tranchées de 1-re ligne<lb facs="P8_TL00021"/>L-t R. S.</ab>
+                        </div>
+                        <div type="Copy">
+                           <div type="BodyContent">
+                              <div type="Paragraph">
+                                 <div type="Text">
+                                    <ab facs="P8_TB00008">
+                                       <lb facs="P8_TL00017"/>Bon nombr» de faiblards timides reviendront de<lb facs="P8_TL00018"/>cette rude école forts ©t audacieux. Or on peut fout<lb facs="P8_TL00019"/>espérer de la force et de l'audace.</ab>
                                  </div>
                               </div>
                            </div>
                         </div>
-                        <div type="TextContent" corresp="c018">
-                           <div type="Byline">
-                              <ab facs="P8_TB00011">
-                                 <lb facs="P8_TL00026"/>Marcel Mil. Poête</ab>
-                           </div>
-                           <div type="Copy">
-                              <div type="BodyContent">
-                                 <div type="Paragraph">
-                                    <div type="Text">
-                                       <ab facs="P8_TB00010">
-                                          <lb facs="P8_TL00022"/>La guerre aura occasionné des examen» de con<pc type="endhypen" pre="false">-</pc>
-                                          <lb facs="P8_TL00023"/>science artistique, des rectifications d'idées, de style.<lb facs="P8_TL00024"/>Une mise au point, à peine... La psychologie y gag<pc type="endhypen" pre="false">-</pc>
-                                          <lb facs="P8_TL00025"/>nera, les idées de force et de vie aussi.</ab>
-                                    </div>
+                     </div>
+                     <div type="TextContent" corresp="c018">
+                        <div type="Byline">
+                           <ab facs="P8_TB00011">
+                              <lb facs="P8_TL00026"/>Marcel Mil. Poête</ab>
+                        </div>
+                        <div type="Copy">
+                           <div type="BodyContent">
+                              <div type="Paragraph">
+                                 <div type="Text">
+                                    <ab facs="P8_TB00010">
+                                       <lb facs="P8_TL00022"/>La guerre aura occasionné des examen» de con<pc type="endhypen" pre="false">-</pc>
+                                       <lb facs="P8_TL00023"/>science artistique, des rectifications d'idées, de style.<lb facs="P8_TL00024"/>Une mise au point, à peine... La psychologie y gag<pc type="endhypen" pre="false">-</pc>
+                                       <lb facs="P8_TL00025"/>nera, les idées de force et de vie aussi.</ab>
                                  </div>
                               </div>
                            </div>
                         </div>
-                        <div type="TextContent" corresp="c019">
-                           <div type="Byline">
-                              <ab facs="P8_TB00014">
-                                 <lb facs="P8_TL00034"/>J. B. croix de guerre.</ab>
-                           </div>
-                           <div type="Copy">
-                              <div type="BodyContent">
-                                 <div type="Paragraph">
-                                    <div type="Text">
-                                       <ab facs="P8_TB00012">
-                                          <lb facs="P8_TL00027"/>L'influence morale, je ne sais. Mais d'une consé<pc type="endhypen" pre="false">-</pc>
-                                          <lb facs="P8_TL00028"/>quence je ne doute point: plus de jeunesse. Pourtant<lb facs="P8_TL00029"/>Pourtant c'est avec ça qu'on construit la puissance d'un<lb facs="P8_TL00030"/>pays. Conclusion: la guerre devrait être faite par les<lb facs="P8_TL00031"/>vieux, par ceux qui ont donné tout leur jus, ceux qui<lb facs="P8_TL00032"/>ont tout dit, et qu'on garde les jeunes, eux qui ont</ab>
-                                       <ab facs="P8_TB00013">
-                                          <lb facs="P8_TL00033"/>encore tout à dire.</ab>
-                                    </div>
+                     </div>
+                     <div type="TextContent" corresp="c019">
+                        <div type="Byline">
+                           <ab facs="P8_TB00014">
+                              <lb facs="P8_TL00034"/>J. B. croix de guerre.</ab>
+                        </div>
+                        <div type="Copy">
+                           <div type="BodyContent">
+                              <div type="Paragraph">
+                                 <div type="Text">
+                                    <ab facs="P8_TB00012">
+                                       <lb facs="P8_TL00027"/>L'influence morale, je ne sais. Mais d'une consé<pc type="endhypen" pre="false">-</pc>
+                                       <lb facs="P8_TL00028"/>quence je ne doute point: plus de jeunesse. Pourtant<lb facs="P8_TL00029"/>Pourtant c'est avec ça qu'on construit la puissance d'un<lb facs="P8_TL00030"/>pays. Conclusion: la guerre devrait être faite par les<lb facs="P8_TL00031"/>vieux, par ceux qui ont donné tout leur jus, ceux qui<lb facs="P8_TL00032"/>ont tout dit, et qu'on garde les jeunes, eux qui ont</ab>
+                                    <ab facs="P8_TB00013">
+                                       <lb facs="P8_TL00033"/>encore tout à dire.</ab>
                                  </div>
                               </div>
                            </div>
                         </div>
-                        <div type="TextContent" corresp="c020">
-                           <div type="Byline">
-                              <ab facs="P8_TB00016">
-                                 <lb facs="P8_TL00038"/>E. Dupuis<lb facs="P8_TL00039"/>caporal au 136e</ab>
-                           </div>
-                           <div type="Copy">
-                              <div type="BodyContent">
-                                 <div type="Paragraph">
-                                    <div type="Text">
-                                       <ab facs="P8_TB00015">
-                                          <lb facs="P8_TL00035"/>L'art d'après guerre? mais il sera nettement anti<pc type="endhypen" pre="false">-</pc>
-                                          <lb facs="P8_TL00036"/>académique, tout de fraîcheur et de spontanéité, l'ex<pc type="endhypen" pre="false">-</pc>
-                                          <lb facs="P8_TL00037"/>pression, la cristallisation même de l'âme de l'artiste.</ab>
-                                    </div>
+                     </div>
+                     <div type="TextContent" corresp="c020">
+                        <div type="Byline">
+                           <ab facs="P8_TB00016">
+                              <lb facs="P8_TL00038"/>E. Dupuis<lb facs="P8_TL00039"/>caporal au 136e</ab>
+                        </div>
+                        <div type="Copy">
+                           <div type="BodyContent">
+                              <div type="Paragraph">
+                                 <div type="Text">
+                                    <ab facs="P8_TB00015">
+                                       <lb facs="P8_TL00035"/>L'art d'après guerre? mais il sera nettement anti<pc type="endhypen" pre="false">-</pc>
+                                       <lb facs="P8_TL00036"/>académique, tout de fraîcheur et de spontanéité, l'ex<pc type="endhypen" pre="false">-</pc>
+                                       <lb facs="P8_TL00037"/>pression, la cristallisation même de l'âme de l'artiste.</ab>
                                  </div>
                               </div>
                            </div>
                         </div>
-                        <div type="TextContent" corresp="c021">
-                           <div type="Copy">
-                              <div type="BodyContent">
-                                 <div type="Paragraph">
-                                    <div type="Text">
-                                       <ab facs="P8_TB00017">
-                                          <lb facs="P8_TL00040"/>NOUS CROYONS DEVOIR PRÉVENIR nos abonnés ainsi que toutes les personnes qui nou9 écrivent<lb facs="P8_TL00041"/>pour renseignements, achat de numéros, demandes de spécimens, services de mobilisés etc... que nous<lb facs="P8_TL00042"/>faisons régulièrement les envois et répondons scrupuleusement à toutes les demandes. Toute irrégularité<lb facs="P8_TL00043"/>doit être imputée au service des Postes et nous demandons qu'on veuille bien nous en avertir.<lb facs="P8_TL00044"/>Le»- HIXHIérOS 1 et 2 étant épuisés, nous avons fait en sorte d'en réunir un certain nombre d'exemplaire» q«® m»»»<lb facs="P8_TL00045"/>tenons à la disposition de nos lecteurs aux prix de 0,75 le Jtë 1 et 0,50 le M 2.</ab>
-                                    </div>
+                     </div>
+                     <div type="TextContent" corresp="c021">
+                        <div type="Copy">
+                           <div type="BodyContent">
+                              <div type="Paragraph">
+                                 <div type="Text">
+                                    <ab facs="P8_TB00017">
+                                       <lb facs="P8_TL00040"/>NOUS CROYONS DEVOIR PRÉVENIR nos abonnés ainsi que toutes les personnes qui nou9 écrivent<lb facs="P8_TL00041"/>pour renseignements, achat de numéros, demandes de spécimens, services de mobilisés etc... que nous<lb facs="P8_TL00042"/>faisons régulièrement les envois et répondons scrupuleusement à toutes les demandes. Toute irrégularité<lb facs="P8_TL00043"/>doit être imputée au service des Postes et nous demandons qu'on veuille bien nous en avertir.<lb facs="P8_TL00044"/>Le»- HIXHIérOS 1 et 2 étant épuisés, nous avons fait en sorte d'en réunir un certain nombre d'exemplaire» q«® m»»»<lb facs="P8_TL00045"/>tenons à la disposition de nos lecteurs aux prix de 0,75 le Jtë 1 et 0,50 le M 2.</ab>
                                  </div>
                               </div>
                            </div>

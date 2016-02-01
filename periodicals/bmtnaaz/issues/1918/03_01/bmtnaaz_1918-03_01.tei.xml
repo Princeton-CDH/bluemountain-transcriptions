@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">3</biblScope>
                         <biblScope unit="issue">27</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace>
                         <date when="1918-03">MARS 1918</date>
                      </imprint>
                   </monogr>
@@ -113,8 +104,7 @@
                   <acquisition> </acquisition>
                </history>
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -123,9 +113,7 @@
                      <biblScope unit="issue">27</biblScope>
                      <date when="1918-03"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -139,8 +127,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -155,15 +142,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Untitled Image</seg>
                         </title>
                         <respStmt>
-                           <persName ref=" http://viaf.org/viaf/41859525 http://viaf.org/viaf/305422027 http://viaf.org/viaf/59084095/ ">X</persName>
+                           <persName>X</persName>
                            <resp>cre</resp>
                         </respStmt>
                      </analytic>
@@ -172,9 +158,10 @@
                            <classCode scheme="CCS">Illustration</classCode>
                            <biblScope unit="page">1</biblScope>
                         </imprint>
-                     </monogr>Dessin de X...</biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+                     </monogr>
+                     <note>Dessin de X...</note>
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -194,15 +181,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Epître Familière à Guillaume Apollinaire</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/2570785&#xA;">Gaston PICARD</persName>
+                           <persName ref="http://viaf.org/viaf/2570785">Gaston PICARD</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -214,15 +200,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c007">
+               </relatedItem><relatedItem type="constituent" xml:id="c007">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">CAFÉ</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/109453511&#xA;">Philippe SOUPAULT</persName>
+                           <persName ref="http://viaf.org/viaf/109453511">Philippe SOUPAULT</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -234,8 +219,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -254,8 +238,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -296,6 +279,10 @@
                               <title level="a">
                                  <seg type="main">PETITS POÈMES QUOTIDIENS</seg>
                               </title>
+                              <respStmt>
+                                 <persName ref="http://viaf.org/viaf/14765320">Pierre ALBERT-BIROT</persName>
+                                 <resp>cre</resp>
+                              </respStmt>
                               <textLang mainLang="fre"/>
                            </analytic>
                            <monogr>
@@ -304,31 +291,10 @@
                                  <biblScope unit="page">5</biblScope>
                               </imprint>
                            </monogr>
-                           <relatedItem type="constituent" xml:id="c012">
-                              <biblStruct>
-                                 <analytic>
-                                    <title level="a">
-                                       <seg type="main">I</seg>
-                                    </title>
-                                    <respStmt>
-                                       <persName ref="http://viaf.org/viaf/14765320">Pierre ALBERT-BIROT</persName>
-                                       <resp>cre</resp>
-                                    </respStmt>
-                                    <textLang mainLang="fre"/>
-                                 </analytic>
-                                 <monogr>
-                                    <imprint>
-                                       <classCode scheme="CCS">TextContent</classCode>
-                                       <biblScope unit="page">5</biblScope>
-                                    </imprint>
-                                 </monogr>
-                              </biblStruct>
-                           </relatedItem>
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -348,8 +314,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c014">
+               </relatedItem><relatedItem type="constituent" xml:id="c014">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -368,13 +333,16 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c015">
+               </relatedItem><relatedItem type="constituent" xml:id="c015">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">ETC...</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/14765320">P. A. B.</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -383,35 +351,14 @@
                            <biblScope unit="page">8</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c016">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">Untitled Text</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/14765320">P. A. B.</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">8</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="30600" lry="40920">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/03_01/delivery/bmtnaaz_1918-03_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="30600" lry="920"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="920" lrx="0" lry="39410"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="30380" uly="920" lrx="30600" lry="39410"/>
@@ -653,7 +600,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="25600" lry="37740">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/03_01/delivery/bmtnaaz_1918-03_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="25600" lry="2730"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="2730" lrx="2030" lry="37500"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="25060" uly="2730" lrx="25600" lry="37500"/>
@@ -1421,7 +1368,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="25600" lry="37740">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/03_01/delivery/bmtnaaz_1918-03_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="25600" lry="3510"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="3510" lrx="2040" lry="34250"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="23960" uly="3510" lrx="25600" lry="34250"/>
@@ -1795,7 +1742,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="25600" lry="37740">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/03_01/delivery/bmtnaaz_1918-03_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="25600" lry="3220"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="3220" lrx="1770" lry="35650"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="23760" uly="3220" lrx="25600" lry="35650"/>
@@ -1962,7 +1909,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="25600" lry="37740">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/03_01/delivery/bmtnaaz_1918-03_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="25600" lry="2750"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="2750" lrx="2940" lry="35600"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="23790" uly="2750" lrx="25600" lry="35600"/>
@@ -2147,7 +2094,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="25600" lry="37740">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/03_01/delivery/bmtnaaz_1918-03_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="25600" lry="4290"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="4290" lrx="1490" lry="34520"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="25150" uly="4290" lrx="25600" lry="34520"/>
@@ -2710,7 +2657,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="25600" lry="37740">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/03_01/delivery/bmtnaaz_1918-03_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="25600" lry="1630"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="1630" lrx="2000" lry="37220"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="24600" uly="1630" lrx="25600" lry="37220"/>
@@ -3246,7 +3193,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="25600" lry="37740">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/03_01/delivery/bmtnaaz_1918-03_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="25600" lry="440"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="440" lrx="1160" lry="37620"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="25310" uly="440" lrx="25600" lry="37620"/>
@@ -4117,22 +4064,20 @@
                         <ab facs="P5_TB00004">
                            <lb facs="P5_TL00017"/>PETITS POÈMES QUOTIDIENS</ab>
                      </div>
-                     <div type="TextContent" corresp="c012">
-                        <div type="Byline">
-                           <ab facs="P5_TB00007">
-                              <lb facs="P5_TL00023"/>Pierre ALBERT-BIROT.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="MinorHead">
-                                 <ab facs="P5_TB00005">
-                                    <lb facs="P5_TL00018"/>I</ab>
-                              </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P5_TB00006">
-                                       <lb facs="P5_TL00019"/>Le chemin de fer traverse la rue<lb facs="P5_TL00020"/>Sur un pont<lb facs="P5_TL00021"/>Quand le train passe<lb facs="P5_TL00022"/>Il a peur</ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P5_TB00007">
+                           <lb facs="P5_TL00023"/>Pierre ALBERT-BIROT.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="MinorHead">
+                              <ab facs="P5_TB00005">
+                                 <lb facs="P5_TL00018"/>I</ab>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P5_TB00006">
+                                    <lb facs="P5_TL00019"/>Le chemin de fer traverse la rue<lb facs="P5_TL00020"/>Sur un pont<lb facs="P5_TL00021"/>Quand le train passe<lb facs="P5_TL00022"/>Il a peur</ab>
                               </div>
                            </div>
                         </div>
@@ -4204,33 +4149,31 @@
                         <ab facs="P8_TB00001">
                            <lb facs="P8_TL00001"/>ETC...</ab>
                      </div>
-                     <div type="TextContent" corresp="c016">
-                        <div type="Byline">
-                           <ab facs="P8_TB00005">
-                              <lb facs="P8_TL00024"/>P. A. B.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00002">
-                                       <lb facs="P8_TL00002"/>.. f-<lb facs="P8_TL00003"/>Baudelaire et " l'Esprit nouveau". Roger. A — M. Roger Ai lard n'est pas, je<lb facs="P8_TL00004"/>crois, de notre avis. En quinze pages il fait l'autopsie de Baudelaire à propos de la préface<lb facs="P8_TL00005"/>qu'Apollinaire écrivit pour l'édition de la Bibliothèque des Curieux ; en six, il exécute une<lb facs="P8_TL00006"/>conférence du même Apollinaire ; en neuf, il aplatit les " Spirales " de Dermée, et ces<lb facs="P8_TL00007"/>trente pages prouvent surabondamment que M. Roger Allard est étranger à l'esprit nou<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00008"/>veau. n,e n est pas* un crime, et que pouvons-nous à cela ? Reprendre ligne à ligne et près<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00009"/>que partout affirmer quand il nie et vice-versa. Belle avance. Merci. Jusqu'où irions-nous<lb facs="P8_TL00010"/>à Ce jeu-là ! Nous sérions capables de passer notre vie à dire ce qu'il faut faire, j'aime<lb facs="P8_TL00011"/>mieux,le faire, c'est plus amusant. </ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P8_TB00005">
+                           <lb facs="P8_TL00024"/>P. A. B.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00002">
+                                    <lb facs="P8_TL00002"/>.. f-<lb facs="P8_TL00003"/>Baudelaire et " l'Esprit nouveau". Roger. A — M. Roger Ai lard n'est pas, je<lb facs="P8_TL00004"/>crois, de notre avis. En quinze pages il fait l'autopsie de Baudelaire à propos de la préface<lb facs="P8_TL00005"/>qu'Apollinaire écrivit pour l'édition de la Bibliothèque des Curieux ; en six, il exécute une<lb facs="P8_TL00006"/>conférence du même Apollinaire ; en neuf, il aplatit les " Spirales " de Dermée, et ces<lb facs="P8_TL00007"/>trente pages prouvent surabondamment que M. Roger Allard est étranger à l'esprit nou<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00008"/>veau. n,e n est pas* un crime, et que pouvons-nous à cela ? Reprendre ligne à ligne et près<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00009"/>que partout affirmer quand il nie et vice-versa. Belle avance. Merci. Jusqu'où irions-nous<lb facs="P8_TL00010"/>à Ce jeu-là ! Nous sérions capables de passer notre vie à dire ce qu'il faut faire, j'aime<lb facs="P8_TL00011"/>mieux,le faire, c'est plus amusant. </ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00003">
-                                       <lb facs="P8_TL00012"/>Le Carnet Critique, — Nos 2 et 3. - - k mon tour je ne comprends pas. Puisqu'on a<lb facs="P8_TL00013"/>trouvé nécessaire la création d'une nouvelle rev;ue, c'est qu'apparemment on avait cons<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00014"/>tate qn'il y avait des choses dire que les filtres ne disaient pas. Or, que trouvons-nous ici?<lb facs="P8_TL00015"/>Ce que nous trouvons dans une multitude de revues que vous connaissez : mêmes collabo- ,<lb facs="P8_TL00016"/>râleurs, mêmes articles, même esprit. Ala s?. .. M. Ribièré-Carcy et ses amis, qui ne sont<lb facs="P8_TL00017"/>plus des collégiens, doivent avoir, i1 conscience de ce qu'ils font, c'est pourquoi<lb facs="P8_TL00018"/>j'estime qu'il faut être dur envers eux. ' ; v</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00003">
+                                    <lb facs="P8_TL00012"/>Le Carnet Critique, — Nos 2 et 3. - - k mon tour je ne comprends pas. Puisqu'on a<lb facs="P8_TL00013"/>trouvé nécessaire la création d'une nouvelle rev;ue, c'est qu'apparemment on avait cons<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00014"/>tate qn'il y avait des choses dire que les filtres ne disaient pas. Or, que trouvons-nous ici?<lb facs="P8_TL00015"/>Ce que nous trouvons dans une multitude de revues que vous connaissez : mêmes collabo- ,<lb facs="P8_TL00016"/>râleurs, mêmes articles, même esprit. Ala s?. .. M. Ribièré-Carcy et ses amis, qui ne sont<lb facs="P8_TL00017"/>plus des collégiens, doivent avoir, i1 conscience de ce qu'ils font, c'est pourquoi<lb facs="P8_TL00018"/>j'estime qu'il faut être dur envers eux. ' ; v</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00004">
-                                       <lb facs="P8_TL00019"/>' k r-, , ' ' v s* ■ , ** ■<lb facs="P8_TL00020"/>I/Essor, -v Nantes.— Dans cette revue, M. Fontenoy a le joli courage de dire quel- '<lb facs="P8_TL00021"/>que bien (Je Sic quand quelques paar ïs pfus loin, ses amis se complaisent à féliciter<lb facs="P8_TL00022"/>les gendarmes de lettres qui en disent du mal. Que M. Fontenoy prenne garde, s'il veut<lb facs="P8_TL00023"/>persister à être mtedligent, qu'il n'oublie pas de s'imperméabiliser.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00004">
+                                    <lb facs="P8_TL00019"/>' k r-, , ' ' v s* ■ , ** ■<lb facs="P8_TL00020"/>I/Essor, -v Nantes.— Dans cette revue, M. Fontenoy a le joli courage de dire quel- '<lb facs="P8_TL00021"/>que bien (Je Sic quand quelques paar ïs pfus loin, ses amis se complaisent à féliciter<lb facs="P8_TL00022"/>les gendarmes de lettres qui en disent du mal. Que M. Fontenoy prenne garde, s'il veut<lb facs="P8_TL00023"/>persister à être mtedligent, qu'il n'oublie pas de s'imperméabiliser.</ab>
                               </div>
                            </div>
                         </div>

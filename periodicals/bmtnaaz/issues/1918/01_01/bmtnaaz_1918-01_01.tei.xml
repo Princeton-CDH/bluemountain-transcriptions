@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">3</biblScope>
                         <biblScope unit="issue">25</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace>
                         <date when="1918-01">JANVIER 1918</date>
                      </imprint>
                   </monogr>
@@ -113,8 +104,7 @@
                </history>
                
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -123,9 +113,7 @@
                      <biblScope unit="issue">25</biblScope>
                      <date when="1918-01"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -139,8 +127,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -155,8 +142,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -170,13 +156,17 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">AUX JEUNES POÈTES</seg>
+                           <seg type="sub">Poème genre didactique</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/14765320">P. A. -B</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -185,34 +175,18 @@
                            <biblScope unit="page">2</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c005">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">Poème genre didactique</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/14765320">P. A. -B</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">2</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">POÈME</seg>
+                           <seg type="main">CHOCS</seg>
                         </title>
+                        <respStmt>
+                           <persName>Roger L. DUPRET</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -221,29 +195,8 @@
                            <biblScope unit="page">3</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c007">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">CHOCS</seg>
-                              </title>
-                              <respStmt>
-                                 <persName>Roger L. DUPRET</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">3</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -262,8 +215,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -278,13 +230,17 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c010">
+               </relatedItem><relatedItem type="constituent" xml:id="c010">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">POÈME CINÉMATOGRAPHIQUE</seg>
+                           <seg type="main">INDIFFÉRENCE</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/109453511">Philippe SOUPAULT</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -293,29 +249,8 @@
                            <biblScope unit="page">4</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c011">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">INDIFFÉRENCE</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/109453511&#xA;">Philippe SOUPAULT</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">4</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c012">
+               </relatedItem><relatedItem type="constituent" xml:id="c012">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -330,8 +265,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -346,45 +280,36 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c014">
+               </relatedItem><relatedItem type="constituent" xml:id="c015">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Orchestre de Bois</seg>
+                           <seg type="sub">III</seg>
                         </title>
                         <respStmt>
                            <persName ref="http://viaf.org/viaf/12450164">GERMAINE ALBERT-BIROT</persName>
                            <resp>cre</resp>
                         </respStmt>
-                        <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
                         <imprint>
-                           <classCode scheme="CCS">TextContent</classCode>
+                           <classCode scheme="CCS">Music</classCode>
                            <biblScope unit="page">5</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c015">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">Music</classCode>
-                                 <biblScope unit="page">5</biblScope>
-                              </imprint>
-                           </monogr> 26 décembre 1917 </biblStruct>
-                     </relatedItem>
+                     <note> 26 décembre 1917 </note>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c016">
+               </relatedItem><relatedItem type="constituent" xml:id="c016">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">DEUX POÈMES ET UN CONTE</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/14765320">Pierre ALBERT-BIROT</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -399,6 +324,30 @@
                               <title level="a">
                                  <seg type="main">PERSPECTIVE</seg>
                               </title>
+                              <respStmt>
+                                 <persName ref="http://viaf.org/viaf/14765320">Pierre ALBERT-BIROT</persName>
+                                 <resp>cre</resp>
+                              </respStmt>
+                              <textLang mainLang="fre"/>
+                           </analytic>
+                           <monogr>
+                              <imprint>
+                                 <classCode scheme="CCS">TextContent</classCode>
+                                 <biblScope unit="page">6</biblScope>
+                              </imprint>
+                           </monogr>
+                        </biblStruct>
+                     </relatedItem>
+                     <relatedItem type="constituent" xml:id="c017b">
+                        <biblStruct>
+                           <analytic>
+                              <title level="a">
+                                 <seg type="main">A L'ENVERS</seg>
+                              </title>
+                              <respStmt>
+                                 <persName ref="http://viaf.org/viaf/14765320">Pierre ALBERT-BIROT</persName>
+                                 <resp>cre</resp>
+                              </respStmt>
                               <textLang mainLang="fre"/>
                            </analytic>
                            <monogr>
@@ -430,8 +379,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c019">
+               </relatedItem><relatedItem type="constituent" xml:id="c019">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -446,12 +394,11 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c020">
+               </relatedItem><relatedItem type="constituent" xml:id="c020">
                   <biblStruct>
                      <analytic>
                         <title level="a">
-                           <seg type="main">E T C...</seg>
+                           <seg type="main">ETC...</seg>
                         </title>
                         <textLang mainLang="fre"/>
                      </analytic>
@@ -468,7 +415,7 @@
                                  <seg type="main">Untitled text</seg>
                               </title>
                               <respStmt>
-                                 <persName ref="http://viaf.org/viaf/14765320 http://viaf.org/viaf/14765320">P. A. B</persName>
+                                 <persName ref="http://viaf.org/viaf/14765320">P. A. B</persName>
                                  <resp>cre</resp>
                               </respStmt>
                               <textLang mainLang="fre"/>
@@ -482,8 +429,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c022">
+               </relatedItem><relatedItem type="constituent" xml:id="c022">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -498,14 +444,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="32730" lry="42660">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/01_01/delivery/bmtnaaz_1918-01_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="32730" lry="0"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="0" lrx="0" lry="41600"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="32680" uly="0" lrx="32730" lry="41600"/>
@@ -685,7 +630,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="23510" lry="36310">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/01_01/delivery/bmtnaaz_1918-01_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="23510" lry="1260"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="1260" lrx="2840" lry="32540"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="18150" uly="1260" lrx="23510" lry="32540"/>
@@ -961,7 +906,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="29180" lry="39060">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/01_01/delivery/bmtnaaz_1918-01_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="29180" lry="3450"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="3450" lrx="2460" lry="35540"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="26490" uly="3450" lrx="29180" lry="35540"/>
@@ -1406,7 +1351,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="29180" lry="39060">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/01_01/delivery/bmtnaaz_1918-01_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="29180" lry="1930"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="1930" lrx="2980" lry="34210"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="27170" uly="1930" lrx="29180" lry="34210"/>
@@ -1816,7 +1761,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="29180" lry="39060">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/01_01/delivery/bmtnaaz_1918-01_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="29180" lry="2540"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="2540" lrx="1800" lry="34630"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="26210" uly="2540" lrx="29180" lry="34630"/>
@@ -1989,7 +1934,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="29180" lry="39060">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/01_01/delivery/bmtnaaz_1918-01_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="29180" lry="180"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="180" lrx="190" lry="38470"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="29040" uly="180" lrx="29180" lry="38470"/>
@@ -2004,7 +1949,7 @@
                   <tei:zone type="String" xml:id="P6_ST00005" ulx="18730" uly="2840" lrx="21580" lry="3260">CONTE</tei:zone>
                </tei:zone>
             </tei:zone>
-            <tei:zone type="TextBlock" xml:id="P6_TB00002" ulx="7890" uly="5110" lrx="19820" lry="34420">
+            <tei:zone type="TextBlock" xml:id="P6_TB00002" ulx="7890" uly="5110" lrx="19820" lry="25820">
                <tei:zone type="TextLine" xml:id="P6_TL00002" ulx="12170" uly="5110" lrx="17250" lry="5880">
                   <tei:zone type="String" xml:id="P6_ST00006" ulx="12170" uly="5110" lrx="17250" lry="5880">PERSPECTIVE</tei:zone>
                </tei:zone>
@@ -2110,6 +2055,8 @@
                <tei:zone type="TextLine" xml:id="P6_TL00021" ulx="13790" uly="24070" lrx="15640" lry="24810">
                   <tei:zone type="String" xml:id="P6_ST00070" ulx="13790" uly="24070" lrx="15640" lry="24810">Sydney</tei:zone>
                </tei:zone>
+            </tei:zone>
+            <tei:zone type="TextBlock" xml:id="P6_NEW_TB3" ulx="7890" uly="25850" lrx="19150" lry="34450">
                <tei:zone type="TextLine" xml:id="P6_TL00022" ulx="11180" uly="25850" lrx="18140" lry="26690">
                   <tei:zone type="String" xml:id="P6_ST00071" ulx="11180" uly="25900" lrx="11890" lry="26660">A</tei:zone> 
                   <tei:zone type="String" xml:id="P6_ST00072" ulx="12400" uly="25850" lrx="18140" lry="26690">L'ENVERS</tei:zone>
@@ -2169,7 +2116,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="29180" lry="39060">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/01_01/delivery/bmtnaaz_1918-01_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="29180" lry="3560"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="3560" lrx="2480" lry="35600"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="26500" uly="3560" lrx="29180" lry="35600"/>
@@ -2766,7 +2713,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="29180" lry="39060">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/01_01/delivery/bmtnaaz_1918-01_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="29180" lry="2630"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="2630" lrx="2900" lry="35010"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="26980" uly="2630" lrx="29180" lry="35010"/>
@@ -3565,22 +3512,20 @@
                         <ab facs="P2_TB00002">
                            <lb facs="P2_TL00002"/>AUX JEUNES POÈTES</ab>
                      </div>
-                     <div type="TextContent" corresp="c005">
-                        <div type="Head">
-                           <ab facs="P2_TB00003">
-                              <lb facs="P2_TL00003"/>Poème genre didactique</ab>
-                        </div>
-                        <div type="Byline">
-                           <ab facs="P2_TB00001">
-                              <lb facs="P2_TL00001"/>P. A.-B.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P2_TB00004">
-                                       <lb facs="P2_TL00004"/>Pour faire un poème<lb facs="P2_TL00005"/>Pardonnez-moi ce pléonasme<lb facs="P2_TL00006"/>Il suffit de se promener<lb facs="P2_TL00007"/>Quelquefois sans bouger<lb facs="P2_TL00008"/>Regardez dehors et dedans<lb facs="P2_TL00009"/>Avec toutes les cellules<lb facs="P2_TL00010"/>De votre vous<lb facs="P2_TL00011"/>Et voici que vous êtes riche<lb facs="P2_TL00012"/>Mais n'en dites rien à personne<lb facs="P2_TL00013"/>Pour aujourd'hui<lb facs="P2_TL00014"/>Ne faites pas le nouveau-riche<lb facs="P2_TL00015"/>Apprenez les bonnes manières<lb facs="P2_TL00016"/>Car, la fortune est peu de chose<lb facs="P2_TL00017"/>A qui ne sait pas s'en servir<lb facs="P2_TL00018"/>Vous voici fécondés<lb facs="P2_TL00019"/>Travaillez façonnez polissez assemblez<lb facs="P2_TL00020"/>Tous ces immatériels matériaux<lb facs="P2_TL00021"/>Maintenant<lb facs="P2_TL00022"/>Que vous avez reçu le monde en vous<lb facs="P2_TL00023"/>Portez le monde qui va naître<lb facs="P2_TL00024"/>Obéissez<lb facs="P2_TL00025"/>Parfois aux lois des autres<lb facs="P2_TL00026"/>Parfois aux vôtres<lb facs="P2_TL00027"/>Parfois encor et surtout<lb facs="P2_TL00028"/>A la Loi<lb facs="P2_TL00029"/>Qui n'est ni des autres ni de vous<lb facs="P2_TL00030"/>Et vous serez aimés<lb facs="P2_TL00031"/>Des mots des sons des rythmes<lb facs="P2_TL00032"/>Qui s'ordonneront pour vous plaire<lb facs="P2_TL00033"/>Soyez simple comme un Dieu<lb facs="P2_TL00034"/>Ou plutôt comme une mère<lb facs="P2_TL00035"/>Et naîtra le poème<lb facs="P2_TL00036"/>Mais j'aurais dû tout simplement vous dire<lb facs="P2_TL00037"/>Copiez copiez<lb facs="P2_TL00038"/>Religieusement<lb facs="P2_TL00039"/>La Vérité que vous êtes<lb facs="P2_TL00040"/>Et vous ferez un poème<lb facs="P2_TL00041"/>A condition que vous soyez poète</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P2_TB00003">
+                           <lb facs="P2_TL00003"/>Poème genre didactique</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab facs="P2_TB00001">
+                           <lb facs="P2_TL00001"/>P. A.-B.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P2_TB00004">
+                                    <lb facs="P2_TL00004"/>Pour faire un poème<lb facs="P2_TL00005"/>Pardonnez-moi ce pléonasme<lb facs="P2_TL00006"/>Il suffit de se promener<lb facs="P2_TL00007"/>Quelquefois sans bouger<lb facs="P2_TL00008"/>Regardez dehors et dedans<lb facs="P2_TL00009"/>Avec toutes les cellules<lb facs="P2_TL00010"/>De votre vous<lb facs="P2_TL00011"/>Et voici que vous êtes riche<lb facs="P2_TL00012"/>Mais n'en dites rien à personne<lb facs="P2_TL00013"/>Pour aujourd'hui<lb facs="P2_TL00014"/>Ne faites pas le nouveau-riche<lb facs="P2_TL00015"/>Apprenez les bonnes manières<lb facs="P2_TL00016"/>Car, la fortune est peu de chose<lb facs="P2_TL00017"/>A qui ne sait pas s'en servir<lb facs="P2_TL00018"/>Vous voici fécondés<lb facs="P2_TL00019"/>Travaillez façonnez polissez assemblez<lb facs="P2_TL00020"/>Tous ces immatériels matériaux<lb facs="P2_TL00021"/>Maintenant<lb facs="P2_TL00022"/>Que vous avez reçu le monde en vous<lb facs="P2_TL00023"/>Portez le monde qui va naître<lb facs="P2_TL00024"/>Obéissez<lb facs="P2_TL00025"/>Parfois aux lois des autres<lb facs="P2_TL00026"/>Parfois aux vôtres<lb facs="P2_TL00027"/>Parfois encor et surtout<lb facs="P2_TL00028"/>A la Loi<lb facs="P2_TL00029"/>Qui n'est ni des autres ni de vous<lb facs="P2_TL00030"/>Et vous serez aimés<lb facs="P2_TL00031"/>Des mots des sons des rythmes<lb facs="P2_TL00032"/>Qui s'ordonneront pour vous plaire<lb facs="P2_TL00033"/>Soyez simple comme un Dieu<lb facs="P2_TL00034"/>Ou plutôt comme une mère<lb facs="P2_TL00035"/>Et naîtra le poème<lb facs="P2_TL00036"/>Mais j'aurais dû tout simplement vous dire<lb facs="P2_TL00037"/>Copiez copiez<lb facs="P2_TL00038"/>Religieusement<lb facs="P2_TL00039"/>La Vérité que vous êtes<lb facs="P2_TL00040"/>Et vous ferez un poème<lb facs="P2_TL00041"/>A condition que vous soyez poète</ab>
                               </div>
                            </div>
                         </div>
@@ -3591,24 +3536,22 @@
                         <ab facs="P3_TB00001">
                            <lb facs="P3_TL00001"/>POÈME</ab>
                      </div>
-                     <div type="TextContent" corresp="c007">
-                        <div type="Head">
-                           <ab facs="P3_TB00002">
-                              <lb facs="P3_TL00002"/>CHOCS</ab>
-                        </div>
-                        <div type="Byline">
-                           <ab facs="P3_TB00005">
-                              <lb facs="P3_TL00016"/>Roger L. DUPRET.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P3_TB00003">
-                                       <lb facs="P3_TL00003"/>La lampe attendre quelque chose<lb facs="P3_TL00004"/>qui n'est jamais le présent<lb facs="P3_TL00005"/>Il faut laisser<lb facs="P3_TL00006"/>tricoter<lb facs="P3_TL00007"/>et broder<lb facs="P3_TL00008"/>Le plafond a un grand soleil jaune<lb facs="P3_TL00009"/>qui tourne<lb facs="P3_TL00010"/>comme un manège</ab>
-                                    <ab facs="P3_TB00004">
-                                       <lb facs="P3_TL00011"/>Les maisons ont des grimaces géométriques 4<lb facs="P3_TL00012"/>et imbéciles<lb facs="P3_TL00013"/>Elles sont horriblement ironiques<lb facs="P3_TL00014"/>et placides<lb facs="P3_TL00015"/>Elles nous mangeront</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P3_TB00002">
+                           <lb facs="P3_TL00002"/>CHOCS</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab facs="P3_TB00005">
+                           <lb facs="P3_TL00016"/>Roger L. DUPRET.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P3_TB00003">
+                                    <lb facs="P3_TL00003"/>La lampe attendre quelque chose<lb facs="P3_TL00004"/>qui n'est jamais le présent<lb facs="P3_TL00005"/>Il faut laisser<lb facs="P3_TL00006"/>tricoter<lb facs="P3_TL00007"/>et broder<lb facs="P3_TL00008"/>Le plafond a un grand soleil jaune<lb facs="P3_TL00009"/>qui tourne<lb facs="P3_TL00010"/>comme un manège</ab>
+                                 <ab facs="P3_TB00004">
+                                    <lb facs="P3_TL00011"/>Les maisons ont des grimaces géométriques 4<lb facs="P3_TL00012"/>et imbéciles<lb facs="P3_TL00013"/>Elles sont horriblement ironiques<lb facs="P3_TL00014"/>et placides<lb facs="P3_TL00015"/>Elles nous mangeront</ab>
                               </div>
                            </div>
                         </div>
@@ -3654,32 +3597,30 @@
                         <ab facs="P4_TB00001">
                            <lb facs="P4_TL00001"/>POÈME CINÉMATOGRAPHIQUE</ab>
                      </div>
-                     <div type="TextContent" corresp="c011">
-                        <div type="Head">
-                           <ab facs="P4_TB00002">
-                              <lb facs="P4_TL00002"/>INDIFFÉRENCE</ab>
-                        </div>
-                        <div type="Byline">
-                           <ab facs="P4_TB00004">
-                              <lb facs="P4_TL00022"/>Philippe SOUPAULT.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P4_TB00003">
-                                       <lb facs="P4_TL00003"/>Je gravis une route verticale. Au sommet s'étend une<lb facs="P4_TL00004"/>plaine où souffle un vent violent. Devant moi des rochers se<lb facs="P4_TL00005"/>gonflent et deviennent énormes. Je penche la tête et je passe<lb facs="P4_TL00006"/>au travers. J'arrive dans un jardin aux fleurs et aux herbes<lb facs="P4_TL00007"/>monstrueusement grandes. Je m'assieds sur un banc. Apparaît<lb facs="P4_TL00008"/>brusquement à mon côté un homme qui se change en femme,<lb facs="P4_TL00009"/>puis en vieillard. A ce moment apparaît un autre vieillard qui<lb facs="P4_TL00010"/>se change en enfant puis en femme. Puis bientôt et peu à peu<lb facs="P4_TL00011"/>une foule disparate d'hommes, de femmes, etc... gesticule,<lb facs="P4_TL00012"/>tandis que je demeure immobile. Je me lève et tous disparais<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00013"/>sent, je m'installe àla terrasse d'un café, mais tous les objets,<lb facs="P4_TL00014"/>les chaises, les tables, les fusains dans les tonneaux, se grou<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00015"/>pent autour de moi et me gênent, tandis que le garçon tourne<lb facs="P4_TL00016"/>autour de ce groupe avec une rapidité uniformément accélérée;<lb facs="P4_TL00017"/>les arbres abaissent leurs branches, les tramways, les autos<lb facs="P4_TL00018"/>passent à toute vitesse, je m'élance et saute par-dessus les mai<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00019"/>sons. Je suis sur un toit en face d'une horloge qui grandit, gran<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00020"/>dit tandis que les aiguilles tournent de plus en plus vite. Je me<lb facs="P4_TL00021"/>jette du toit et sur le trottoir j'allume une cigarette.</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P4_TB00002">
+                           <lb facs="P4_TL00002"/>INDIFFÉRENCE</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab facs="P4_TB00004">
+                           <lb facs="P4_TL00022"/>Philippe SOUPAULT.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P4_TB00003">
+                                    <lb facs="P4_TL00003"/>Je gravis une route verticale. Au sommet s'étend une<lb facs="P4_TL00004"/>plaine où souffle un vent violent. Devant moi des rochers se<lb facs="P4_TL00005"/>gonflent et deviennent énormes. Je penche la tête et je passe<lb facs="P4_TL00006"/>au travers. J'arrive dans un jardin aux fleurs et aux herbes<lb facs="P4_TL00007"/>monstrueusement grandes. Je m'assieds sur un banc. Apparaît<lb facs="P4_TL00008"/>brusquement à mon côté un homme qui se change en femme,<lb facs="P4_TL00009"/>puis en vieillard. A ce moment apparaît un autre vieillard qui<lb facs="P4_TL00010"/>se change en enfant puis en femme. Puis bientôt et peu à peu<lb facs="P4_TL00011"/>une foule disparate d'hommes, de femmes, etc... gesticule,<lb facs="P4_TL00012"/>tandis que je demeure immobile. Je me lève et tous disparais<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00013"/>sent, je m'installe àla terrasse d'un café, mais tous les objets,<lb facs="P4_TL00014"/>les chaises, les tables, les fusains dans les tonneaux, se grou<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00015"/>pent autour de moi et me gênent, tandis que le garçon tourne<lb facs="P4_TL00016"/>autour de ce groupe avec une rapidité uniformément accélérée;<lb facs="P4_TL00017"/>les arbres abaissent leurs branches, les tramways, les autos<lb facs="P4_TL00018"/>passent à toute vitesse, je m'élance et saute par-dessus les mai<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00019"/>sons. Je suis sur un toit en face d'une horloge qui grandit, gran<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00020"/>dit tandis que les aiguilles tournent de plus en plus vite. Je me<lb facs="P4_TL00021"/>jette du toit et sur le trottoir j'allume une cigarette.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P4_TB00005">
-                                       <lb facs="P4_TL00023"/>Décembre 1917.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P4_TB00005">
+                                    <lb facs="P4_TL00023"/>Décembre 1917.</ab>
                               </div>
                            </div>
                         </div>
@@ -3722,7 +3663,7 @@
                         </div>
                      </div>
                   </div>
-                  <div type="TextContent" corresp="c014">
+                  <div type="Illustration" corresp="c015">
                      <div type="Head">
                         <ab facs="P5_TB00003">
                            <lb facs="P5_TL00014"/>Orchestre de Bois</ab>
@@ -3731,12 +3672,10 @@
                         <ab facs="P5_TB00006">
                            <lb facs="P5_TL00017"/>GERMAINE ALBERT-BIROT.</ab>
                      </div>
-                     <div type="Music" corresp="c015">
-                        <div type="Image"/>
-                        <div type="Caption">
-                           <ab facs="P5_TB00005">
-                              <lb facs="P5_TL00016"/>26 décembre 1917.</ab>
-                        </div>
+                     <div type="Image"/>
+                     <div type="Caption">
+                        <ab facs="P5_TB00005">
+                           <lb facs="P5_TL00016"/>26 décembre 1917.</ab>
                      </div>
                      <div type="Copy">
                         <div type="BodyContent">
@@ -3758,28 +3697,40 @@
                               <div type="Paragraph">
                                  <div type="Text">
                                     <ab facs="P6_TB00002">
-                                       <lb facs="P6_TL00002"/>PERSPECTIVE<lb facs="P6_TL00003"/>Nus sous nos vestures sommes tous<lb facs="P6_TL00004"/>Toutes les voix<lb facs="P6_TL00005"/>Qu'on n'entend pas<lb facs="P6_TL00006"/>Derrière<lb facs="P6_TL00007"/>Et tous les pas<lb facs="P6_TL00008"/>Entendez-vous retomber la poussière<lb facs="P6_TL00009"/>Et glisser la lumière<lb facs="P6_TL00010"/>Que de secondes viennent de s'écouler<lb facs="P6_TL00011"/>Assez assez au secours<lb facs="P6_TL00012"/>Ah nous irons demain<lb facs="P6_TL00013"/>Prendre le jour<lb facs="P6_TL00014"/>Demain là-bas<lb facs="P6_TL00015"/>Où les maisons<lb facs="P6_TL00016"/>Vont aux maisons<lb facs="P6_TL00017"/>A l'horizon<lb facs="P6_TL00018"/>Hosanna<lb facs="P6_TL00019"/>Un poème est né<lb facs="P6_TL00020"/>À l'heure où l'on s'éveille à<lb facs="P6_TL00021"/>Sydney<lb facs="P6_TL00022"/>A L'ENVERS<lb facs="P6_TL00023"/>Si nous marchions sur les mains<lb facs="P6_TL00024"/>Le mal serait le bien<lb facs="P6_TL00025"/>Les femmes seraient des hommes<lb facs="P6_TL00026"/>Et l'eau serait du vin<lb facs="P6_TL00027"/>La Terre serait le Ciel<lb facs="P6_TL00028"/>A moins<lb facs="P6_TL00029"/>Que les mains<lb facs="P6_TL00030"/>Ne deviennent des pieds.</ab>
+                                       <lb facs="P6_TL00002"/>PERSPECTIVE<lb facs="P6_TL00003"/>Nus sous nos vestures sommes tous<lb facs="P6_TL00004"/>Toutes les voix<lb facs="P6_TL00005"/>Qu'on n'entend pas<lb facs="P6_TL00006"/>Derrière<lb facs="P6_TL00007"/>Et tous les pas<lb facs="P6_TL00008"/>Entendez-vous retomber la poussière<lb facs="P6_TL00009"/>Et glisser la lumière<lb facs="P6_TL00010"/>Que de secondes viennent de s'écouler<lb facs="P6_TL00011"/>Assez assez au secours<lb facs="P6_TL00012"/>Ah nous irons demain<lb facs="P6_TL00013"/>Prendre le jour<lb facs="P6_TL00014"/>Demain là-bas<lb facs="P6_TL00015"/>Où les maisons<lb facs="P6_TL00016"/>Vont aux maisons<lb facs="P6_TL00017"/>A l'horizon<lb facs="P6_TL00018"/>Hosanna<lb facs="P6_TL00019"/>Un poème est né<lb facs="P6_TL00020"/>À l'heure où l'on s'éveille à<lb facs="P6_TL00021"/>Sydney</ab>
                                  </div>
                               </div>
                            </div>
                         </div>
                      </div>
-                  </div>
-                  <div type="TextContent" corresp="c018">
-                     <div type="Head">
-                        <ab facs="P7_TB00001">
-                           <lb facs="P7_TL00001"/>CONTE SENTIMENTAL</ab>
+                     <div type="TextContent" corresp="c017">
+                        <div type="Copy">
+                           <div type="BodyContent">
+                              <div type="Paragraph">
+                                 <div type="Text">
+                                    <ab facs="P6_NEW_TB3">
+                                       <lb facs="P6_TL00022"/>A L'ENVERS<lb facs="P6_TL00023"/>Si nous marchions sur les mains<lb facs="P6_TL00024"/>Le mal serait le bien<lb facs="P6_TL00025"/>Les femmes seraient des hommes<lb facs="P6_TL00026"/>Et l'eau serait du vin<lb facs="P6_TL00027"/>La Terre serait le Ciel<lb facs="P6_TL00028"/>A moins<lb facs="P6_TL00029"/>Que les mains<lb facs="P6_TL00030"/>Ne deviennent des pieds.</ab>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
                      </div>
-                     <div type="Byline">
-                        <ab facs="P7_TB00003">
-                           <lb facs="P7_TL00017"/>Pierre ALBRRT-BIROT</ab>
-                     </div>
-                     <div type="Copy">
-                        <div type="BodyContent">
-                           <div type="Paragraph">
-                              <div type="Text">
-                                 <ab facs="P7_TB00002">
-                                    <lb facs="P7_TL00002"/>Vu jour sans que personne lui dise rien puisqu'ils étaient seuls sans<lb facs="P7_TL00003"/>que même elle lui ait fait un signe tournait le dos il ne<lb facs="P7_TL00004"/>put pas faire autrement que de venir appuyer ses lèvres sur son eou alors<lb facs="P7_TL00005"/>il advint que les meubles et les murs de la chambre disparurent et quand elle<lb facs="P7_TL00006"/>voulut marcher elle s'aperçut qu'il était obligé de la suivre le plus près possible<lb facs="P7_TL00007"/>et pourtant on ne voyait pas la chaîne qui le tirait et dehors il n'y avait<lb facs="P7_TL00008"/>plus de maisons plus de rues plus de passants et lui n'avaitplus de<lb facs="P7_TL00009"/>souvenirs<lb facs="P7_TL00010"/>Et pourtant c'était une petite rue de iaubourg très étroite mal pavée bien<lb facs="P7_TL00011"/>triste et populeuse où tout était calme comme tous les jours car il n'était rien<lb facs="P7_TL00012"/>arrivé d'extraordinaire<lb facs="P7_TL00013"/>Et pendant plusieurs années elle le tua plusieurs fois par jour si bien qu'un<lb facs="P7_TL00014"/>soir il îaillit la tuer<lb facs="P7_TL00015"/>Et depuis les maisons les passants les souvenirs sont revenus et il va d'un<lb facs="P7_TL00016"/>pas terme dans la rue</ab>
+                     <div type="TextContent" corresp="c018">
+                        <div type="Head">
+                           <ab facs="P7_TB00001">
+                              <lb facs="P7_TL00001"/>CONTE SENTIMENTAL</ab>
+                        </div>
+                        <div type="Byline">
+                           <ab facs="P7_TB00003">
+                              <lb facs="P7_TL00017"/>Pierre ALBRRT-BIROT</ab>
+                        </div>
+                        <div type="Copy">
+                           <div type="BodyContent">
+                              <div type="Paragraph">
+                                 <div type="Text">
+                                    <ab facs="P7_TB00002">
+                                       <lb facs="P7_TL00002"/>Vu jour sans que personne lui dise rien puisqu'ils étaient seuls sans<lb facs="P7_TL00003"/>que même elle lui ait fait un signe tournait le dos il ne<lb facs="P7_TL00004"/>put pas faire autrement que de venir appuyer ses lèvres sur son eou alors<lb facs="P7_TL00005"/>il advint que les meubles et les murs de la chambre disparurent et quand elle<lb facs="P7_TL00006"/>voulut marcher elle s'aperçut qu'il était obligé de la suivre le plus près possible<lb facs="P7_TL00007"/>et pourtant on ne voyait pas la chaîne qui le tirait et dehors il n'y avait<lb facs="P7_TL00008"/>plus de maisons plus de rues plus de passants et lui n'avaitplus de<lb facs="P7_TL00009"/>souvenirs<lb facs="P7_TL00010"/>Et pourtant c'était une petite rue de iaubourg très étroite mal pavée bien<lb facs="P7_TL00011"/>triste et populeuse où tout était calme comme tous les jours car il n'était rien<lb facs="P7_TL00012"/>arrivé d'extraordinaire<lb facs="P7_TL00013"/>Et pendant plusieurs années elle le tua plusieurs fois par jour si bien qu'un<lb facs="P7_TL00014"/>soir il îaillit la tuer<lb facs="P7_TL00015"/>Et depuis les maisons les passants les souvenirs sont revenus et il va d'un<lb facs="P7_TL00016"/>pas terme dans la rue</ab>
+                                 </div>
                               </div>
                            </div>
                         </div>
