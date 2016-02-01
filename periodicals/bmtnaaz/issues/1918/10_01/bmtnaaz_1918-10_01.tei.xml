@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">3</biblScope>
                         <biblScope unit="issue">31</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace> 
                         <date when="1918-10">OCTOBRE 1918</date>
                      </imprint>
                   </monogr>
@@ -111,8 +102,7 @@
                   <acquisition> </acquisition>
                </history>
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -121,9 +111,7 @@
                      <biblScope unit="issue">31</biblScope>
                      <date when="1918-10"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -137,8 +125,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -153,8 +140,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -170,9 +156,10 @@
                            <classCode scheme="CCS">Illustration</classCode>
                            <biblScope unit="page">1</biblScope>
                         </imprint>
-                     </monogr>Gravure sur bois de Chana Orloff</biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+                     </monogr>
+                     <note>Gravure sur bois de Chana Orloff</note>
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -247,8 +234,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -269,8 +255,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -285,8 +270,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c010">
+               </relatedItem><relatedItem type="constituent" xml:id="c010">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -294,7 +278,7 @@
                            <seg type="sub">A ceux qui se plaisent á fouiller dans les ténébres</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/61551365&#xA;">PIERRE REVERDY</persName>
+                           <persName ref="http://viaf.org/viaf/61551365">PIERRE REVERDY</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -306,8 +290,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c011">
+               </relatedItem><relatedItem type="constituent" xml:id="c011">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -322,8 +305,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c012">
+               </relatedItem><relatedItem type="constituent" xml:id="c012">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -343,14 +325,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="33430" lry="43520">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/10_01/delivery/bmtnaaz_1918-10_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="33430" lry="1610"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="1610" lrx="570" lry="43310"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="32020" uly="1610" lrx="33430" lry="43310"/>
@@ -519,7 +500,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="26790" lry="41550">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/10_01/delivery/bmtnaaz_1918-10_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="26790" lry="3680"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="3680" lrx="4040" lry="41080"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="23300" uly="3680" lrx="26790" lry="41080"/>
@@ -854,7 +835,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="26790" lry="41550">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/10_01/delivery/bmtnaaz_1918-10_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="26790" lry="3060"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="3060" lrx="1840" lry="41290"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="24620" uly="3060" lrx="26790" lry="41290"/>
@@ -1562,7 +1543,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="26790" lry="41550">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/10_01/delivery/bmtnaaz_1918-10_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="26790" lry="2780"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="2780" lrx="3980" lry="34970"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="22610" uly="2780" lrx="26790" lry="34970"/>
@@ -1965,7 +1946,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="26790" lry="41550">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/10_01/delivery/bmtnaaz_1918-10_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="26790" lry="2670"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="2670" lrx="1880" lry="37550"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="24630" uly="2670" lrx="26790" lry="37550"/>
@@ -2575,7 +2556,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="26790" lry="41550">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/10_01/delivery/bmtnaaz_1918-10_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="26790" lry="0"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="0" lrx="0" lry="41540"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="26780" uly="0" lrx="26790" lry="41540"/>
@@ -3020,7 +3001,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="26790" lry="41550">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/10_01/delivery/bmtnaaz_1918-10_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="26790" lry="0"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="0" lrx="0" lry="41540"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="26780" uly="0" lrx="26790" lry="41540"/>
@@ -3463,7 +3444,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="26790" lry="41550">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/10_01/delivery/bmtnaaz_1918-10_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="26790" lry="3780"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="3780" lrx="2230" lry="38870"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="24560" uly="3780" lrx="26790" lry="38870"/>

@@ -98,8 +98,7 @@
                   <acquisition> </acquisition>
                </history>
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -117,9 +116,7 @@
                      </pubPlace>
                      <date when=""/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -134,8 +131,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -149,8 +145,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -170,15 +165,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Calendrier</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/27072443&#xA;">Tristan TZARA</persName>
+                           <persName ref="http://viaf.org/viaf/27072443">Tristan TZARA</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -190,15 +184,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Route</seg>
                         </title>
                         <respStmt>
-                           <persName ref=" ">R. H. L</persName>
+                           <persName>R. H. L</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -210,15 +203,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Promenade</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/45811448&#xA;">Roch GREY</persName>
+                           <persName ref="http://viaf.org/viaf/45811448">Roch GREY</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -230,13 +222,16 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c007">
+               </relatedItem><relatedItem type="constituent" xml:id="c007">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Poème – paysage</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/14765320">P. A-B</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -245,36 +240,15 @@
                            <biblScope unit="page">368</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c008">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">(texte)</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/14765320 http://viaf.org/viaf/14765320">P. A-B</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">368</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">L'Imperméable</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/61551365&#xA;">PIERRE REVERDI</persName>
+                           <persName ref="http://viaf.org/viaf/61551365">PIERRE REVERDI</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -286,8 +260,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c010">
+               </relatedItem><relatedItem type="constituent" xml:id="c010">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -302,8 +275,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c011">
+               </relatedItem><relatedItem type="constituent" xml:id="c011">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -318,8 +290,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c012">
+               </relatedItem><relatedItem type="constituent" xml:id="c012">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -334,8 +305,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -350,15 +320,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c014">
+               </relatedItem><relatedItem type="constituent" xml:id="c014">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Portrait</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/61551365&#xA;">PIERRE REVERDY</persName>
+                           <persName ref="http://viaf.org/viaf/61551365">PIERRE REVERDY</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -370,8 +339,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c015">
+               </relatedItem><relatedItem type="constituent" xml:id="c015">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -390,13 +358,17 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c016">
+               </relatedItem><relatedItem type="constituent" xml:id="c017">
                   <biblStruct>
                      <analytic>
                         <title level="a">
-                           <seg type="main">POÈME</seg>
+                           <seg type="main">PARIS 18-0 1919</seg>
+                           <seg type="sub">POÈME</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/87139839">J. PEREZ-JORBA</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -405,29 +377,8 @@
                            <biblScope unit="page">373</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c017">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">PARIS 18-0 1919</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/87139839">J. PEREZ-JORBA</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">373</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c018">
+               </relatedItem><relatedItem type="constituent" xml:id="c018">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -446,13 +397,16 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c019">
+               </relatedItem><relatedItem type="constituent" xml:id="c019">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">ETC...</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/14765320">P. A-B</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -461,29 +415,8 @@
                            <biblScope unit="page">375</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c020">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">untitled text</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/14765320 http://viaf.org/viaf/14765320">P. A-B</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">375</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c021">
+               </relatedItem><relatedItem type="constituent" xml:id="c021">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -491,7 +424,7 @@
                            <seg type="main">Demoiselle aux Myosotis</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/39390718&#xA;">Ivan GOLL</persName>
+                           <persName ref="http://viaf.org/viaf/39390718">Ivan GOLL</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -503,8 +436,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c022">
+               </relatedItem><relatedItem type="constituent" xml:id="c022">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -523,15 +455,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c023">
+               </relatedItem><relatedItem type="constituent" xml:id="c023">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">MATOUM &amp; TÉVIBAR. – LE ROI &amp; LA REINE</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/19762459&#xA;">E. Prampolini</persName>
+                           <persName ref="http://viaf.org/viaf/19762459">E. Prampolini</persName>
                            <resp>cre</resp>
                         </respStmt>
                      </analytic>
@@ -540,16 +471,17 @@
                            <classCode scheme="CCS">Illustration</classCode>
                            <biblScope unit="page">377</biblScope>
                         </imprint>
-                     </monogr>  Costumes Architectoniques — dynamiques par E. Prampolini </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c024">
+                     </monogr>
+                     <note>  Costumes Architectoniques — dynamiques par E. Prampolini </note>
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c024">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">MATOUM &amp; TÉVIBAR. — DECOR. — </seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/19762459&#xA;">E. Prampolini</persName>
+                           <persName ref="http://viaf.org/viaf/19762459">E. Prampolini</persName>
                            <resp>cre</resp>
                         </respStmt>
                      </analytic>
@@ -558,20 +490,21 @@
                            <classCode scheme="CCS">Illustration</classCode>
                            <biblScope unit="page">378</biblScope>
                         </imprint>
-                     </monogr>  Architecture lumineuse, par E. Prampolini </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c025">
+                     </monogr>
+                     <note>  Architecture lumineuse, par E. Prampolini </note>
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c025">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Matoum et Tévibar à Rome</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/14765320 http://viaf.org/viaf/14765320">P. A-B</persName>
+                           <persName ref="http://viaf.org/viaf/14765320">P. A-B</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/19762459&#xA;">Enrico Prampolini</persName>
+                           <persName ref="http://viaf.org/viaf/19762459">Enrico Prampolini</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -583,8 +516,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c026">
+               </relatedItem><relatedItem type="constituent" xml:id="c026">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -598,8 +530,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c027">
+               </relatedItem><relatedItem type="constituent" xml:id="c027">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -613,8 +544,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c028">
+               </relatedItem><relatedItem type="constituent" xml:id="c028">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -628,8 +558,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c029">
+               </relatedItem><relatedItem type="constituent" xml:id="c029">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -643,14 +572,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="32670" lry="43200">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="32670" lry="0"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="0" lrx="0" lry="42690"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="32660" uly="0" lrx="32670" lry="42690"/>
@@ -916,7 +844,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="27050" lry="4240"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="4240" lrx="2920" lry="31530"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="25570" uly="4240" lrx="27050" lry="31530"/>
@@ -1140,7 +1068,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="27050" lry="3520">
             <tei:zone type="TextBlock" xml:id="P3_TB00001" ulx="12760" uly="3210" lrx="13510" lry="3500">
                <tei:zone type="TextLine" xml:id="P3_TL00001" ulx="12760" uly="3210" lrx="13510" lry="3500">
@@ -1263,7 +1191,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="27050" lry="2570">
             <tei:zone type="TextBlock" xml:id="P4_TB00001" ulx="13210" uly="2250" lrx="13950" lry="2550">
                <tei:zone type="TextLine" xml:id="P4_TL00001" ulx="13210" uly="2250" lrx="13950" lry="2550">
@@ -1531,7 +1459,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="27050" lry="3380">
             <tei:zone type="TextBlock" xml:id="P5_TB00001" ulx="13040" uly="3060" lrx="13710" lry="3360">
                <tei:zone type="TextLine" xml:id="P5_TL00001" ulx="13040" uly="3060" lrx="13710" lry="3360">
@@ -1839,7 +1767,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="27050" lry="3220">
             <tei:zone type="TextBlock" xml:id="P6_TB00001" ulx="13340" uly="2870" lrx="14100" lry="3190">
                <tei:zone type="TextLine" xml:id="P6_TL00001" ulx="13340" uly="2870" lrx="14100" lry="3190">
@@ -2217,7 +2145,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="27050" lry="3590">
             <tei:zone type="TextBlock" xml:id="P7_TB00001" ulx="11700" uly="3250" lrx="12380" lry="3560">
                <tei:zone type="TextLine" xml:id="P7_TL00001" ulx="11700" uly="3250" lrx="12380" lry="3560">
@@ -2554,7 +2482,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="27050" lry="3130">
             <tei:zone type="TextBlock" xml:id="P8_TB00001" ulx="13560" uly="2790" lrx="14330" lry="3110">
                <tei:zone type="TextLine" xml:id="P8_TL00001" ulx="13560" uly="2790" lrx="14330" lry="3110">
@@ -2802,7 +2730,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P9" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0009.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0009.jp2"/>
          <tei:zone type="margin" xml:id="P9_TM00001" ulx="0" uly="0" lrx="27050" lry="3600">
             <tei:zone type="TextBlock" xml:id="P9_TB00001" ulx="13820" uly="3290" lrx="14540" lry="3580">
                <tei:zone type="TextLine" xml:id="P9_TL00001" ulx="13820" uly="3290" lrx="14540" lry="3580">
@@ -3097,7 +3025,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P10" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0010.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0010.jp2"/>
          <tei:zone type="margin" xml:id="P10_TM00001" ulx="0" uly="0" lrx="27050" lry="1400">
             <tei:zone type="TextBlock" xml:id="P10_TB00001" ulx="11560" uly="830" lrx="12260" lry="1380">
                <tei:zone type="TextLine" xml:id="P10_TL00001" ulx="11560" uly="830" lrx="12260" lry="1380">
@@ -3422,7 +3350,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P11" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0011.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0011.jp2"/>
          <tei:zone type="margin" xml:id="P11_TM00001" ulx="0" uly="0" lrx="27050" lry="1500">
             <tei:zone type="TextBlock" xml:id="P11_TB00001" ulx="12220" uly="1170" lrx="12910" lry="1480">
                <tei:zone type="TextLine" xml:id="P11_TL00001" ulx="12220" uly="1170" lrx="12910" lry="1480">
@@ -3897,7 +3825,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P12" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0012.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0012.jp2"/>
          <tei:zone type="margin" xml:id="P12_TM00001" ulx="0" uly="0" lrx="27050" lry="1440">
             <tei:zone type="TextBlock" xml:id="P12_TB00001" ulx="13670" uly="1120" lrx="14450" lry="1420">
                <tei:zone type="TextLine" xml:id="P12_TL00001" ulx="13670" uly="1120" lrx="14450" lry="1420">
@@ -4242,7 +4170,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P13" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0013.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0013.jp2"/>
          <tei:zone type="margin" xml:id="P13_TM00001" ulx="0" uly="0" lrx="27050" lry="4360">
             <tei:zone type="TextBlock" xml:id="P13_TB00001" ulx="12990" uly="4050" lrx="13740" lry="4340">
                <tei:zone type="TextLine" xml:id="P13_TL00001" ulx="12990" uly="4050" lrx="13740" lry="4340">
@@ -5026,7 +4954,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P14" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0014.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0014.jp2"/>
          <tei:zone type="margin" xml:id="P14_TM00001" ulx="0" uly="0" lrx="27050" lry="3400">
             <tei:zone type="TextBlock" xml:id="P14_TB00001" ulx="15510" uly="3060" lrx="16260" lry="3370">
                <tei:zone type="TextLine" xml:id="P14_TL00001" ulx="15510" uly="3060" lrx="16260" lry="3370">
@@ -5259,7 +5187,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P15" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0015.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0015.jp2"/>
          <tei:zone type="margin" xml:id="P15_TM00001" ulx="0" uly="0" lrx="27050" lry="3560">
             <tei:zone type="TextBlock" xml:id="P15_TB00001" ulx="12140" uly="3250" lrx="12800" lry="3540">
                <tei:zone type="TextLine" xml:id="P15_TL00001" ulx="12140" uly="3250" lrx="12800" lry="3540">
@@ -5296,7 +5224,7 @@
          <tei:zone type="margin" xml:id="P15_PS00001" ulx="1540" uly="3560" lrx="23970" lry="30820"/>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P16" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0016.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0016.jp2"/>
          <tei:zone type="margin" xml:id="P16_TM00001" ulx="0" uly="0" lrx="27050" lry="2340">
             <tei:zone type="TextBlock" xml:id="P16_TB00001" ulx="13040" uly="2020" lrx="13790" lry="2320">
                <tei:zone type="TextLine" xml:id="P16_TL00001" ulx="13040" uly="2020" lrx="13790" lry="2320">
@@ -5326,7 +5254,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P17" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0017.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0017.jp2"/>
          <tei:zone type="margin" xml:id="P17_TM00001" ulx="0" uly="0" lrx="27050" lry="1570">
             <tei:zone type="TextBlock" xml:id="P17_TB00001" ulx="12260" uly="1240" lrx="13000" lry="1550">
                <tei:zone type="TextLine" xml:id="P17_TL00001" ulx="12260" uly="1240" lrx="13000" lry="1550">
@@ -5918,7 +5846,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P18" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0018.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0018.jp2"/>
          <tei:zone type="margin" xml:id="P18_TM00001" ulx="0" uly="0" lrx="27050" lry="2420">
             <tei:zone type="TextBlock" xml:id="P18_TB00001" ulx="13420" uly="2070" lrx="14190" lry="2390">
                <tei:zone type="TextLine" xml:id="P18_TL00001" ulx="13420" uly="2070" lrx="14190" lry="2390">
@@ -6562,7 +6490,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P19" ulx="0" uly="0" lrx="27050" lry="37180">
-         <tei:graphic url="0019.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0019.jp2"/>
          <tei:zone type="margin" xml:id="P19_TM00001" ulx="0" uly="0" lrx="27050" lry="3580"/>
          <tei:zone type="margin" xml:id="P19_LM00001" ulx="0" uly="3580" lrx="2780" lry="33370"/>
          <tei:zone type="margin" xml:id="P19_RM00001" ulx="25300" uly="3580" lrx="27050" lry="33370"/>
@@ -6742,7 +6670,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P20" ulx="0" uly="0" lrx="16240" lry="16610">
-         <tei:graphic url="0020.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/06/15_01/delivery/bmtnaaz_1919-06-15_01_0020.jp2"/>
          <tei:zone type="margin" xml:id="P20_TM00001" ulx="0" uly="0" lrx="16240" lry="0"/>
          <tei:zone type="margin" xml:id="P20_LM00001" ulx="0" uly="0" lrx="0" lry="16610"/>
          <tei:zone type="margin" xml:id="P20_RM00001" ulx="16230" uly="0" lrx="16240" lry="16610"/>
@@ -6914,27 +6842,25 @@
                         <ab facs="P6_TB00003">
                            <lb facs="P6_TL00003"/>Poème - paysage </ab>
                      </div>
-                     <div type="TextContent" corresp="c008">
-                        <div type="Byline">
-                           <ab facs="P6_TB00002">
-                              <lb facs="P6_TL00002"/>P.A-B.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P6_TB00004">
-                                       <lb facs="P6_TL00004"/>(texte)</ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P6_TB00002">
+                           <lb facs="P6_TL00002"/>P.A-B.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P6_TB00004">
+                                    <lb facs="P6_TL00004"/>(texte)</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P6_TB00005">
-                                       <lb facs="P6_TL00005"/>Un accident étant survenu au moment du tirages aux clichés qui ont servi à imprimer les 5 poèmes-paysages<lb facs="P6_TL00006"/>qui ornent mon livre " La joie des sept couleurs " ces poèmes se trouvent assez difficiles à lire, plusieurs<lb facs="P6_TL00007"/>personnes s'en plaignent et particulièrement en ce qui concerne le 4 je prends donc le parti d'en publier ici<lb facs="P6_TL00008"/>le texte.<lb facs="P6_TL00009"/>L'ombre ne sera jamais<lb facs="P6_TL00010"/>aussi longue que la route<lb facs="P6_TL00011"/>Je prends plaisir<lb facs="P6_TL00012"/>à m'étendre sur toi<lb facs="P6_TL00013"/>mais -<lb facs="P6_TL00014"/>je suis si légère ma bien<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P6_TL00015"/>aimée et mon<lb facs="P6_TL00016"/>bleu<lb facs="P6_TL00017"/>va si bien<lb facs="P6_TL00018"/>à ton<lb facs="P6_TL00019"/>blanc<lb facs="P6_TL00020"/>tous les amants sont jaloux<lb facs="P6_TL00021"/>de la douceur des caresses<lb facs="P6_TL00022"/>que je te fais et l'arbre auquel j'appartiens<lb facs="P6_TL00023"/>pour l'éternité<lb facs="P6_TL00024"/>que dirait-il s'il savait<lb facs="P6_TL00025"/>notre amour il n'y a que les<lb facs="P6_TL00026"/>peintres et les poètes<lb facs="P6_TL00027"/>qui soient heu<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P6_TL00028"/>reux de voir nos baisers<lb facs="P6_TL00029"/>dentelés<lb facs="P6_TL00030"/>les hommes marchent<lb facs="P6_TL00031"/>dessus<lb facs="P6_TL00032"/>ma bien-aimée j'aime partager mes jours entre toi mon amante et le soleil mon amant<lb facs="P6_TL00033"/>et tu sais bien mon double amour aussi quand tu arrives le matin comme tu me prends<lb facs="P6_TL00034"/>tout entière et comme tu me quittes à regret quand le soleil veut à son tour me possé<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P6_TL00035"/>der toute mais aussitôt tu reviens et tu t'allonges à nouveau sur moi et le soir nous ne<lb facs="P6_TL00036"/>pouvons plus nous quitter et le soleil que ferait-il s'il savait notre amour les hommes<lb facs="P6_TL00037"/>marchent sur nous cest leur taçon de nous aimer et c'est quand nous nous aimons<lb facs="P6_TL00038"/>qu'ils nous aiment le mieux mais pour moi ils ne me connaîtront jamais toute j'aime<lb facs="P6_TL00039"/>la forme de tes baisers séparons nous il est midi à bientôt blanc et bleu</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P6_TB00005">
+                                    <lb facs="P6_TL00005"/>Un accident étant survenu au moment du tirages aux clichés qui ont servi à imprimer les 5 poèmes-paysages<lb facs="P6_TL00006"/>qui ornent mon livre " La joie des sept couleurs " ces poèmes se trouvent assez difficiles à lire, plusieurs<lb facs="P6_TL00007"/>personnes s'en plaignent et particulièrement en ce qui concerne le 4 je prends donc le parti d'en publier ici<lb facs="P6_TL00008"/>le texte.<lb facs="P6_TL00009"/>L'ombre ne sera jamais<lb facs="P6_TL00010"/>aussi longue que la route<lb facs="P6_TL00011"/>Je prends plaisir<lb facs="P6_TL00012"/>à m'étendre sur toi<lb facs="P6_TL00013"/>mais -<lb facs="P6_TL00014"/>je suis si légère ma bien<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00015"/>aimée et mon<lb facs="P6_TL00016"/>bleu<lb facs="P6_TL00017"/>va si bien<lb facs="P6_TL00018"/>à ton<lb facs="P6_TL00019"/>blanc<lb facs="P6_TL00020"/>tous les amants sont jaloux<lb facs="P6_TL00021"/>de la douceur des caresses<lb facs="P6_TL00022"/>que je te fais et l'arbre auquel j'appartiens<lb facs="P6_TL00023"/>pour l'éternité<lb facs="P6_TL00024"/>que dirait-il s'il savait<lb facs="P6_TL00025"/>notre amour il n'y a que les<lb facs="P6_TL00026"/>peintres et les poètes<lb facs="P6_TL00027"/>qui soient heu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00028"/>reux de voir nos baisers<lb facs="P6_TL00029"/>dentelés<lb facs="P6_TL00030"/>les hommes marchent<lb facs="P6_TL00031"/>dessus<lb facs="P6_TL00032"/>ma bien-aimée j'aime partager mes jours entre toi mon amante et le soleil mon amant<lb facs="P6_TL00033"/>et tu sais bien mon double amour aussi quand tu arrives le matin comme tu me prends<lb facs="P6_TL00034"/>tout entière et comme tu me quittes à regret quand le soleil veut à son tour me possé<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00035"/>der toute mais aussitôt tu reviens et tu t'allonges à nouveau sur moi et le soir nous ne<lb facs="P6_TL00036"/>pouvons plus nous quitter et le soleil que ferait-il s'il savait notre amour les hommes<lb facs="P6_TL00037"/>marchent sur nous cest leur taçon de nous aimer et c'est quand nous nous aimons<lb facs="P6_TL00038"/>qu'ils nous aiment le mieux mais pour moi ils ne me connaîtront jamais toute j'aime<lb facs="P6_TL00039"/>la forme de tes baisers séparons nous il est midi à bientôt blanc et bleu</ab>
                               </div>
                            </div>
                         </div>
@@ -7083,33 +7009,31 @@
                         </div>
                      </div>
                   </div>
-                  <div type="TextContent" corresp="c016">
+                  <div type="TextContent" corresp="c017">
                      <div type="Head">
                         <ab facs="P11_TB00006">
                            <lb facs="P11_TL00026"/>POÈME</ab>
                      </div>
-                     <div type="TextContent" corresp="c017">
-                        <div type="Byline">
-                           <ab facs="P11_TB00008">
-                              <lb facs="P11_TL00046"/>J. PEREZ-JORBA</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P11_TB00005">
-                                       <lb facs="P11_TL00025"/>PARIS 18-0 1919</ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P11_TB00008">
+                           <lb facs="P11_TL00046"/>J. PEREZ-JORBA</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P11_TB00005">
+                                    <lb facs="P11_TL00025"/>PARIS 18-0 1919</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P11_TB00007">
-                                       <lb facs="P11_TL00027"/>CETTE NUIT CETTE NUIT COMME ELLE EST VIVANTE SUR CETTE VILLE OU JE<lb facs="P11_TL00028"/>ME SUIS DONNÉ EN PATURE COMME ELLE EST BELLE AVEC TOUS SES RÉVERBÈ<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P11_TL00029"/>RES ALLUMÉS PAR LE DÉSIR DE SACCROCHER AUX ÉTOILES LE FAUX COLLIER<lb facs="P11_TL00030"/>D'UNE CHANTEUSE BRILLE DANS LE CIEL D'UN MUSIC-HALL DE CETTE VILLE OU<lb facs="P11_TL00031"/>MA FEMME A EU DES ENFANTS SUPERBES OU TANT DE CHEVAUX TRÉPASSENT<lb facs="P11_TL00032"/>AU MILIEU DE LA FOULE AFFOLÉE PAR LES AFFAIRES OU LES ENFANTS DORMENT<lb facs="P11_TL00033"/>A CETTE HEURE EN RÊVANT AU SOLEIL QUI JONGLAIT AVEC LEURS CERCEAUX LA<lb facs="P11_TL00034"/>DANS LES JARDINS LIBRES IVRES PETITS ROIS AMOURS BALLONS BALLES BILLES<lb facs="P11_TL00035"/>PELLES SEAUX CETTE NUIT CETTE NUIT N'A PAS DU TOUT LA MIGRAINE SUR LE<lb facs="P11_TL00036"/>SONGE DE QUELQU'UN QUI JOUE AVEC LA GUITARE DE LA TOUR EIFFEL ET QUI<lb facs="P11_TL00037"/>PERD LA BOUSSOLE CETTE NUIT CETTE NUIT FLIRTE PAR MOMENTS AVEC LE<lb facs="P11_TL00038"/>MYSTÈRE RECTANGULAIRE DES FENÊTRES QUI CÈLENT LES TURPITUDES DES LIBI<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P11_TL00039"/>DINEUSES CETTE NUIT CETTE NUIT A VENDU SON AME A QUELQU'UN DE MAUDIT<lb facs="P11_TL00040"/>QUI SE CONTREDIT AVANT DE QUITTER LE CORPS BLANC BLANC BLANC LE BAI<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P11_TL00041"/>SER ROUGE ROUGE ROUGE DE SA MAITRESSE UN REGARD INDIFFÉRENT LE FORCE<lb facs="P11_TL00042"/>DE FUIR IL PREND SON CHAPEAU TRA LA LA TRA LA LA IL S'EN VA PAR CET<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P11_TL00043"/>TE NUIT SI VIVANTE SI BELLE SI LYRIQUE EN MARQUANT SON PAS SUR<lb facs="P11_TL00044"/>LES RUES SOLITAIRES QUELQUUN LIT UN JOURNAL A LA LUEUR D'UNE BOUGIE<lb facs="P11_TL00045"/>UNE CROIX PASSE DUN BALCON A L'AUTRE ON SIFFLE UN POINT C EST TOUT</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P11_TB00007">
+                                    <lb facs="P11_TL00027"/>CETTE NUIT CETTE NUIT COMME ELLE EST VIVANTE SUR CETTE VILLE OU JE<lb facs="P11_TL00028"/>ME SUIS DONNÉ EN PATURE COMME ELLE EST BELLE AVEC TOUS SES RÉVERBÈ<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P11_TL00029"/>RES ALLUMÉS PAR LE DÉSIR DE SACCROCHER AUX ÉTOILES LE FAUX COLLIER<lb facs="P11_TL00030"/>D'UNE CHANTEUSE BRILLE DANS LE CIEL D'UN MUSIC-HALL DE CETTE VILLE OU<lb facs="P11_TL00031"/>MA FEMME A EU DES ENFANTS SUPERBES OU TANT DE CHEVAUX TRÉPASSENT<lb facs="P11_TL00032"/>AU MILIEU DE LA FOULE AFFOLÉE PAR LES AFFAIRES OU LES ENFANTS DORMENT<lb facs="P11_TL00033"/>A CETTE HEURE EN RÊVANT AU SOLEIL QUI JONGLAIT AVEC LEURS CERCEAUX LA<lb facs="P11_TL00034"/>DANS LES JARDINS LIBRES IVRES PETITS ROIS AMOURS BALLONS BALLES BILLES<lb facs="P11_TL00035"/>PELLES SEAUX CETTE NUIT CETTE NUIT N'A PAS DU TOUT LA MIGRAINE SUR LE<lb facs="P11_TL00036"/>SONGE DE QUELQU'UN QUI JOUE AVEC LA GUITARE DE LA TOUR EIFFEL ET QUI<lb facs="P11_TL00037"/>PERD LA BOUSSOLE CETTE NUIT CETTE NUIT FLIRTE PAR MOMENTS AVEC LE<lb facs="P11_TL00038"/>MYSTÈRE RECTANGULAIRE DES FENÊTRES QUI CÈLENT LES TURPITUDES DES LIBI<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P11_TL00039"/>DINEUSES CETTE NUIT CETTE NUIT A VENDU SON AME A QUELQU'UN DE MAUDIT<lb facs="P11_TL00040"/>QUI SE CONTREDIT AVANT DE QUITTER LE CORPS BLANC BLANC BLANC LE BAI<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P11_TL00041"/>SER ROUGE ROUGE ROUGE DE SA MAITRESSE UN REGARD INDIFFÉRENT LE FORCE<lb facs="P11_TL00042"/>DE FUIR IL PREND SON CHAPEAU TRA LA LA TRA LA LA IL S'EN VA PAR CET<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P11_TL00043"/>TE NUIT SI VIVANTE SI BELLE SI LYRIQUE EN MARQUANT SON PAS SUR<lb facs="P11_TL00044"/>LES RUES SOLITAIRES QUELQUUN LIT UN JOURNAL A LA LUEUR D'UNE BOUGIE<lb facs="P11_TL00045"/>UNE CROIX PASSE DUN BALCON A L'AUTRE ON SIFFLE UN POINT C EST TOUT</ab>
                               </div>
                            </div>
                         </div>
@@ -7140,30 +7064,28 @@
                         <ab facs="P13_TB00002">
                            <lb facs="P13_TL00002"/>ETC...</ab>
                      </div>
-                     <div type="TextContent" corresp="c020">
-                        <div type="Byline">
-                           <ab facs="P13_TB00004">
-                              <lb facs="P13_TL00049"/>P.A-B.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P13_TB00003">
-                                       <lb facs="P13_TL00003"/>DADA 4-5 ( Juin 1.919 ZURICH.)<lb facs="P13_TL00004"/>H est presque bleu blanc rouge comme le drapeau français, c'est la fête ou bien la<lb facs="P13_TL00005"/>guerre, des pétards ou des bombes mais d'abord un réveil-matin et puis la chronique cu<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P13_TL00006"/>bisme concentré boites d'allumettes qui prennent feu dans la poche et l'annonce<lb facs="P13_TL00007"/>ouvrage sur Jésus en villégiature à l'autre page la pile électrique avec sonnerie<lb facs="P13_TL00008"/>pour éclairage public ou privé 3 pièces pour mains faciles d'or dormir merci cinéma<lb facs="P13_TL00009"/>polka caramel névralgies giraffe par Cocteau coq tôt ou tard et sur fond blanc note<lb facs="P13_TL00010"/>14 sur la poésie au bas delà page Sous Fécorce des arbres abattus je cherche la pein<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P13_TL00011"/>ture des choses à venir de la vigueur et dans les canaux la vie gonlle peut-être déjà l'obs<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P13_TL00012"/>curité du fer et du charbon Tristan Tzara au verso soleil sage-femme Picabia faiseuse<lb facs="P13_TL00013"/>d'ange tournez le Globe Pierre Reverdy tourne tout seul mais plus loin tout seul au mi<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P13_TL00014"/>lieu et rougissaut un petit manifestant des émotions génitales et use les meubles c'est pour<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P13_TL00015"/>quoi un autre se promène tout nu devant la statue de cire du coiffeur qui lui sourit heu<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P13_TL00016"/>reusement que les médecins sont à côté mais la Catastrophe était inévitable Pierre Albert-<lb facs="P13_TL00017"/>Birot n'a rien de cassé dans tout ce Tohu-bohu et c'est alors que Dada proclame sans<lb facs="P13_TL00018"/>prétention que l'art a besoin d'une opération aussi Reverdy pense en grands caractères à<lb facs="P13_TL00019"/>celui qui vient de faire une tache à sa cravate ce qui n'empêche pas le poète suivant de<lb facs="P13_TL00020"/>s'arrêter en voyant Dieu à motocyclette-l-Gambit de la Reine+Trombone à coulisse heu<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P13_TL00021"/>reusement qu'aussitôt Perez-Jorba nous dit mais il lui semblait que la lumière voulait lui<lb facs="P13_TL00022"/>parler Aa 24 IX sur fond bleu — fable T. T. ici divertissements bal champêtre buvette<lb facs="P13_TL00023"/>tzara en bas de casse TZARA en capitales Pierre ALBERT-B1ROT en triangle le centre esv<lb facs="P13_TL00024"/>la périphérie Bilan dessins dessins dessins fleurs séchées qui sont restées entre les page<lb facs="P13_TL00025"/>Les cahiers idéalistes français. — Dans les nds d'Avril Mai et Juin on trouve une<lb facs="P13_TL00026"/>partie de la conférence de M. Edouard Dujardin " De Stéphane Mallarmé au prophè<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P13_TL00027"/>te Ezéchiel " grand travail. Nous n'applaudissons pas M. Edouard Dujardin quand il<lb facs="P13_TL00028"/>se complait à démonter, à expliquer, un poème de Mallarmé — divin mystère — mais<lb facs="P13_TL00029"/>nous applaudissons chaleureusement M. Edouard Dujardin quand il démontre si claire<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P13_TL00030"/>ment que l'écrivain doit avoir tout simplement du génie. On ne conçoit pas qu'il puisse<lb facs="P13_TL00031"/>en être autrement. Mais qui n'a pas de génie! En ce moment tout le monde fait<lb facs="P13_TL00032"/>partie de " Vcivant-garde " et faire partie de " lavant-garde " qu'est-ce autre chose en<lb facs="P13_TL00033"/>réalité qu'avoir du génie. Hélas où commence " l'avant-garde " où finit-elle. Tous les<lb facs="P13_TL00034"/>jours on surprend des esprits qui semblaient bien faits à mettre eux-même sur le mê<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P13_TL00035"/>me plan les Matoum ét les Tévibar. Baste, qu'importe, travaillons et laissons là<lb facs="P13_TL00036"/>" lavant-garde " cette métaphore empruntée au langage guerrier, elle n'a plus cours.<lb facs="P13_TL00037"/>J'ai tué — Biaise Cendrars. Petite édition Crés à la portée des bourses plates.<lb facs="P13_TL00038"/>.Drie Voordrachten over de nieuwe beeldende Kunst. — Théo van Doesburg. -<lb facs="P13_TL00039"/>C'est un petit livre qui m'arrive d'Amsterdam. Tout le monde ne le lira pas, car il<lb facs="P13_TL00040"/>est écrit en langue hollandaise, mais tout le monde pourra le f euilleter car ce faisant on<lb facs="P13_TL00041"/>revoit à loisir toute l'histoire humaine de la peinture au m oyen de reproductions qui<lb facs="P13_TL00042"/>vont du peintre des cavernes à Picasso en passant par les Egyptiens, les Grecs,<lb facs="P13_TL00043"/>Fra Angelico, Raphaël, Michel-Ange, Rubens, Rembrant, Greuze, David, Gericault,<lb facs="P13_TL00044"/>Millet, Daumier, Manet, Seurat, Cezanne, Van Gogh, Henri Rousseau, Severini.<lb facs="P13_TL00045"/>Tournevire Roman. Céline Arnauld. — Au moment de donner le bon à tirer nous re<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P13_TL00046"/>cevons ce livre. L'auteur a mis sous le titre : roman. Cela est très bien porté depuis<lb facs="P13_TL00047"/>quelques temps. L'auteur devrait s'orienter peut-être vers la féerie et le ballet : La Bou<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P13_TL00048"/>mystérieuse et de jardin.</ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P13_TB00004">
+                           <lb facs="P13_TL00049"/>P.A-B.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P13_TB00003">
+                                    <lb facs="P13_TL00003"/>DADA 4-5 ( Juin 1.919 ZURICH.)<lb facs="P13_TL00004"/>H est presque bleu blanc rouge comme le drapeau français, c'est la fête ou bien la<lb facs="P13_TL00005"/>guerre, des pétards ou des bombes mais d'abord un réveil-matin et puis la chronique cu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00006"/>bisme concentré boites d'allumettes qui prennent feu dans la poche et l'annonce<lb facs="P13_TL00007"/>ouvrage sur Jésus en villégiature à l'autre page la pile électrique avec sonnerie<lb facs="P13_TL00008"/>pour éclairage public ou privé 3 pièces pour mains faciles d'or dormir merci cinéma<lb facs="P13_TL00009"/>polka caramel névralgies giraffe par Cocteau coq tôt ou tard et sur fond blanc note<lb facs="P13_TL00010"/>14 sur la poésie au bas delà page Sous Fécorce des arbres abattus je cherche la pein<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00011"/>ture des choses à venir de la vigueur et dans les canaux la vie gonlle peut-être déjà l'obs<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00012"/>curité du fer et du charbon Tristan Tzara au verso soleil sage-femme Picabia faiseuse<lb facs="P13_TL00013"/>d'ange tournez le Globe Pierre Reverdy tourne tout seul mais plus loin tout seul au mi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00014"/>lieu et rougissaut un petit manifestant des émotions génitales et use les meubles c'est pour<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00015"/>quoi un autre se promène tout nu devant la statue de cire du coiffeur qui lui sourit heu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00016"/>reusement que les médecins sont à côté mais la Catastrophe était inévitable Pierre Albert-<lb facs="P13_TL00017"/>Birot n'a rien de cassé dans tout ce Tohu-bohu et c'est alors que Dada proclame sans<lb facs="P13_TL00018"/>prétention que l'art a besoin d'une opération aussi Reverdy pense en grands caractères à<lb facs="P13_TL00019"/>celui qui vient de faire une tache à sa cravate ce qui n'empêche pas le poète suivant de<lb facs="P13_TL00020"/>s'arrêter en voyant Dieu à motocyclette-l-Gambit de la Reine+Trombone à coulisse heu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00021"/>reusement qu'aussitôt Perez-Jorba nous dit mais il lui semblait que la lumière voulait lui<lb facs="P13_TL00022"/>parler Aa 24 IX sur fond bleu — fable T. T. ici divertissements bal champêtre buvette<lb facs="P13_TL00023"/>tzara en bas de casse TZARA en capitales Pierre ALBERT-B1ROT en triangle le centre esv<lb facs="P13_TL00024"/>la périphérie Bilan dessins dessins dessins fleurs séchées qui sont restées entre les page<lb facs="P13_TL00025"/>Les cahiers idéalistes français. — Dans les nds d'Avril Mai et Juin on trouve une<lb facs="P13_TL00026"/>partie de la conférence de M. Edouard Dujardin " De Stéphane Mallarmé au prophè<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00027"/>te Ezéchiel " grand travail. Nous n'applaudissons pas M. Edouard Dujardin quand il<lb facs="P13_TL00028"/>se complait à démonter, à expliquer, un poème de Mallarmé — divin mystère — mais<lb facs="P13_TL00029"/>nous applaudissons chaleureusement M. Edouard Dujardin quand il démontre si claire<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00030"/>ment que l'écrivain doit avoir tout simplement du génie. On ne conçoit pas qu'il puisse<lb facs="P13_TL00031"/>en être autrement. Mais qui n'a pas de génie! En ce moment tout le monde fait<lb facs="P13_TL00032"/>partie de " Vcivant-garde " et faire partie de " lavant-garde " qu'est-ce autre chose en<lb facs="P13_TL00033"/>réalité qu'avoir du génie. Hélas où commence " l'avant-garde " où finit-elle. Tous les<lb facs="P13_TL00034"/>jours on surprend des esprits qui semblaient bien faits à mettre eux-même sur le mê<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00035"/>me plan les Matoum ét les Tévibar. Baste, qu'importe, travaillons et laissons là<lb facs="P13_TL00036"/>" lavant-garde " cette métaphore empruntée au langage guerrier, elle n'a plus cours.<lb facs="P13_TL00037"/>J'ai tué — Biaise Cendrars. Petite édition Crés à la portée des bourses plates.<lb facs="P13_TL00038"/>.Drie Voordrachten over de nieuwe beeldende Kunst. — Théo van Doesburg. -<lb facs="P13_TL00039"/>C'est un petit livre qui m'arrive d'Amsterdam. Tout le monde ne le lira pas, car il<lb facs="P13_TL00040"/>est écrit en langue hollandaise, mais tout le monde pourra le f euilleter car ce faisant on<lb facs="P13_TL00041"/>revoit à loisir toute l'histoire humaine de la peinture au m oyen de reproductions qui<lb facs="P13_TL00042"/>vont du peintre des cavernes à Picasso en passant par les Egyptiens, les Grecs,<lb facs="P13_TL00043"/>Fra Angelico, Raphaël, Michel-Ange, Rubens, Rembrant, Greuze, David, Gericault,<lb facs="P13_TL00044"/>Millet, Daumier, Manet, Seurat, Cezanne, Van Gogh, Henri Rousseau, Severini.<lb facs="P13_TL00045"/>Tournevire Roman. Céline Arnauld. — Au moment de donner le bon à tirer nous re<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00046"/>cevons ce livre. L'auteur a mis sous le titre : roman. Cela est très bien porté depuis<lb facs="P13_TL00047"/>quelques temps. L'auteur devrait s'orienter peut-être vers la féerie et le ballet : La Bou<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P13_TL00048"/>mystérieuse et de jardin.</ab>
                               </div>
                            </div>
                         </div>

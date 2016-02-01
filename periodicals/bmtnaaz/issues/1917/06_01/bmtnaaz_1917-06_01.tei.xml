@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">2</biblScope>
                         <biblScope unit="issue">18</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace>
                         <date when="1917-06">Juin 1917</date>
                      </imprint>
                   </monogr>
@@ -107,8 +98,7 @@
                   <acquisition> </acquisition>
                </history>
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -117,9 +107,7 @@
                      <biblScope unit="issue">18</biblScope>
                      <date when="1917-06"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -133,8 +121,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -149,8 +136,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -171,31 +157,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
-                  <biblStruct>
-                     <analytic>
-                        <title level="a">
-                           <seg type="main">Untitled Text</seg>
-                        </title>
-                        <textLang mainLang="fre"/>
-                     </analytic>
-                     <monogr>
-                        <imprint>
-                           <classCode scheme="CCS">TextContent</classCode>
-                           <biblScope unit="page">4</biblScope>
-                        </imprint>
-                     </monogr>
-                  </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Six Poèmes</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/66462795&#xA;">GUILLAUME APOLLINAIRE</persName>
+                           <persName ref="http://viaf.org/viaf/66462795">GUILLAUME APOLLINAIRE</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -315,7 +284,7 @@
                                  <resp>dte</resp>
                               </respStmt>
                               <respStmt>
-                                 <persName ref="http://viaf.org/viaf/66462795&#xA;">GUILLAUME APOLLINAIRE</persName>
+                                 <persName ref="http://viaf.org/viaf/66462795">GUILLAUME APOLLINAIRE</persName>
                                  <resp>cre</resp>
                               </respStmt>
                               <textLang mainLang="fre"/>
@@ -329,8 +298,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c012">
+               </relatedItem><relatedItem type="constituent" xml:id="c012">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -350,13 +318,17 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">DIALOGUE NUNIQUE Z et A</seg>
+                           <seg type="sub">LA PÊCHE</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/14765320">P. A. B.</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -365,34 +337,13 @@
                            <biblScope unit="page">7</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c014">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="nonSort">A</seg>
-                                 <seg type="main">LA PÊCHE</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/14765320">P. A. B.</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">7</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c015">
+               </relatedItem><relatedItem type="constituent" xml:id="c015">
                   <biblStruct>
                      <analytic>
                         <title level="a">
-                           <seg type="main">E T C...</seg>
+                           <seg type="main">ETC...</seg>
+                           <seg type="sub">En Italie</seg>
                         </title>
                         <textLang mainLang="fre"/>
                      </analytic>
@@ -402,31 +353,14 @@
                            <biblScope unit="page">8</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c016">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">En Italie</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">8</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="30470" lry="40100">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/06_01/delivery/bmtnaaz_1917-06_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="30470" lry="2760"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="2760" lrx="900" lry="37430"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="29780" uly="2760" lrx="30470" lry="37430"/>
@@ -569,7 +503,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="28320" lry="37690">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/06_01/delivery/bmtnaaz_1917-06_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="28320" lry="2010"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="2010" lrx="1800" lry="34190"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="26400" uly="2010" lrx="28320" lry="34190"/>
@@ -1213,7 +1147,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="28320" lry="37690">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/06_01/delivery/bmtnaaz_1917-06_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="28320" lry="2900"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="2900" lrx="1710" lry="35330"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="25830" uly="2900" lrx="28320" lry="35330"/>
@@ -1920,7 +1854,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="28320" lry="37690">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/06_01/delivery/bmtnaaz_1917-06_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="28320" lry="2540"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="2540" lrx="2110" lry="35120"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="26180" uly="2540" lrx="28320" lry="35120"/>
@@ -2569,7 +2503,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="28320" lry="37690">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/06_01/delivery/bmtnaaz_1917-06_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="28320" lry="2450"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="2450" lrx="4530" lry="35210"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="19720" uly="2450" lrx="28320" lry="35210"/>
@@ -2865,7 +2799,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="28320" lry="37690">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/06_01/delivery/bmtnaaz_1917-06_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="28320" lry="2250"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="2250" lrx="2240" lry="36900"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="26450" uly="2250" lrx="28320" lry="36900"/>
@@ -3227,7 +3161,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="28320" lry="37690">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/06_01/delivery/bmtnaaz_1917-06_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="28320" lry="2040"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="2040" lrx="1600" lry="34870"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="26240" uly="2040" lrx="28320" lry="34870"/>
@@ -3882,7 +3816,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="28320" lry="37690">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/06_01/delivery/bmtnaaz_1917-06_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="28320" lry="2410"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="2410" lrx="2440" lry="34650"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="26280" uly="2410" lrx="28320" lry="34650"/>
@@ -4597,12 +4531,6 @@
                                     <lb facs="P4_TL00041"/>nous tenons personnellement à vous dire ici MERCI.) </ab>
                               </div>
                            </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div type="TextContent" corresp="c004">
-                     <div type="Copy">
-                        <div type="BodyContent">
                            <div type="Paragraph">
                               <div type="Text">
                                  <ab facs="P4_TB00004">
@@ -4723,24 +4651,22 @@
                         <ab facs="P7_TB00001">
                            <lb facs="P7_TL00001"/>DIALOGUE NUNIQUE<lb facs="P7_TL00002"/>Z et A</ab>
                      </div>
-                     <div type="TextContent" corresp="c014">
-                        <div type="Head">
-                           <ab facs="P7_TB00002">
-                              <lb facs="P7_TL00003"/>A LA PÊCHE</ab>
-                        </div>
-                        <div type="Byline">
-                           <ab facs="P7_TB00004">
-                              <lb facs="P7_TL00046"/>P. A. B.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P7_TB00003">
-                                       <lb facs="P7_TL00004"/>A — Ça mord ?<lb facs="P7_TL00005"/>g — Non, mais en suivant mon bouchon je pensais que l'esthétique grecque est à base de pessi<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P7_TL00006"/>misme.<lb facs="P7_TL00007"/>À — C'est une conclusion, donnez-moi les prémisses.<lb facs="P7_TL00008"/>Z — Tout l'art grec tend au perfectionnement du monde.<lb facs="P7_TL00009"/>A — Serait-ce un tort ?<lb facs="P7_TL00010"/>g — Tout à l'heure. Pour l'instant je constate et je dis : puisque vous voulez perfectionner le monde,<lb facs="P7_TL00011"/>c'est que vous ne le trouvez pas bien fait.<lb facs="P7_TL00012"/>A — Mais évidemment et le rôle de l'artiste ne serait-il donc pas de :créer un monde conforme à<lb facs="P7_TL00013"/>notre rêve ?<lb facs="P7_TL00014"/>2 — Et en quoi votre rêve est-il supérieur à la réalité?<lb facs="P7_TL00015"/>A — Mais en cela qu'il est conforme à notre idée de perfection.<lb facs="P7_TL00016"/>% _ Et quelle est votre conception delà perfection?<lb facs="P7_TL00017"/>A — Un ensemble constitué essentiellement par des qualités.<lb facs="P7_TL00018"/>£ — Ce qui veut dire dans le domaine concret qu'une statue, par exemple, sera d'une forme d'autant<lb facs="P7_TL00019"/>plus parfaite que l'artiste aura soigneusement corrigé les défauts de son modèle.<lb facs="P7_TL00020"/>À — En effet, et il ne me semble pas que ce soit discutable.<lb facs="P7_TL00021"/>Z — Et qui vous dit : voici une qualité, voici un défaut?<lb facs="P7_TL00022"/>A — Notre idéalfparbleu !<lb facs="P7_TL00023"/>Z —- C'est-à-dire votre vanité.<lb facs="P7_TL00024"/>A —Comment cela?<lb facs="P7_TL00025"/>Z — Naturellement, ne trouvez-vous pas qu'il soit bien vain pour l'homme de dire : le monde est<lb facs="P7_TL00026"/>mal fait je vais le corriger. Et qu'arrive-t-il? C'est que ce pauvre redresseur des torts de la<lb facs="P7_TL00027"/>nature ne peut que ramener lemonde à son étiage, à la bonne moyenne, ni trop long ni trop court,<lb facs="P7_TL00028"/>ni trop grand ni trop petit, et qu'au lieu d'être exalté par le monde il ne pense qu'à ramasser<lb facs="P7_TL00029"/>toutes ses forces pour le châtrer, et avant tout il y a erreur fondamentale : l'artiste crée avec les<lb facs="P7_TL00030"/>éléments que lui fournit la nature mais pas sur le même plan qu'elle.<lb facs="P7_TL00031"/>A — Il me semble qu'il s'efforce tout simplement à faire ce que la nature aurait fait si elle ne s'était<lb facs="P7_TL00032"/>pas trompée.<lb facs="P7_TL00033"/>Z — Vous nous ramenez vous-même à cette base pessimiste dont je parlais à l'instant : l'esthé<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P7_TL00034"/>tique hellénique trouve que la nature se trompe toujours et l'esthétique moderne trouve que<lb facs="P7_TL00035"/>la nature ne se trompe jamais ; esthétiquement les défauts n'existent pas, tout ce qui EST<lb facs="P7_TL00036"/>EST MATIÈRE DE BEAUTÉ, le rôle de l'artiste est justement de créer, avec cette matière, l'œuvre.<lb facs="P7_TL00037"/>A — Mais ne m'avez-vous pas dit que la base de tout art est le subjectif, or l'esthétique qui<lb facs="P7_TL00038"/>perfectionne fait comme la vôtre du subjectivisme.<lb facs="P7_TL00039"/>Z — En effet, mais ne voyez-vous pas que son point de départ pessimiste l'oblige à supprimer une<lb facs="P7_TL00040"/>masse d'éléments vivants et qu'il ne lui reste plus pour construire que des éléments émasculés<lb facs="P7_TL00041"/>qui ne peuvent engendrer. De plus, encore une fois, l'artiste n'a pas à s'occuper de refaire<lb facs="P7_TL00042"/>la nature, l'œuvre d'art est chose humaine et non pas divine, la vie, toute la vie est là, nous<lb facs="P7_TL00043"/>n'avons qu'à prendre et créer un monde essentiellement humain qui ne révèle aucune<lb facs="P7_TL00044"/>tendance à se mettre en parallèle avec le monde divin : c'est, de cette manière que nous en<lb facs="P7_TL00045"/>approcherons le plus. Oh! ça mord!</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P7_TB00002">
+                           <lb facs="P7_TL00003"/>A LA PÊCHE</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab facs="P7_TB00004">
+                           <lb facs="P7_TL00046"/>P. A. B.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P7_TB00003">
+                                    <lb facs="P7_TL00004"/>A — Ça mord ?<lb facs="P7_TL00005"/>g — Non, mais en suivant mon bouchon je pensais que l'esthétique grecque est à base de pessi<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00006"/>misme.<lb facs="P7_TL00007"/>À — C'est une conclusion, donnez-moi les prémisses.<lb facs="P7_TL00008"/>Z — Tout l'art grec tend au perfectionnement du monde.<lb facs="P7_TL00009"/>A — Serait-ce un tort ?<lb facs="P7_TL00010"/>g — Tout à l'heure. Pour l'instant je constate et je dis : puisque vous voulez perfectionner le monde,<lb facs="P7_TL00011"/>c'est que vous ne le trouvez pas bien fait.<lb facs="P7_TL00012"/>A — Mais évidemment et le rôle de l'artiste ne serait-il donc pas de :créer un monde conforme à<lb facs="P7_TL00013"/>notre rêve ?<lb facs="P7_TL00014"/>2 — Et en quoi votre rêve est-il supérieur à la réalité?<lb facs="P7_TL00015"/>A — Mais en cela qu'il est conforme à notre idée de perfection.<lb facs="P7_TL00016"/>% _ Et quelle est votre conception delà perfection?<lb facs="P7_TL00017"/>A — Un ensemble constitué essentiellement par des qualités.<lb facs="P7_TL00018"/>£ — Ce qui veut dire dans le domaine concret qu'une statue, par exemple, sera d'une forme d'autant<lb facs="P7_TL00019"/>plus parfaite que l'artiste aura soigneusement corrigé les défauts de son modèle.<lb facs="P7_TL00020"/>À — En effet, et il ne me semble pas que ce soit discutable.<lb facs="P7_TL00021"/>Z — Et qui vous dit : voici une qualité, voici un défaut?<lb facs="P7_TL00022"/>A — Notre idéalfparbleu !<lb facs="P7_TL00023"/>Z —- C'est-à-dire votre vanité.<lb facs="P7_TL00024"/>A —Comment cela?<lb facs="P7_TL00025"/>Z — Naturellement, ne trouvez-vous pas qu'il soit bien vain pour l'homme de dire : le monde est<lb facs="P7_TL00026"/>mal fait je vais le corriger. Et qu'arrive-t-il? C'est que ce pauvre redresseur des torts de la<lb facs="P7_TL00027"/>nature ne peut que ramener lemonde à son étiage, à la bonne moyenne, ni trop long ni trop court,<lb facs="P7_TL00028"/>ni trop grand ni trop petit, et qu'au lieu d'être exalté par le monde il ne pense qu'à ramasser<lb facs="P7_TL00029"/>toutes ses forces pour le châtrer, et avant tout il y a erreur fondamentale : l'artiste crée avec les<lb facs="P7_TL00030"/>éléments que lui fournit la nature mais pas sur le même plan qu'elle.<lb facs="P7_TL00031"/>A — Il me semble qu'il s'efforce tout simplement à faire ce que la nature aurait fait si elle ne s'était<lb facs="P7_TL00032"/>pas trompée.<lb facs="P7_TL00033"/>Z — Vous nous ramenez vous-même à cette base pessimiste dont je parlais à l'instant : l'esthé<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00034"/>tique hellénique trouve que la nature se trompe toujours et l'esthétique moderne trouve que<lb facs="P7_TL00035"/>la nature ne se trompe jamais ; esthétiquement les défauts n'existent pas, tout ce qui EST<lb facs="P7_TL00036"/>EST MATIÈRE DE BEAUTÉ, le rôle de l'artiste est justement de créer, avec cette matière, l'œuvre.<lb facs="P7_TL00037"/>A — Mais ne m'avez-vous pas dit que la base de tout art est le subjectif, or l'esthétique qui<lb facs="P7_TL00038"/>perfectionne fait comme la vôtre du subjectivisme.<lb facs="P7_TL00039"/>Z — En effet, mais ne voyez-vous pas que son point de départ pessimiste l'oblige à supprimer une<lb facs="P7_TL00040"/>masse d'éléments vivants et qu'il ne lui reste plus pour construire que des éléments émasculés<lb facs="P7_TL00041"/>qui ne peuvent engendrer. De plus, encore une fois, l'artiste n'a pas à s'occuper de refaire<lb facs="P7_TL00042"/>la nature, l'œuvre d'art est chose humaine et non pas divine, la vie, toute la vie est là, nous<lb facs="P7_TL00043"/>n'avons qu'à prendre et créer un monde essentiellement humain qui ne révèle aucune<lb facs="P7_TL00044"/>tendance à se mettre en parallèle avec le monde divin : c'est, de cette manière que nous en<lb facs="P7_TL00045"/>approcherons le plus. Oh! ça mord!</ab>
                               </div>
                            </div>
                         </div>
@@ -4751,20 +4677,18 @@
                         <ab facs="P8_TB00001">
                            <lb facs="P8_TL00001"/>E T C...</ab>
                      </div>
-                     <div type="TextContent" corresp="c016">
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00002">
-                                       <lb facs="P8_TL00002"/>En Italie</ab>
-                                 </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00002">
+                                    <lb facs="P8_TL00002"/>En Italie</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00003">
-                                       <lb facs="P8_TL00003"/>Nous recevons des diverses villes d'Italie —» assez irrégulièrement d'ailleurs — un assez grand<lb facs="P8_TL00004"/>nombre de revues : La Diana — Avanscoperta — L'Italia Futurista — La Chronica Litterare —<lb facs="P8_TL00005"/>Procellaria.<lb facs="P8_TL00006"/>Toutes prouvent un ardent désir d'activité plus ou moins d'avant-garde. Quoique « SIC » ne<lb facs="P8_TL00007"/>soit pas à proprement parler une revue de critique (notre opinion inclinant de plus en plus à<lb facs="P8_TL00008"/>préférer les œuvres aux discours) nous donnerons de temps en temps des nouvelles du mouvement<lb facs="P8_TL00009"/>jeune en Italie — et ailleurs — car il nous semble bon que nous sachions tout ce qui se passe et<lb facs="P8_TL00010"/>où l'on en est hors de France.<lb facs="P8_TL00011"/>Nous citerons sans les discuter quelques titres du premier n° de « Procellaria » : Principe<lb facs="P8_TL00012"/>d'émotivité scénique ultra-nouvelle de Prampolini. — Recherche pour une ligne arythmique<lb facs="P8_TL00013"/>émotive de Gino Cantarelli — une étude sur Picasso de Mario Pozzati — et une suite de poèmes.<lb facs="P8_TL00014"/>Nous avons également reçu quelques livres :<lb facs="P8_TL00015"/>Ascendance chromatique de Gino Cantarelli—Incantamento de Raffaello Franchi et Ruscellante<lb facs="P8_TL00016"/>du môme — Equateur nocturne, paroles en liberté de Francesco Meriano.<lb facs="P8_TL00017"/>Pour cause d'agrandissements la Galerie Weill est transférée, 505 rue Taibout.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00003">
+                                    <lb facs="P8_TL00003"/>Nous recevons des diverses villes d'Italie —» assez irrégulièrement d'ailleurs — un assez grand<lb facs="P8_TL00004"/>nombre de revues : La Diana — Avanscoperta — L'Italia Futurista — La Chronica Litterare —<lb facs="P8_TL00005"/>Procellaria.<lb facs="P8_TL00006"/>Toutes prouvent un ardent désir d'activité plus ou moins d'avant-garde. Quoique « SIC » ne<lb facs="P8_TL00007"/>soit pas à proprement parler une revue de critique (notre opinion inclinant de plus en plus à<lb facs="P8_TL00008"/>préférer les œuvres aux discours) nous donnerons de temps en temps des nouvelles du mouvement<lb facs="P8_TL00009"/>jeune en Italie — et ailleurs — car il nous semble bon que nous sachions tout ce qui se passe et<lb facs="P8_TL00010"/>où l'on en est hors de France.<lb facs="P8_TL00011"/>Nous citerons sans les discuter quelques titres du premier n° de « Procellaria » : Principe<lb facs="P8_TL00012"/>d'émotivité scénique ultra-nouvelle de Prampolini. — Recherche pour une ligne arythmique<lb facs="P8_TL00013"/>émotive de Gino Cantarelli — une étude sur Picasso de Mario Pozzati — et une suite de poèmes.<lb facs="P8_TL00014"/>Nous avons également reçu quelques livres :<lb facs="P8_TL00015"/>Ascendance chromatique de Gino Cantarelli—Incantamento de Raffaello Franchi et Ruscellante<lb facs="P8_TL00016"/>du môme — Equateur nocturne, paroles en liberté de Francesco Meriano.<lb facs="P8_TL00017"/>Pour cause d'agrandissements la Galerie Weill est transférée, 505 rue Taibout.</ab>
                               </div>
                            </div>
                         </div>

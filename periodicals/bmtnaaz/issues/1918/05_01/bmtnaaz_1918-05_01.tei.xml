@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">3</biblScope>
                         <biblScope unit="issue">29</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace>
                         <date when="1918-05">MAI 1918</date>
                      </imprint>
                   </monogr>
@@ -111,8 +102,7 @@
                   <acquisition> </acquisition>
                </history>
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -121,9 +111,7 @@
                      <biblScope unit="issue">29</biblScope>
                      <date when="1918-05"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -137,8 +125,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -153,8 +140,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -170,9 +156,10 @@
                            <classCode scheme="CCS">Illustration</classCode>
                            <biblScope unit="page">1</biblScope>
                         </imprint>
-                     </monogr>Bois de F. Torowaï</biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+                     </monogr>
+                     <note>Bois de F. Torowaï</note>
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -191,15 +178,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Treize Etudes</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/49222341/&#xA;">André Breton</persName>
+                           <persName ref="http://viaf.org/viaf/49222341">André Breton</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <respStmt>
@@ -215,15 +201,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Escalade</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/109453511&#xA;">Philippe Soupault</persName>
+                           <persName ref="http://viaf.org/viaf/109453511">Philippe Soupault</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -235,8 +220,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c007">
+               </relatedItem><relatedItem type="constituent" xml:id="c007">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -254,8 +238,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -275,8 +258,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -295,13 +277,16 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c010">
+               </relatedItem><relatedItem type="constituent" xml:id="c010">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">ETC...</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/73863132">Roger Allard</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -310,35 +295,14 @@
                            <biblScope unit="page">8</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c011">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">Une Lettre</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/73863132">Roger Allard</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">8</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="32330" lry="41030">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/05_01/delivery/bmtnaaz_1918-05_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="32330" lry="1500"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="1500" lrx="0" lry="38730"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="30260" uly="1500" lrx="32330" lry="38730"/>
@@ -495,7 +459,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="25400" lry="35810">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/05_01/delivery/bmtnaaz_1918-05_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="25400" lry="3560"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="3560" lrx="1910" lry="33310"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="24260" uly="3560" lrx="25400" lry="33310"/>
@@ -1141,7 +1105,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="25400" lry="35810">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/05_01/delivery/bmtnaaz_1918-05_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="25400" lry="0"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="0" lrx="0" lry="35800"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="25390" uly="0" lrx="25400" lry="35800"/>
@@ -1231,7 +1195,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="25400" lry="35810">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/05_01/delivery/bmtnaaz_1918-05_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="25400" lry="2760"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="2760" lrx="3060" lry="31620"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="21720" uly="2760" lrx="25400" lry="31620"/>
@@ -1369,7 +1333,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="25400" lry="35810">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/05_01/delivery/bmtnaaz_1918-05_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="25400" lry="820"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="820" lrx="1730" lry="35200"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="24210" uly="820" lrx="25400" lry="35200"/>
@@ -1385,7 +1349,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="25400" lry="35810">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/05_01/delivery/bmtnaaz_1918-05_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="25400" lry="1080"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="1080" lrx="3300" lry="34940"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="22080" uly="1080" lrx="25400" lry="34940"/>
@@ -1913,7 +1877,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="25400" lry="35810">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/05_01/delivery/bmtnaaz_1918-05_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="25400" lry="1570"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="1570" lrx="2630" lry="34780"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="21620" uly="1570" lrx="25400" lry="34780"/>
@@ -2286,7 +2250,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="25400" lry="35810">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/05_01/delivery/bmtnaaz_1918-05_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="25400" lry="830"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="830" lrx="1530" lry="35150"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="23840" uly="830" lrx="25400" lry="35150"/>
@@ -3312,32 +3276,30 @@
                         <ab facs="P8_TB00001">
                            <lb facs="P8_TL00001"/>ETC...</ab>
                      </div>
-                     <div type="TextContent" corresp="c011">
-                        <div type="Byline">
-                           <ab facs="P8_TB00004">
-                              <lb facs="P8_TL00036"/>Roger Allard, Br. pilote , en convalescence.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00002">
-                                       <lb facs="P8_TL00002"/>Une Lettre— En réponse à une noie parue dans noire N° de Mars M. Roger Allard m'adres<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00003"/>se une lellre qu'il me demande d'insérer : j'accède bien volontiers à celte demande toute natu<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00004"/>rélle. Je me donne seulement l'autorisation de faire précéder cette lellre de quelques unes des<lb facs="P8_TL00005"/>réflexions que j'ai faites en la lisant:<lb facs="P8_TL00006"/>Mr Roger Allard revendique l'honneur d'avoir défendu le premier les recherches des<lb facs="P8_TL00007"/>peintres cubistes. Je n'ai jamais touché ce point spécial et me garderai bien de le faire car<lb facs="P8_TL00008"/>ceci se passait en des temps anciens et d'autres que moi sont seuls qualifiés pour argumenter<lb facs="P8_TL00009"/>sur celle affaire dont au reste je n'ai pas à connaître, car peu m'importe que naguère M. Ro<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00010"/>ger Allard ail défendu les recherches des peintres, ce que j'ai moi à considérer et ce que je<lb facs="P8_TL00011"/>considère c'est qu'il condamne aujourd'hui les recherches des poètes. Il me semble donc qu'en<lb facs="P8_TL00012"/>poussant les concessions jusqu'à l'extrême, l'aimable lettre de Mr Roger Allard ne peut ten<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00013"/>dre qu'à prouver que les recherches des jeunes peintres lui étaient et lui sont peut-être encore<lb facs="P8_TL00014"/>sympathiques tandis que les recherches des jeunes poètes lui sont désagréables. Donc M. Ro<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00015"/>ger Allard n'est pas étranger à l'esprit nouveau en peinture, mais je ne puis conclure de ce<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00016"/>la, malgré toute ma bonne volonté, qu'il ne m'est plus permis de dire que Mr Roger Allard<lb facs="P8_TL00017"/>est étranger à l'esprit nouveau en littérature.</ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P8_TB00004">
+                           <lb facs="P8_TL00036"/>Roger Allard, Br. pilote , en convalescence.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00002">
+                                    <lb facs="P8_TL00002"/>Une Lettre— En réponse à une noie parue dans noire N° de Mars M. Roger Allard m'adres<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00003"/>se une lellre qu'il me demande d'insérer : j'accède bien volontiers à celte demande toute natu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00004"/>rélle. Je me donne seulement l'autorisation de faire précéder cette lellre de quelques unes des<lb facs="P8_TL00005"/>réflexions que j'ai faites en la lisant:<lb facs="P8_TL00006"/>Mr Roger Allard revendique l'honneur d'avoir défendu le premier les recherches des<lb facs="P8_TL00007"/>peintres cubistes. Je n'ai jamais touché ce point spécial et me garderai bien de le faire car<lb facs="P8_TL00008"/>ceci se passait en des temps anciens et d'autres que moi sont seuls qualifiés pour argumenter<lb facs="P8_TL00009"/>sur celle affaire dont au reste je n'ai pas à connaître, car peu m'importe que naguère M. Ro<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00010"/>ger Allard ail défendu les recherches des peintres, ce que j'ai moi à considérer et ce que je<lb facs="P8_TL00011"/>considère c'est qu'il condamne aujourd'hui les recherches des poètes. Il me semble donc qu'en<lb facs="P8_TL00012"/>poussant les concessions jusqu'à l'extrême, l'aimable lettre de Mr Roger Allard ne peut ten<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00013"/>dre qu'à prouver que les recherches des jeunes peintres lui étaient et lui sont peut-être encore<lb facs="P8_TL00014"/>sympathiques tandis que les recherches des jeunes poètes lui sont désagréables. Donc M. Ro<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00015"/>ger Allard n'est pas étranger à l'esprit nouveau en peinture, mais je ne puis conclure de ce<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00016"/>la, malgré toute ma bonne volonté, qu'il ne m'est plus permis de dire que Mr Roger Allard<lb facs="P8_TL00017"/>est étranger à l'esprit nouveau en littérature.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00003">
-                                       <lb facs="P8_TL00018"/>« Mon cher Confrère<lb facs="P8_TL00019"/>« Votre bref commentaire de mon opuscule Baudelaire et u l'Esprit nouveau " pourrait<lb facs="P8_TL00020"/>donner une fausse idée de l'auteur à ceux de vos lecteurs qui seraient, si j'ose dire des néo<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00021"/>pli y les de la nouveauté.<lb facs="P8_TL00022"/>« Il me suffira de rappeler que j'ai eu l'occasion le premier, de définir et de formuler<lb facs="P8_TL00023"/>( l'Art Libre novembre 1909 ) les intentions des peintres " Cubistes Il y avait quelque<lb facs="P8_TL00024"/>risque, alors à défendre ces tentatives et à proclamer la sincérité et le talent d'artistes<lb facs="P8_TL00025"/>mal compris.<lb facs="P8_TL00026"/>« Aujourd'hui que le succès et la faveur des amateurs leur sont acquis, beaucoup de<lb facs="P8_TL00027"/>jeunes écrivains voudraient bien profiter de la vogue de ces artistes et faire croire qu'ils<lb facs="P8_TL00028"/>apportent l'équivalent de leurs conquêtes, dans la Littérature.<lb facs="P8_TL00029"/>&lt;( Libre à eux, à condition qu'ils veuillent bien ne pas représenter comme étranger ou<lb facs="P8_TL00030"/>hostiles aux nouveautés ceux qui comme votre serviteur, les ont précédés de dix ans.<lb facs="P8_TL00031"/>« A propos de mon ouvrage, je pense comme vous sur un point, à savoir qu'il est plus<lb facs="P8_TL00032"/>amusant de faire des poèmes " nunistes " que de réfuter mes arguments; je crois aussi<lb facs="P8_TL00033"/>que cela est plus aisé, je fais appel à votre courtoisie pour obtenir l'insertion de cette ré<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00034"/>ponse et vous prie d'agréer, mon cher confrère, l'expression de mes sentiments les plus<lb facs="P8_TL00035"/>dévoués.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00003">
+                                    <lb facs="P8_TL00018"/>« Mon cher Confrère<lb facs="P8_TL00019"/>« Votre bref commentaire de mon opuscule Baudelaire et u l'Esprit nouveau " pourrait<lb facs="P8_TL00020"/>donner une fausse idée de l'auteur à ceux de vos lecteurs qui seraient, si j'ose dire des néo<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00021"/>pli y les de la nouveauté.<lb facs="P8_TL00022"/>« Il me suffira de rappeler que j'ai eu l'occasion le premier, de définir et de formuler<lb facs="P8_TL00023"/>( l'Art Libre novembre 1909 ) les intentions des peintres " Cubistes Il y avait quelque<lb facs="P8_TL00024"/>risque, alors à défendre ces tentatives et à proclamer la sincérité et le talent d'artistes<lb facs="P8_TL00025"/>mal compris.<lb facs="P8_TL00026"/>« Aujourd'hui que le succès et la faveur des amateurs leur sont acquis, beaucoup de<lb facs="P8_TL00027"/>jeunes écrivains voudraient bien profiter de la vogue de ces artistes et faire croire qu'ils<lb facs="P8_TL00028"/>apportent l'équivalent de leurs conquêtes, dans la Littérature.<lb facs="P8_TL00029"/>&lt;( Libre à eux, à condition qu'ils veuillent bien ne pas représenter comme étranger ou<lb facs="P8_TL00030"/>hostiles aux nouveautés ceux qui comme votre serviteur, les ont précédés de dix ans.<lb facs="P8_TL00031"/>« A propos de mon ouvrage, je pense comme vous sur un point, à savoir qu'il est plus<lb facs="P8_TL00032"/>amusant de faire des poèmes " nunistes " que de réfuter mes arguments; je crois aussi<lb facs="P8_TL00033"/>que cela est plus aisé, je fais appel à votre courtoisie pour obtenir l'insertion de cette ré<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00034"/>ponse et vous prie d'agréer, mon cher confrère, l'expression de mes sentiments les plus<lb facs="P8_TL00035"/>dévoués.</ab>
                               </div>
                            </div>
                         </div>

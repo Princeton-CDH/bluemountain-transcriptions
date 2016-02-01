@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">2</biblScope>
                         <biblScope unit="issue">15</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace>
                         <date when="1917-03">Mars 1917</date>
                      </imprint>
                   </monogr>
@@ -108,8 +99,7 @@
                </history>
                
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -118,9 +108,7 @@
                      <biblScope unit="issue">15</biblScope>
                      <date when="1917-03"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -134,8 +122,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -150,8 +137,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -171,8 +157,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -191,8 +176,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -208,15 +192,21 @@
                            <classCode scheme="CCS">Illustration</classCode>
                            <biblScope unit="page">4</biblScope>
                         </imprint>
-                     </monogr>Dessin de Pierre ALBERT-BIROT</biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c007">
+                     </monogr>
+                     <note>Dessin de Pierre ALBERT-BIROT</note>
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c007">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="nonSort">UN</seg>
                            <seg type="main">POÈME</seg>
+                           <seg type="main">SAISONS D'AFFICHES</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/73872493">LUCIANO FOLGORE</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -225,29 +215,8 @@
                            <biblScope unit="page">5</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c008">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">SAISONS D'AFFICHES</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/73872493&#xA;">LUCIANO FOLGORE</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">5</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -268,8 +237,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c010">
+               </relatedItem><relatedItem type="constituent" xml:id="c010">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -277,7 +245,7 @@
                            <seg type="sub">à la matinée d'Academia le 25 Février 1917</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/34470693&#xA;">PAUL DERMÉE</persName>
+                           <persName ref="http://viaf.org/viaf/34470693">PAUL DERMÉE</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -289,8 +257,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c011">
+               </relatedItem><relatedItem type="constituent" xml:id="c011">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -310,8 +277,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c012">
+               </relatedItem><relatedItem type="constituent" xml:id="c012">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -326,8 +292,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -341,31 +306,14 @@
                            <biblScope unit="page">8</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c014">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">LETTRES</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">8</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="31640" lry="39800">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/03_01/delivery/bmtnaaz_1917-03_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="31640" lry="1680"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="1680" lrx="940" lry="36900"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="29830" uly="1680" lrx="31640" lry="36900"/>
@@ -536,7 +484,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="28830" lry="40030">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/03_01/delivery/bmtnaaz_1917-03_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="28830" lry="4780"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="4780" lrx="2310" lry="35920"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="26360" uly="4780" lrx="28830" lry="35920"/>
@@ -1140,7 +1088,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="28830" lry="40030">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/03_01/delivery/bmtnaaz_1917-03_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="28830" lry="3390"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="3390" lrx="2130" lry="35740"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="26270" uly="3390" lrx="28830" lry="35740"/>
@@ -1615,7 +1563,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="28830" lry="40030">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/03_01/delivery/bmtnaaz_1917-03_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="28830" lry="6100"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="6100" lrx="5110" lry="33950"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="23790" uly="6100" lrx="28830" lry="33950"/>
@@ -1640,7 +1588,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="28830" lry="40030">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/03_01/delivery/bmtnaaz_1917-03_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="28830" lry="4240"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="4240" lrx="2450" lry="35360"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="26400" uly="4240" lrx="28830" lry="35360"/>
@@ -1861,7 +1809,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="28830" lry="40030">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/03_01/delivery/bmtnaaz_1917-03_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="28830" lry="5000"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="5000" lrx="2500" lry="35190"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="26510" uly="5000" lrx="28830" lry="35190"/>
@@ -2051,7 +1999,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="28830" lry="40030">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/03_01/delivery/bmtnaaz_1917-03_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="28830" lry="3920"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="3920" lrx="2410" lry="36040"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="26400" uly="3920" lrx="28830" lry="36040"/>
@@ -2717,7 +2665,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="28830" lry="40030">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/03_01/delivery/bmtnaaz_1917-03_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="28830" lry="4460"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="4460" lrx="2460" lry="35480"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="26410" uly="4460" lrx="28830" lry="35480"/>
@@ -3289,17 +3237,15 @@
                         </div>
                      </div>
                   </div>
-                  <div type="TextContent" corresp="c005">
-                     <div type="Byline">
+                  <div type="Illustration" corresp="c006">
+                     <div type="Image"/>
+                     <div type="Caption">
                         <ab facs="P4_TB00001">
                            <lb facs="P4_TL00001"/>Dessin de Pierre ALBERT-BIROT</ab>
                      </div>
-                     <div type="Illustration" corresp="c006">
-                        <div type="Image"/>
-                        <div type="Caption">
-                           <ab facs="P4_TB00002">
-                              <lb facs="P4_TL00002"/>TÊTE DE FEMME (Étude)</ab>
-                        </div>
+                     <div type="Caption">
+                        <ab facs="P4_TB00002">
+                           <lb facs="P4_TL00002"/>TÊTE DE FEMME (Étude)</ab>
                      </div>
                   </div>
                   <div type="TextContent" corresp="c007">
@@ -3307,22 +3253,20 @@
                         <ab facs="P5_TB00001">
                            <lb facs="P5_TL00001"/>UN POÈME</ab>
                      </div>
-                     <div type="TextContent" corresp="c008">
-                        <div type="Head">
-                           <ab facs="P5_TB00002">
-                              <lb facs="P5_TL00002"/>SAISONS D'AFFICHES</ab>
-                        </div>
-                        <div type="Byline">
-                           <ab facs="P5_TB00004">
-                              <lb facs="P5_TL00013"/>LUCIANO FOLGORE.<lb facs="P5_TL00014"/>futuriste.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P5_TB00003">
-                                       <lb facs="P5_TL00003"/>Rectangle vert: avril frais d'une figure de femme :<lb facs="P5_TL00004"/>syllabes claires soulignées par le soleil<lb facs="P5_TL00005"/>Enorme affiche rouge : s'arrondissent des noms en feu par le<lb facs="P5_TL00006"/>violent été des cafés-concerts. Une toute petite<lb facs="P5_TL00007"/>affiche bleue : Peut-on aller dans ces pays du Nord, toujours<lb facs="P5_TL00008"/>en automne ? Blanc et noir : arbres et neige :<lb facs="P5_TL00009"/>réclame de la mort. La vie et le temps les<lb facs="P5_TL00010"/>voilà en 50 mètres de chemin.<lb facs="P5_TL00011"/>La rose des vents de mon cerveau les éparpille<lb facs="P5_TL00012"/>ensuite par latitudes d'années et longitudes de souvenirs.</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P5_TB00002">
+                           <lb facs="P5_TL00002"/>SAISONS D'AFFICHES</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab facs="P5_TB00004">
+                           <lb facs="P5_TL00013"/>LUCIANO FOLGORE.<lb facs="P5_TL00014"/>futuriste.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P5_TB00003">
+                                    <lb facs="P5_TL00003"/>Rectangle vert: avril frais d'une figure de femme :<lb facs="P5_TL00004"/>syllabes claires soulignées par le soleil<lb facs="P5_TL00005"/>Enorme affiche rouge : s'arrondissent des noms en feu par le<lb facs="P5_TL00006"/>violent été des cafés-concerts. Une toute petite<lb facs="P5_TL00007"/>affiche bleue : Peut-on aller dans ces pays du Nord, toujours<lb facs="P5_TL00008"/>en automne ? Blanc et noir : arbres et neige :<lb facs="P5_TL00009"/>réclame de la mort. La vie et le temps les<lb facs="P5_TL00010"/>voilà en 50 mètres de chemin.<lb facs="P5_TL00011"/>La rose des vents de mon cerveau les éparpille<lb facs="P5_TL00012"/>ensuite par latitudes d'années et longitudes de souvenirs.</ab>
                               </div>
                            </div>
                         </div>
@@ -3417,21 +3361,19 @@
                         <ab facs="P8_TB00001">
                            <lb facs="P8_TL00001"/>ETC...</ab>
                      </div>
-                     <div type="TextContent" corresp="c014">
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00002">
-                                       <lb facs="P8_TL00002"/>LETTRES. Nous avons reçu les deux premiers numéros de " 391 ", journal de langue fran<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00003"/>çaise qui nous vient de Barcelone. Il a l'intention de servir la bonne cause : qu'il soit donc le<lb facs="P8_TL00004"/>bienvenu, aimons-nous les uns les autres.</ab>
-                                 </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00002">
+                                    <lb facs="P8_TL00002"/>LETTRES. Nous avons reçu les deux premiers numéros de " 391 ", journal de langue fran<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00003"/>çaise qui nous vient de Barcelone. Il a l'intention de servir la bonne cause : qu'il soit donc le<lb facs="P8_TL00004"/>bienvenu, aimons-nous les uns les autres.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00003">
-                                       <lb facs="P8_TL00005"/>PEINTURE. Certaines peintures, certains dessins de l'exposition Ramey chez Marguy nous<lb facs="P8_TL00006"/>font penser qu'un jour prochain sans doute ce peintre saura s'affranchir de certaines influences<lb facs="P8_TL00007"/>et devenir lui-même et peut-être... des nôtres.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00003">
+                                    <lb facs="P8_TL00005"/>PEINTURE. Certaines peintures, certains dessins de l'exposition Ramey chez Marguy nous<lb facs="P8_TL00006"/>font penser qu'un jour prochain sans doute ce peintre saura s'affranchir de certaines influences<lb facs="P8_TL00007"/>et devenir lui-même et peut-être... des nôtres.</ab>
                               </div>
                            </div>
                         </div>

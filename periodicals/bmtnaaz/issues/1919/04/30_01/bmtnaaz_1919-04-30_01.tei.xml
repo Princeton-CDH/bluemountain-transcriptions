@@ -98,8 +98,7 @@
                   <acquisition> </acquisition>
                </history>
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -117,9 +116,7 @@
                      </pubPlace>
                      <date when="1919-04-30"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -134,8 +131,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -149,17 +145,12 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">"Casa d'Arte Italiana" Vic. S. Nicola da Tolentino, 23. — ROMA.</seg>
                         </title>
-                        <respStmt>
-                           <persName ref="http://viaf.org/viaf/19762459&#xA;">E. Prampolini</persName>
-                           <resp>cre</resp>
-                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -171,18 +162,24 @@
                      <relatedItem type="constituent" xml:id="c004">
                         <biblStruct>
                            <analytic>
-                              <title level="a"/>
+                              <title level="a">
+                                 <seg type="main">Lampadaire électrique en bois, laqué et soie</seg>
+                              </title>
+                              <respStmt>
+                                 <persName ref="http://viaf.org/viaf/19762459">E. Prampolini</persName>
+                                 <resp>cre</resp>
+                              </respStmt>
                            </analytic>
                            <monogr>
                               <imprint>
                                  <classCode scheme="CCS">Illustration</classCode>
                                  <biblScope unit="page">2</biblScope>
                               </imprint>
-                           </monogr> Lampadaire électrique en bois, laqué et soie dessin de E. Prampolini </biblStruct>
+                           </monogr>
+                        </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -201,8 +198,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -210,7 +206,7 @@
                            <seg type="main">propos du thermomètre littéraire de Sic</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/14765320 http://viaf.org/viaf/14765320">P. A-B</persName>
+                           <persName ref="http://viaf.org/viaf/14765320">P. A-B</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -222,15 +218,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c007">
+               </relatedItem><relatedItem type="constituent" xml:id="c007">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Pour les générations futures</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/45811448&#xA;">Roch GREY</persName>
+                           <persName ref="http://viaf.org/viaf/45811448">Roch GREY</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -242,13 +237,16 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">ETC...</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/14765320">P. A.-B.</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -257,29 +255,8 @@
                            <biblScope unit="page">344</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c009">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">Untitled text</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/14765320">P. A.-B.</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">344</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c010">
+               </relatedItem><relatedItem type="constituent" xml:id="c010">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -330,15 +307,14 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Calendrier</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/27072443&#xA;">Tristan TZARA</persName>
+                           <persName ref="http://viaf.org/viaf/27072443">Tristan TZARA</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -350,15 +326,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c014">
+               </relatedItem><relatedItem type="constituent" xml:id="c014">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Villégiature</seg>
                         </title>
                         <respStmt>
-                           <persName ref=" ">R.H.L</persName>
+                           <persName>R.H.L</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -370,8 +345,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c015">
+               </relatedItem><relatedItem type="constituent" xml:id="c015">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -390,8 +364,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c016">
+               </relatedItem><relatedItem type="constituent" xml:id="c016">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -410,8 +383,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c017">
+               </relatedItem><relatedItem type="constituent" xml:id="c017">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -462,8 +434,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c020">
+               </relatedItem><relatedItem type="constituent" xml:id="c020">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -477,8 +448,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c021">
+               </relatedItem><relatedItem type="constituent" xml:id="c021">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -492,8 +462,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c022">
+               </relatedItem><relatedItem type="constituent" xml:id="c022">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -507,14 +476,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="32510" lry="42440">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/04/30_01/delivery/bmtnaaz_1919-04-30_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="32510" lry="840"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="840" lrx="0" lry="40820"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="30680" uly="840" lrx="32510" lry="40820"/>
@@ -740,7 +708,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="24800" lry="28950">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/04/30_01/delivery/bmtnaaz_1919-04-30_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="24800" lry="2120"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="2120" lrx="620" lry="28940"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="23230" uly="2120" lrx="24800" lry="28940"/>
@@ -907,7 +875,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="22040" lry="40230">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/04/30_01/delivery/bmtnaaz_1919-04-30_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="22040" lry="1530">
             <tei:zone type="TextBlock" xml:id="P3_TB00001" ulx="10320" uly="1210" lrx="12210" lry="1500">
                <tei:zone type="TextLine" xml:id="P3_TL00001" ulx="10320" uly="1210" lrx="12210" lry="1500">
@@ -1237,7 +1205,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="24890" lry="32230">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/04/30_01/delivery/bmtnaaz_1919-04-30_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="24890" lry="3300"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="3300" lrx="880" lry="30440"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="23440" uly="3300" lrx="24890" lry="30440"/>
@@ -1479,7 +1447,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="22040" lry="40230">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/04/30_01/delivery/bmtnaaz_1919-04-30_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="22040" lry="3490">
             <tei:zone type="TextBlock" xml:id="P5_TB00001" ulx="9970" uly="3160" lrx="11800" lry="3460">
                <tei:zone type="TextLine" xml:id="P5_TL00001" ulx="9970" uly="3160" lrx="11800" lry="3460">
@@ -1907,7 +1875,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="22040" lry="40230">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/04/30_01/delivery/bmtnaaz_1919-04-30_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="22040" lry="3830">
             <tei:zone type="TextBlock" xml:id="P6_TB00001" ulx="9780" uly="3520" lrx="11590" lry="3800">
                <tei:zone type="TextLine" xml:id="P6_TL00001" ulx="9780" uly="3520" lrx="11590" lry="3800">
@@ -2395,7 +2363,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="22040" lry="40230">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/04/30_01/delivery/bmtnaaz_1919-04-30_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="22040" lry="3460">
             <tei:zone type="TextBlock" xml:id="P7_TB00001" ulx="10110" uly="3140" lrx="11980" lry="3440">
                <tei:zone type="TextLine" xml:id="P7_TL00001" ulx="10110" uly="3140" lrx="11980" lry="3440">
@@ -2989,7 +2957,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="23680" lry="37580">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/04/30_01/delivery/bmtnaaz_1919-04-30_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="23680" lry="2950">
             <tei:zone type="TextBlock" xml:id="P8_TB00001" ulx="10900" uly="2640" lrx="12730" lry="2930">
                <tei:zone type="TextLine" xml:id="P8_TL00001" ulx="10900" uly="2640" lrx="12730" lry="2930">
@@ -3469,7 +3437,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P9" ulx="0" uly="0" lrx="22040" lry="40230">
-         <tei:graphic url="0010.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/04/30_01/delivery/bmtnaaz_1919-04-30_01_0009.jp2"/>
          <tei:zone type="margin" xml:id="P9_TM00001" ulx="0" uly="0" lrx="22040" lry="3400">
             <tei:zone type="TextBlock" xml:id="P9_TB00001" ulx="10170" uly="3070" lrx="12050" lry="3370">
                <tei:zone type="TextLine" xml:id="P9_TL00001" ulx="10170" uly="3070" lrx="12050" lry="3370">
@@ -3735,7 +3703,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P10" ulx="0" uly="0" lrx="22040" lry="40230">
-         <tei:graphic url="0009.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/04/30_01/delivery/bmtnaaz_1919-04-30_01_0010.jp2"/>
          <tei:zone type="margin" xml:id="P10_TM00001" ulx="0" uly="0" lrx="22040" lry="3500">
             <tei:zone type="TextBlock" xml:id="P10_TB00001" ulx="10400" uly="3180" lrx="12200" lry="3470">
                <tei:zone type="TextLine" xml:id="P10_TL00001" ulx="10400" uly="3180" lrx="12200" lry="3470">
@@ -4142,7 +4110,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P11" ulx="0" uly="0" lrx="24620" lry="37050">
-         <tei:graphic url="0011.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/04/30_01/delivery/bmtnaaz_1919-04-30_01_0011.jp2"/>
          <tei:zone type="margin" xml:id="P11_TM00001" ulx="0" uly="0" lrx="24620" lry="4270"/>
          <tei:zone type="margin" xml:id="P11_LM00001" ulx="0" uly="4270" lrx="720" lry="36180"/>
          <tei:zone type="margin" xml:id="P11_RM00001" ulx="23110" uly="4270" lrx="24620" lry="36180"/>
@@ -4383,7 +4351,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P12" ulx="0" uly="0" lrx="22040" lry="40230">
-         <tei:graphic url="0012.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/04/30_01/delivery/bmtnaaz_1919-04-30_01_0012.jp2"/>
          <tei:zone type="margin" xml:id="P12_TM00001" ulx="0" uly="0" lrx="22040" lry="2340">
             <tei:zone type="TextBlock" xml:id="P12_TB00001" ulx="10200" uly="2020" lrx="12090" lry="2320">
                <tei:zone type="TextLine" xml:id="P12_TL00001" ulx="10200" uly="2020" lrx="12090" lry="2320">
@@ -5248,19 +5216,17 @@
                         <ab facs="P7_TB00004">
                            <lb facs="P7_TL00036"/>ETC...</ab>
                      </div>
-                     <div type="TextContent" corresp="c009">
-                        <div type="Byline">
-                           <ab facs="P7_TB00006">
-                              <lb facs="P7_TL00050"/>P. A. B.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P7_TB00005">
-                                       <lb facs="P7_TL00037"/>La Sirène prépare un très beau livre à la mémoire de Guillaume<lb facs="P7_TL00038"/>Apollinaire.<lb facs="P7_TL00039"/>Le nouveau spectateur, correspondance, rédigée par Roger Allard<lb facs="P7_TL00040"/>Dans ce n° 1 il es! question de l'avenir de la peinture, Roger Allard.<lb facs="P7_TL00041"/>y parle du cubisme, sujet qui lui est cher et qui fut l'occasion d'un<lb facs="P7_TL00042"/>échange de longues lettres entre Apollinaire, le nouveau spectateur et<lb facs="P7_TL00043"/>moi. Que de fois Apollinaire me conta l'histoire du cubisme. Une<lb facs="P7_TL00044"/>fois je me rappelle très bien ce fut le jour ou nous allâmes rue<lb facs="P7_TL00045"/>de l'Orient pour louer le théâtre qui offrit à Paris et orbi les Ma<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P7_TL00046"/>melles de Tirésias. Comme il était heureux en sortant, heureux<lb facs="P7_TL00047"/>comme un gosse à qui l'on vient de donner un cheval mécanique, il<lb facs="P7_TL00048"/>me disait dans le taxi : on va faire un beau programme. Et ce soir là<lb facs="P7_TL00049"/>l'histoire du Cubisme n'alla pas plus avant.</ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P7_TB00006">
+                           <lb facs="P7_TL00050"/>P. A. B.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P7_TB00005">
+                                    <lb facs="P7_TL00037"/>La Sirène prépare un très beau livre à la mémoire de Guillaume<lb facs="P7_TL00038"/>Apollinaire.<lb facs="P7_TL00039"/>Le nouveau spectateur, correspondance, rédigée par Roger Allard<lb facs="P7_TL00040"/>Dans ce n° 1 il es! question de l'avenir de la peinture, Roger Allard.<lb facs="P7_TL00041"/>y parle du cubisme, sujet qui lui est cher et qui fut l'occasion d'un<lb facs="P7_TL00042"/>échange de longues lettres entre Apollinaire, le nouveau spectateur et<lb facs="P7_TL00043"/>moi. Que de fois Apollinaire me conta l'histoire du cubisme. Une<lb facs="P7_TL00044"/>fois je me rappelle très bien ce fut le jour ou nous allâmes rue<lb facs="P7_TL00045"/>de l'Orient pour louer le théâtre qui offrit à Paris et orbi les Ma<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00046"/>melles de Tirésias. Comme il était heureux en sortant, heureux<lb facs="P7_TL00047"/>comme un gosse à qui l'on vient de donner un cheval mécanique, il<lb facs="P7_TL00048"/>me disait dans le taxi : on va faire un beau programme. Et ce soir là<lb facs="P7_TL00049"/>l'histoire du Cubisme n'alla pas plus avant.</ab>
                               </div>
                            </div>
                         </div>
