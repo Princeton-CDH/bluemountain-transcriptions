@@ -26,8 +26,7 @@
          <seriesStmt>
             <title level="s">The Blue Mountain Project</title>
          </seriesStmt>
-         <sourceDesc>
-            <msDesc>
+         <sourceDesc><msDesc>
                <msIdentifier>
                   <institution>Princeton University Library</institution>
                   
@@ -100,7 +99,7 @@
                <history>
                   <summary>
                      <p>Sold for <measureGrp type="salesprice">
-                        <measure unit="shilling" quantity="0"></measure>
+                        <measure unit="shilling" quantity="0"/>
                      </measureGrp>.</p>
                   </summary>
                   <provenance> </provenance>
@@ -109,8 +108,7 @@
                </history>
                
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="nonSort">The</seg>
                      <seg type="main">Mask</seg>
@@ -120,9 +118,7 @@
                      <biblScope unit="issue">9</biblScope>
                      <date when="1918-11"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -153,15 +149,14 @@
                            </monogr>a.a. Positions for groups of Figures. b. Littie Temple. c. c. c. c. wings</biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">WE OF THE NEW MOVEMENT</seg>
                         </title>
                         <respStmt>
-                           <persName>E. G. C</persName>
+                           <persName ref="https://viaf.org/viaf/100201551">E. G. C</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -188,15 +183,14 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">SIZE</seg>
                         </title>
                         <respStmt>
-                           <persName>JOHN SEMAR</persName>
+                           <persName ref="https://viaf.org/viaf/100201551">JOHN SEMAR</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -208,8 +202,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -238,8 +231,7 @@
                            </monogr>in the streets in the old tyrannical tiimes during the pageant at the "entree" of a French King to be crowned at Rheims in the 15th century.</biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -336,8 +328,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c014">
+               </relatedItem><relatedItem type="constituent" xml:id="c014">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -345,7 +336,7 @@
                            <seg type="sub">How the Lord of Ravenna, by honoring and serving Dante, did honor to himself. </seg>
                         </title>
                         <respStmt>
-                           <persName>BOCCACCIO</persName>
+                           <persName ref="http://viaf.org/viaf/64002165">BOCCACCIO</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -357,8 +348,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c015">
+               </relatedItem><relatedItem type="constituent" xml:id="c015">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -373,14 +363,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="31490" lry="44140">
-         <tei:graphic url="0035.jp2"/>
+         <tei:graphic url="0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="31490" lry="1880"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="1880" lrx="1470" lry="44020"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="29490" uly="1880" lrx="31490" lry="44020"/>
@@ -1271,7 +1260,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="31500" lry="44890">
-         <tei:graphic url="0036.jp2"/>
+         <tei:graphic url="0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="31500" lry="2040">
             <tei:zone type="TextBlock" xml:id="P2_TB00001" ulx="1820" uly="1560" lrx="2390" lry="2010">
                <tei:zone type="TextLine" xml:id="P2_TL00001" ulx="1820" uly="1560" lrx="2390" lry="2010">
@@ -3073,7 +3062,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="31490" lry="44140">
-         <tei:graphic url="0037.jp2"/>
+         <tei:graphic url="0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="31490" lry="1940">
             <tei:zone type="TextBlock" xml:id="P3_TB00001" ulx="28590" uly="1470" lrx="29150" lry="1910">
                <tei:zone type="TextLine" xml:id="P3_TL00001" ulx="28600" uly="1480" lrx="29150" lry="1910">
@@ -4710,7 +4699,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="31490" lry="44140">
-         <tei:graphic url="0038.jp2"/>
+         <tei:graphic url="0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="31490" lry="1780">
             <tei:zone type="TextBlock" xml:id="P4_TB00001" ulx="1850" uly="1330" lrx="2440" lry="1760">
                <tei:zone type="TextLine" xml:id="P4_TL00001" ulx="1860" uly="1330" lrx="2440" lry="1760">

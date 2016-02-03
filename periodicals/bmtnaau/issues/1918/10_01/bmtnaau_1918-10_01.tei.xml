@@ -26,8 +26,7 @@
          <seriesStmt>
             <title level="s">The Blue Mountain Project</title>
          </seriesStmt>
-         <sourceDesc>
-            <msDesc>
+         <sourceDesc><msDesc>
                <msIdentifier>
                   <institution>Princeton University Library</institution>
                   
@@ -100,7 +99,7 @@
                <history>
                   <summary>
                      <p>Sold for <measureGrp type="salesprice">
-                        <measure unit="shilling" quantity="0"></measure>
+                        <measure unit="shilling" quantity="0"/>
                      </measureGrp>.</p>
                   </summary>
                   <provenance> </provenance>
@@ -109,8 +108,7 @@
                </history>
                
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="nonSort">The</seg>
                      <seg type="main">Mask</seg>
@@ -124,9 +122,7 @@
                      <biblScope unit="issue">7</biblScope>
                      <date when="1918-10"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -157,8 +153,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -188,15 +183,14 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">WAKE UP, ENGLAND!</seg>
                         </title>
                         <respStmt>
-                           <persName>A. E. Haigh</persName>
+                           <persName ref="http://viaf.org/viaf/61915574">A. E. Haigh</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -208,8 +202,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -225,8 +218,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c007">
+               </relatedItem><relatedItem type="constituent" xml:id="c007">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -261,14 +253,13 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="31210" lry="44170">
-         <tei:graphic url="0027.jp2"/>
+         <tei:graphic url="0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="31210" lry="110"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="110" lrx="1430" lry="44040"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="29780" uly="110" lrx="31210" lry="44040"/>
@@ -913,7 +904,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="31210" lry="44170">
-         <tei:graphic url="0028.jp2"/>
+         <tei:graphic url="0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="31210" lry="1800">
             <tei:zone type="TextBlock" xml:id="P2_TB00001" ulx="1890" uly="1350" lrx="2470" lry="1770">
                <tei:zone type="TextLine" xml:id="P2_TL00001" ulx="1890" uly="1350" lrx="2470" lry="1770">
@@ -2702,7 +2693,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="31210" lry="44170">
-         <tei:graphic url="0029.jp2"/>
+         <tei:graphic url="0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="31210" lry="2130">
             <tei:zone type="TextBlock" xml:id="P3_TB00001" ulx="28800" uly="1660" lrx="29380" lry="2100">
                <tei:zone type="TextLine" xml:id="P3_TL00001" ulx="28800" uly="1660" lrx="29380" lry="2100">
@@ -4447,7 +4438,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="31210" lry="44170">
-         <tei:graphic url="0030.jp2"/>
+         <tei:graphic url="0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="31210" lry="2000">
             <tei:zone type="TextBlock" xml:id="P4_TB00001" ulx="1530" uly="1490" lrx="2270" lry="1970">
                <tei:zone type="TextLine" xml:id="P4_TL00001" ulx="1530" uly="1490" lrx="2270" lry="1970">

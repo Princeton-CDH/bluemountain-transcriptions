@@ -26,8 +26,7 @@
          <seriesStmt>
             <title level="s">The Blue Mountain Project</title>
          </seriesStmt>
-         <sourceDesc>
-            <msDesc>
+         <sourceDesc><msDesc>
                <msIdentifier>
                   <institution>Princeton University Library</institution>
                   
@@ -102,7 +101,7 @@
                <history>
                   <summary>
                      <p>Sold for <measureGrp type="salesprice">
-                        <measure unit="penny" quantity="1"></measure>
+                        <measure unit="penny" quantity="1"/>
                      </measureGrp>.</p>
                   </summary>
                   <provenance> </provenance>
@@ -111,8 +110,7 @@
                </history>
                
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="nonSort">The</seg>
                      <seg type="main">Mask</seg>
@@ -122,9 +120,7 @@
                      <biblScope unit="issue">11</biblScope>
                      <date when="1919-01"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -141,8 +137,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -172,8 +167,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -316,8 +310,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -363,8 +356,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>

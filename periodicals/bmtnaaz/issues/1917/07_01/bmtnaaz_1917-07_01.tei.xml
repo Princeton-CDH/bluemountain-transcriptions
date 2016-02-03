@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -10,20 +9,10 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">2</biblScope>
-                        <biblScope unit="issue">19</biblScope>
-                     	<biblScope unit="issue">20</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace>
-                     	<date from-iso="1917-07" to-iso="1917-08">Juillet-Août 1917</date>  
+                        <biblScope unit="issue">19 20</biblScope>
+                        <date when="">Juillet-Août 1917</date>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -111,8 +100,7 @@
                   <acquisition> </acquisition>
                </history>
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -122,9 +110,7 @@
                		<biblScope unit="issue">20</biblScope>
                		<date from-iso="1917-07" to-iso="1917-08">Juillet-Août 1917</date>  
                	</imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -138,8 +124,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -154,8 +139,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -170,13 +154,17 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">POÈME</seg>
+                           <seg type="main">Je joue à la paume avec les obus</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/34470693">PAUL DERMÉE</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -185,29 +173,8 @@
                            <biblScope unit="page">8</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c005">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">Je joue à la paume avec les obus</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/34470693&#xA;">PAUL DERMÉE</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">8</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -227,8 +194,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -245,15 +211,20 @@
                            <biblScope unit="page">10</biblScope>
                         </imprint>
                      </monogr>
-                  	<note type="caption">Gravure sur bois de Chana Orloff</note></biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+                     <note>Gravure sur bois de Chana Orloff</note>
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="nonSort">UN</seg>
                            <seg type="main">POÈME</seg>
+                           <seg type="main">5me BALCON</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/14765320">Pierre ALBERT-BIROT</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -262,29 +233,8 @@
                            <biblScope unit="page">11</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c010">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">5me BALCON</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/14765320">Pierre ALBERT-BIROT</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">11</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c011">
+               </relatedItem><relatedItem type="constituent" xml:id="c011">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -292,7 +242,7 @@
                            <seg type="sub">poème à trois voix</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/109453511&#xA;">PHILIPPE SOUPAULT</persName>
+                           <persName ref="http://viaf.org/viaf/109453511">PHILIPPE SOUPAULT</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -304,12 +254,12 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
-                           <seg type="main">E T C...</seg>
+                           <seg type="main">ETC...</seg>
+                           <seg type="sub">REVUES</seg>
                         </title>
                         <textLang mainLang="fre"/>
                      </analytic>
@@ -319,31 +269,14 @@
                            <biblScope unit="page">12</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c014">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">REVUES</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">12</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="30300" lry="38880">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/07_01/delivery/bmtnaaz_1917-07_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="30300" lry="1960"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="1960" lrx="640" lry="35580"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="29570" uly="1960" lrx="30300" lry="35580"/>
@@ -499,7 +432,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="27890" lry="39110">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/07_01/delivery/bmtnaaz_1917-07_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="27890" lry="3240"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="3240" lrx="1710" lry="35770"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="25740" uly="3240" lrx="27890" lry="35770"/>
@@ -1150,7 +1083,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="27890" lry="39110">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/07_01/delivery/bmtnaaz_1917-07_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="27890" lry="3490"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="3490" lrx="1960" lry="35550"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="25930" uly="3490" lrx="27890" lry="35550"/>
@@ -1751,7 +1684,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="27890" lry="39110">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/07_01/delivery/bmtnaaz_1917-07_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="27890" lry="3140"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="3140" lrx="1740" lry="35970"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="25940" uly="3140" lrx="27890" lry="35970"/>
@@ -2395,7 +2328,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="27890" lry="39110">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/07_01/delivery/bmtnaaz_1917-07_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="27890" lry="3400"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="3400" lrx="1940" lry="35880"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="26070" uly="3400" lrx="27890" lry="35880"/>
@@ -3002,7 +2935,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="27890" lry="39110">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/07_01/delivery/bmtnaaz_1917-07_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="27890" lry="3540"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="3540" lrx="1880" lry="35670"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="25940" uly="3540" lrx="27890" lry="35670"/>
@@ -3603,7 +3536,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="27890" lry="39110">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/07_01/delivery/bmtnaaz_1917-07_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="27890" lry="3400"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="3400" lrx="1790" lry="35400"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="25970" uly="3400" lrx="27890" lry="35400"/>
@@ -4207,7 +4140,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="27890" lry="39110">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/07_01/delivery/bmtnaaz_1917-07_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="27890" lry="3680"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="3680" lrx="1990" lry="35520"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="26020" uly="3680" lrx="27890" lry="35520"/>
@@ -4703,7 +4636,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P9" ulx="0" uly="0" lrx="27890" lry="39110">
-         <tei:graphic url="0009.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/07_01/delivery/bmtnaaz_1917-07_01_0009.jp2"/>
          <tei:zone type="margin" xml:id="P9_TM00001" ulx="0" uly="0" lrx="27890" lry="0"/>
          <tei:zone type="margin" xml:id="P9_LM00001" ulx="0" uly="0" lrx="0" lry="39100"/>
          <tei:zone type="margin" xml:id="P9_RM00001" ulx="27880" uly="0" lrx="27890" lry="39100"/>
@@ -4733,7 +4666,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P10" ulx="0" uly="0" lrx="21210" lry="44390">
-         <tei:graphic url="0010.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/07_01/delivery/bmtnaaz_1917-07_01_0010.jp2"/>
          <tei:zone type="margin" xml:id="P10_TM00001" ulx="0" uly="0" lrx="21210" lry="0"/>
          <tei:zone type="margin" xml:id="P10_LM00001" ulx="0" uly="0" lrx="0" lry="44390"/>
          <tei:zone type="margin" xml:id="P10_RM00001" ulx="21200" uly="0" lrx="21210" lry="44390"/>
@@ -4755,7 +4688,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P11" ulx="0" uly="0" lrx="27890" lry="39110">
-         <tei:graphic url="0011.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/07_01/delivery/bmtnaaz_1917-07_01_0011.jp2"/>
          <tei:zone type="margin" xml:id="P11_TM00001" ulx="0" uly="0" lrx="27890" lry="3760"/>
          <tei:zone type="margin" xml:id="P11_LM00001" ulx="0" uly="3760" lrx="2830" lry="34930"/>
          <tei:zone type="margin" xml:id="P11_RM00001" ulx="24680" uly="3760" lrx="27890" lry="34930"/>
@@ -4925,7 +4858,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P12" ulx="0" uly="0" lrx="27890" lry="39110">
-         <tei:graphic url="0012.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/07_01/delivery/bmtnaaz_1917-07_01_0012.jp2"/>
          <tei:zone type="margin" xml:id="P12_TM00001" ulx="0" uly="0" lrx="27890" lry="3020"/>
          <tei:zone type="margin" xml:id="P12_LM00001" ulx="0" uly="3020" lrx="2200" lry="35080"/>
          <tei:zone type="margin" xml:id="P12_RM00001" ulx="26080" uly="3020" lrx="27890" lry="35080"/>
@@ -5605,18 +5538,16 @@
                         <ab facs="P8_TB00002">
                            <lb facs="P8_TL00031"/>POÈME</ab>
                      </div>
-                     <div type="TextContent" corresp="c005">
-                        <div type="Byline">
-                           <ab facs="P8_TB00004">
-                              <lb facs="P8_TL00039"/>PAUL DERMÉE</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00003">
-                                       <lb facs="P8_TL00032"/>Je joue à la paume avec les obus.<lb facs="P8_TL00033"/>Sur le bord du chemin<lb facs="P8_TL00034"/>si pâle<lb facs="P8_TL00035"/>Madame<lb facs="P8_TL00036"/>Le portrait est crevé d'une étoile de sang<lb facs="P8_TL00037"/>Pleure ton amant<lb facs="P8_TL00038"/>qui ne reviendra plus</ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P8_TB00004">
+                           <lb facs="P8_TL00039"/>PAUL DERMÉE</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00003">
+                                    <lb facs="P8_TL00032"/>Je joue à la paume avec les obus.<lb facs="P8_TL00033"/>Sur le bord du chemin<lb facs="P8_TL00034"/>si pâle<lb facs="P8_TL00035"/>Madame<lb facs="P8_TL00036"/>Le portrait est crevé d'une étoile de sang<lb facs="P8_TL00037"/>Pleure ton amant<lb facs="P8_TL00038"/>qui ne reviendra plus</ab>
                               </div>
                            </div>
                         </div>
@@ -5653,18 +5584,16 @@
                         <ab facs="P11_TB00001">
                            <lb facs="P11_TL00001"/>UN POÈME<lb facs="P11_TL00002"/>5me BALCON</ab>
                      </div>
-                     <div type="TextContent" corresp="c010">
-                        <div type="Byline">
-                           <ab facs="P11_TB00003">
-                              <lb facs="P11_TL00029"/>Pierre ALBERT-BIROT</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P11_TB00002">
-                                       <lb facs="P11_TL00003"/>Le choeur<lb facs="P11_TL00004"/>desarbresdesmaisonsduciel<lb facs="P11_TL00005"/>et du soleil<lb facs="P11_TL00006"/>chante pour nous<lb facs="P11_TL00007"/>Là-bas c'est comme ici<lb facs="P11_TL00008"/>Que dis-tu ?<lb facs="P11_TL00009"/>Non ne parlons pas<lb facs="P11_TL00010"/>Regarde passer<lb facs="P11_TL00011"/>par les rues de la ville<lb facs="P11_TL00012"/>les drames les idylles<lb facs="P11_TL00013"/>et cette robe ROUGE<lb facs="P11_TL00014"/>Dieu n'a-t-il pas envie parfois<lb facs="P11_TL00015"/>de marcher sur nos trottoirs<lb facs="P11_TL00016"/>pour voir<lb facs="P11_TL00017"/>son ciel<lb facs="P11_TL00018"/>Oui nous allons descendre<lb facs="P11_TL00019"/>Les arbres ont mangé<lb facs="P11_TL00020"/>le tramway<lb facs="P11_TL00021"/>Personne ne s'en est aperçu<lb facs="P11_TL00022"/>Quelque chose a bougé<lb facs="P11_TL00023"/>les maisons<lb facs="P11_TL00024"/>ou le soleil<lb facs="P11_TL00025"/>Ces gens boivent tranquillement<lb facs="P11_TL00026"/>aux terrasses des cafés<lb facs="P11_TL00027"/>Ha ha ha ha ha<lb facs="P11_TL00028"/>Au revoir Madame</ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P11_TB00003">
+                           <lb facs="P11_TL00029"/>Pierre ALBERT-BIROT</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P11_TB00002">
+                                    <lb facs="P11_TL00003"/>Le choeur<lb facs="P11_TL00004"/>desarbresdesmaisonsduciel<lb facs="P11_TL00005"/>et du soleil<lb facs="P11_TL00006"/>chante pour nous<lb facs="P11_TL00007"/>Là-bas c'est comme ici<lb facs="P11_TL00008"/>Que dis-tu ?<lb facs="P11_TL00009"/>Non ne parlons pas<lb facs="P11_TL00010"/>Regarde passer<lb facs="P11_TL00011"/>par les rues de la ville<lb facs="P11_TL00012"/>les drames les idylles<lb facs="P11_TL00013"/>et cette robe ROUGE<lb facs="P11_TL00014"/>Dieu n'a-t-il pas envie parfois<lb facs="P11_TL00015"/>de marcher sur nos trottoirs<lb facs="P11_TL00016"/>pour voir<lb facs="P11_TL00017"/>son ciel<lb facs="P11_TL00018"/>Oui nous allons descendre<lb facs="P11_TL00019"/>Les arbres ont mangé<lb facs="P11_TL00020"/>le tramway<lb facs="P11_TL00021"/>Personne ne s'en est aperçu<lb facs="P11_TL00022"/>Quelque chose a bougé<lb facs="P11_TL00023"/>les maisons<lb facs="P11_TL00024"/>ou le soleil<lb facs="P11_TL00025"/>Ces gens boivent tranquillement<lb facs="P11_TL00026"/>aux terrasses des cafés<lb facs="P11_TL00027"/>Ha ha ha ha ha<lb facs="P11_TL00028"/>Au revoir Madame</ab>
                               </div>
                            </div>
                         </div>
@@ -5703,22 +5632,20 @@
                         <ab facs="P12_TB00006">
                            <lb facs="P12_TL00018"/>E T C...</ab>
                      </div>
-                     <div type="TextContent" corresp="c014">
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P12_TB00007">
-                                       <lb facs="P12_TL00019"/>REVUES :<lb facs="P12_TL00020"/>" Le Sarcasme ". — Nous venons de recevoir le n° 1 de ce journal qui nous paraît bien fait. Que<lb facs="P12_TL00021"/>fera-t-il ? Quelle sera sa portée ? Attendons. Pour ce premier numéro contentons-nous de dire<lb facs="P12_TL00022"/>qu'il nous paraît peut-être un peu trop princier.<lb facs="P12_TL00023"/>" Les Cahiers idéalistes français ".— Nous n'avons pas encore parlé de cette publication, que nous<lb facs="P12_TL00024"/>recevons régulièrement, parce que généralement les travaux que l'on y trouve sont peu en rapport<lb facs="P12_TL00025"/>avec le caractère de Sic. Parfois nous tournons rapidement la page, parfois nous assimilons sans<lb facs="P12_TL00026"/>rien dire. Pourtant nous pensons devoir rompre aujourd'hui le silence pour donner notre appro<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P12_TL00027"/>bation à l'article « A nos lecteurs » inséré en tête du n° 6. Et puisque nous parlons de ce numéro, nous<lb facs="P12_TL00028"/>pouvons dire en même temps que avons senti monter en nous beaucoup de sympathie pour M. Gérard<lb facs="P12_TL00029"/>de Lacaze-Duthiers en lisant son article : L'aristocratie en face de la guerre.</ab>
-                                 </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P12_TB00007">
+                                    <lb facs="P12_TL00019"/>REVUES :<lb facs="P12_TL00020"/>" Le Sarcasme ". — Nous venons de recevoir le n° 1 de ce journal qui nous paraît bien fait. Que<lb facs="P12_TL00021"/>fera-t-il ? Quelle sera sa portée ? Attendons. Pour ce premier numéro contentons-nous de dire<lb facs="P12_TL00022"/>qu'il nous paraît peut-être un peu trop princier.<lb facs="P12_TL00023"/>" Les Cahiers idéalistes français ".— Nous n'avons pas encore parlé de cette publication, que nous<lb facs="P12_TL00024"/>recevons régulièrement, parce que généralement les travaux que l'on y trouve sont peu en rapport<lb facs="P12_TL00025"/>avec le caractère de Sic. Parfois nous tournons rapidement la page, parfois nous assimilons sans<lb facs="P12_TL00026"/>rien dire. Pourtant nous pensons devoir rompre aujourd'hui le silence pour donner notre appro<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P12_TL00027"/>bation à l'article « A nos lecteurs » inséré en tête du n° 6. Et puisque nous parlons de ce numéro, nous<lb facs="P12_TL00028"/>pouvons dire en même temps que avons senti monter en nous beaucoup de sympathie pour M. Gérard<lb facs="P12_TL00029"/>de Lacaze-Duthiers en lisant son article : L'aristocratie en face de la guerre.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P12_TB00008">
-                                       <lb facs="P12_TL00030"/>VArgus de la Presse,poursuivant ses travaux documentaires,vient,grâce à la sûreté et à l'étendue<lb facs="P12_TL00031"/>de son organisation, d'éditer dans un volume méthodiquement ordonné, la Nomenclature des Jour<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P12_TL00032"/>naux et Revues, en langue française, ayant continué à paraître pendant la Guerre 1914-1917. C'est<lb facs="P12_TL00033"/>une œuvre que tous les Professionnels voudront parcourir. — {Communiqué.)</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P12_TB00008">
+                                    <lb facs="P12_TL00030"/>VArgus de la Presse,poursuivant ses travaux documentaires,vient,grâce à la sûreté et à l'étendue<lb facs="P12_TL00031"/>de son organisation, d'éditer dans un volume méthodiquement ordonné, la Nomenclature des Jour<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P12_TL00032"/>naux et Revues, en langue française, ayant continué à paraître pendant la Guerre 1914-1917. C'est<lb facs="P12_TL00033"/>une œuvre que tous les Professionnels voudront parcourir. — {Communiqué.)</ab>
                               </div>
                            </div>
                         </div>

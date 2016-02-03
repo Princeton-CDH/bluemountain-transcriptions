@@ -10,23 +10,9 @@
                         <seg type="nonSort">The</seg>
                         <seg type="main">Mask</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/100201551/">Edward Gordon Craig</persName>
-                        <resp>edt</resp>
-                     </respStmt>
-                     <respStmt>
-                        <persName >E. Morandi</persName>
-                        <resp>prt</resp>
-                     </respStmt>
-                     
                      <imprint>
                         <biblScope unit="vol">1</biblScope>
                         <biblScope unit="issue">7</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>8 Borgo, S. Jacopo </addrLine>
-                </address>
-                        </pubPlace>
                         <date when="1908-09">September 1908</date>
                      </imprint>
                   </monogr>
@@ -40,8 +26,7 @@
          <seriesStmt>
             <title level="s">The Blue Mountain Project</title>
          </seriesStmt>
-         <sourceDesc>
-            <msDesc>
+         <sourceDesc><msDesc>
                <msIdentifier>
                   <institution>Princeton University Library</institution>
                   
@@ -123,8 +108,7 @@
                </history>
                
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="nonSort">The</seg>
                      <seg type="main">Mask</seg>
@@ -134,9 +118,7 @@
                      <biblScope unit="issue">7</biblScope>
                      <date when="1908-09"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -150,15 +132,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">DESIGN FOR A STAGE SCENE</seg>
                         </title>
                         <respStmt>
-                           <persName>JULIUS OLIVER</persName>
+                           <persName ref="https://viaf.org/viaf/100201551">JULIUS OLIVER</persName>
                            <resp>cre</resp>
                         </respStmt>
                      </analytic>
@@ -169,8 +150,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -185,8 +165,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -194,7 +173,7 @@
                            <seg type="main">NOTE ON A STAGE SCENE</seg>
                         </title>
                         <respStmt>
-                           <persName>E. W. Godwin</persName>
+                           <persName ref="http://viaf.org/viaf/24814348">E. W. Godwin</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -236,8 +215,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c007">
+               </relatedItem><relatedItem type="constituent" xml:id="c007">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -245,7 +223,7 @@
                            <seg type="sub">An Impression by Haldane Macfall</seg>
                         </title>
                         <respStmt>
-                           <persName>Haldane Macfall</persName>
+                           <persName ref="http://viaf.org/viaf/20181">Haldane Macfall</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -272,8 +250,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -303,8 +280,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c011">
+               </relatedItem><relatedItem type="constituent" xml:id="c011">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -312,7 +288,7 @@
                            <seg type="main">ARCHITECTURE AND COSTUME OF SHAKESPEARE'S GREEK PLAYS</seg>
                         </title>
                         <respStmt>
-                           <persName>E. W. Godwin</persName>
+                           <persName ref="http://viaf.org/viaf/24814348">E. W. Godwin</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -339,8 +315,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -348,7 +323,7 @@
                            <seg type="main">NOTE ON AN OLD ENGRAVING</seg>
                         </title>
                         <respStmt>
-                           <persName>Allen Carric</persName>
+                           <persName ref="https://viaf.org/viaf/100201551">Allen Carric</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -375,19 +350,18 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c015">
+               </relatedItem><relatedItem type="constituent" xml:id="c015">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">BEAUTY IN ART – FRIEDRICH NIETZSCHE</seg>
                         </title>
                         <respStmt>
-                           <persName>FRIEDRICH NIETZSCHE</persName>
+                           <persName ref="http://viaf.org/viaf/89798474">FRIEDRICH NIETZSCHE</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <respStmt>
-                           <persName>Johanna Volz</persName>
+                           <persName ref="http://viaf.org/viaf/169107192">Johanna Volz</persName>
                            <resp>trl</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -414,15 +388,14 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c017">
+               </relatedItem><relatedItem type="constituent" xml:id="c017">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">SHAKESPEARE'S PLAYS</seg>
                         </title>
                         <respStmt>
-                           <persName>Gordon Craig</persName>
+                           <persName ref="https://viaf.org/viaf/100201551">Gordon Craig</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -464,8 +437,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c020">
+               </relatedItem><relatedItem type="constituent" xml:id="c020">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -527,8 +499,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c024">
+               </relatedItem><relatedItem type="constituent" xml:id="c024">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -598,8 +569,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c028">
+               </relatedItem><relatedItem type="constituent" xml:id="c028">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -635,7 +605,7 @@
                                  <seg type="main">Untitled Text</seg>
                               </title>
                               <respStmt>
-                                 <persName>J. S</persName>
+                                 <persName ref="https://viaf.org/viaf/100201551">J. S</persName>
                                  <resp>cre</resp>
                               </respStmt>
                               <textLang mainLang="eng"/>
@@ -664,8 +634,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c032">
+               </relatedItem><relatedItem type="constituent" xml:id="c032">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -679,8 +648,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c033">
+               </relatedItem><relatedItem type="constituent" xml:id="c033">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -694,8 +662,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c034">
+               </relatedItem><relatedItem type="constituent" xml:id="c034">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -709,8 +676,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c035">
+               </relatedItem><relatedItem type="constituent" xml:id="c035">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -724,8 +690,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c036">
+               </relatedItem><relatedItem type="constituent" xml:id="c036">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -739,8 +704,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c037">
+               </relatedItem><relatedItem type="constituent" xml:id="c037">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -754,8 +718,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c038">
+               </relatedItem><relatedItem type="constituent" xml:id="c038">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -769,8 +732,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c039">
+               </relatedItem><relatedItem type="constituent" xml:id="c039">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -784,8 +746,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c040">
+               </relatedItem><relatedItem type="constituent" xml:id="c040">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -799,8 +760,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c041">
+               </relatedItem><relatedItem type="constituent" xml:id="c041">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -814,8 +774,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c042">
+               </relatedItem><relatedItem type="constituent" xml:id="c042">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -829,8 +788,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c043">
+               </relatedItem><relatedItem type="constituent" xml:id="c043">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -844,8 +802,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c044">
+               </relatedItem><relatedItem type="constituent" xml:id="c044">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -859,8 +816,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c045">
+               </relatedItem><relatedItem type="constituent" xml:id="c045">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -874,8 +830,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c046">
+               </relatedItem><relatedItem type="constituent" xml:id="c046">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -889,8 +844,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c047">
+               </relatedItem><relatedItem type="constituent" xml:id="c047">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -904,8 +858,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c048">
+               </relatedItem><relatedItem type="constituent" xml:id="c048">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -919,14 +872,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="27660" lry="43790">
-         <tei:graphic url="00000-0335.jp2"/>
+         <tei:graphic url="0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="27660" lry="980"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="980" lrx="1380" lry="41400"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="26100" uly="980" lrx="27660" lry="41400"/>
@@ -1090,7 +1042,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="23260" lry="41830">
-         <tei:graphic url="00000-0336.jp2"/>
+         <tei:graphic url="0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="23260" lry="3310"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="3310" lrx="1750" lry="39760"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="21770" uly="3310" lrx="23260" lry="39760"/>
@@ -1445,7 +1397,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="26140" lry="36920">
-         <tei:graphic url="0159.jp2"/>
+         <tei:graphic url="0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="26140" lry="100"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="100" lrx="140" lry="36820"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="26040" uly="100" lrx="26140" lry="36820"/>
@@ -1453,7 +1405,7 @@
          <tei:zone type="margin" xml:id="P3_PS00001" ulx="140" uly="100" lrx="26040" lry="36820"/>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="26850" lry="35680">
-         <tei:graphic url="0160.jp2"/>
+         <tei:graphic url="0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="26850" lry="0"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="0" lrx="0" lry="35670"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="26840" uly="0" lrx="26850" lry="35670"/>
@@ -1474,7 +1426,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="23290" lry="40170">
-         <tei:graphic url="0161.jp2"/>
+         <tei:graphic url="0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="23290" lry="2270">
             <tei:zone type="TextBlock" xml:id="P5_TB00001" ulx="20920" uly="1940" lrx="21560" lry="2240">
                <tei:zone type="TextLine" xml:id="P5_TL00001" ulx="20920" uly="1940" lrx="21560" lry="2240">
@@ -2127,7 +2079,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="27330" lry="41040">
-         <tei:graphic url="0162.jp2"/>
+         <tei:graphic url="0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="27330" lry="2510">
             <tei:zone type="TextBlock" xml:id="P6_TB00001" ulx="5940" uly="2200" lrx="6570" lry="2490">
                <tei:zone type="TextLine" xml:id="P6_TL00001" ulx="5950" uly="2200" lrx="6570" lry="2490">
@@ -3037,7 +2989,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="27330" lry="41040">
-         <tei:graphic url="0163.jp2"/>
+         <tei:graphic url="0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="27330" lry="2800">
             <tei:zone type="TextBlock" xml:id="P7_TB00001" ulx="20820" uly="2500" lrx="21360" lry="2770">
                <tei:zone type="TextLine" xml:id="P7_TL00001" ulx="20820" uly="2500" lrx="21360" lry="2770">
@@ -4078,7 +4030,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="27330" lry="41040">
-         <tei:graphic url="0164.jp2"/>
+         <tei:graphic url="0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="27330" lry="2640">
             <tei:zone type="TextBlock" xml:id="P8_TB00001" ulx="5830" uly="2320" lrx="6440" lry="2610">
                <tei:zone type="TextLine" xml:id="P8_TL00001" ulx="5840" uly="2330" lrx="6440" lry="2610">
@@ -5139,7 +5091,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P9" ulx="0" uly="0" lrx="27330" lry="41040">
-         <tei:graphic url="0165.jp2"/>
+         <tei:graphic url="0009.jp2"/>
          <tei:zone type="margin" xml:id="P9_TM00001" ulx="0" uly="0" lrx="27330" lry="3170">
             <tei:zone type="TextBlock" xml:id="P9_TB00001" ulx="20880" uly="2840" lrx="21490" lry="3140">
                <tei:zone type="TextLine" xml:id="P9_TL00001" ulx="20890" uly="2860" lrx="21490" lry="3140">
@@ -5664,7 +5616,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P10" ulx="0" uly="0" lrx="27330" lry="41040">
-         <tei:graphic url="0166.jp2"/>
+         <tei:graphic url="0010.jp2"/>
          <tei:zone type="margin" xml:id="P10_TM00001" ulx="0" uly="0" lrx="27330" lry="2560">
             <tei:zone type="TextBlock" xml:id="P10_TB00001" ulx="6290" uly="2240" lrx="6890" lry="2530">
                <tei:zone type="TextLine" xml:id="P10_TL00001" ulx="6290" uly="2240" lrx="6890" lry="2530">
@@ -6481,7 +6433,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P11" ulx="0" uly="0" lrx="27330" lry="41040">
-         <tei:graphic url="0167.jp2"/>
+         <tei:graphic url="0011.jp2"/>
          <tei:zone type="margin" xml:id="P11_TM00001" ulx="0" uly="0" lrx="27330" lry="2790">
             <tei:zone type="TextBlock" xml:id="P11_TB00001" ulx="20730" uly="2430" lrx="21360" lry="2760">
                <tei:zone type="TextLine" xml:id="P11_TL00001" ulx="20730" uly="2430" lrx="21360" lry="2760">
@@ -7492,7 +7444,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P12" ulx="0" uly="0" lrx="27330" lry="41040">
-         <tei:graphic url="0168.jp2"/>
+         <tei:graphic url="0012.jp2"/>
          <tei:zone type="margin" xml:id="P12_TM00001" ulx="0" uly="0" lrx="27330" lry="2840">
             <tei:zone type="TextBlock" xml:id="P12_TB00001" ulx="6270" uly="2450" lrx="6880" lry="2810">
                <tei:zone type="TextLine" xml:id="P12_TL00001" ulx="6270" uly="2460" lrx="6880" lry="2810">
@@ -8448,7 +8400,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P13" ulx="0" uly="0" lrx="27330" lry="41040">
-         <tei:graphic url="0169.jp2"/>
+         <tei:graphic url="0013.jp2"/>
          <tei:zone type="margin" xml:id="P13_TM00001" ulx="0" uly="0" lrx="27330" lry="2810">
             <tei:zone type="TextBlock" xml:id="P13_TB00001" ulx="20710" uly="2490" lrx="21340" lry="2790">
                <tei:zone type="TextLine" xml:id="P13_TL00001" ulx="20730" uly="2490" lrx="21340" lry="2790">
@@ -9530,7 +9482,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P14" ulx="0" uly="0" lrx="27330" lry="41040">
-         <tei:graphic url="0170.jp2"/>
+         <tei:graphic url="0014.jp2"/>
          <tei:zone type="margin" xml:id="P14_TM00001" ulx="0" uly="0" lrx="27330" lry="2860">
             <tei:zone type="TextBlock" xml:id="P14_TB00001" ulx="5970" uly="2490" lrx="6580" lry="2840">
                <tei:zone type="TextLine" xml:id="P14_TL00001" ulx="5970" uly="2490" lrx="6580" lry="2840">
@@ -10540,7 +10492,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P15" ulx="0" uly="0" lrx="27330" lry="41040">
-         <tei:graphic url="0171.jp2"/>
+         <tei:graphic url="0015.jp2"/>
          <tei:zone type="margin" xml:id="P15_TM00001" ulx="0" uly="0" lrx="27330" lry="2700">
             <tei:zone type="TextBlock" xml:id="P15_TB00001" ulx="20890" uly="2390" lrx="21510" lry="2670">
                <tei:zone type="TextLine" xml:id="P15_TL00001" ulx="20900" uly="2390" lrx="21510" lry="2670">
@@ -11585,7 +11537,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P16" ulx="0" uly="0" lrx="27330" lry="41040">
-         <tei:graphic url="0172.jp2"/>
+         <tei:graphic url="0016.jp2"/>
          <tei:zone type="margin" xml:id="P16_TM00001" ulx="0" uly="0" lrx="27330" lry="2980">
             <tei:zone type="TextBlock" xml:id="P16_TB00001" ulx="5830" uly="2670" lrx="6440" lry="2950">
                <tei:zone type="TextLine" xml:id="P16_TL00001" ulx="5830" uly="2670" lrx="6440" lry="2950">
@@ -12005,7 +11957,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P17" ulx="0" uly="0" lrx="27330" lry="41040">
-         <tei:graphic url="0173.jp2"/>
+         <tei:graphic url="0017.jp2"/>
          <tei:zone type="margin" xml:id="P17_TM00001" ulx="0" uly="0" lrx="27330" lry="2770">
             <tei:zone type="TextBlock" xml:id="P17_TB00001" ulx="20930" uly="2440" lrx="21480" lry="2740">
                <tei:zone type="TextLine" xml:id="P17_TL00001" ulx="20930" uly="2440" lrx="21480" lry="2740">
@@ -12747,7 +12699,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P18" ulx="0" uly="0" lrx="27330" lry="41040">
-         <tei:graphic url="0174.jp2"/>
+         <tei:graphic url="0018.jp2"/>
          <tei:zone type="margin" xml:id="P18_TM00001" ulx="0" uly="0" lrx="27330" lry="2750">
             <tei:zone type="TextBlock" xml:id="P18_TB00001" ulx="6110" uly="2440" lrx="6720" lry="2720">
                <tei:zone type="TextLine" xml:id="P18_TL00001" ulx="6120" uly="2440" lrx="6720" lry="2720">
@@ -13730,7 +13682,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P19" ulx="0" uly="0" lrx="27330" lry="41040">
-         <tei:graphic url="0175.jp2"/>
+         <tei:graphic url="0019.jp2"/>
          <tei:zone type="margin" xml:id="P19_TM00001" ulx="0" uly="0" lrx="27330" lry="2440">
             <tei:zone type="TextBlock" xml:id="P19_TB00001" ulx="20840" uly="2080" lrx="21460" lry="2420">
                <tei:zone type="TextLine" xml:id="P19_TL00001" ulx="20840" uly="2080" lrx="21460" lry="2420">
@@ -14090,7 +14042,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P20" ulx="0" uly="0" lrx="23190" lry="41030">
-         <tei:graphic url="0176.jp2"/>
+         <tei:graphic url="0020.jp2"/>
          <tei:zone type="margin" xml:id="P20_TM00001" ulx="0" uly="0" lrx="23190" lry="2700">
             <tei:zone type="TextBlock" xml:id="P20_TB00001" ulx="1800" uly="2380" lrx="2410" lry="2670">
                <tei:zone type="TextLine" xml:id="P20_TL00001" ulx="1810" uly="2390" lrx="2410" lry="2670">
@@ -15167,7 +15119,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P21" ulx="0" uly="0" lrx="23420" lry="41050">
-         <tei:graphic url="0177.jp2"/>
+         <tei:graphic url="0021.jp2"/>
          <tei:zone type="margin" xml:id="P21_TM00001" ulx="0" uly="0" lrx="23420" lry="2690">
             <tei:zone type="TextBlock" xml:id="P21_TB00001" ulx="20730" uly="2370" lrx="21340" lry="2670">
                <tei:zone type="TextLine" xml:id="P21_TL00001" ulx="20730" uly="2370" lrx="21340" lry="2660">
@@ -16536,7 +16488,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P22" ulx="0" uly="0" lrx="23130" lry="40480">
-         <tei:graphic url="0178.jp2"/>
+         <tei:graphic url="0022.jp2"/>
          <tei:zone type="margin" xml:id="P22_TM00001" ulx="0" uly="0" lrx="23130" lry="2570">
             <tei:zone type="TextBlock" xml:id="P22_TB00001" ulx="1890" uly="2170" lrx="2500" lry="2550">
                <tei:zone type="TextLine" xml:id="P22_TL00001" ulx="2500" uly="2550" lrx="2500" lry="2550">
@@ -17731,7 +17683,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P23" ulx="0" uly="0" lrx="23420" lry="40600">
-         <tei:graphic url="0179.jp2"/>
+         <tei:graphic url="0023.jp2"/>
          <tei:zone type="margin" xml:id="P23_TM00001" ulx="0" uly="0" lrx="23420" lry="2620">
             <tei:zone type="TextBlock" xml:id="P23_TB00001" ulx="20990" uly="2300" lrx="21600" lry="2600">
                <tei:zone type="TextLine" xml:id="P23_TL00001" ulx="20990" uly="2300" lrx="21600" lry="2590">
@@ -19082,7 +19034,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P24" ulx="0" uly="0" lrx="23530" lry="40550">
-         <tei:graphic url="0180.jp2"/>
+         <tei:graphic url="0024.jp2"/>
          <tei:zone type="margin" xml:id="P24_TM00001" ulx="0" uly="0" lrx="23530" lry="2430">
             <tei:zone type="TextBlock" xml:id="P24_TB00001" ulx="2060" uly="2060" lrx="2660" lry="2410">
                <tei:zone type="TextLine" xml:id="P24_TL00001" ulx="2660" uly="2410" lrx="2660" lry="2410">
@@ -20301,7 +20253,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P25" ulx="0" uly="0" lrx="23680" lry="41000">
-         <tei:graphic url="0337.jp2"/>
+         <tei:graphic url="0025.jp2"/>
          <tei:zone type="margin" xml:id="P25_TM00001" ulx="0" uly="0" lrx="23680" lry="3400"/>
          <tei:zone type="margin" xml:id="P25_LM00001" ulx="0" uly="3400" lrx="1430" lry="38970"/>
          <tei:zone type="margin" xml:id="P25_RM00001" ulx="22200" uly="3400" lrx="23680" lry="38970"/>
@@ -20755,7 +20707,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P26" ulx="0" uly="0" lrx="23830" lry="41030">
-         <tei:graphic url="0338.jp2"/>
+         <tei:graphic url="0026.jp2"/>
          <tei:zone type="margin" xml:id="P26_TM00001" ulx="0" uly="0" lrx="23830" lry="2650"/>
          <tei:zone type="margin" xml:id="P26_LM00001" ulx="0" uly="2650" lrx="2240" lry="38650"/>
          <tei:zone type="margin" xml:id="P26_RM00001" ulx="22120" uly="2650" lrx="23830" lry="38650"/>
@@ -21663,7 +21615,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P27" ulx="0" uly="0" lrx="23050" lry="40970">
-         <tei:graphic url="0339.jp2"/>
+         <tei:graphic url="0027.jp2"/>
          <tei:zone type="margin" xml:id="P27_TM00001" ulx="0" uly="0" lrx="23050" lry="2900"/>
          <tei:zone type="margin" xml:id="P27_LM00001" ulx="0" uly="2900" lrx="2180" lry="38030"/>
          <tei:zone type="margin" xml:id="P27_RM00001" ulx="20770" uly="2900" lrx="23050" lry="38030"/>
@@ -22044,7 +21996,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P28" ulx="0" uly="0" lrx="23630" lry="41900">
-         <tei:graphic url="0340.jp2"/>
+         <tei:graphic url="0028.jp2"/>
          <tei:zone type="margin" xml:id="P28_TM00001" ulx="0" uly="0" lrx="23630" lry="2180"/>
          <tei:zone type="margin" xml:id="P28_LM00001" ulx="0" uly="2180" lrx="1890" lry="40400"/>
          <tei:zone type="margin" xml:id="P28_RM00001" ulx="21880" uly="2180" lrx="23630" lry="40400"/>

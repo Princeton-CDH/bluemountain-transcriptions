@@ -26,8 +26,7 @@
          <seriesStmt>
             <title level="s">The Blue Mountain Project</title>
          </seriesStmt>
-         <sourceDesc>
-            <msDesc>
+         <sourceDesc><msDesc>
                <msIdentifier>
                   <institution>Princeton University Library</institution>
                   
@@ -100,7 +99,7 @@
                <history>
                   <summary>
                      <p>Sold for <measureGrp type="salesprice">
-                        <measure unit="shilling" quantity="0"></measure>
+                        <measure unit="shilling" quantity="0"/>
                      </measureGrp>.</p>
                   </summary>
                   <provenance> </provenance>
@@ -109,8 +108,7 @@
                </history>
                
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="nonSort">The</seg>
                      <seg type="main">Mask</seg>
@@ -120,9 +118,7 @@
                      <biblScope unit="issue">6</biblScope>
                      <date when="1918-09"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -151,8 +147,7 @@
                            </monogr>STUTTGART, IN THE EIGHTEENTH CENTURY</biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -166,8 +161,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -181,8 +175,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -196,8 +189,7 @@
                            <biblScope unit="page">4</biblScope>
                         </imprint>
                      </monogr>which spouted forth ungodly Wine in the streets during the Pageant at the "entrêe" of a French King to be crowned at Rheims.... in the 15th century</biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c007">
+               </relatedItem><relatedItem type="constituent" xml:id="c007">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -211,14 +203,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="31470" lry="44220">
-         <tei:graphic url="0023.jp2"/>
+         <tei:graphic url="0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="31470" lry="770"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="770" lrx="1310" lry="44060"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="29720" uly="770" lrx="31470" lry="44060"/>
@@ -1087,7 +1078,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="31470" lry="44220">
-         <tei:graphic url="0024.jp2"/>
+         <tei:graphic url="0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="31470" lry="1750">
             <tei:zone type="TextBlock" xml:id="P2_TB00001" ulx="1910" uly="1270" lrx="2500" lry="1720">
                <tei:zone type="TextLine" xml:id="P2_TL00001" ulx="1910" uly="1270" lrx="2500" lry="1720">
@@ -2829,7 +2820,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="31440" lry="44980">
-         <tei:graphic url="0025.jp2"/>
+         <tei:graphic url="0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="31440" lry="2420">
             <tei:zone type="TextBlock" xml:id="P3_TB00001" ulx="28700" uly="1940" lrx="29610" lry="2390">
                <tei:zone type="TextLine" xml:id="P3_TL00001" ulx="28700" uly="1940" lrx="29610" lry="2390">
@@ -4050,7 +4041,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="31470" lry="44220">
-         <tei:graphic url="0026.jp2"/>
+         <tei:graphic url="0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="31470" lry="1920">
             <tei:zone type="TextBlock" xml:id="P4_TB00001" ulx="1910" uly="1450" lrx="2520" lry="1900">
                <tei:zone type="TextLine" xml:id="P4_TL00001" ulx="1910" uly="1450" lrx="2520" lry="1900">

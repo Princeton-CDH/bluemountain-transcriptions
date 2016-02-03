@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">1</biblScope>
                         <biblScope unit="issue">8 9 10</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace>
                         <date when="">Août-Septembre-Octobre 1916</date>
                      </imprint>
                   </monogr>
@@ -103,8 +94,7 @@
                </history>
                
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -113,9 +103,7 @@
                      <biblScope unit="issue">8 9 10</biblScope>
                      <date when=""/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -129,8 +117,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -153,7 +140,7 @@
                                  <seg type="main">A mon ami Albert Birot</seg>
                               </title>
                               <respStmt>
-                                 <persName ref="http://viaf.org/viaf/66462795&#xA;">Guillaume Apollinaire</persName>
+                                 <persName ref="http://viaf.org/viaf/66462795">Guillaume Apollinaire</persName>
                                  <resp>cre</resp>
                               </respStmt>
                            </analytic>
@@ -166,8 +153,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -175,7 +161,7 @@
                            <seg type="main">MODISTE</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/54163042&#xA;">GINO SEVERINI</persName>
+                           <persName ref="http://viaf.org/viaf/54163042">GINO SEVERINI</persName>
                            <resp>cre</resp>
                         </respStmt>
                      </analytic>
@@ -184,9 +170,10 @@
                            <classCode scheme="CCS">Illustration</classCode>
                            <biblScope unit="page">4</biblScope>
                         </imprint>
-                     </monogr>Le premier bois de GINO SEVERINI (Septembre 1916)</biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+                     </monogr>
+                     <note>Le premier bois de GINO SEVERINI (Septembre 1916)</note>
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -201,13 +188,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="nonSort">LE</seg>
                            <seg type="main">RATÉ</seg>
+                           <seg type="sub">POEME A DEUX VOIX</seg>
                         </title>
                         <textLang mainLang="fre"/>
                      </analytic>
@@ -217,25 +204,8 @@
                            <biblScope unit="page">6</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c007">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">POEME A DEUX VOIX</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">6</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -251,8 +221,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -267,8 +236,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c010">
+               </relatedItem><relatedItem type="constituent" xml:id="c010">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -284,9 +252,10 @@
                            <classCode scheme="CCS">Music</classCode>
                            <biblScope unit="page">9</biblScope>
                         </imprint>
-                     </monogr>Un manuscrit du compositeur futuriste PRATELLA</biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c011">
+                     </monogr>
+                     <note>Un manuscrit du compositeur futuriste PRATELLA</note>
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c011">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -305,8 +274,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c012">
+               </relatedItem><relatedItem type="constituent" xml:id="c012">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -325,14 +293,18 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="nonSort">UN</seg>
                            <seg type="main">POÈME </seg>
+                           <seg type="main">PAYSAGE DANS UNE ASSIETTE</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/73872493">LUCIANO FOLGORE</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -341,29 +313,8 @@
                            <biblScope unit="page">11</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c014">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">PAYSAGE DANS UNE ASSIETTE</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/73872493&#xA;">LUCIANO FOLGORE</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">11</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c015">
+               </relatedItem><relatedItem type="constituent" xml:id="c015">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -378,8 +329,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c016">
+               </relatedItem><relatedItem type="constituent" xml:id="c016">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -394,15 +344,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c017">
+               </relatedItem><relatedItem type="constituent" xml:id="c017">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">BOCCIONI</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/54163042&#xA;">Gino Severini</persName>
+                           <persName ref="http://viaf.org/viaf/54163042">Gino Severini</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -420,7 +369,7 @@
                                  <seg type="main">BOCCIONI</seg>
                               </title>
                               <respStmt>
-                                 <persName ref="http://viaf.org/viaf/54163042&#xA;">G. Severini</persName>
+                                 <persName ref="http://viaf.org/viaf/54163042">G. Severini</persName>
                                  <resp>cre</resp>
                               </respStmt>
                            </analytic>
@@ -429,17 +378,22 @@
                                  <classCode scheme="CCS">Illustration</classCode>
                                  <biblScope unit="page">14</biblScope>
                               </imprint>
-                           </monogr>Dessin de G. Severini</biblStruct>
+                           </monogr>
+                           <note>Dessin de G. Severini</note>
+                        </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c019">
+               </relatedItem><relatedItem type="constituent" xml:id="c019">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="nonSort">UN</seg>
                            <seg type="main">POÈME Usine=Usine</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/27063717">Pierre DRIEU LA ROCHELLE</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -448,29 +402,8 @@
                            <biblScope unit="page">16</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c020">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">Usine=Usine</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/27063717">Pierre DRIEU LA ROCHELLE</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">16</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c021">
+               </relatedItem><relatedItem type="constituent" xml:id="c021">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -486,9 +419,10 @@
                            <classCode scheme="CCS">Illustration</classCode>
                            <biblScope unit="page">17</biblScope>
                         </imprint>
-                     </monogr>gravure sur bois</biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c022">
+                     </monogr>
+                     <note>gravure sur bois</note>
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c022">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -503,8 +437,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c023">
+               </relatedItem><relatedItem type="constituent" xml:id="c023">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -519,12 +452,12 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c024">
+               </relatedItem><relatedItem type="constituent" xml:id="c024">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">DIALOGUE NUNIQUE Z et A</seg>
+                           <seg type="main">AUTOUR DU MONDE</seg>
                         </title>
                         <textLang mainLang="fre"/>
                      </analytic>
@@ -534,25 +467,8 @@
                            <biblScope unit="page">19</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c025">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">AUTOUR DU MONDE</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">19</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c026">
+               </relatedItem><relatedItem type="constituent" xml:id="c026">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -567,8 +483,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c027">
+               </relatedItem><relatedItem type="constituent" xml:id="c027">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -615,14 +530,13 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="30070" lry="3400"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="3400" lrx="2160" lry="36300"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="27500" uly="3400" lrx="30070" lry="36300"/>
@@ -705,7 +619,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="30070" lry="4110"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="4110" lrx="3020" lry="35380"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="27340" uly="4110" lrx="30070" lry="35380"/>
@@ -1230,7 +1144,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="30070" lry="3850"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="3850" lrx="2810" lry="35580"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="26830" uly="3850" lrx="30070" lry="35580"/>
@@ -1658,7 +1572,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="30070" lry="0"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="0" lrx="0" lry="39670"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="30060" uly="0" lrx="30070" lry="39670"/>
@@ -1687,7 +1601,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="30070" lry="3870"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="3870" lrx="3040" lry="35020"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="26990" uly="3870" lrx="30070" lry="35020"/>
@@ -1984,7 +1898,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="30070" lry="4760"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="4760" lrx="3040" lry="34940"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="26870" uly="4760" lrx="30070" lry="34940"/>
@@ -2070,7 +1984,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="30070" lry="0"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="0" lrx="0" lry="39670"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="30060" uly="0" lrx="30070" lry="39670"/>
@@ -2137,7 +2051,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="30070" lry="3940"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="3940" lrx="3060" lry="35570"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="27000" uly="3940" lrx="30070" lry="35570"/>
@@ -2601,7 +2515,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P9" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0009.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0009.jp2"/>
          <tei:zone type="margin" xml:id="P9_TM00001" ulx="0" uly="0" lrx="30070" lry="3680"/>
          <tei:zone type="margin" xml:id="P9_LM00001" ulx="0" uly="3680" lrx="1460" lry="35600"/>
          <tei:zone type="margin" xml:id="P9_RM00001" ulx="28590" uly="3680" lrx="30070" lry="35600"/>
@@ -2620,7 +2534,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P10" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0010.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0010.jp2"/>
          <tei:zone type="margin" xml:id="P10_TM00001" ulx="0" uly="0" lrx="30070" lry="4140"/>
          <tei:zone type="margin" xml:id="P10_LM00001" ulx="0" uly="4140" lrx="3040" lry="35170"/>
          <tei:zone type="margin" xml:id="P10_RM00001" ulx="27070" uly="4140" lrx="30070" lry="35170"/>
@@ -3176,7 +3090,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P11" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0011.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0011.jp2"/>
          <tei:zone type="margin" xml:id="P11_TM00001" ulx="0" uly="0" lrx="30070" lry="3610"/>
          <tei:zone type="margin" xml:id="P11_LM00001" ulx="0" uly="3610" lrx="2840" lry="35520"/>
          <tei:zone type="margin" xml:id="P11_RM00001" ulx="26850" uly="3610" lrx="30070" lry="35520"/>
@@ -3338,7 +3252,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P12" ulx="0" uly="0" lrx="24360" lry="39430">
-         <tei:graphic url="0025.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0012.jp2"/>
          <tei:zone type="margin" xml:id="P12_TM00001" ulx="0" uly="0" lrx="24360" lry="2060"/>
          <tei:zone type="margin" xml:id="P12_LM00001" ulx="0" uly="2060" lrx="2450" lry="37380"/>
          <tei:zone type="margin" xml:id="P12_RM00001" ulx="22710" uly="2060" lrx="24360" lry="37380"/>
@@ -3476,7 +3390,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P13" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0014.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0013.jp2"/>
          <tei:zone type="margin" xml:id="P13_TM00001" ulx="0" uly="0" lrx="30070" lry="4650"/>
          <tei:zone type="margin" xml:id="P13_LM00001" ulx="0" uly="4650" lrx="3090" lry="35070"/>
          <tei:zone type="margin" xml:id="P13_RM00001" ulx="26990" uly="4650" lrx="30070" lry="35070"/>
@@ -4001,7 +3915,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P14" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0015.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0014.jp2"/>
          <tei:zone type="margin" xml:id="P14_TM00001" ulx="0" uly="0" lrx="30070" lry="0"/>
          <tei:zone type="margin" xml:id="P14_LM00001" ulx="0" uly="0" lrx="0" lry="39670"/>
          <tei:zone type="margin" xml:id="P14_RM00001" ulx="30060" uly="0" lrx="30070" lry="39670"/>
@@ -4023,7 +3937,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P15" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0016.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0015.jp2"/>
          <tei:zone type="margin" xml:id="P15_TM00001" ulx="0" uly="0" lrx="30070" lry="4480"/>
          <tei:zone type="margin" xml:id="P15_LM00001" ulx="0" uly="4480" lrx="3100" lry="35010"/>
          <tei:zone type="margin" xml:id="P15_RM00001" ulx="27010" uly="4480" lrx="30070" lry="35010"/>
@@ -4633,7 +4547,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P16" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0017.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0016.jp2"/>
          <tei:zone type="margin" xml:id="P16_TM00001" ulx="0" uly="0" lrx="30070" lry="0"/>
          <tei:zone type="margin" xml:id="P16_LM00001" ulx="0" uly="0" lrx="0" lry="39670"/>
          <tei:zone type="margin" xml:id="P16_RM00001" ulx="30060" uly="0" lrx="30070" lry="39670"/>
@@ -4740,7 +4654,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P17" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0018.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0017.jp2"/>
          <tei:zone type="margin" xml:id="P17_TM00001" ulx="0" uly="0" lrx="30070" lry="0"/>
          <tei:zone type="margin" xml:id="P17_LM00001" ulx="0" uly="0" lrx="0" lry="39670"/>
          <tei:zone type="margin" xml:id="P17_RM00001" ulx="30060" uly="0" lrx="30070" lry="39670"/>
@@ -4767,7 +4681,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P18" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0019.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0018.jp2"/>
          <tei:zone type="margin" xml:id="P18_TM00001" ulx="0" uly="0" lrx="30070" lry="4020"/>
          <tei:zone type="margin" xml:id="P18_LM00001" ulx="0" uly="4020" lrx="3020" lry="35460"/>
          <tei:zone type="margin" xml:id="P18_RM00001" ulx="27070" uly="4020" lrx="30070" lry="35460"/>
@@ -5294,7 +5208,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P19" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0020.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0019.jp2"/>
          <tei:zone type="margin" xml:id="P19_TM00001" ulx="0" uly="0" lrx="30070" lry="4280"/>
          <tei:zone type="margin" xml:id="P19_LM00001" ulx="0" uly="4280" lrx="2930" lry="34980"/>
          <tei:zone type="margin" xml:id="P19_RM00001" ulx="26910" uly="4280" lrx="30070" lry="34980"/>
@@ -5686,7 +5600,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P20" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0021.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0020.jp2"/>
          <tei:zone type="margin" xml:id="P20_TM00001" ulx="0" uly="0" lrx="30070" lry="3820"/>
          <tei:zone type="margin" xml:id="P20_LM00001" ulx="0" uly="3820" lrx="2760" lry="35620"/>
          <tei:zone type="margin" xml:id="P20_RM00001" ulx="27320" uly="3820" lrx="30070" lry="35620"/>
@@ -6125,7 +6039,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P21" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0022.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0021.jp2"/>
          <tei:zone type="margin" xml:id="P21_TM00001" ulx="0" uly="0" lrx="30070" lry="3780"/>
          <tei:zone type="margin" xml:id="P21_LM00001" ulx="0" uly="3780" lrx="3070" lry="35010"/>
          <tei:zone type="margin" xml:id="P21_RM00001" ulx="27070" uly="3780" lrx="30070" lry="35010"/>
@@ -6590,7 +6504,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P22" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0023.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0022.jp2"/>
          <tei:zone type="margin" xml:id="P22_TM00001" ulx="0" uly="0" lrx="30070" lry="4710"/>
          <tei:zone type="margin" xml:id="P22_LM00001" ulx="0" uly="4710" lrx="2450" lry="35950"/>
          <tei:zone type="margin" xml:id="P22_RM00001" ulx="26630" uly="4710" lrx="30070" lry="35950"/>
@@ -6962,7 +6876,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P23" ulx="0" uly="0" lrx="30070" lry="39680">
-         <tei:graphic url="0024.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/08_01/delivery/bmtnaaz_1916-08_01_0023.jp2"/>
          <tei:zone type="margin" xml:id="P23_TM00001" ulx="0" uly="0" lrx="30070" lry="3880"/>
          <tei:zone type="margin" xml:id="P23_LM00001" ulx="0" uly="3880" lrx="2930" lry="35760"/>
          <tei:zone type="margin" xml:id="P23_RM00001" ulx="27180" uly="3880" lrx="30070" lry="35760"/>
@@ -7738,30 +7652,28 @@
                         <ab facs="P6_TB00001">
                            <lb facs="P6_TL00001"/>LE RATÉ</ab>
                      </div>
-                     <div type="TextContent" corresp="c007">
-                        <div type="Head">
-                           <ab facs="P6_TB00002">
-                              <lb facs="P6_TL00002"/>POEME A DEUX VOIX</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P6_TB00003">
-                                       <lb facs="P6_TL00003"/>I"vo,x Mesure lente arabesque grise <lb facs="P6_TL00004"/>temps similaires<lb facs="P6_TL00005"/>lac mauve chronomètre extra-plat <lb facs="P6_TL00006"/>cuivre zinc étain PLOMB <lb facs="P6_TL00007"/>2mm Irrésistiblemouvementenformedeforceclaire<lb facs="P6_TL00008"/>( àl'assautdespuissancesnoires<lb facs="P6_TL00009"/>m voix ( Mesure lente arabesque grise lac mauve<lb facs="P6_TL00010"/>T<lb facs="P6_TL00011"/>Epanouissementdeclartémâlegénératrice <lb facs="P6_TL00012"/>\<lb facs="P6_TL00013"/>( desmondeslyriques<lb facs="P6_TL00014"/>(Arabesque grise</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P6_TB00002">
+                           <lb facs="P6_TL00002"/>POEME A DEUX VOIX</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P6_TB00003">
+                                    <lb facs="P6_TL00003"/>I"vo,x Mesure lente arabesque grise <lb facs="P6_TL00004"/>temps similaires<lb facs="P6_TL00005"/>lac mauve chronomètre extra-plat <lb facs="P6_TL00006"/>cuivre zinc étain PLOMB <lb facs="P6_TL00007"/>2mm Irrésistiblemouvementenformedeforceclaire<lb facs="P6_TL00008"/>( àl'assautdespuissancesnoires<lb facs="P6_TL00009"/>m voix ( Mesure lente arabesque grise lac mauve<lb facs="P6_TL00010"/>T<lb facs="P6_TL00011"/>Epanouissementdeclartémâlegénératrice <lb facs="P6_TL00012"/>\<lb facs="P6_TL00013"/>( desmondeslyriques<lb facs="P6_TL00014"/>(Arabesque grise</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P7_TB00001">
-                                       <lb facs="P7_TL00001"/>Rutilementcolorédespulsations<lb facs="P7_TL00002"/>( vitales<lb facs="P7_TL00003"/>( Arabesque grise<lb facs="P7_TL00004"/>Harmoniesimprévuesdes<lb facs="P7_TL00005"/>( dissonnancesdutemps<lb facs="P7_TL00006"/>(Mesure lente chronomètre extra-plat<lb facs="P7_TL00007"/>Soulèvementsrythmiquesdes<lb facs="P7_TL00008"/>( complexitéssonores<lb facs="P7_TL00009"/>(Cuivre zinc étain PLOMB<lb facs="P7_TL00010"/>Vertigecélestialdesimmensitésspatiales<lb facs="P7_TL00011"/>Amour délice et orgue tic-tac, tic-tac, tic-tac</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P7_TB00001">
+                                    <lb facs="P7_TL00001"/>Rutilementcolorédespulsations<lb facs="P7_TL00002"/>( vitales<lb facs="P7_TL00003"/>( Arabesque grise<lb facs="P7_TL00004"/>Harmoniesimprévuesdes<lb facs="P7_TL00005"/>( dissonnancesdutemps<lb facs="P7_TL00006"/>(Mesure lente chronomètre extra-plat<lb facs="P7_TL00007"/>Soulèvementsrythmiquesdes<lb facs="P7_TL00008"/>( complexitéssonores<lb facs="P7_TL00009"/>(Cuivre zinc étain PLOMB<lb facs="P7_TL00010"/>Vertigecélestialdesimmensitésspatiales<lb facs="P7_TL00011"/>Amour délice et orgue tic-tac, tic-tac, tic-tac</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P7_TB00002">
-                                       <lb facs="P7_TL00012"/>Septembre 1916.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P7_TB00002">
+                                    <lb facs="P7_TL00012"/>Septembre 1916.</ab>
                               </div>
                            </div>
                         </div>
@@ -7845,18 +7757,16 @@
                         <ab facs="P11_TB00001">
                            <lb facs="P11_TL00001"/>UN POÈME<lb facs="P11_TL00002"/>PAYSAGE DANS UNE ASSIETTE</ab>
                      </div>
-                     <div type="TextContent" corresp="c014">
-                        <div type="Byline">
-                           <ab facs="P11_TB00003">
-                              <lb facs="P11_TL00015"/>LUCIANO FOLGORE<lb facs="P11_TL00016"/>FUTURISTE</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P11_TB00002">
-                                       <lb facs="P11_TL00003"/>Assiette en porcelaine très blanche avec un paysage de<lb facs="P11_TL00004"/>fruits frais Une écorce de mandarine : ensemble<lb facs="P11_TL00005"/>parfumé d'un soleil du midi Deux poires jaunes<lb facs="P11_TL00006"/>en motte la pomme rouge quelques gouttes<lb facs="P11_TL00007"/>d'eau le couteau formant un petit pont odeur<lb facs="P11_TL00008"/>de campagne qui monte délicatement Mon père<lb facs="P11_TL00009"/>mangeait avec avidité les prunes Mes<lb facs="P11_TL00010"/>hivers s'adoucissaient par les oranges Croisement<lb facs="P11_TL00011"/>de souvenirs entre ces fruits qui s'allongent avec<lb facs="P11_TL00012"/>des reflets colorés dans l'enfance de ma mémoire<lb facs="P11_TL00013"/>Tiédeur Primitivisme Jouets fabriqués avec<lb facs="P11_TL00014"/>des teintes présentes et impressions lointaines</ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P11_TB00003">
+                           <lb facs="P11_TL00015"/>LUCIANO FOLGORE<lb facs="P11_TL00016"/>FUTURISTE</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P11_TB00002">
+                                    <lb facs="P11_TL00003"/>Assiette en porcelaine très blanche avec un paysage de<lb facs="P11_TL00004"/>fruits frais Une écorce de mandarine : ensemble<lb facs="P11_TL00005"/>parfumé d'un soleil du midi Deux poires jaunes<lb facs="P11_TL00006"/>en motte la pomme rouge quelques gouttes<lb facs="P11_TL00007"/>d'eau le couteau formant un petit pont odeur<lb facs="P11_TL00008"/>de campagne qui monte délicatement Mon père<lb facs="P11_TL00009"/>mangeait avec avidité les prunes Mes<lb facs="P11_TL00010"/>hivers s'adoucissaient par les oranges Croisement<lb facs="P11_TL00011"/>de souvenirs entre ces fruits qui s'allongent avec<lb facs="P11_TL00012"/>des reflets colorés dans l'enfance de ma mémoire<lb facs="P11_TL00013"/>Tiédeur Primitivisme Jouets fabriqués avec<lb facs="P11_TL00014"/>des teintes présentes et impressions lointaines</ab>
                               </div>
                            </div>
                         </div>
@@ -7989,18 +7899,16 @@
                         <ab facs="P16_TB00001">
                            <lb facs="P16_TL00001"/>UN POÈME<lb facs="P16_TL00002"/>Usine=Usine</ab>
                      </div>
-                     <div type="TextContent" corresp="c020">
-                        <div type="Byline">
-                           <ab facs="P16_TB00003">
-                              <lb facs="P16_TL00013"/>Pierre DRIEU LA ROCHELLE.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P16_TB00002">
-                                       <lb facs="P16_TL00003"/>Comme les courroies de transmission dans l'usine familière,<lb facs="P16_TL00004"/>Les obus<lb facs="P16_TL00005"/>croisent le réseau industrieux de leurs trajectoires<lb facs="P16_TL00006"/>par-dessus la tête des Hommes <lb facs="P16_TL00007"/>Les Hommes,<lb facs="P16_TL00008"/>rompus séculairement aux besognes qui,<lb facs="P16_TL00009"/>dans les horizons et les années,<lb facs="P16_TL00010"/>tournent en cercle,<lb facs="P16_TL00011"/>tranchent la Terre de leurs rangs frangés de pioches<lb facs="P16_TL00012"/>Et la volonté des maîtres siffle entre eux, insinuant coup de fouet.</ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P16_TB00003">
+                           <lb facs="P16_TL00013"/>Pierre DRIEU LA ROCHELLE.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P16_TB00002">
+                                    <lb facs="P16_TL00003"/>Comme les courroies de transmission dans l'usine familière,<lb facs="P16_TL00004"/>Les obus<lb facs="P16_TL00005"/>croisent le réseau industrieux de leurs trajectoires<lb facs="P16_TL00006"/>par-dessus la tête des Hommes <lb facs="P16_TL00007"/>Les Hommes,<lb facs="P16_TL00008"/>rompus séculairement aux besognes qui,<lb facs="P16_TL00009"/>dans les horizons et les années,<lb facs="P16_TL00010"/>tournent en cercle,<lb facs="P16_TL00011"/>tranchent la Terre de leurs rangs frangés de pioches<lb facs="P16_TL00012"/>Et la volonté des maîtres siffle entre eux, insinuant coup de fouet.</ab>
                               </div>
                            </div>
                         </div>
@@ -8050,44 +7958,42 @@
                         <ab facs="P19_TB00001">
                            <lb facs="P19_TL00001"/>DIALOGUE NUNIQUE<lb facs="P19_TL00002"/>Z et A</ab>
                      </div>
-                     <div type="TextContent" corresp="c025">
-                        <div type="Head">
-                           <ab facs="P19_TB00002">
-                              <lb facs="P19_TL00003"/>AUTOUR DU MONDE</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P19_TB00003">
-                                       <lb facs="P19_TL00004"/>A. .. .mais il n'en est pas moins vrai que je ne comprends toujours rien à ces<lb facs="P19_TL00005"/>peintres qne vous nommez « cubistes ».<lb facs="P19_TL00006"/>Z. C'est pourtant bien simple.<lb facs="P19_TL00007"/>A. Oui, seulement on ne sait même pas comment il faut les regarder, on voit des<lb facs="P19_TL00008"/>quantités de parties de quelque chose, on ne peut pas en trouver une entière.<lb facs="P19_TL00009"/>Z. —Au contraire, dans ces tableaux seulement se trouve une chose<lb facs="P19_TL00010"/>entière, tandis qu'il n'y en a qu'un morceau dans tous ceux qu'on a peints<lb facs="P19_TL00011"/>jusqu'ici. Voulez-vous me dire ce que vous voyez là, sur la table, dans cette<lb facs="P19_TL00012"/>coupe à fruits ?<lb facs="P19_TL00013"/>A. Mais ce sont des noix vertes.<lb facs="P19_TL00014"/>Z. Bien. Oubliez pour un instant vos connaissances acquises et nous allons dire:<lb facs="P19_TL00015"/>une noix c'est une forme vaguement ronde et verte. Trouvez-vous cela suffisant ?<lb facs="P19_TL00016"/>A. Non, vraiment, je crois qu'une noix n'est pas qu'une forme ronde et verte.<lb facs="P19_TL00017"/>Z. Alors comment allons-nous faire pour savoir ce qu'elle est encore?<lb facs="P19_TL00018"/>A. Ma foi, je ne sais pas, regarder dedans.<lb facs="P19_TL00019"/>Z. C'est aussi mon avis. Je l'écale. Et voici que maintenant la noix est une forme<lb facs="P19_TL00020"/>beaucoup plus caractérisée et d'une couleur jaune. Cherchons encore. Je la<lb facs="P19_TL00021"/>casse. Voici qu'une noix est une forme quasi circonvolutive bien différente des<lb facs="P19_TL00022"/>deux premières et d'un autre jaune que celui de la coque. Je mords dedans.<lb facs="P19_TL00023"/>Voici qu'elle est presque blanche. Et considérons que la première forme (écale)<lb facs="P19_TL00024"/>est une matière assez molle qui se déchire et a teinté nos doigts en marron<lb facs="P19_TL00025"/>foncé; que la seconde (coque) est une matière très dure, striée, lisse et cas<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P19_TL00026"/>sante ; que la troisième est une matière fine et huileuse : et nous pouvons dire<lb facs="P19_TL00027"/>maintenant que nous savons à peu près ce qu'es* une noix.<lb facs="P19_TL00028"/>A. Mais ce sont des observations de naturaliste que nous faisons là, je ne vois pas<lb facs="P19_TL00029"/>très bien le lien...</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P19_TB00002">
+                           <lb facs="P19_TL00003"/>AUTOUR DU MONDE</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P19_TB00003">
+                                    <lb facs="P19_TL00004"/>A. .. .mais il n'en est pas moins vrai que je ne comprends toujours rien à ces<lb facs="P19_TL00005"/>peintres qne vous nommez « cubistes ».<lb facs="P19_TL00006"/>Z. C'est pourtant bien simple.<lb facs="P19_TL00007"/>A. Oui, seulement on ne sait même pas comment il faut les regarder, on voit des<lb facs="P19_TL00008"/>quantités de parties de quelque chose, on ne peut pas en trouver une entière.<lb facs="P19_TL00009"/>Z. —Au contraire, dans ces tableaux seulement se trouve une chose<lb facs="P19_TL00010"/>entière, tandis qu'il n'y en a qu'un morceau dans tous ceux qu'on a peints<lb facs="P19_TL00011"/>jusqu'ici. Voulez-vous me dire ce que vous voyez là, sur la table, dans cette<lb facs="P19_TL00012"/>coupe à fruits ?<lb facs="P19_TL00013"/>A. Mais ce sont des noix vertes.<lb facs="P19_TL00014"/>Z. Bien. Oubliez pour un instant vos connaissances acquises et nous allons dire:<lb facs="P19_TL00015"/>une noix c'est une forme vaguement ronde et verte. Trouvez-vous cela suffisant ?<lb facs="P19_TL00016"/>A. Non, vraiment, je crois qu'une noix n'est pas qu'une forme ronde et verte.<lb facs="P19_TL00017"/>Z. Alors comment allons-nous faire pour savoir ce qu'elle est encore?<lb facs="P19_TL00018"/>A. Ma foi, je ne sais pas, regarder dedans.<lb facs="P19_TL00019"/>Z. C'est aussi mon avis. Je l'écale. Et voici que maintenant la noix est une forme<lb facs="P19_TL00020"/>beaucoup plus caractérisée et d'une couleur jaune. Cherchons encore. Je la<lb facs="P19_TL00021"/>casse. Voici qu'une noix est une forme quasi circonvolutive bien différente des<lb facs="P19_TL00022"/>deux premières et d'un autre jaune que celui de la coque. Je mords dedans.<lb facs="P19_TL00023"/>Voici qu'elle est presque blanche. Et considérons que la première forme (écale)<lb facs="P19_TL00024"/>est une matière assez molle qui se déchire et a teinté nos doigts en marron<lb facs="P19_TL00025"/>foncé; que la seconde (coque) est une matière très dure, striée, lisse et cas<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P19_TL00026"/>sante ; que la troisième est une matière fine et huileuse : et nous pouvons dire<lb facs="P19_TL00027"/>maintenant que nous savons à peu près ce qu'es* une noix.<lb facs="P19_TL00028"/>A. Mais ce sont des observations de naturaliste que nous faisons là, je ne vois pas<lb facs="P19_TL00029"/>très bien le lien...</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P20_TB00001">
-                                       <lb facs="P20_TL00001"/>Z. Nous avons fait de l'analyse avec la méthode scientifique, c'est-à-dire avec la<lb facs="P20_TL00002"/>seule méthode d'observation qui conduise à la connaissance ; mais notre analyse<lb facs="P20_TL00003"/>n'est pas du tout faite dans l'esprit d'un naturaliste, nous n'avons analysé la<lb facs="P20_TL00004"/>noix qu'en peintre et nous ne la connaissons qu'au point de vue plastique, mais<lb facs="P20_TL00005"/>à ce point de vue-là nous la connaissons bien.<lb facs="P20_TL00006"/>A. —Un peintre n'a pas besoin de tant connaître. On n'a jamais exprimé que la<lb facs="P20_TL00007"/>partie apparente d'une seule face de l'objet.<lb facs="P20_TL00008"/>Z. En effet, mais voyez-vous là une raison suffisante pour qu'on ne fasse que cela<lb facs="P20_TL00009"/>jusqu'à la fin des temps ?<lb facs="P20_TL00010"/>À Heu... c'est-à-dire qu'ils ont fait de belles choses et que...<lb facs="P20_TL00011"/>Z. Ça doit nous suffire ! Non. Ce sont les maîtres eux-mêmes qui nous conseillent<lb facs="P20_TL00012"/>de chercher.<lb facs="P20_TL00013"/>A. Oui, mais tous ont cherché avec les mêmes principes généraux qui semblaient<lb facs="P20_TL00014"/>immuables...<lb facs="P20_TL00015"/>Z. et auxquels les peintres nouveaux obéissent toujours ; ils ont changé leur ma<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P20_TL00016"/>nière de regarder le monde, mais non pas les lois fondamentales de l'esthétique.<lb facs="P20_TL00017"/>Ils veulent seulement connaître plus complètement pour exprimer davantage, et<lb facs="P20_TL00018"/>nous pouvons trouver dans les œuvres du passé bien des indications qui nous<lb facs="P20_TL00019"/>marquent que les maîtres ont eu du souci de cette incomplète connaissance,<lb facs="P20_TL00020"/>plus d'un à souhaité et peut-être cherché ce que notre temps a réalisé parce<lb facs="P20_TL00021"/>qu'il était celui de cette réalisation. Vous avez vu Mme X trois fois. L'avez-vous<lb facs="P20_TL00022"/>vue chaque fois avec la même robe ?<lb facs="P20_TL00023"/>A. Non.<lb facs="P20_TL00024"/>Z. L'avez-vous vue toujours dans le même mouvement?<lb facs="P20_TL00025"/>A. Vous voulez rire !<lb facs="P20_TL00026"/>Z. L'avez vous vue toujours du même côté?<lb facs="P20_TL00027"/>A. Ça ne tient pas debout ce que vous me demandez là.<lb facs="P20_TL00028"/>Z. Et pourquoi voulez-vous que tienne mieux debout le portrait qu'a fait d'elle le<lb facs="P20_TL00029"/>célébré peintre Y qui la représente en robe de velours noir à haute collerette,<lb facs="P20_TL00030"/>la tête de trois quart, le corps de face, le bras droit soulevé, le bras gauche<lb facs="P20_TL00031"/>pendant. Reconnaissez-vous Mme X dans ce tableau?<lb facs="P20_TL00032"/>A. La reconnaître, oui, on voit bien que c'est elle, mais il est certain que ce n'est<lb facs="P20_TL00033"/>pas tout à fait la MMe X que j'ai dans l'esprit.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P20_TB00001">
+                                    <lb facs="P20_TL00001"/>Z. Nous avons fait de l'analyse avec la méthode scientifique, c'est-à-dire avec la<lb facs="P20_TL00002"/>seule méthode d'observation qui conduise à la connaissance ; mais notre analyse<lb facs="P20_TL00003"/>n'est pas du tout faite dans l'esprit d'un naturaliste, nous n'avons analysé la<lb facs="P20_TL00004"/>noix qu'en peintre et nous ne la connaissons qu'au point de vue plastique, mais<lb facs="P20_TL00005"/>à ce point de vue-là nous la connaissons bien.<lb facs="P20_TL00006"/>A. —Un peintre n'a pas besoin de tant connaître. On n'a jamais exprimé que la<lb facs="P20_TL00007"/>partie apparente d'une seule face de l'objet.<lb facs="P20_TL00008"/>Z. En effet, mais voyez-vous là une raison suffisante pour qu'on ne fasse que cela<lb facs="P20_TL00009"/>jusqu'à la fin des temps ?<lb facs="P20_TL00010"/>À Heu... c'est-à-dire qu'ils ont fait de belles choses et que...<lb facs="P20_TL00011"/>Z. Ça doit nous suffire ! Non. Ce sont les maîtres eux-mêmes qui nous conseillent<lb facs="P20_TL00012"/>de chercher.<lb facs="P20_TL00013"/>A. Oui, mais tous ont cherché avec les mêmes principes généraux qui semblaient<lb facs="P20_TL00014"/>immuables...<lb facs="P20_TL00015"/>Z. et auxquels les peintres nouveaux obéissent toujours ; ils ont changé leur ma<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P20_TL00016"/>nière de regarder le monde, mais non pas les lois fondamentales de l'esthétique.<lb facs="P20_TL00017"/>Ils veulent seulement connaître plus complètement pour exprimer davantage, et<lb facs="P20_TL00018"/>nous pouvons trouver dans les œuvres du passé bien des indications qui nous<lb facs="P20_TL00019"/>marquent que les maîtres ont eu du souci de cette incomplète connaissance,<lb facs="P20_TL00020"/>plus d'un à souhaité et peut-être cherché ce que notre temps a réalisé parce<lb facs="P20_TL00021"/>qu'il était celui de cette réalisation. Vous avez vu Mme X trois fois. L'avez-vous<lb facs="P20_TL00022"/>vue chaque fois avec la même robe ?<lb facs="P20_TL00023"/>A. Non.<lb facs="P20_TL00024"/>Z. L'avez-vous vue toujours dans le même mouvement?<lb facs="P20_TL00025"/>A. Vous voulez rire !<lb facs="P20_TL00026"/>Z. L'avez vous vue toujours du même côté?<lb facs="P20_TL00027"/>A. Ça ne tient pas debout ce que vous me demandez là.<lb facs="P20_TL00028"/>Z. Et pourquoi voulez-vous que tienne mieux debout le portrait qu'a fait d'elle le<lb facs="P20_TL00029"/>célébré peintre Y qui la représente en robe de velours noir à haute collerette,<lb facs="P20_TL00030"/>la tête de trois quart, le corps de face, le bras droit soulevé, le bras gauche<lb facs="P20_TL00031"/>pendant. Reconnaissez-vous Mme X dans ce tableau?<lb facs="P20_TL00032"/>A. La reconnaître, oui, on voit bien que c'est elle, mais il est certain que ce n'est<lb facs="P20_TL00033"/>pas tout à fait la MMe X que j'ai dans l'esprit.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P21_TB00001">
-                                       <lb facs="P21_TL00001"/>Z. —Et voilà. Je dis que vous, qui n'avez vu Mme X que trois fois, la connaissez<lb facs="P21_TL00002"/>mieux que ce peintre qui l'a plantée devant lui peut-êtro 20 ou 30 fois dans la<lb facs="P21_TL00003"/>même robe, la même attitude et du même côté.<lb facs="P21_TL00004"/>A. Je commence à voir où vous voulez en venir. L'objet se présente effectivement<lb facs="P21_TL00005"/>sous des aspects très différents selon le temps et les circonstances, et vous<lb facs="P21_TL00006"/>trouvez que le peintre doit représenter ces différents aspects. En somme c'est<lb facs="P21_TL00007"/>très faisable, on l'a fait en partie : pour la noix qu'est-ce qui empêchera le<lb facs="P21_TL00008"/>peintre de mettre sur une table une noix verte, une autre sans écale, une autre<lb facs="P21_TL00009"/>cassée, une autre épluchée. Pour un portrait on n'a qu'à faire 20 représentations<lb facs="P21_TL00010"/>différentes de la même personne et l'on aura ainsi une connaissance plus com<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P21_TL00011"/>plète sans rien changer aux habitudes.<lb facs="P21_TL00012"/>Z. Pardon, votre tableau de la noix est une planche d'histoire naturelle pour école<lb facs="P21_TL00013"/>primaire, tant qu'à votre façon de comprendre un portrait, ce n'est que le<lb facs="P21_TL00014"/>principe du cinématographe. Or comme nous l'avons vu, l'art ancien n'a jamais<lb facs="P21_TL00015"/>été de la photographie, l'art moderne ne peut pas davantage être de la cinémato<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P21_TL00016"/>graphie.<lb facs="P21_TL00017"/>A. Pourtant bien des anciens ont fait cela. Nous voyons dans de nombreuses<lb facs="P21_TL00018"/>natures mortes des fruits sous leurs divers aspects ; un chaudron est intéressant<lb facs="P21_TL00019"/>intérieurement et extérieurement, ils ont mis deux chaudrons, l'un de face,<lb facs="P21_TL00020"/>l'autre renversé ; pour les portraits... on en faisait plusieurs ; maints person<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P21_TL00021"/>nages sont venus jusqu'à nous dans des poses, des costumes, des âges différents.<lb facs="P21_TL00022"/>Z. Reprenons notre noix. Disons pour simplifier que nous avons constaté à son<lb facs="P21_TL00023"/>sujet trois formes, quatre couleurs, trois matières. Combien avions-nous de noix?<lb facs="P21_TL00024"/>A. Mais une parbleu.<lb facs="P21_TL00025"/>Z. Une. Voilà le point capital. C'est une seule et même noix qui dans le même<lb facs="P21_TL00026"/>temps est à la fois trois formes, quatre couleurs, trois matières, tandis que<lb facs="P21_TL00027"/>dans les tableaux dont vous parlez ce sont 2, 3, 4 noix vues à des temps dif<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P21_TL00028"/>férents ; en un mot vous donnez les choses comme étant successives tandis<lb facs="P21_TL00029"/>qu'elles sont simultanées.<lb facs="P21_TL00030"/>A. C'est pourtant bien simple et je n'y avais pas pensé !<lb facs="P21_TL00031"/>Z. Revenons à Mrac X. ..<lb facs="P21_TL00032"/>A. Parfait, parfait, je comprends. Mœe X est pour moi une Mme X simultanément</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P21_TB00001">
+                                    <lb facs="P21_TL00001"/>Z. —Et voilà. Je dis que vous, qui n'avez vu Mme X que trois fois, la connaissez<lb facs="P21_TL00002"/>mieux que ce peintre qui l'a plantée devant lui peut-êtro 20 ou 30 fois dans la<lb facs="P21_TL00003"/>même robe, la même attitude et du même côté.<lb facs="P21_TL00004"/>A. Je commence à voir où vous voulez en venir. L'objet se présente effectivement<lb facs="P21_TL00005"/>sous des aspects très différents selon le temps et les circonstances, et vous<lb facs="P21_TL00006"/>trouvez que le peintre doit représenter ces différents aspects. En somme c'est<lb facs="P21_TL00007"/>très faisable, on l'a fait en partie : pour la noix qu'est-ce qui empêchera le<lb facs="P21_TL00008"/>peintre de mettre sur une table une noix verte, une autre sans écale, une autre<lb facs="P21_TL00009"/>cassée, une autre épluchée. Pour un portrait on n'a qu'à faire 20 représentations<lb facs="P21_TL00010"/>différentes de la même personne et l'on aura ainsi une connaissance plus com<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P21_TL00011"/>plète sans rien changer aux habitudes.<lb facs="P21_TL00012"/>Z. Pardon, votre tableau de la noix est une planche d'histoire naturelle pour école<lb facs="P21_TL00013"/>primaire, tant qu'à votre façon de comprendre un portrait, ce n'est que le<lb facs="P21_TL00014"/>principe du cinématographe. Or comme nous l'avons vu, l'art ancien n'a jamais<lb facs="P21_TL00015"/>été de la photographie, l'art moderne ne peut pas davantage être de la cinémato<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P21_TL00016"/>graphie.<lb facs="P21_TL00017"/>A. Pourtant bien des anciens ont fait cela. Nous voyons dans de nombreuses<lb facs="P21_TL00018"/>natures mortes des fruits sous leurs divers aspects ; un chaudron est intéressant<lb facs="P21_TL00019"/>intérieurement et extérieurement, ils ont mis deux chaudrons, l'un de face,<lb facs="P21_TL00020"/>l'autre renversé ; pour les portraits... on en faisait plusieurs ; maints person<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P21_TL00021"/>nages sont venus jusqu'à nous dans des poses, des costumes, des âges différents.<lb facs="P21_TL00022"/>Z. Reprenons notre noix. Disons pour simplifier que nous avons constaté à son<lb facs="P21_TL00023"/>sujet trois formes, quatre couleurs, trois matières. Combien avions-nous de noix?<lb facs="P21_TL00024"/>A. Mais une parbleu.<lb facs="P21_TL00025"/>Z. Une. Voilà le point capital. C'est une seule et même noix qui dans le même<lb facs="P21_TL00026"/>temps est à la fois trois formes, quatre couleurs, trois matières, tandis que<lb facs="P21_TL00027"/>dans les tableaux dont vous parlez ce sont 2, 3, 4 noix vues à des temps dif<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P21_TL00028"/>férents ; en un mot vous donnez les choses comme étant successives tandis<lb facs="P21_TL00029"/>qu'elles sont simultanées.<lb facs="P21_TL00030"/>A. C'est pourtant bien simple et je n'y avais pas pensé !<lb facs="P21_TL00031"/>Z. Revenons à Mrac X. ..<lb facs="P21_TL00032"/>A. Parfait, parfait, je comprends. Mœe X est pour moi une Mme X simultanément</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P22_TB00001">
-                                       <lb facs="P22_TL00001"/>avec et sans chapeau, emmitouflée et gorge nue, blanche, verte et bleue, de dos,<lb facs="P22_TL00002"/>de face, de profil, assise et debout, sévère et rieuse etc... etc...<lb facs="P22_TL00003"/>Z. Donc nous commençons à connaître notre terre : nous en avons fait le tour.<lb facs="P22_TL00004"/>Les artistes, eux aussi, ont eu la curiosité de connaître leur modèle et les pre<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P22_TL00005"/>miers cubistes sont les Magellan de la peinture.<lb facs="P22_TL00006"/>Une carte suffisait aux anciens, il nous faut une mappemonde.<lb facs="P22_TL00007"/>Une noix est verte, une noix est jaune, une noix est blanche, une noix est<lb facs="P22_TL00008"/>dure, une noix est molle.<lb facs="P22_TL00009"/>Un œuf est blanc, un œuf est jaune, un œuf est solide, un œuf est liquide.<lb facs="P22_TL00010"/>Une maison est carrée, une maison est ronde, une maison est de pierre, une<lb facs="P22_TL00011"/>maison est de fer, une maison est de bois.<lb facs="P22_TL00012"/>Le profil n'est pas la face, ce que l'on voit n'est pas tout ce qu'on peut voir,<lb facs="P22_TL00013"/>l'artifice n'est pas de l'art, et l'apparence est plus petite que la réalité.<lb facs="P22_TL00014"/>Les enfants ne ressemblent jamais parfaitement à leurs parents, ils sont plus<lb facs="P22_TL00015"/>grands ou plus petits, ils ont le nez plus long ou plus court, les yeux plus<lb facs="P22_TL00016"/>clairs ou plus foncés, etc... etc... et pourtant ce sont des hommes et des fem<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P22_TL00017"/>mes comme père et mère.<lb facs="P22_TL00018"/>Mais attention, un tableau n'est pas une planche d'histoire naturelle pour école<lb facs="P22_TL00019"/>primaire, un tableau n'est pas un film parce que les états ne sont pas successifs,<lb facs="P22_TL00020"/>mais simultanés.<lb facs="P22_TL00021"/>A. Enfin maintenant me voici initié à cet art d'avant-garde et je vais pouvoir<lb facs="P22_TL00022"/>comprendre.<lb facs="P22_TL00023"/>Z. .. .Ah ! que non, vous ne l'êtes point encore, il vous reste beaucoup à apprendre,<lb facs="P22_TL00024"/>et quand vous aurez tout appris vous ne saurez encore pas tout.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P22_TB00001">
+                                    <lb facs="P22_TL00001"/>avec et sans chapeau, emmitouflée et gorge nue, blanche, verte et bleue, de dos,<lb facs="P22_TL00002"/>de face, de profil, assise et debout, sévère et rieuse etc... etc...<lb facs="P22_TL00003"/>Z. Donc nous commençons à connaître notre terre : nous en avons fait le tour.<lb facs="P22_TL00004"/>Les artistes, eux aussi, ont eu la curiosité de connaître leur modèle et les pre<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P22_TL00005"/>miers cubistes sont les Magellan de la peinture.<lb facs="P22_TL00006"/>Une carte suffisait aux anciens, il nous faut une mappemonde.<lb facs="P22_TL00007"/>Une noix est verte, une noix est jaune, une noix est blanche, une noix est<lb facs="P22_TL00008"/>dure, une noix est molle.<lb facs="P22_TL00009"/>Un œuf est blanc, un œuf est jaune, un œuf est solide, un œuf est liquide.<lb facs="P22_TL00010"/>Une maison est carrée, une maison est ronde, une maison est de pierre, une<lb facs="P22_TL00011"/>maison est de fer, une maison est de bois.<lb facs="P22_TL00012"/>Le profil n'est pas la face, ce que l'on voit n'est pas tout ce qu'on peut voir,<lb facs="P22_TL00013"/>l'artifice n'est pas de l'art, et l'apparence est plus petite que la réalité.<lb facs="P22_TL00014"/>Les enfants ne ressemblent jamais parfaitement à leurs parents, ils sont plus<lb facs="P22_TL00015"/>grands ou plus petits, ils ont le nez plus long ou plus court, les yeux plus<lb facs="P22_TL00016"/>clairs ou plus foncés, etc... etc... et pourtant ce sont des hommes et des fem<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P22_TL00017"/>mes comme père et mère.<lb facs="P22_TL00018"/>Mais attention, un tableau n'est pas une planche d'histoire naturelle pour école<lb facs="P22_TL00019"/>primaire, un tableau n'est pas un film parce que les états ne sont pas successifs,<lb facs="P22_TL00020"/>mais simultanés.<lb facs="P22_TL00021"/>A. Enfin maintenant me voici initié à cet art d'avant-garde et je vais pouvoir<lb facs="P22_TL00022"/>comprendre.<lb facs="P22_TL00023"/>Z. .. .Ah ! que non, vous ne l'êtes point encore, il vous reste beaucoup à apprendre,<lb facs="P22_TL00024"/>et quand vous aurez tout appris vous ne saurez encore pas tout.</ab>
                               </div>
                            </div>
                         </div>

@@ -26,8 +26,7 @@
          <seriesStmt>
             <title level="s">The Blue Mountain Project</title>
          </seriesStmt>
-         <sourceDesc>
-            <msDesc>
+         <sourceDesc><msDesc>
                <msIdentifier>
                   <institution>Princeton University Library</institution>
                   
@@ -100,7 +99,7 @@
                <history>
                   <summary>
                      <p>Sold for <measureGrp type="salesprice">
-                        <measure unit="shilling" quantity="0"></measure>
+                        <measure unit="shilling" quantity="0"/>
                      </measureGrp>.</p>
                   </summary>
                   <provenance> </provenance>
@@ -109,8 +108,7 @@
                </history>
                
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="nonSort">The</seg>
                      <seg type="main">Mask</seg>
@@ -120,9 +118,7 @@
                      <biblScope unit="issue">1</biblScope>
                      <date when="1918-03"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -137,8 +133,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -153,8 +148,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -169,8 +163,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -200,8 +193,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -224,7 +216,7 @@
                                  <seg type="main">ETERNAL PROPOSITION</seg>
                               </title>
                               <respStmt>
-                                 <persName>Carlo Lacchio</persName>
+                                 <persName ref="https://viaf.org/viaf/100201551">Carlo Lacchio</persName>
                                  <resp>cre</resp>
                               </respStmt>
                            </analytic>
@@ -236,8 +228,7 @@
                            </monogr>B. C. 4191. TO A. D. 1914. HOW ABOUT A NEW ONE?</biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -252,8 +243,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -300,8 +290,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -316,8 +305,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c014">
+               </relatedItem><relatedItem type="constituent" xml:id="c014">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -332,14 +320,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="31090" lry="43610">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="31090" lry="1830"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="1830" lrx="440" lry="43500"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="29530" uly="1830" lrx="31090" lry="43500"/>
@@ -1402,7 +1389,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="31060" lry="43910">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="31060" lry="1940">
             <tei:zone type="TextBlock" xml:id="P2_TB00001" ulx="1420" uly="980" lrx="2480" lry="1910">
                <tei:zone type="TextLine" xml:id="P2_TL00001" ulx="1420" uly="980" lrx="2480" lry="1910">
@@ -2219,7 +2206,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="31090" lry="43610">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="31090" lry="1560">
             <tei:zone type="TextBlock" xml:id="P3_TB00001" ulx="28940" uly="1090" lrx="29200" lry="1530">
                <tei:zone type="TextLine" xml:id="P3_TL00001" ulx="28940" uly="1090" lrx="29200" lry="1530">
@@ -3443,7 +3430,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="31090" lry="43610">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="31090" lry="1680">
             <tei:zone type="TextBlock" xml:id="P4_TB00001" ulx="1640" uly="1230" lrx="1910" lry="1660">
                <tei:zone type="TextLine" xml:id="P4_TL00001" ulx="1640" uly="1230" lrx="1910" lry="1660">

@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">1</biblScope>
                         <biblScope unit="issue">6</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace>
                         <date when="1916-06">Juin 1916</date>
                      </imprint>
                   </monogr>
@@ -103,8 +94,7 @@
                   <acquisition> </acquisition>
                </history>
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -113,9 +103,7 @@
                      <biblScope unit="issue">6</biblScope>
                      <date when="1916-06"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -129,8 +117,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -146,8 +133,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -162,8 +148,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -179,12 +164,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">POÈME</seg>
+                           <seg type="nonSort">UN</seg>
+                           <seg type="main">HOMME QUI PENSE</seg>
                         </title>
                         <textLang mainLang="fre"/>
                      </analytic>
@@ -194,26 +180,8 @@
                            <biblScope unit="page">4</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c007">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="nonSort">UN</seg>
-                                 <seg type="main">HOMME QUI PENSE</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">4</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -247,12 +215,12 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c010">
+               </relatedItem><relatedItem type="constituent" xml:id="c010">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">DIALOGUE NUNIQUE Z et A</seg>
+                           <seg type="sub">N'IMPORTE où...</seg>
                         </title>
                         <textLang mainLang="fre"/>
                      </analytic>
@@ -262,25 +230,8 @@
                            <biblScope unit="page">6</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c011">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">N'IMPORTE où...</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">6</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c012">
+               </relatedItem><relatedItem type="constituent" xml:id="c012">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -295,8 +246,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -310,31 +260,14 @@
                            <biblScope unit="page">7</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c014">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">Untitled Text</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">7</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="29410" lry="40130">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/06_01/delivery/bmtnaaz_1916-06_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="29410" lry="3380"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="3380" lrx="2030" lry="36800"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="27550" uly="3380" lrx="29410" lry="36800"/>
@@ -408,7 +341,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="29410" lry="40130">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/06_01/delivery/bmtnaaz_1916-06_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="29410" lry="4150"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="4150" lrx="2980" lry="35530"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="26850" uly="4150" lrx="29410" lry="35530"/>
@@ -509,7 +442,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="29410" lry="40130">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/06_01/delivery/bmtnaaz_1916-06_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="29410" lry="3750"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="3750" lrx="2680" lry="35620"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="26710" uly="3750" lrx="29410" lry="35620"/>
@@ -691,7 +624,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="29410" lry="40130">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/06_01/delivery/bmtnaaz_1916-06_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="29410" lry="0"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="0" lrx="0" lry="40130"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="29400" uly="0" lrx="29410" lry="40130"/>
@@ -778,7 +711,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="29410" lry="40130">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/06_01/delivery/bmtnaaz_1916-06_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="29410" lry="3840"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="3840" lrx="1170" lry="36160"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="28380" uly="3840" lrx="29410" lry="36160"/>
@@ -812,7 +745,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="29410" lry="40130">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/06_01/delivery/bmtnaaz_1916-06_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="29410" lry="4030"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="4030" lrx="2540" lry="35620"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="26420" uly="4030" lrx="29410" lry="35620"/>
@@ -1264,7 +1197,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="29410" lry="40130">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/06_01/delivery/bmtnaaz_1916-06_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="29410" lry="4010"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="4010" lrx="2730" lry="35740"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="26650" uly="4010" lrx="29410" lry="35740"/>
@@ -1728,7 +1661,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="29410" lry="40130">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/06_01/delivery/bmtnaaz_1916-06_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="29410" lry="4220"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="4220" lrx="2870" lry="35990"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="26700" uly="4220" lrx="29410" lry="35990"/>
@@ -2461,19 +2394,17 @@
                         <ab facs="P4_TB00001">
                            <lb facs="P4_TL00001"/>POÈME</ab>
                      </div>
-                     <div type="TextContent" corresp="c007">
-                        <div type="Head">
-                           <ab facs="P4_TB00002">
-                              <lb facs="P4_TL00002"/>UN HOMME QUI PENSE</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P4_TB00003">
-                                       <lb facs="P4_TL00003"/>Me voici arrivé<lb facs="P4_TL00004"/>en moi<lb facs="P4_TL00005"/>VASTITÉLUMINEUSE<lb facs="P4_TL00006"/>Palais? Non<lb facs="P4_TL00007"/>Ateliercirculaireassourdissantauxyeux<lb facs="P4_TL00008"/>Vapeurpistonsbieillescourroiesrouesengrena<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00009"/>gessifflementsgrincementsretentissements<lb facs="P4_TL00010"/>silencieux Couperforgerriver<lb facs="P4_TL00011"/>Embrassementsbaisersétreintes<lb facs="P4_TL00012"/>Forces irradientesascensionnelles,<lb facs="P4_TL00013"/>s'incorporentéperdûment<lb facs="P4_TL00014"/>LES IDÉES COLORÉES<lb facs="P4_TL00015"/>Hors de moi dans l'espace<lb facs="P4_TL00016"/>J'entends un homme qui passe<lb facs="P4_TL00017"/>HAI 1916</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P4_TB00002">
+                           <lb facs="P4_TL00002"/>UN HOMME QUI PENSE</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P4_TB00003">
+                                    <lb facs="P4_TL00003"/>Me voici arrivé<lb facs="P4_TL00004"/>en moi<lb facs="P4_TL00005"/>VASTITÉLUMINEUSE<lb facs="P4_TL00006"/>Palais? Non<lb facs="P4_TL00007"/>Ateliercirculaireassourdissantauxyeux<lb facs="P4_TL00008"/>Vapeurpistonsbieillescourroiesrouesengrena<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00009"/>gessifflementsgrincementsretentissements<lb facs="P4_TL00010"/>silencieux Couperforgerriver<lb facs="P4_TL00011"/>Embrassementsbaisersétreintes<lb facs="P4_TL00012"/>Forces irradientesascensionnelles,<lb facs="P4_TL00013"/>s'incorporentéperdûment<lb facs="P4_TL00014"/>LES IDÉES COLORÉES<lb facs="P4_TL00015"/>Hors de moi dans l'espace<lb facs="P4_TL00016"/>J'entends un homme qui passe<lb facs="P4_TL00017"/>HAI 1916</ab>
                               </div>
                            </div>
                         </div>
@@ -2507,28 +2438,26 @@
                         <ab facs="P6_TB00001">
                            <lb facs="P6_TL00001"/>DIALOGUE NUNIQUE<lb facs="P6_TL00002"/>Z et A</ab>
                      </div>
-                     <div type="TextContent" corresp="c011">
-                        <div type="Head">
-                           <ab facs="P6_TB00002">
-                              <lb facs="P6_TL00003"/>N'IMPORTE où...</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P6_TB00003">
-                                       <lb facs="P6_TL00004"/>A. Mais alors Raphaël est un déformateur?!<lb facs="P6_TL00005"/>Z. Evidemment, comme tous les artistes. L'erreur vient de ce que vous entendez le<lb facs="P6_TL00006"/>mot déformer au sens péjoratif, son sens strict est changement de la forme ;<lb facs="P6_TL00007"/>que l'artiste crée une nouvelle forme dite plus belle, il déforme tout comme<lb facs="P6_TL00008"/>celui qui crée une nouvelle forme dite plus laide.<lb facs="P6_TL00009"/>A. C'est juste, et je vois bien maintenant que tous les artistes en effet sont des<lb facs="P6_TL00010"/>déformateurs. Mais pourquoi ne font-ils pas tout simplement la nature telle<lb facs="P6_TL00011"/>qu'elle est?<lb facs="P6_TL00012"/>Z. Mon pauvre ami ! Et dire que vous passez tant d'heures dans les musées.<lb facs="P6_TL00013"/>Dites-moi, ne faites vous point de différence entre l'œil de l'appareil photogra<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P6_TL00014"/>phique et l'œil de l'artiste?<lb facs="P6_TL00015"/>A. Non, physiquement ils projettent l'un et l'autre l'image des objets à l'intérieur<lb facs="P6_TL00016"/>du corps qu'ils servent.<lb facs="P6_TL00017"/>Z. Bien. Mais voyez-vous une différence entre ces deux corps, c'est à dire entre<lb facs="P6_TL00018"/>la chambre noire et l'homme?<lb facs="P6_TL00019"/>A. Oui, certes, l'un est un instrument, l'autre est un être vivant.<lb facs="P6_TL00020"/>Z. Très bien, et quelle différence voyez-vous entre un instrument et un être<lb facs="P6_TL00021"/>vivant ?<lb facs="P6_TL00022"/>A. L'un ne sent pas et l'autre sent.<lb facs="P6_TL00023"/>Z. Ce serait parfait si vous ajoutiez : et pense. Donc si nous demandons à ces<lb facs="P6_TL00024"/>deux corps différents de nous transmettre l'image que leur œil respectif a pro<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P6_TL00025"/>jetée en eux, devons-nous nous attendre à ce qu'ils nous transmettent deux<lb facs="P6_TL00026"/>images semblables?<lb facs="P6_TL00027"/>A. Naturellement non. L'un est simple, l'autre est eomplexe, ils nous transmet<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P6_TL00028"/>tront nécessairement une image simple et une image complexe.<lb facs="P6_TL00029"/>Z. Bravo. Et que eontiendra l'image simple?<lb facs="P6_TL00030"/>A. L'objet, sans doute.<lb facs="P6_TL00031"/>Z. Bien, Et l'image complexe?<lb facs="P6_TL00032"/>A. L'objet, plus son effet affectif sur le sujet sensible et pensant.<lb facs="P6_TL00033"/>Z. Ou bien encore, l'image complexe contiendra la réaction du sujet pensant, c'est<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P6_TL00034"/>à-dire que dans le premier cas l'objet agit sur le sujet et dans le second le<lb facs="P6_TL00035"/>sujet réagit sur l'objet.<lb facs="P6_TL00036"/>A. Cela me paraît exact.<lb facs="P6_TL00037"/>Z. Et maintenant comment le sujet pourra-t-il faire passer dans la représentation<lb facs="P6_TL00038"/>de l'objet l'effet affectif que cet objet excerce sur lui ou sa réaction sur cet<lb facs="P6_TL00039"/>objet? •</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P6_TB00002">
+                           <lb facs="P6_TL00003"/>N'IMPORTE où...</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P6_TB00003">
+                                    <lb facs="P6_TL00004"/>A. Mais alors Raphaël est un déformateur?!<lb facs="P6_TL00005"/>Z. Evidemment, comme tous les artistes. L'erreur vient de ce que vous entendez le<lb facs="P6_TL00006"/>mot déformer au sens péjoratif, son sens strict est changement de la forme ;<lb facs="P6_TL00007"/>que l'artiste crée une nouvelle forme dite plus belle, il déforme tout comme<lb facs="P6_TL00008"/>celui qui crée une nouvelle forme dite plus laide.<lb facs="P6_TL00009"/>A. C'est juste, et je vois bien maintenant que tous les artistes en effet sont des<lb facs="P6_TL00010"/>déformateurs. Mais pourquoi ne font-ils pas tout simplement la nature telle<lb facs="P6_TL00011"/>qu'elle est?<lb facs="P6_TL00012"/>Z. Mon pauvre ami ! Et dire que vous passez tant d'heures dans les musées.<lb facs="P6_TL00013"/>Dites-moi, ne faites vous point de différence entre l'œil de l'appareil photogra<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00014"/>phique et l'œil de l'artiste?<lb facs="P6_TL00015"/>A. Non, physiquement ils projettent l'un et l'autre l'image des objets à l'intérieur<lb facs="P6_TL00016"/>du corps qu'ils servent.<lb facs="P6_TL00017"/>Z. Bien. Mais voyez-vous une différence entre ces deux corps, c'est à dire entre<lb facs="P6_TL00018"/>la chambre noire et l'homme?<lb facs="P6_TL00019"/>A. Oui, certes, l'un est un instrument, l'autre est un être vivant.<lb facs="P6_TL00020"/>Z. Très bien, et quelle différence voyez-vous entre un instrument et un être<lb facs="P6_TL00021"/>vivant ?<lb facs="P6_TL00022"/>A. L'un ne sent pas et l'autre sent.<lb facs="P6_TL00023"/>Z. Ce serait parfait si vous ajoutiez : et pense. Donc si nous demandons à ces<lb facs="P6_TL00024"/>deux corps différents de nous transmettre l'image que leur œil respectif a pro<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00025"/>jetée en eux, devons-nous nous attendre à ce qu'ils nous transmettent deux<lb facs="P6_TL00026"/>images semblables?<lb facs="P6_TL00027"/>A. Naturellement non. L'un est simple, l'autre est eomplexe, ils nous transmet<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00028"/>tront nécessairement une image simple et une image complexe.<lb facs="P6_TL00029"/>Z. Bravo. Et que eontiendra l'image simple?<lb facs="P6_TL00030"/>A. L'objet, sans doute.<lb facs="P6_TL00031"/>Z. Bien, Et l'image complexe?<lb facs="P6_TL00032"/>A. L'objet, plus son effet affectif sur le sujet sensible et pensant.<lb facs="P6_TL00033"/>Z. Ou bien encore, l'image complexe contiendra la réaction du sujet pensant, c'est<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00034"/>à-dire que dans le premier cas l'objet agit sur le sujet et dans le second le<lb facs="P6_TL00035"/>sujet réagit sur l'objet.<lb facs="P6_TL00036"/>A. Cela me paraît exact.<lb facs="P6_TL00037"/>Z. Et maintenant comment le sujet pourra-t-il faire passer dans la représentation<lb facs="P6_TL00038"/>de l'objet l'effet affectif que cet objet excerce sur lui ou sa réaction sur cet<lb facs="P6_TL00039"/>objet? •</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P7_TB00001">
-                                       <lb facs="P7_TL00001"/>A. Mais... Ah! je comprends! par la déformation.<lb facs="P7_TL00002"/>Z. Enfin! Et il déformera la représentation objective en raison de son idéal et de<lb facs="P7_TL00003"/>sa sensibilité et il sera Phidias, Giotto, Raphaël, Rembrand, Monet, Matisse,<lb facs="P7_TL00004"/>Cézanne; et selon la prépondérance de Lidéal ou de la sensibilité on aura les<lb facs="P7_TL00005"/>classiques ou les impressionnistes. Au revoir. A bientôt.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P7_TB00001">
+                                    <lb facs="P7_TL00001"/>A. Mais... Ah! je comprends! par la déformation.<lb facs="P7_TL00002"/>Z. Enfin! Et il déformera la représentation objective en raison de son idéal et de<lb facs="P7_TL00003"/>sa sensibilité et il sera Phidias, Giotto, Raphaël, Rembrand, Monet, Matisse,<lb facs="P7_TL00004"/>Cézanne; et selon la prépondérance de Lidéal ou de la sensibilité on aura les<lb facs="P7_TL00005"/>classiques ou les impressionnistes. Au revoir. A bientôt.</ab>
                               </div>
                            </div>
                         </div>
@@ -2557,57 +2486,55 @@
                         <ab facs="P7_TB00005">
                            <lb facs="P7_TL00023"/>ETC...</ab>
                      </div>
-                     <div type="TextContent" corresp="c014">
-                        <div type="Byline">
-                           <ab facs="P7_TB00007">
-                              <lb facs="P7_TL00037"/>C=B.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P7_TB00006">
-                                       <lb facs="P7_TL00024"/>MUSIQUE. Considérations brèves. — Sous le prétexte que les Allemands — musicalement— font grand —<lb facs="P7_TL00025"/>sens péjoratif, sourire dédaigneux de l'homme qui juge sans appel-ne manifestons pas le mauvais<lb facs="P7_TL00026"/>goût de faire petit...<lb facs="P7_TL00027"/>N'abusons pas de l'humour...<lb facs="P7_TL00028"/>Il est plus facile —sous un titre amusant —d'inscrire de spirituelles combinaisons harmoniques que<lb facs="P7_TL00029"/>de créer de l'émotion, de la beauté, de la puissance...<lb facs="P7_TL00030"/>Se méfier des pédagogues...<lb facs="P7_TL00031"/>Grandeur n'implique pas longueur...<lb facs="P7_TL00032"/>Tendre à la brièvté, à l'émotion condensée...<lb facs="P7_TL00033"/>Supprimer le bavardage—genre discours de réunion publique...<lb facs="P7_TL00034"/>L'accord qui, à lui seul, contiendrait une synthèse d'expression vaudrait la plus longue symphonie...<lb facs="P7_TL00035"/>Plus difficile à réaliser que du... pas de personnalités...<lb facs="P7_TL00036"/>et surtout: soyons nous-mêmes...</ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P7_TB00007">
+                           <lb facs="P7_TL00037"/>C=B.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P7_TB00006">
+                                    <lb facs="P7_TL00024"/>MUSIQUE. Considérations brèves. — Sous le prétexte que les Allemands — musicalement— font grand —<lb facs="P7_TL00025"/>sens péjoratif, sourire dédaigneux de l'homme qui juge sans appel-ne manifestons pas le mauvais<lb facs="P7_TL00026"/>goût de faire petit...<lb facs="P7_TL00027"/>N'abusons pas de l'humour...<lb facs="P7_TL00028"/>Il est plus facile —sous un titre amusant —d'inscrire de spirituelles combinaisons harmoniques que<lb facs="P7_TL00029"/>de créer de l'émotion, de la beauté, de la puissance...<lb facs="P7_TL00030"/>Se méfier des pédagogues...<lb facs="P7_TL00031"/>Grandeur n'implique pas longueur...<lb facs="P7_TL00032"/>Tendre à la brièvté, à l'émotion condensée...<lb facs="P7_TL00033"/>Supprimer le bavardage—genre discours de réunion publique...<lb facs="P7_TL00034"/>L'accord qui, à lui seul, contiendrait une synthèse d'expression vaudrait la plus longue symphonie...<lb facs="P7_TL00035"/>Plus difficile à réaliser que du... pas de personnalités...<lb facs="P7_TL00036"/>et surtout: soyons nous-mêmes...</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P7_TB00008">
-                                       <lb facs="P7_TL00038"/>LETTRES. Que doit faire le poète? Exprimer au maximum. Que peut faire la syntaxe surtout dans<lb facs="P7_TL00039"/>une langue analytique? Lier, relier, entortiller l'expression et mettre le désaccord parfait entre son<lb facs="P7_TL00040"/>mouvement et celui de la pensée. En une seconde l'esprit peut voir deux et trois images, il lui<lb facs="P7_TL00041"/>faudra trente secondes pour en exprimer une par une phrase régulière. Conclusion: on aura exprimé<lb facs="P7_TL00042"/>en moyenne 10, 20, 30, 40, 50 fois moins qu'on aurait pu le faire, et la seule expression donnée<lb facs="P7_TL00043"/>est fausse par son mouvement et par son isolement... et le lecteur s'endort.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P7_TB00008">
+                                    <lb facs="P7_TL00038"/>LETTRES. Que doit faire le poète? Exprimer au maximum. Que peut faire la syntaxe surtout dans<lb facs="P7_TL00039"/>une langue analytique? Lier, relier, entortiller l'expression et mettre le désaccord parfait entre son<lb facs="P7_TL00040"/>mouvement et celui de la pensée. En une seconde l'esprit peut voir deux et trois images, il lui<lb facs="P7_TL00041"/>faudra trente secondes pour en exprimer une par une phrase régulière. Conclusion: on aura exprimé<lb facs="P7_TL00042"/>en moyenne 10, 20, 30, 40, 50 fois moins qu'on aurait pu le faire, et la seule expression donnée<lb facs="P7_TL00043"/>est fausse par son mouvement et par son isolement... et le lecteur s'endort.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00001">
-                                       <lb facs="P8_TL00001"/>THEATRE. Le théâtre, pas plus que les autres arts ne peut être de l'imitation. Le trompe-l'œil et Part<lb facs="P8_TL00002"/>s'excluent. Le théâtre dit «réaliste» ne peut nous satisfaire, nous voulons plus encore, parce qu'il<lb facs="P8_TL00003"/>y a plus encore dans la vie, il nous faut un réalisme en profondeur et non en surface, et là,<lb facs="P8_TL00004"/>comme partout nous devons tendre au style; par suite l'acteur qnî joue «vrai» n'est pas l'artiste<lb facs="P8_TL00005"/>que nous voulons. Mais comme nous le disions précédemment ce sont les auteurs qui créeront<lb facs="P8_TL00006"/>le mouvement, car les acteurs nécessairement se formeront d'après les œuvres qu'ils auront à in<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00007"/>terpréter. Que le plus bel acteur s'essaie seulement à dire les poèmes publiés jusqu'ici par SIC,<lb facs="P8_TL00008"/>il s'apercevra bien vite qu'il ne peut le faire convenablement sans changer beaucoup à son art<lb facs="P8_TL00009"/>Un poème n'est pas tout-à-fait du théâtre, mais c'est déjà une indication,</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00001">
+                                    <lb facs="P8_TL00001"/>THEATRE. Le théâtre, pas plus que les autres arts ne peut être de l'imitation. Le trompe-l'œil et Part<lb facs="P8_TL00002"/>s'excluent. Le théâtre dit «réaliste» ne peut nous satisfaire, nous voulons plus encore, parce qu'il<lb facs="P8_TL00003"/>y a plus encore dans la vie, il nous faut un réalisme en profondeur et non en surface, et là,<lb facs="P8_TL00004"/>comme partout nous devons tendre au style; par suite l'acteur qnî joue «vrai» n'est pas l'artiste<lb facs="P8_TL00005"/>que nous voulons. Mais comme nous le disions précédemment ce sont les auteurs qui créeront<lb facs="P8_TL00006"/>le mouvement, car les acteurs nécessairement se formeront d'après les œuvres qu'ils auront à in<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00007"/>terpréter. Que le plus bel acteur s'essaie seulement à dire les poèmes publiés jusqu'ici par SIC,<lb facs="P8_TL00008"/>il s'apercevra bien vite qu'il ne peut le faire convenablement sans changer beaucoup à son art<lb facs="P8_TL00009"/>Un poème n'est pas tout-à-fait du théâtre, mais c'est déjà une indication,</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00002">
-                                       <lb facs="P8_TL00010"/>ARCHITECTURE. Un peuple fort, un peuple qui existe est un, il a une forme mentale, par conséquent<lb facs="P8_TL00011"/>une architecture : un style. Or comme nous recommençons d'exister, nous allons avoir un style.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00002">
+                                    <lb facs="P8_TL00010"/>ARCHITECTURE. Un peuple fort, un peuple qui existe est un, il a une forme mentale, par conséquent<lb facs="P8_TL00011"/>une architecture : un style. Or comme nous recommençons d'exister, nous allons avoir un style.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00003">
-                                       <lb facs="P8_TL00012"/>PEINTURE. Le commerce s'adresse à la masse, il a donc besoin de s'exprimer dans une langue que<lb facs="P8_TL00013"/>la masse comprenne: la peinture objective est encore bonne pour la publicité, elle pourra servir<lb facs="P8_TL00014"/>quelque temps à faire d'éloquentes affiches. Tant qu'à nous, allons au delà, laissons cet art<lb facs="P8_TL00015"/>devenu primaire.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00003">
+                                    <lb facs="P8_TL00012"/>PEINTURE. Le commerce s'adresse à la masse, il a donc besoin de s'exprimer dans une langue que<lb facs="P8_TL00013"/>la masse comprenne: la peinture objective est encore bonne pour la publicité, elle pourra servir<lb facs="P8_TL00014"/>quelque temps à faire d'éloquentes affiches. Tant qu'à nous, allons au delà, laissons cet art<lb facs="P8_TL00015"/>devenu primaire.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00004">
-                                       <lb facs="P8_TL00016"/>DÉCORATION, On a créé depuis Sa guerre un grand mouvement en faveur du jouet français. Notre<lb facs="P8_TL00017"/>finesse, notre ingéniosité, notre habileté, semblent en effet des qualités bien indiquées pour conve<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00018"/>nir àla création et à la fabrication du jouet. Mais attention! jusqu'ici il nous semble qu'on a<lb facs="P8_TL00019"/>surtout fait des jouets amusants pour les grandes personnes qui les regardent et peut-être pour<lb facs="P8_TL00020"/>les grandes personnes qui les font. Or pour le bien'de la France, n'oubliez pas que le jouet esf<lb facs="P8_TL00021"/>pour Penfant n'oubliez pas que le jouet n'est pas un objet à regarder, n'oubliez pas enfin que le<lb facs="P8_TL00022"/>jouet doit faire JOUER l'esprit et les muscles.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00004">
+                                    <lb facs="P8_TL00016"/>DÉCORATION, On a créé depuis Sa guerre un grand mouvement en faveur du jouet français. Notre<lb facs="P8_TL00017"/>finesse, notre ingéniosité, notre habileté, semblent en effet des qualités bien indiquées pour conve<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00018"/>nir àla création et à la fabrication du jouet. Mais attention! jusqu'ici il nous semble qu'on a<lb facs="P8_TL00019"/>surtout fait des jouets amusants pour les grandes personnes qui les regardent et peut-être pour<lb facs="P8_TL00020"/>les grandes personnes qui les font. Or pour le bien'de la France, n'oubliez pas que le jouet esf<lb facs="P8_TL00021"/>pour Penfant n'oubliez pas que le jouet n'est pas un objet à regarder, n'oubliez pas enfin que le<lb facs="P8_TL00022"/>jouet doit faire JOUER l'esprit et les muscles.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00005">
-                                       <lb facs="P8_TL00023"/>ES H pré S 6110 3 d@ la rapidité avec laquelle SIC a gagné la sympathie d© l'élite nous nous voyons contraints<lb facs="P8_TL00024"/>de supprimer tous les services que nous avons faits jusqu'ici, afin de réserver tout notre tirage pour la vente et l'abon<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00025"/>nement.<lb facs="P8_TL00026"/>Les numéros 1 et 2 étant épuisés, nous avons fait en sorte d'en réunir un certain nombre d'exemplaires que noft»<lb facs="P8_TL00027"/>tenon® à la disposition de nos lecteurs aux prix de 0,75 le JVe 1 et 0,50 le M 2.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00005">
+                                    <lb facs="P8_TL00023"/>ES H pré S 6110 3 d@ la rapidité avec laquelle SIC a gagné la sympathie d© l'élite nous nous voyons contraints<lb facs="P8_TL00024"/>de supprimer tous les services que nous avons faits jusqu'ici, afin de réserver tout notre tirage pour la vente et l'abon<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00025"/>nement.<lb facs="P8_TL00026"/>Les numéros 1 et 2 étant épuisés, nous avons fait en sorte d'en réunir un certain nombre d'exemplaires que noft»<lb facs="P8_TL00027"/>tenon® à la disposition de nos lecteurs aux prix de 0,75 le JVe 1 et 0,50 le M 2.</ab>
                               </div>
                            </div>
                         </div>

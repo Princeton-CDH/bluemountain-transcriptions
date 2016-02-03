@@ -1,32 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>
-          Transcription of
-          <biblStruct>
-            <monogr>
-              <title level="j">
-                <seg type="main">291</seg>
-              </title>
-              <imprint>
-                <biblScope unit="issue">9</biblScope>
-                <date when="1915-11">November 1915</date>
-              </imprint>
-            </monogr>
-          </biblStruct>
-        </title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>Princeton University</publisher>
-        <idno type="bmtnid">urn:PUL:bluemountain:bmtnaao_1915-11_01</idno>
-      </publicationStmt>
-      <seriesStmt>
-        <title level="s">The Blue Mountain Project</title>
-      </seriesStmt>
-      <sourceDesc>
-        <msDesc>
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+        Transcription of
+        <biblStruct>
+                  <monogr>
+                     <title level="j">
+                        <seg type="main">291</seg>
+                     </title>
+                     <imprint>
+                        <biblScope unit="issue">9</biblScope>
+                        <date when="1915-11">November 1915</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Princeton University</publisher>
+            <idno type="bmtnid">urn:PUL:bluemountain:bmtnaao_1915-11_01</idno>
+         </publicationStmt>
+         <seriesStmt>
+            <title level="s">The Blue Mountain Project</title>
+         </seriesStmt>
+         <sourceDesc><msDesc>
           <msIdentifier>
             <institution>Princeton University Library</institution>
             <repository>Department of Rare Books and Special Collections</repository>
@@ -69,15 +67,12 @@
           <history>
             <p>Printed in regular and deluxe editions. Advertisement declares
             <quote>Special edition limited to one hundred autographed copies on
-            special paper</quote>. Regular edition sold for <measure
-            type="saleprice" unit="cents" quantity="10">10 cents</measure>;
-            deluxe edition for <measure type="saleprice" unit="dollars" quantity="1"
-            >1 dollar</measure>. Twelve numbers regular edition excluding issue 7-8 sold for <measure type="salesprice" unit="dollars" quantity="1">1 dollar</measure>. 
+            special paper</quote>. Regular edition sold for <measure type="saleprice" unit="cents" quantity="10">10 cents</measure>;
+            deluxe edition for <measure type="saleprice" unit="dollars" quantity="1">1 dollar</measure>. Twelve numbers regular edition excluding issue 7-8 sold for <measure type="salesprice" unit="dollars" quantity="1">1 dollar</measure>. 
             Twelve numbers deluxe edition (including special portfolio and box) sold for <measure type="salesprice" unit="dollars" quantity="15">15 dollars</measure></p>
           </history>
         </msDesc>
-        <biblStruct>
-          <monogr>
+            <biblStruct><monogr>
             <title level="j">
               <seg type="main">291</seg>
             </title>
@@ -98,503 +93,213 @@
                 <resp>pbl</resp>
               </respStmt>
             </imprint>
-          </monogr>
-          <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaao"/>
-          <relatedItem type="constituent" xml:id="c001">
-            <biblStruct>
-              <analytic>
-                <title level="a">
-                  <seg type="main">Untitled Image</seg>
-                </title>
-                <respStmt>
-                  <persName ref="http://viaf.org/viaf/9867924">BRAQUE</persName>
-                  <resp>cre</resp>
-                </respStmt>
-              </analytic>
-              <monogr>
-                <imprint>
-                  <classCode scheme="CCS">Illustration</classCode>
-                  <biblScope unit="page">1</biblScope>
-                </imprint>
-              </monogr>
-            </biblStruct>
-          </relatedItem>
-          <relatedItem type="constituent" xml:id="c002">
-            <biblStruct>
-              <analytic>
-                <title level="a">
-                  <seg type="main">FEMME!</seg>
-                </title>
-                <respStmt>
-                  <persName ref="http://viaf.org/viaf/5080960">M. DE ZAYAS</persName>
-                  <resp>cre</resp>
-                </respStmt>
-              </analytic>
-              <monogr>
-                <imprint>
-                  <classCode scheme="CCS">Illustration</classCode>
-                  <biblScope unit="page">2</biblScope>
-                </imprint>
-              </monogr>
-            </biblStruct>
-          </relatedItem>
-          <relatedItem type="constituent" xml:id="c003">
-            <biblStruct>
-              <analytic>
-                <title level="a">
-                  <seg type="main">voila ELLE</seg>
-                </title>
-                <respStmt>
-                  <persName ref="http://viaf.org/viaf/36923084">F. Picabia</persName>
-                  <resp>cre</resp>
-                </respStmt>
-              </analytic>
-              <monogr>
-                <imprint>
-                  <classCode scheme="CCS">Illustration</classCode>
-                  <biblScope unit="page">3</biblScope>
-                </imprint>
-              </monogr>
-            </biblStruct>
-          </relatedItem>
-          <relatedItem type="constituent" xml:id="c004">
-            <biblStruct>
-              <analytic>
-                <title level="a">
-                  <seg type="main">Untitled Image</seg>
-                </title>
-                <respStmt>
-                  <persName ref="http://viaf.org/viaf/15873">PICASSO</persName>
-                  <resp>cre</resp>
-                </respStmt>
-              </analytic>
-              <monogr>
-                <imprint>
-                  <classCode scheme="CCS">Illustration</classCode>
-                  <biblScope unit="page">4</biblScope>
-                </imprint>
-              </monogr>
-            </biblStruct>
-          </relatedItem>
-        </biblStruct>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
-  <facsimile>
-    <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0"
-                 type="page"
-                 xml:id="P1"
-                 ulx="0"
-                 uly="0"
-                 lrx="15180"
-                 lry="22860">
-      <tei:graphic url="0001.jp2"/>
-      <tei:zone type="margin"
-                xml:id="P1_TM00001"
-                ulx="0"
-                uly="0"
-                lrx="15180"
-                lry="0"/>
-      <tei:zone type="margin"
-                xml:id="P1_LM00001"
-                ulx="0"
-                uly="0"
-                lrx="0"
-                lry="22850"/>
-      <tei:zone type="margin"
-                xml:id="P1_RM00001"
-                ulx="15180"
-                uly="0"
-                lrx="15180"
-                lry="22850"/>
-      <tei:zone type="margin"
-                xml:id="P1_BM00001"
-                ulx="0"
-                uly="22850"
-                lrx="15180"
-                lry="22860"/>
-      <tei:zone type="margin"
-                xml:id="P1_PS00001"
-                ulx="0"
-                uly="0"
-                lrx="15180"
-                lry="22850">
-        <tei:zone type="TextBlock"
-                  xml:id="P1_TB00001"
-                  ulx="4810"
-                  uly="750"
-                  lrx="10350"
-                  lry="2910">
-          <tei:zone type="TextLine"
-                    xml:id="P1_TL00001"
-                    ulx="6230"
-                    uly="750"
-                    lrx="9150"
-                    lry="2020">
-            <tei:zone type="String"
-                      xml:id="P1_ST00001"
-                      ulx="6230"
-                      uly="750"
-                      lrx="9150"
-                      lry="2020">291</tei:zone>
-          </tei:zone>
-          <tei:zone type="TextLine"
-                    xml:id="P1_TL00002"
-                    ulx="4820"
-                    uly="2730"
-                    lrx="10340"
-                    lry="2890">
-            <tei:zone type="String"
-                      xml:id="P1_ST00002"
-                      ulx="4820"
-                      uly="2740"
-                      lrx="5120"
-                      lry="2890">No.</tei:zone> 
-            <tei:zone type="String"
-                      xml:id="P1_ST00003"
-                      ulx="5240"
-                      uly="2750"
-                      lrx="5330"
-                      lry="2890">9</tei:zone> 
-            <tei:zone type="String"
-                      xml:id="P1_ST00004"
-                      ulx="6850"
-                      uly="2730"
-                      lrx="7800"
-                      lry="2880">November</tei:zone> 
-            <tei:zone type="String"
-                      xml:id="P1_ST00005"
-                      ulx="7920"
-                      uly="2740"
-                      lrx="8290"
-                      lry="2880">1915</tei:zone> 
-            <tei:zone type="String"
-                      xml:id="P1_ST00006"
-                      ulx="9510"
-                      uly="2740"
-                      lrx="9690"
-                      lry="2880">10</tei:zone> 
-            <tei:zone type="String"
-                      xml:id="P1_ST00007"
-                      ulx="9800"
-                      uly="2730"
-                      lrx="10340"
-                      lry="2880">Cents</tei:zone>
-          </tei:zone>
-        </tei:zone>
-        <tei:zone type="TextBlock"
-                  xml:id="P1_TB00002"
-                  ulx="12120"
-                  uly="21810"
-                  lrx="12870"
-                  lry="21960">
-          <tei:zone type="TextLine"
-                    xml:id="P1_TL00003"
-                    ulx="12130"
-                    uly="21810"
-                    lrx="12860"
-                    lry="21960">
-            <tei:zone type="String"
-                      xml:id="P1_ST00008"
-                      ulx="12130"
-                      uly="21810"
-                      lrx="12860"
-                      lry="21960">BRAQUE</tei:zone>
-          </tei:zone>
-        </tei:zone>
-      </tei:zone>
-    </tei:surface>
-    <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0"
-                 type="page"
-                 xml:id="P2"
-                 ulx="0"
-                 uly="0"
-                 lrx="15390"
-                 lry="22860">
-      <tei:graphic url="0002.jp2"/>
-      <tei:zone type="margin"
-                xml:id="P2_TM00001"
-                ulx="0"
-                uly="0"
-                lrx="15390"
-                lry="1300"/>
-      <tei:zone type="margin"
-                xml:id="P2_LM00001"
-                ulx="0"
-                uly="1300"
-                lrx="1000"
-                lry="21980"/>
-      <tei:zone type="margin"
-                xml:id="P2_RM00001"
-                ulx="14220"
-                uly="1300"
-                lrx="15390"
-                lry="21980"/>
-      <tei:zone type="margin"
-                xml:id="P2_BM00001"
-                ulx="0"
-                uly="21980"
-                lrx="15390"
-                lry="22860"/>
-      <tei:zone type="margin"
-                xml:id="P2_PS00001"
-                ulx="1000"
-                uly="1300"
-                lrx="14220"
-                lry="21980">
-        <tei:zone type="TextBlock"
-                  xml:id="P2_TB00001"
-                  ulx="1510"
-                  uly="1300"
-                  lrx="4360"
-                  lry="1830">
-          <tei:zone type="TextLine"
-                    xml:id="P2_TL00001"
-                    ulx="1510"
-                    uly="1310"
-                    lrx="4360"
-                    lry="1830">
-            <tei:zone type="String"
-                      xml:id="P2_ST00001"
-                      ulx="1510"
-                      uly="1310"
-                      lrx="4360"
-                      lry="1830">FEMME!</tei:zone>
-          </tei:zone>
-        </tei:zone>
-        <tei:zone type="TextBlock"
-                  xml:id="P2_TB00002"
-                  ulx="10500"
-                  uly="21840"
-                  lrx="11440"
-                  lry="21980">
-          <tei:zone type="TextLine"
-                    xml:id="P2_TL00002"
-                    ulx="10520"
-                    uly="21850"
-                    lrx="11430"
-                    lry="21960">
-            <tei:zone type="String"
-                      xml:id="P2_ST00002"
-                      ulx="10520"
-                      uly="21850"
-                      lrx="10680"
-                      lry="21950">M.</tei:zone> 
-            <tei:zone type="String"
-                      xml:id="P2_ST00003"
-                      ulx="10760"
-                      uly="21850"
-                      lrx="10930"
-                      lry="21960">DE</tei:zone> 
-            <tei:zone type="String"
-                      xml:id="P2_ST00004"
-                      ulx="11000"
-                      uly="21860"
-                      lrx="11430"
-                      lry="21960">ZAYAS</tei:zone>
-          </tei:zone>
-        </tei:zone>
-      </tei:zone>
-    </tei:surface>
-    <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0"
-                 type="page"
-                 xml:id="P3"
-                 ulx="0"
-                 uly="0"
-                 lrx="15160"
-                 lry="22860">
-      <tei:graphic url="0003.jp2"/>
-      <tei:zone type="margin"
-                xml:id="P3_TM00001"
-                ulx="0"
-                uly="0"
-                lrx="15160"
-                lry="0"/>
-      <tei:zone type="margin"
-                xml:id="P3_LM00001"
-                ulx="0"
-                uly="0"
-                lrx="0"
-                lry="22850"/>
-      <tei:zone type="margin"
-                xml:id="P3_RM00001"
-                ulx="15160"
-                uly="0"
-                lrx="15160"
-                lry="22850"/>
-      <tei:zone type="margin"
-                xml:id="P3_BM00001"
-                ulx="0"
-                uly="22850"
-                lrx="15160"
-                lry="22860"/>
-      <tei:zone type="margin"
-                xml:id="P3_PS00001"
-                ulx="0"
-                uly="0"
-                lrx="15160"
-                lry="22850">
-        <tei:zone type="TextBlock"
-                  xml:id="P3_TB00001"
-                  ulx="1980"
-                  uly="20710"
-                  lrx="2660"
-                  lry="20870">
-          <tei:zone type="TextLine"
-                    xml:id="P3_TL00001"
-                    ulx="2000"
-                    uly="20720"
-                    lrx="2650"
-                    lry="20840">
-            <tei:zone type="String"
-                      xml:id="P3_ST00001"
-                      ulx="2000"
-                      uly="20720"
-                      lrx="2120"
-                      lry="20840">F.</tei:zone> 
-            <tei:zone type="String"
-                      xml:id="P3_ST00002"
-                      ulx="2200"
-                      uly="20720"
-                      lrx="2650"
-                      lry="20840">Picabia</tei:zone>
-          </tei:zone>
-        </tei:zone>
-        <tei:zone type="TextBlock"
-                  xml:id="P3_TB00002"
-                  ulx="1100"
-                  uly="21040"
-                  lrx="4210"
-                  lry="21630">
-          <tei:zone type="TextLine"
-                    xml:id="P3_TL00002"
-                    ulx="1110"
-                    uly="21040"
-                    lrx="4210"
-                    lry="21630">
-            <tei:zone type="String"
-                      xml:id="P3_ST00003"
-                      ulx="1110"
-                      uly="21340"
-                      lrx="2080"
-                      lry="21630">voilX</tei:zone> 
-            <tei:zone type="String"
-                      xml:id="P3_ST00004"
-                      ulx="2200"
-                      uly="21040"
-                      lrx="4210"
-                      lry="21620">ELLE</tei:zone>
-          </tei:zone>
-        </tei:zone>
-      </tei:zone>
-    </tei:surface>
-    <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0"
-                 type="page"
-                 xml:id="P4"
-                 ulx="0"
-                 uly="0"
-                 lrx="15160"
-                 lry="22860">
-      <tei:graphic url="0004.jp2"/>
-      <tei:zone type="margin"
-                xml:id="P4_TM00001"
-                ulx="0"
-                uly="0"
-                lrx="15160"
-                lry="0"/>
-      <tei:zone type="margin"
-                xml:id="P4_LM00001"
-                ulx="0"
-                uly="0"
-                lrx="0"
-                lry="22850"/>
-      <tei:zone type="margin"
-                xml:id="P4_RM00001"
-                ulx="15160"
-                uly="0"
-                lrx="15160"
-                lry="22850"/>
-      <tei:zone type="margin"
-                xml:id="P4_BM00001"
-                ulx="0"
-                uly="22850"
-                lrx="15160"
-                lry="22860"/>
-      <tei:zone type="margin"
-                xml:id="P4_PS00001"
-                ulx="0"
-                uly="0"
-                lrx="15160"
-                lry="22850">
-        <tei:zone type="TextBlock"
-                  xml:id="P4_TB00001"
-                  ulx="13300"
-                  uly="21790"
-                  lrx="14040"
-                  lry="21930">
-          <tei:zone type="TextLine"
-                    xml:id="P4_TL00001"
-                    ulx="13300"
-                    uly="21800"
-                    lrx="14040"
-                    lry="21930">
-            <tei:zone type="String"
-                      xml:id="P4_ST00001"
-                      ulx="13300"
-                      uly="21800"
-                      lrx="14040"
-                      lry="21930">PICASSO</tei:zone>
-          </tei:zone>
-        </tei:zone>
-      </tei:zone>
-    </tei:surface>
-  </facsimile>
-  <text>
-    <body>
-      <div type="Magazine">
-        <div type="Issue">
-          <div type="PublicationInfo">
-            <div type="GenericPubInfo">
-              <ab facs="P1_TB00001">
-              <lb facs="P1_TL00001"/>291<lb facs="P1_TL00002"/>No. 9 November 1915 10 Cents</ab>
+          </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaao"/><relatedItem type="constituent" xml:id="c001">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Untitled Image</seg>
+                        </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/9867924">BRAQUE</persName>
+                           <resp>cre</resp>
+                        </respStmt>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">Illustration</classCode>
+                           <biblScope unit="page">1</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">FEMME!</seg>
+                        </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/5080960">M. DE ZAYAS</persName>
+                           <resp>cre</resp>
+                        </respStmt>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">Illustration</classCode>
+                           <biblScope unit="page">2</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">voila ELLE</seg>
+                        </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/36923084">F. Picabia</persName>
+                           <resp>cre</resp>
+                        </respStmt>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">Illustration</classCode>
+                           <biblScope unit="page">3</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
+                  <biblStruct>
+                     <analytic>
+                        <title level="a">
+                           <seg type="main">Untitled Image</seg>
+                        </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/15873">PICASSO</persName>
+                           <resp>cre</resp>
+                        </respStmt>
+                     </analytic>
+                     <monogr>
+                        <imprint>
+                           <classCode scheme="CCS">Illustration</classCode>
+                           <biblScope unit="page">4</biblScope>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </relatedItem></biblStruct>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="15180" lry="22860">
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaao/issues/1915/11_01/delivery/bmtnaao_1915-11_01_0001.jp2"/>
+         <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="15180" lry="0"/>
+         <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="0" lrx="0" lry="22850"/>
+         <tei:zone type="margin" xml:id="P1_RM00001" ulx="15180" uly="0" lrx="15180" lry="22850"/>
+         <tei:zone type="margin" xml:id="P1_BM00001" ulx="0" uly="22850" lrx="15180" lry="22860"/>
+         <tei:zone type="margin" xml:id="P1_PS00001" ulx="0" uly="0" lrx="15180" lry="22850">
+            <tei:zone type="TextBlock" xml:id="P1_TB00001" ulx="4810" uly="750" lrx="10350" lry="2910">
+               <tei:zone type="TextLine" xml:id="P1_TL00001" ulx="6230" uly="750" lrx="9150" lry="2020">
+                  <tei:zone type="String" xml:id="P1_ST00001" ulx="6230" uly="750" lrx="9150" lry="2020">291</tei:zone>
+               </tei:zone>
+               <tei:zone type="TextLine" xml:id="P1_TL00002" ulx="4820" uly="2730" lrx="10340" lry="2890">
+                  <tei:zone type="String" xml:id="P1_ST00002" ulx="4820" uly="2740" lrx="5120" lry="2890">No.</tei:zone> 
+                  <tei:zone type="String" xml:id="P1_ST00003" ulx="5240" uly="2750" lrx="5330" lry="2890">9</tei:zone> 
+                  <tei:zone type="String" xml:id="P1_ST00004" ulx="6850" uly="2730" lrx="7800" lry="2880">November</tei:zone> 
+                  <tei:zone type="String" xml:id="P1_ST00005" ulx="7920" uly="2740" lrx="8290" lry="2880">1915</tei:zone> 
+                  <tei:zone type="String" xml:id="P1_ST00006" ulx="9510" uly="2740" lrx="9690" lry="2880">10</tei:zone> 
+                  <tei:zone type="String" xml:id="P1_ST00007" ulx="9800" uly="2730" lrx="10340" lry="2880">Cents</tei:zone>
+               </tei:zone>
+            </tei:zone>
+            <tei:zone type="TextBlock" xml:id="P1_TB00002" ulx="12120" uly="21810" lrx="12870" lry="21960">
+               <tei:zone type="TextLine" xml:id="P1_TL00003" ulx="12130" uly="21810" lrx="12860" lry="21960">
+                  <tei:zone type="String" xml:id="P1_ST00008" ulx="12130" uly="21810" lrx="12860" lry="21960">BRAQUE</tei:zone>
+               </tei:zone>
+            </tei:zone>
+         </tei:zone>
+      </tei:surface>
+      <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="15390" lry="22860">
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaao/issues/1915/11_01/delivery/bmtnaao_1915-11_01_0002.jp2"/>
+         <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="15390" lry="1300"/>
+         <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="1300" lrx="1000" lry="21980"/>
+         <tei:zone type="margin" xml:id="P2_RM00001" ulx="14220" uly="1300" lrx="15390" lry="21980"/>
+         <tei:zone type="margin" xml:id="P2_BM00001" ulx="0" uly="21980" lrx="15390" lry="22860"/>
+         <tei:zone type="margin" xml:id="P2_PS00001" ulx="1000" uly="1300" lrx="14220" lry="21980">
+            <tei:zone type="TextBlock" xml:id="P2_TB00001" ulx="1510" uly="1300" lrx="4360" lry="1830">
+               <tei:zone type="TextLine" xml:id="P2_TL00001" ulx="1510" uly="1310" lrx="4360" lry="1830">
+                  <tei:zone type="String" xml:id="P2_ST00001" ulx="1510" uly="1310" lrx="4360" lry="1830">FEMME!</tei:zone>
+               </tei:zone>
+            </tei:zone>
+            <tei:zone type="TextBlock" xml:id="P2_TB00002" ulx="10500" uly="21840" lrx="11440" lry="21980">
+               <tei:zone type="TextLine" xml:id="P2_TL00002" ulx="10520" uly="21850" lrx="11430" lry="21960">
+                  <tei:zone type="String" xml:id="P2_ST00002" ulx="10520" uly="21850" lrx="10680" lry="21950">M.</tei:zone> 
+                  <tei:zone type="String" xml:id="P2_ST00003" ulx="10760" uly="21850" lrx="10930" lry="21960">DE</tei:zone> 
+                  <tei:zone type="String" xml:id="P2_ST00004" ulx="11000" uly="21860" lrx="11430" lry="21960">ZAYAS</tei:zone>
+               </tei:zone>
+            </tei:zone>
+         </tei:zone>
+      </tei:surface>
+      <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="15160" lry="22860">
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaao/issues/1915/11_01/delivery/bmtnaao_1915-11_01_0003.jp2"/>
+         <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="15160" lry="0"/>
+         <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="0" lrx="0" lry="22850"/>
+         <tei:zone type="margin" xml:id="P3_RM00001" ulx="15160" uly="0" lrx="15160" lry="22850"/>
+         <tei:zone type="margin" xml:id="P3_BM00001" ulx="0" uly="22850" lrx="15160" lry="22860"/>
+         <tei:zone type="margin" xml:id="P3_PS00001" ulx="0" uly="0" lrx="15160" lry="22850">
+            <tei:zone type="TextBlock" xml:id="P3_TB00001" ulx="1980" uly="20710" lrx="2660" lry="20870">
+               <tei:zone type="TextLine" xml:id="P3_TL00001" ulx="2000" uly="20720" lrx="2650" lry="20840">
+                  <tei:zone type="String" xml:id="P3_ST00001" ulx="2000" uly="20720" lrx="2120" lry="20840">F.</tei:zone> 
+                  <tei:zone type="String" xml:id="P3_ST00002" ulx="2200" uly="20720" lrx="2650" lry="20840">Picabia</tei:zone>
+               </tei:zone>
+            </tei:zone>
+            <tei:zone type="TextBlock" xml:id="P3_TB00002" ulx="1100" uly="21040" lrx="4210" lry="21630">
+               <tei:zone type="TextLine" xml:id="P3_TL00002" ulx="1110" uly="21040" lrx="4210" lry="21630">
+                  <tei:zone type="String" xml:id="P3_ST00003" ulx="1110" uly="21340" lrx="2080" lry="21630">voilX</tei:zone> 
+                  <tei:zone type="String" xml:id="P3_ST00004" ulx="2200" uly="21040" lrx="4210" lry="21620">ELLE</tei:zone>
+               </tei:zone>
+            </tei:zone>
+         </tei:zone>
+      </tei:surface>
+      <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="15160" lry="22860">
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaao/issues/1915/11_01/delivery/bmtnaao_1915-11_01_0004.jp2"/>
+         <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="15160" lry="0"/>
+         <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="0" lrx="0" lry="22850"/>
+         <tei:zone type="margin" xml:id="P4_RM00001" ulx="15160" uly="0" lrx="15160" lry="22850"/>
+         <tei:zone type="margin" xml:id="P4_BM00001" ulx="0" uly="22850" lrx="15160" lry="22860"/>
+         <tei:zone type="margin" xml:id="P4_PS00001" ulx="0" uly="0" lrx="15160" lry="22850">
+            <tei:zone type="TextBlock" xml:id="P4_TB00001" ulx="13300" uly="21790" lrx="14040" lry="21930">
+               <tei:zone type="TextLine" xml:id="P4_TL00001" ulx="13300" uly="21800" lrx="14040" lry="21930">
+                  <tei:zone type="String" xml:id="P4_ST00001" ulx="13300" uly="21800" lrx="14040" lry="21930">PICASSO</tei:zone>
+               </tei:zone>
+            </tei:zone>
+         </tei:zone>
+      </tei:surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="Magazine">
+            <div type="Issue">
+               <div type="PublicationInfo">
+                  <div type="GenericPubInfo">
+                     <ab facs="P1_TB00001">
+                        <lb facs="P1_TL00001"/>291<lb facs="P1_TL00002"/>No. 9 November 1915 10 Cents</ab>
+                  </div>
+               </div>
+               <div type="EditorialContent">
+                  <div type="Illustration" corresp="c001">
+                     <div type="Image"/>
+                     <div type="Caption">
+                        <ab facs="P1_TB00002">
+                           <lb facs="P1_TL00003"/>BRAQUE</ab>
+                     </div>
+                  </div>
+                  <div type="Illustration" corresp="c002">
+                     <div type="Image"/>
+                     <div type="Caption">
+                        <ab facs="P2_TB00001">
+                           <lb facs="P2_TL00001"/>FEMME!</ab>
+                        <ab facs="P2_TB00002">
+                           <lb facs="P2_TL00002"/>M. DE ZAYAS</ab>
+                     </div>
+                  </div>
+                  <div type="Illustration" corresp="c003">
+                     <div type="Image"/>
+                     <div type="Caption">
+                        <ab facs="P3_TB00001">
+                           <lb facs="P3_TL00001"/>F. Picabia</ab>
+                        <ab facs="P3_TB00002">
+                           <lb facs="P3_TL00002"/>voilX ELLE</ab>
+                     </div>
+                  </div>
+                  <div type="Illustration" corresp="c004">
+                     <div type="Image"/>
+                     <div type="Caption">
+                        <ab facs="P4_TB00001">
+                           <lb facs="P4_TL00001"/>PICASSO</ab>
+                     </div>
+                  </div>
+               </div>
             </div>
-          </div>
-          <div type="EditorialContent">
-            <div type="Illustration" corresp="c001">
-              <div type="Image"/>
-              <div type="Caption">
-                <ab facs="P1_TB00002">
-                <lb facs="P1_TL00003"/>BRAQUE</ab>
-              </div>
-            </div>
-            <div type="Illustration" corresp="c002">
-              <div type="Image"/>
-              <div type="Caption">
-                <ab facs="P2_TB00001">
-                <lb facs="P2_TL00001"/>FEMME!</ab>
-                <ab facs="P2_TB00002">
-                <lb facs="P2_TL00002"/>M. DE ZAYAS</ab>
-              </div>
-            </div>
-            <div type="Illustration" corresp="c003">
-              <div type="Image"/>
-              <div type="Caption">
-                <ab facs="P3_TB00001">
-                <lb facs="P3_TL00001"/>F. Picabia</ab>
-                <ab facs="P3_TB00002">
-                <lb facs="P3_TL00002"/>voilX ELLE</ab>
-              </div>
-            </div>
-            <div type="Illustration" corresp="c004">
-              <div type="Image"/>
-              <div type="Caption">
-                <ab facs="P4_TB00001">
-                <lb facs="P4_TL00001"/>PICASSO</ab>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </body>
-  </text>
+         </div>
+      </body>
+   </text>
 </TEI>

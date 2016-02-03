@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">2</biblScope>
                         <biblScope unit="issue">16</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace>
                         <date when="1917-04">Avril 1917</date>
                      </imprint>
                   </monogr>
@@ -109,8 +100,7 @@
                   <acquisition> </acquisition>
                </history>
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -119,9 +109,7 @@
                      <biblScope unit="issue">16</biblScope>
                      <date when="1917-04"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -135,8 +123,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -151,8 +138,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -182,8 +168,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -198,13 +183,17 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">BALALAÏKA</seg>
+                           <seg type="sub">POÈME A DEUX VOIX</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/14765320">PIERRE ALBERT-BIROT</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -213,29 +202,8 @@
                            <biblScope unit="page">3</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c007">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">POÈME A DEUX VOIX</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/14765320">PIERRE ALBERT-BIROT</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">3</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -243,7 +211,7 @@
                            <seg type="main">PONT</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/66462795&#xA;">GUILLAUME APOLLINAIRE</persName>
+                           <persName ref="http://viaf.org/viaf/66462795">GUILLAUME APOLLINAIRE</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -255,12 +223,12 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">DIALOGUE NUNIQUE Z et A</seg>
+                           <seg type="main">VOS PAPIERS?</seg>
                         </title>
                         <textLang mainLang="fre"/>
                      </analytic>
@@ -270,25 +238,8 @@
                            <biblScope unit="page">6</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c010">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">VOS PAPIERS?</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">6</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c011">
+               </relatedItem><relatedItem type="constituent" xml:id="c011">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -302,25 +253,8 @@
                            <biblScope unit="page">7</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c012">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">Untitled Text</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">7</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -336,14 +270,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="30610" lry="42140">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/04_01/delivery/bmtnaaz_1917-04_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="30610" lry="2790"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="2790" lrx="760" lry="37900"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="29550" uly="2790" lrx="30610" lry="37900"/>
@@ -525,7 +458,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="30610" lry="42140">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/04_01/delivery/bmtnaaz_1917-04_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="30610" lry="4910"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="4910" lrx="2760" lry="36910"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="26800" uly="4910" lrx="30610" lry="36910"/>
@@ -682,7 +615,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="30610" lry="42140">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/04_01/delivery/bmtnaaz_1917-04_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="30610" lry="7400"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="7400" lrx="6360" lry="37150"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="23320" uly="7400" lrx="30610" lry="37150"/>
@@ -858,7 +791,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="25980" lry="41900">
-         <tei:graphic url="0009.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/04_01/delivery/bmtnaaz_1917-04_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="25980" lry="3200"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="3200" lrx="3390" lry="38700"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="22230" uly="3200" lrx="25980" lry="38700"/>
@@ -1052,7 +985,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="30610" lry="42140">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/04_01/delivery/bmtnaaz_1917-04_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="30610" lry="4460"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="4460" lrx="3340" lry="37010"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="27390" uly="4460" lrx="30610" lry="37010"/>
@@ -1785,7 +1718,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="30610" lry="42140">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/04_01/delivery/bmtnaaz_1917-04_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="30610" lry="5130"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="5130" lrx="3390" lry="37080"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="27250" uly="5130" lrx="30610" lry="37080"/>
@@ -2593,7 +2526,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="30610" lry="42140">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/04_01/delivery/bmtnaaz_1917-04_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="30610" lry="4270"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="4270" lrx="3260" lry="36440"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="27250" uly="4270" lrx="30610" lry="36440"/>
@@ -3243,22 +3176,20 @@
                         <ab facs="P3_TB00001">
                            <lb facs="P3_TL00001"/>BALALAÏKA</ab>
                      </div>
-                     <div type="TextContent" corresp="c007">
-                        <div type="Head">
-                           <ab facs="P3_TB00002">
-                              <lb facs="P3_TL00002"/>POÈME A DEUX VOIX</ab>
-                        </div>
-                        <div type="Byline">
-                           <ab facs="P3_TB00004">
-                              <lb facs="P3_TL00028"/>PIERRE ALBERT-BIROT</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P3_TB00003">
-                                       <lb facs="P3_TL00003"/>la balalaïka<lb facs="P3_TL00004"/>Ferme les yeux pour y voir plus clair.<lb facs="P3_TL00005"/>balalaïka<lb facs="P3_TL00006"/>Que vois-tu?<lb facs="P3_TL00007"/>la la ï ka<lb facs="P3_TL00008"/>Des lampes de couleur qui font la ronde<lb facs="P3_TL00009"/>balala la balalaïka<lb facs="P3_TL00010"/>vivent et meurent ombreetlumière<lb facs="P3_TL00011"/>la la bala<lb facs="P3_TL00012"/>vert jaune bleu rouge noir<lb facs="P3_TL00013"/>bala<lb facs="P3_TL00014"/>et des mains qui aiment<lb facs="P3_TL00015"/>laïka<lb facs="P3_TL00016"/>et des seins qui pointent<lb facs="P3_TL00017"/>balalaïka laïka<lb facs="P3_TL00018"/>et des seins qui penchent<lb facs="P3_TL00019"/>laïka<lb facs="P3_TL00020"/>et des ventres et des trains qui sifflent<lb facs="P3_TL00021"/>balala balala<lb facs="P3_TL00022"/>et des eaux qui roulent et des monts<lb facs="P3_TL00023"/>lalaïka<lb facs="P3_TL00024"/>glacés et des la la laïka<lb facs="P3_TL00025"/>la balalaïka la balalaïka balalaïka<lb facs="P3_TL00026"/>ïka la laïka balala<lb facs="P3_TL00027"/>balala balalaïka</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P3_TB00002">
+                           <lb facs="P3_TL00002"/>POÈME A DEUX VOIX</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab facs="P3_TB00004">
+                           <lb facs="P3_TL00028"/>PIERRE ALBERT-BIROT</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P3_TB00003">
+                                    <lb facs="P3_TL00003"/>la balalaïka<lb facs="P3_TL00004"/>Ferme les yeux pour y voir plus clair.<lb facs="P3_TL00005"/>balalaïka<lb facs="P3_TL00006"/>Que vois-tu?<lb facs="P3_TL00007"/>la la ï ka<lb facs="P3_TL00008"/>Des lampes de couleur qui font la ronde<lb facs="P3_TL00009"/>balala la balalaïka<lb facs="P3_TL00010"/>vivent et meurent ombreetlumière<lb facs="P3_TL00011"/>la la bala<lb facs="P3_TL00012"/>vert jaune bleu rouge noir<lb facs="P3_TL00013"/>bala<lb facs="P3_TL00014"/>et des mains qui aiment<lb facs="P3_TL00015"/>laïka<lb facs="P3_TL00016"/>et des seins qui pointent<lb facs="P3_TL00017"/>balalaïka laïka<lb facs="P3_TL00018"/>et des seins qui penchent<lb facs="P3_TL00019"/>laïka<lb facs="P3_TL00020"/>et des ventres et des trains qui sifflent<lb facs="P3_TL00021"/>balala balala<lb facs="P3_TL00022"/>et des eaux qui roulent et des monts<lb facs="P3_TL00023"/>lalaïka<lb facs="P3_TL00024"/>glacés et des la la laïka<lb facs="P3_TL00025"/>la balalaïka la balalaïka balalaïka<lb facs="P3_TL00026"/>ïka la laïka balala<lb facs="P3_TL00027"/>balala balalaïka</ab>
                               </div>
                            </div>
                         </div>
@@ -3289,44 +3220,42 @@
                         <ab facs="P5_TB00001">
                            <lb facs="P5_TL00001"/>DIALOGUE NUNIQUE<lb facs="P5_TL00002"/>Z et A</ab>
                      </div>
-                     <div type="TextContent" corresp="c010">
-                        <div type="Head">
-                           <ab facs="P5_TB00002">
-                              <lb facs="P5_TL00003"/>VOS PAPIERS?</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P5_TB00003">
-                                       <lb facs="P5_TL00004"/>A Nihil ex nihilo, pourtant d'où venez-vous? Il y a entre vous... et les autres une solution de<lb facs="P5_TL00005"/>continuité, en vérité vous êtes sans famille.<lb facs="P5_TL00006"/>Z Dites-donc tout de suite que nous sommes la génération spontanée. Ma foi non, les nunistes<lb facs="P5_TL00007"/>ne sont point des phénomènes de laboratoire, ils sont tout bêtement de braves bougres d'ani<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P5_TL00008"/>maux à deux pieds sans plumes fils de leurs pères et pères de leurs fils. Je m'explique. Voulez<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P5_TL00009"/>vous me dire quelles sont les grandes directions d'art que vous voyez dans l'histoire de l'Eu<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P5_TL00010"/>rope occidentale moderne ?<lb facs="P5_TL00011"/>A En clignant des yeux je n'en vois guère que deux qui tranchent nettement : l'une venant du<lb facs="P5_TL00012"/>christianisme et l'autre de l'hellénisme.<lb facs="P5_TL00013"/>Z Je ne sais pas si je ne dirais pas plutôt l'hellénisme et le christianisme car en fait le premier<lb facs="P5_TL00014"/>est en quelque sorte ossature du second et nous pouvons dire que l'Europe Occidentale et<lb facs="P5_TL00015"/>la France assez particulièrement est depuis 1.500 ans sous le joug de l'hellénisme. Or vou<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P5_TL00016"/>lez-vous me dire si vous estimez que le christianisme ait accepté ce joug?<lb facs="P5_TL00017"/>A Indiscutablement non, la question ne se pose pas.<lb facs="P5_TL00018"/>Z Il semble donc juste de dire que depuis ce que l'histoire nomme les temps modernes nous<lb facs="P5_TL00019"/>sommes gouvernés par deux mentalités qui s'opposent.<lb facs="P5_TL00020"/>A Tout cela n'est pas nouveau.<lb facs="P5_TL00021"/>2 C'est aussi mon avis. Jusqu'au xesiècle(l) la lutte est en quelque sorte à l'état latent, l'hellénisme<lb facs="P5_TL00022"/>s'allonge en byzantinisme qui se meurt et va se trouver bientôt recouvert parle christianisme<lb facs="P5_TL00023"/>resplendissant. Du Xe auxvi® la victoire est relativement complète. Voulez-vous me dire quelle<lb facs="P5_TL00024"/>est la caractéristique de ces 500 ans ?<lb facs="P5_TL00025"/>A Mais on peut dire que cette période assez ténébreuse se trouva privée en effet des lumières de<lb facs="P5_TL00026"/>l'hellénisme et que ce fut en quelque sorte comme le balbutiement d'un peuple qui com<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P5_TL00027"/>mence.<lb facs="P5_TL00028"/>2 Je vous remercie. Par là vous venez de reconnaître vous-même que ces cinq siècles consti<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P5_TL00029"/>tuent la période vraiment originale, créatrice, d'un peuple qui est enfin affranchi des formules<lb facs="P5_TL00030"/>toutes faites venues de civilisations antérieures qui de ce fait ne pouvaient nécessairement<lb facs="P5_TL00031"/>pas lui convenir et qui plein d'ardente jeunesse s'efforce à en découvrir de nouvelles con<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P5_TL00032"/>formes à sa propre mentalité, et durant ces cinq siècles on a regardé le monde tout bêtement :<lb facs="P5_TL00033"/>c'est pourquoi les artistes de ces temps n'ont pas imité mais CRÉÉ.<lb facs="P5_TL00034"/>A Tout de même il faut croire que l'hellénisme manquait puisqu'on s'est empressé d'aller le<lb facs="P5_TL00035"/>rechercher ?<lb facs="P5_TL00036"/>Z En effet, dès le xvi® siècle nous retombons sous le joug mais je trouve une grande différence<lb facs="P5_TL00037"/>entre cet hellénisme-là et l'autre.<lb facs="P5_TL00038"/>A Est-il donc deux héllénismes ?<lb facs="P5_TL00039"/>Z Mais certes, il en est un, le vrai, qui est mort vers le xe siècle, et un autre, fictif, mannequin<lb facs="P5_TL00040"/>que l'on met debout vers le xvie.<lb facs="P5_TL00041"/>A Comment, mais on n'a fait que le ressusciter.<lb facs="P5_TL00042"/>2 Ne parlons pas je vous prie de résurrection, nous n'y croyons ni l'un ni l'autre.<lb facs="P5_TL00043"/>A - Pourtant.<lb facs="P5_TL00044"/>2 Non, votre esprit sera je crois beaucoup plus satisfait si vous voulez considérer que c'est bien<lb facs="P5_TL00045"/>l'hellénisme même qui au travers du byzantinisme s'est prolongé tant bien que mal jusqu'aux<lb facs="P5_TL00046"/>environs du xe, mais à partir de là il meurt parce que son temps est passé et au xvie il ne sera<lb facs="P5_TL00047"/>plus qu'un hellénisme factice voulu et combiné par des curieux, des chercheurs, des savants,<lb facs="P5_TL00048"/>des érudits, non des artistes.</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P5_TB00002">
+                           <lb facs="P5_TL00003"/>VOS PAPIERS?</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P5_TB00003">
+                                    <lb facs="P5_TL00004"/>A Nihil ex nihilo, pourtant d'où venez-vous? Il y a entre vous... et les autres une solution de<lb facs="P5_TL00005"/>continuité, en vérité vous êtes sans famille.<lb facs="P5_TL00006"/>Z Dites-donc tout de suite que nous sommes la génération spontanée. Ma foi non, les nunistes<lb facs="P5_TL00007"/>ne sont point des phénomènes de laboratoire, ils sont tout bêtement de braves bougres d'ani<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00008"/>maux à deux pieds sans plumes fils de leurs pères et pères de leurs fils. Je m'explique. Voulez<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00009"/>vous me dire quelles sont les grandes directions d'art que vous voyez dans l'histoire de l'Eu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00010"/>rope occidentale moderne ?<lb facs="P5_TL00011"/>A En clignant des yeux je n'en vois guère que deux qui tranchent nettement : l'une venant du<lb facs="P5_TL00012"/>christianisme et l'autre de l'hellénisme.<lb facs="P5_TL00013"/>Z Je ne sais pas si je ne dirais pas plutôt l'hellénisme et le christianisme car en fait le premier<lb facs="P5_TL00014"/>est en quelque sorte ossature du second et nous pouvons dire que l'Europe Occidentale et<lb facs="P5_TL00015"/>la France assez particulièrement est depuis 1.500 ans sous le joug de l'hellénisme. Or vou<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00016"/>lez-vous me dire si vous estimez que le christianisme ait accepté ce joug?<lb facs="P5_TL00017"/>A Indiscutablement non, la question ne se pose pas.<lb facs="P5_TL00018"/>Z Il semble donc juste de dire que depuis ce que l'histoire nomme les temps modernes nous<lb facs="P5_TL00019"/>sommes gouvernés par deux mentalités qui s'opposent.<lb facs="P5_TL00020"/>A Tout cela n'est pas nouveau.<lb facs="P5_TL00021"/>2 C'est aussi mon avis. Jusqu'au xesiècle(l) la lutte est en quelque sorte à l'état latent, l'hellénisme<lb facs="P5_TL00022"/>s'allonge en byzantinisme qui se meurt et va se trouver bientôt recouvert parle christianisme<lb facs="P5_TL00023"/>resplendissant. Du Xe auxvi® la victoire est relativement complète. Voulez-vous me dire quelle<lb facs="P5_TL00024"/>est la caractéristique de ces 500 ans ?<lb facs="P5_TL00025"/>A Mais on peut dire que cette période assez ténébreuse se trouva privée en effet des lumières de<lb facs="P5_TL00026"/>l'hellénisme et que ce fut en quelque sorte comme le balbutiement d'un peuple qui com<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00027"/>mence.<lb facs="P5_TL00028"/>2 Je vous remercie. Par là vous venez de reconnaître vous-même que ces cinq siècles consti<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00029"/>tuent la période vraiment originale, créatrice, d'un peuple qui est enfin affranchi des formules<lb facs="P5_TL00030"/>toutes faites venues de civilisations antérieures qui de ce fait ne pouvaient nécessairement<lb facs="P5_TL00031"/>pas lui convenir et qui plein d'ardente jeunesse s'efforce à en découvrir de nouvelles con<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00032"/>formes à sa propre mentalité, et durant ces cinq siècles on a regardé le monde tout bêtement :<lb facs="P5_TL00033"/>c'est pourquoi les artistes de ces temps n'ont pas imité mais CRÉÉ.<lb facs="P5_TL00034"/>A Tout de même il faut croire que l'hellénisme manquait puisqu'on s'est empressé d'aller le<lb facs="P5_TL00035"/>rechercher ?<lb facs="P5_TL00036"/>Z En effet, dès le xvi® siècle nous retombons sous le joug mais je trouve une grande différence<lb facs="P5_TL00037"/>entre cet hellénisme-là et l'autre.<lb facs="P5_TL00038"/>A Est-il donc deux héllénismes ?<lb facs="P5_TL00039"/>Z Mais certes, il en est un, le vrai, qui est mort vers le xe siècle, et un autre, fictif, mannequin<lb facs="P5_TL00040"/>que l'on met debout vers le xvie.<lb facs="P5_TL00041"/>A Comment, mais on n'a fait que le ressusciter.<lb facs="P5_TL00042"/>2 Ne parlons pas je vous prie de résurrection, nous n'y croyons ni l'un ni l'autre.<lb facs="P5_TL00043"/>A - Pourtant.<lb facs="P5_TL00044"/>2 Non, votre esprit sera je crois beaucoup plus satisfait si vous voulez considérer que c'est bien<lb facs="P5_TL00045"/>l'hellénisme même qui au travers du byzantinisme s'est prolongé tant bien que mal jusqu'aux<lb facs="P5_TL00046"/>environs du xe, mais à partir de là il meurt parce que son temps est passé et au xvie il ne sera<lb facs="P5_TL00047"/>plus qu'un hellénisme factice voulu et combiné par des curieux, des chercheurs, des savants,<lb facs="P5_TL00048"/>des érudits, non des artistes.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P6_TB00001">
-                                       <lb facs="P6_TL00001"/>A Mais alors vous condamnez d'un coup cet admirable mouvement de la Renaissance ?<lb facs="P6_TL00002"/>Z Cet admirable mouvement de la Renaissance eut été un désastre s'il avait réussi.<lb facs="P6_TL00003"/>A Comment, s'il avait réussi !<lb facs="P6_TL00004"/>Z Mais parfaitement, la Renaissance n'a pas eu lieu pour l'excellente raison que ce qui est bien<lb facs="P6_TL00005"/>vivant n'a pas à renaître, or au xie, xne, xme, xiv®, xve, l'art français était en excellente santé<lb facs="P6_TL00006"/>et malgré les efforts d'enveloppement de l'hellénisme de cabinet il a tout simplement passé au<lb facs="P6_TL00007"/>travers et il a continué.<lb facs="P6_TL00008"/>A Pouvez-vous nier l'influence de la Renaissance ?<lb facs="P6_TL00009"/>Z Quels sont les représentants d'une époque, les masses grises des médiocres ou les 3 ou 4 génies<lb facs="P6_TL00010"/>qui la dominent ?<lb facs="P6_TL00011"/>A Les génies évidemment.<lb facs="P6_TL00012"/>Z Eh bien je vous prie de considérer la chose la plus curieuse : des hommes comme Rabelais,<lb facs="P6_TL00013"/>Ronsard, du Bellay, Montaigne, qui sont de dévots et savants hellénistes se trouvent poussés<lb facs="P6_TL00014"/>parce qu'ils sont artistes, c'est-à-dire créateurs à rejeter pour leur propre compte l'hellé<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P6_TL00015"/>nisme dont ils sont gorgés et qu'ils conseillent aux autres, si bien que les œuvres de ces chefs<lb facs="P6_TL00016"/>d'un mouvement qui a soi-disant ressuscité l'hellénisme sont par le fond et par la forme absolu<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P6_TL00017"/>ment opposées à l'esthétique hellénique et nettement originales et nationales et pour qui veut<lb facs="P6_TL00018"/>regarder d'assez près, les Rabelais, les Ronsard, les Montaigne sont bien les frères des<lb facs="P6_TL00019"/>Taillefert, des Chrétien de Troyes, des Charles d'Orléans, des Villon, des Maurice de Sully,<lb facs="P6_TL00020"/>des Villehardouin.<lb facs="P6_TL00021"/>A Peut-être en effet que les auteurs du xvie sentent encore le moyen âge, mais ceux du xvii 6 ?<lb facs="P6_TL00022"/>Z Ils ont continué. Tous, consciemment ou inconsciemment, Ils ont réagi contre l'enveloppement<lb facs="P6_TL00023"/>de l'hellénisme. Corneille, Molière, La Fontaine sont-ils grecs ceux-là ou français ? J'espère<lb facs="P6_TL00024"/>que vous voudrez bien admettre qu'ils sont plus près des Mystères, des jeux, des Farces Sotties<lb facs="P6_TL00025"/>et Moralités que des Eschyle, Sophocle et Aristophane et Racine lui-même qui est le plus<lb facs="P6_TL00026"/>docile n'a pourtant des tragiques grecs, en réalité, que les trois unités et le nom des person<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P6_TL00027"/>nages ; c'est peu.<lb facs="P6_TL00028"/>A C'est tout de même quelque chose.<lb facs="P6_TL00029"/>Z C'est vrai et c'est trop, pour cette raison Racine est dans la littérature française l'homme peut<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P6_TL00030"/>être le plus dangereux.<lb facs="P6_TL00031"/>A Quel blasphème !<lb facs="P6_TL00032"/>Z Souvent c'est ainsi qu'on nomme les vérités. Il n'en est pas moins vrai que fort heureusement<lb facs="P6_TL00033"/>Racine est demeuré un isolé dans sa docilité. Et les philosophes? Que pensez-vous d'un Pas<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P6_TL00034"/>cal, d'un Descartes, ont-ils épousé l'hellénisme ceux-là? Et les savants que j'oubliais, qui<lb facs="P6_TL00035"/>depuis le xvie siècle n'ont cessé de démentir l'antiquité dans tous les domaines, sur terre, sur<lb facs="P6_TL00036"/>mer, dans le ciel ; et lexvin® n'est-il pas bien français dans son architecture, sa peinture, ses<lb facs="P6_TL00037"/>lettres, sa philosophie ;et le xix® ? Est-ce que Lamartine est grec ? et Chateaubriand ?et<lb facs="P6_TL00038"/>Musset ? et Hugo ? et Beaudelaire ? et Mallarmé ? et Rimbaud ?<lb facs="P6_TL00039"/>A Mais ily a pourtant une influence hellénique en France, vous le disiez vous-même tout à l'heure.<lb facs="P6_TL00040"/>Z Oui, il y a eu en effet en France deux courants : l'un qui est sous le joug de l'hellénisme, qui<lb facs="P6_TL00041"/>est formé par la masse des imitateurs qui marche sur les bas-côtés et en réalité ne compte<lb facs="P6_TL00042"/>pas, et l'autre qui suit la grande route nationale et qui est formé par les créateurs, c'est-à<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P6_TL00043"/>-dire les vrais conservateurs du feu, les nunistes ; ce sont les seuls qui comptent et nous avons<lb facs="P6_TL00044"/>la prétention de prendre rang à la suite de ce grand cortège et si vous m'avez bien suivi vous<lb facs="P6_TL00045"/>devez convenir avec moi que nous sommes tout simplement aujourd'hui les vrais défenseurs<lb facs="P6_TL00046"/>de la plus pure tradition.<lb facs="P6_TL00047"/>A Prétendez-vous donc ressembler à tous ces grands ?<lb facs="P6_TL00048"/>Z Oui en tant que créateurs, dont le propre est par définition de ne ressembler parfaitement à<lb facs="P6_TL00049"/>personne.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P6_TB00001">
+                                    <lb facs="P6_TL00001"/>A Mais alors vous condamnez d'un coup cet admirable mouvement de la Renaissance ?<lb facs="P6_TL00002"/>Z Cet admirable mouvement de la Renaissance eut été un désastre s'il avait réussi.<lb facs="P6_TL00003"/>A Comment, s'il avait réussi !<lb facs="P6_TL00004"/>Z Mais parfaitement, la Renaissance n'a pas eu lieu pour l'excellente raison que ce qui est bien<lb facs="P6_TL00005"/>vivant n'a pas à renaître, or au xie, xne, xme, xiv®, xve, l'art français était en excellente santé<lb facs="P6_TL00006"/>et malgré les efforts d'enveloppement de l'hellénisme de cabinet il a tout simplement passé au<lb facs="P6_TL00007"/>travers et il a continué.<lb facs="P6_TL00008"/>A Pouvez-vous nier l'influence de la Renaissance ?<lb facs="P6_TL00009"/>Z Quels sont les représentants d'une époque, les masses grises des médiocres ou les 3 ou 4 génies<lb facs="P6_TL00010"/>qui la dominent ?<lb facs="P6_TL00011"/>A Les génies évidemment.<lb facs="P6_TL00012"/>Z Eh bien je vous prie de considérer la chose la plus curieuse : des hommes comme Rabelais,<lb facs="P6_TL00013"/>Ronsard, du Bellay, Montaigne, qui sont de dévots et savants hellénistes se trouvent poussés<lb facs="P6_TL00014"/>parce qu'ils sont artistes, c'est-à-dire créateurs à rejeter pour leur propre compte l'hellé<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00015"/>nisme dont ils sont gorgés et qu'ils conseillent aux autres, si bien que les œuvres de ces chefs<lb facs="P6_TL00016"/>d'un mouvement qui a soi-disant ressuscité l'hellénisme sont par le fond et par la forme absolu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00017"/>ment opposées à l'esthétique hellénique et nettement originales et nationales et pour qui veut<lb facs="P6_TL00018"/>regarder d'assez près, les Rabelais, les Ronsard, les Montaigne sont bien les frères des<lb facs="P6_TL00019"/>Taillefert, des Chrétien de Troyes, des Charles d'Orléans, des Villon, des Maurice de Sully,<lb facs="P6_TL00020"/>des Villehardouin.<lb facs="P6_TL00021"/>A Peut-être en effet que les auteurs du xvie sentent encore le moyen âge, mais ceux du xvii 6 ?<lb facs="P6_TL00022"/>Z Ils ont continué. Tous, consciemment ou inconsciemment, Ils ont réagi contre l'enveloppement<lb facs="P6_TL00023"/>de l'hellénisme. Corneille, Molière, La Fontaine sont-ils grecs ceux-là ou français ? J'espère<lb facs="P6_TL00024"/>que vous voudrez bien admettre qu'ils sont plus près des Mystères, des jeux, des Farces Sotties<lb facs="P6_TL00025"/>et Moralités que des Eschyle, Sophocle et Aristophane et Racine lui-même qui est le plus<lb facs="P6_TL00026"/>docile n'a pourtant des tragiques grecs, en réalité, que les trois unités et le nom des person<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00027"/>nages ; c'est peu.<lb facs="P6_TL00028"/>A C'est tout de même quelque chose.<lb facs="P6_TL00029"/>Z C'est vrai et c'est trop, pour cette raison Racine est dans la littérature française l'homme peut<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00030"/>être le plus dangereux.<lb facs="P6_TL00031"/>A Quel blasphème !<lb facs="P6_TL00032"/>Z Souvent c'est ainsi qu'on nomme les vérités. Il n'en est pas moins vrai que fort heureusement<lb facs="P6_TL00033"/>Racine est demeuré un isolé dans sa docilité. Et les philosophes? Que pensez-vous d'un Pas<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00034"/>cal, d'un Descartes, ont-ils épousé l'hellénisme ceux-là? Et les savants que j'oubliais, qui<lb facs="P6_TL00035"/>depuis le xvie siècle n'ont cessé de démentir l'antiquité dans tous les domaines, sur terre, sur<lb facs="P6_TL00036"/>mer, dans le ciel ; et lexvin® n'est-il pas bien français dans son architecture, sa peinture, ses<lb facs="P6_TL00037"/>lettres, sa philosophie ;et le xix® ? Est-ce que Lamartine est grec ? et Chateaubriand ?et<lb facs="P6_TL00038"/>Musset ? et Hugo ? et Beaudelaire ? et Mallarmé ? et Rimbaud ?<lb facs="P6_TL00039"/>A Mais ily a pourtant une influence hellénique en France, vous le disiez vous-même tout à l'heure.<lb facs="P6_TL00040"/>Z Oui, il y a eu en effet en France deux courants : l'un qui est sous le joug de l'hellénisme, qui<lb facs="P6_TL00041"/>est formé par la masse des imitateurs qui marche sur les bas-côtés et en réalité ne compte<lb facs="P6_TL00042"/>pas, et l'autre qui suit la grande route nationale et qui est formé par les créateurs, c'est-à<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P6_TL00043"/>-dire les vrais conservateurs du feu, les nunistes ; ce sont les seuls qui comptent et nous avons<lb facs="P6_TL00044"/>la prétention de prendre rang à la suite de ce grand cortège et si vous m'avez bien suivi vous<lb facs="P6_TL00045"/>devez convenir avec moi que nous sommes tout simplement aujourd'hui les vrais défenseurs<lb facs="P6_TL00046"/>de la plus pure tradition.<lb facs="P6_TL00047"/>A Prétendez-vous donc ressembler à tous ces grands ?<lb facs="P6_TL00048"/>Z Oui en tant que créateurs, dont le propre est par définition de ne ressembler parfaitement à<lb facs="P6_TL00049"/>personne.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P5_TB00004">
-                                       <lb facs="P5_TL00049"/>(1) Mieux que personne nous savons combien conventionnelles sont ces lignes précises de démarcation, mais il fal<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P5_TL00050"/>lait éviter que cet article devienne un livre.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P5_TB00004">
+                                    <lb facs="P5_TL00049"/>(1) Mieux que personne nous savons combien conventionnelles sont ces lignes précises de démarcation, mais il fal<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P5_TL00050"/>lait éviter que cet article devienne un livre.</ab>
                               </div>
                            </div>
                         </div>
@@ -3337,14 +3266,12 @@
                         <ab facs="P7_TB00001">
                            <lb facs="P7_TL00001"/>ETC...</ab>
                      </div>
-                     <div type="TextContent" corresp="c012">
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P7_TB00002">
-                                       <lb facs="P7_TL00002"/>LETTRES.— En France il y avait jusqu'ici 333.777 journaux pour faire dormir les gens et 1 pour<lb facs="P7_TL00003"/>les éveiller, vraiment c'était un travail surhumain car ils dorment bien et c'est avec plaisir<lb facs="P7_TL00004"/>que nous saluons le courageux qui vient nous aider : désormais contre 333.777 nous serons 2 : SIC<lb facs="P7_TL00005"/>et NORD-SUD, s'il en vient seulement encore un ou deux autres nous serons tout à fait en force.</ab>
-                                 </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P7_TB00002">
+                                    <lb facs="P7_TL00002"/>LETTRES.— En France il y avait jusqu'ici 333.777 journaux pour faire dormir les gens et 1 pour<lb facs="P7_TL00003"/>les éveiller, vraiment c'était un travail surhumain car ils dorment bien et c'est avec plaisir<lb facs="P7_TL00004"/>que nous saluons le courageux qui vient nous aider : désormais contre 333.777 nous serons 2 : SIC<lb facs="P7_TL00005"/>et NORD-SUD, s'il en vient seulement encore un ou deux autres nous serons tout à fait en force.</ab>
                               </div>
                            </div>
                         </div>

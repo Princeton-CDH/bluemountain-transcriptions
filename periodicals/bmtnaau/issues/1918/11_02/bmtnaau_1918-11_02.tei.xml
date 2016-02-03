@@ -26,8 +26,7 @@
          <seriesStmt>
             <title level="s">The Blue Mountain Project</title>
          </seriesStmt>
-         <sourceDesc>
-            <msDesc>
+         <sourceDesc><msDesc>
                <msIdentifier>
                   <institution>Princeton University Library</institution>
                   
@@ -100,7 +99,7 @@
                <history>
                   <summary>
                      <p>Sold for <measureGrp type="salesprice">
-                        <measure unit="shilling" quantity="0"></measure>
+                        <measure unit="shilling" quantity="0"/>
                      </measureGrp>.</p>
                   </summary>
                   <provenance> </provenance>
@@ -109,8 +108,7 @@
                </history>
                
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="nonSort">The</seg>
                      <seg type="main">Mask</seg>
@@ -120,16 +118,14 @@
                      <biblScope unit="issue">10</biblScope>
                      <date when="1918-11"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">LITTLE STATES</seg>
                         </title>
                         <respStmt>
-                           <persName>Lao-Tzu</persName>
+                           <persName ref="http://viaf.org/viaf/100199971">Lao-Tzu</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <respStmt>
@@ -145,15 +141,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">LITTLE THEATRES AND SO ON</seg>
                         </title>
                         <respStmt>
-                           <persName>Y. N. H</persName>
+                           <persName ref="https://viaf.org/viaf/100201551">Y. N. H</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -165,8 +160,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -185,8 +179,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -194,7 +187,7 @@
                            <seg type="main">THEATRE IN WAR-TIME</seg>
                         </title>
                         <respStmt>
-                           <persName>ISRAEL ZANGWILL</persName>
+                           <persName ref="http://viaf.org/viaf/56617927">ISRAEL ZANGWILL</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -206,15 +199,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Untitled Text</seg>
                         </title>
                         <respStmt>
-                           <persName>J. B</persName>
+                           <persName ref="https://viaf.org/viaf/100201551">J. B</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -226,8 +218,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -259,8 +250,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -323,15 +313,14 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c012">
+               </relatedItem><relatedItem type="constituent" xml:id="c012">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Untitled Text</seg>
                         </title>
                         <respStmt>
-                           <persName>Matthew Arnold</persName>
+                           <persName ref="http://viaf.org/viaf/73868557">Matthew Arnold</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -343,15 +332,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Untitled Text</seg>
                         </title>
                         <respStmt>
-                           <persName>ANATOLE FRANCE</persName>
+                           <persName ref="http://viaf.org/viaf/4925052">ANATOLE FRANCE</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -378,14 +366,13 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="31340" lry="44650">
-         <tei:graphic url="0039.jp2"/>
+         <tei:graphic url="0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="31340" lry="2090"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="2090" lrx="1440" lry="44540"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="29530" uly="2090" lrx="31340" lry="44540"/>
@@ -1393,7 +1380,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="31340" lry="44650">
-         <tei:graphic url="0040.jp2"/>
+         <tei:graphic url="0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="31340" lry="1730">
             <tei:zone type="TextBlock" xml:id="P2_TB00001" ulx="1820" uly="1270" lrx="2420" lry="1710">
                <tei:zone type="TextLine" xml:id="P2_TL00001" ulx="1820" uly="1270" lrx="2420" lry="1710">
@@ -2899,7 +2886,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="31340" lry="44650">
-         <tei:graphic url="0041.jp2"/>
+         <tei:graphic url="0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="31340" lry="2000">
             <tei:zone type="TextBlock" xml:id="P3_TB00001" ulx="28740" uly="1560" lrx="29310" lry="1970">
                <tei:zone type="TextLine" xml:id="P3_TL00001" ulx="28740" uly="1560" lrx="29310" lry="1970">
@@ -4573,7 +4560,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="31340" lry="44650">
-         <tei:graphic url="0042.jp2"/>
+         <tei:graphic url="0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="31340" lry="1920">
             <tei:zone type="TextBlock" xml:id="P4_TB00001" ulx="1850" uly="1310" lrx="2500" lry="1900">
                <tei:zone type="TextLine" xml:id="P4_TL00001" ulx="1850" uly="1310" lrx="2500" lry="1900">

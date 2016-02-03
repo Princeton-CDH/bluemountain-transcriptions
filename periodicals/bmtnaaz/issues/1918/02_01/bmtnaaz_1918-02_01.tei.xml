@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">3</biblScope>
                         <biblScope unit="issue">26</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace>
                         <date when="1918-02">FÉVRIER 1918</date>
                      </imprint>
                   </monogr>
@@ -110,8 +101,7 @@
                   <acquisition> </acquisition>
                </history>
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -120,9 +110,7 @@
                      <biblScope unit="issue">26</biblScope>
                      <date when="1918-02"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -136,8 +124,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -152,8 +139,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -171,15 +157,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">ÉPÎTRE A MES DÉVOUÉS DÉTRACTEURS</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/14765320 http://viaf.org/viaf/14765320">P.A. B.</persName>
+                           <persName ref="http://viaf.org/viaf/14765320">P.A. B.</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -191,13 +176,17 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">POÈME</seg>
+                           <seg type="main">VISION</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/7379419">ARY JUSTMAN</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -206,35 +195,18 @@
                            <biblScope unit="page">3</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c006">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">VISION</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/7379419">ARY JUSTMAN</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">3</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c007">
+               </relatedItem><relatedItem type="constituent" xml:id="c007">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">RÉFLEXIONS SUR LA DANSE</seg>
                            <seg type="sub">IIInterpretation</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/12450164">G. A. B.</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -243,29 +215,8 @@
                            <biblScope unit="page">4</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c008">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">"Les danseurs ne rendent généralement pas l'œuvre qu'ils dansent, .mais uniquement l'impression"</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/12450164">G. A. B.</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">4</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -299,13 +250,17 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c011">
+               </relatedItem><relatedItem type="constituent" xml:id="c011">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">POEME</seg>
+                           <seg type="main">L'AMIE LE CHEVAL MORT</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/87139839">J. PEREZ-JORBA</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -314,29 +269,8 @@
                            <biblScope unit="page">6</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c012">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">L'AMIE LE CHEVAL MORT</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/87139839">J. PEREZ-JORBA</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">6</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -352,8 +286,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c014">
+               </relatedItem><relatedItem type="constituent" xml:id="c014">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -369,13 +302,16 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c015">
+               </relatedItem><relatedItem type="constituent" xml:id="c015">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">AD LENDEMAIN DES MAMELLES DE TIRÉSIAS</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/36935759">GEORGES GABORY</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -384,33 +320,12 @@
                            <biblScope unit="page">7</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c016">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">POÈME SUPPLIANT</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/36935759">GEORGES GABORY</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">7</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c017">
+               </relatedItem><relatedItem type="constituent" xml:id="c017">
                   <biblStruct>
                      <analytic>
                         <title level="a">
-                           <seg type="main">E T C...</seg>
+                           <seg type="main">ETC...</seg>
                         </title>
                         <textLang mainLang="fre"/>
                      </analytic>
@@ -462,14 +377,13 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="32320" lry="42650">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/02_01/delivery/bmtnaaz_1918-02_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="32320" lry="1770"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="1770" lrx="1090" lry="41750"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="31240" uly="1770" lrx="32320" lry="41750"/>
@@ -659,7 +573,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="28650" lry="39390">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/02_01/delivery/bmtnaaz_1918-02_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="28650" lry="3280"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="3280" lrx="2400" lry="34940"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="26240" uly="3280" lrx="28650" lry="34940"/>
@@ -1020,7 +934,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="28650" lry="39390">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/02_01/delivery/bmtnaaz_1918-02_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="28650" lry="460"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="460" lrx="1190" lry="37810"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="27370" uly="460" lrx="28650" lry="37810"/>
@@ -1213,7 +1127,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="28650" lry="39390">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/02_01/delivery/bmtnaaz_1918-02_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="28650" lry="3250"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="3250" lrx="2230" lry="35710"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="26470" uly="3250" lrx="28650" lry="35710"/>
@@ -1796,7 +1710,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="28650" lry="39390">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/02_01/delivery/bmtnaaz_1918-02_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="28650" lry="3050"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="3050" lrx="460" lry="34730"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="25770" uly="3050" lrx="28650" lry="34730"/>
@@ -1831,7 +1745,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="28650" lry="39390">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/02_01/delivery/bmtnaaz_1918-02_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="28650" lry="3910"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="3910" lrx="2480" lry="35520"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="26550" uly="3910" lrx="28650" lry="35520"/>
@@ -2174,7 +2088,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="28650" lry="39390">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/02_01/delivery/bmtnaaz_1918-02_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="28650" lry="3760"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="3760" lrx="2240" lry="35870"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="26240" uly="3760" lrx="28650" lry="35870"/>
@@ -2795,7 +2709,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="28650" lry="39390">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/02_01/delivery/bmtnaaz_1918-02_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="28650" lry="3730"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="3730" lrx="2500" lry="35690"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="26550" uly="3730" lrx="28650" lry="35690"/>
@@ -3690,28 +3604,26 @@
                         <ab facs="P3_TB00001">
                            <lb facs="P3_TL00001"/>POÈME</ab>
                      </div>
-                     <div type="TextContent" corresp="c006">
-                        <div type="Head">
-                           <ab facs="P3_TB00002">
-                              <lb facs="P3_TL00002"/>VISION</ab>
-                        </div>
-                        <div type="Byline">
-                           <ab facs="P3_TB00005">
-                              <lb facs="P3_TL00024"/>ARY JUSTMAN</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P3_TB00003">
-                                       <lb facs="P3_TL00003"/>Nuit. Les étoiles sont éteintes.<lb facs="P3_TL00004"/>Le vent mène sa danse<lb facs="P3_TL00005"/>Comme sur la scène : il hurle, siffle et fracasse.<lb facs="P3_TL00006"/>L'oiseau fantastique joue son rôle :<lb facs="P3_TL00007"/>œil de hibou, nez d'aigle,<lb facs="P3_TL00008"/>ailes de paon, fesses de femme.<lb facs="P3_TL00009"/>— Je marche en tâtonnant —<lb facs="P3_TL00010"/>Minuit sonne —<lb facs="P3_TL00011"/>Odeur de soufre et de bois pourri —-<lb facs="P3_TL00012"/>les éclairs épinent mes yeux —<lb facs="P3_TL00013"/>L'Homme n'est plus à trouver —<lb facs="P3_TL00014"/>seul sur la scène des ténèbres —<lb facs="P3_TL00015"/>Personne ne fraternise avec le Sphinx —<lb facs="P3_TL00016"/>Alexandre ne paraîtra dans le désert<lb facs="P3_TL00017"/>avec la lyre d'Homère —<lb facs="P3_TL00018"/>le poète se bat sans gloire et sans Dieu —<lb facs="P3_TL00019"/>avec un sanglant secret des anciennes<lb facs="P3_TL00020"/>années —<lb facs="P3_TL00021"/>Hélas ! je suis le dernier de la race<lb facs="P3_TL00022"/>orgueilleuse des Imbridables </ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P3_TB00002">
+                           <lb facs="P3_TL00002"/>VISION</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab facs="P3_TB00005">
+                           <lb facs="P3_TL00024"/>ARY JUSTMAN</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P3_TB00003">
+                                    <lb facs="P3_TL00003"/>Nuit. Les étoiles sont éteintes.<lb facs="P3_TL00004"/>Le vent mène sa danse<lb facs="P3_TL00005"/>Comme sur la scène : il hurle, siffle et fracasse.<lb facs="P3_TL00006"/>L'oiseau fantastique joue son rôle :<lb facs="P3_TL00007"/>œil de hibou, nez d'aigle,<lb facs="P3_TL00008"/>ailes de paon, fesses de femme.<lb facs="P3_TL00009"/>— Je marche en tâtonnant —<lb facs="P3_TL00010"/>Minuit sonne —<lb facs="P3_TL00011"/>Odeur de soufre et de bois pourri —-<lb facs="P3_TL00012"/>les éclairs épinent mes yeux —<lb facs="P3_TL00013"/>L'Homme n'est plus à trouver —<lb facs="P3_TL00014"/>seul sur la scène des ténèbres —<lb facs="P3_TL00015"/>Personne ne fraternise avec le Sphinx —<lb facs="P3_TL00016"/>Alexandre ne paraîtra dans le désert<lb facs="P3_TL00017"/>avec la lyre d'Homère —<lb facs="P3_TL00018"/>le poète se bat sans gloire et sans Dieu —<lb facs="P3_TL00019"/>avec un sanglant secret des anciennes<lb facs="P3_TL00020"/>années —<lb facs="P3_TL00021"/>Hélas ! je suis le dernier de la race<lb facs="P3_TL00022"/>orgueilleuse des Imbridables </ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P3_TB00004">
-                                       <lb facs="P3_TL00023"/>1917</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P3_TB00004">
+                                    <lb facs="P3_TL00023"/>1917</ab>
                               </div>
                            </div>
                         </div>
@@ -3722,25 +3634,23 @@
                         <ab facs="P4_TB00001">
                            <lb facs="P4_TL00001"/>RÉFLEXIONS SDR LA DANSE</ab>
                      </div>
-                     <div type="TextContent" corresp="c008">
-                        <div type="Byline">
-                           <ab facs="P4_TB00004">
-                              <lb facs="P4_TL00030"/>G. A. B.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="MinorHead">
-                                 <ab facs="P4_TB00002">
-                                    <lb facs="P4_TL00002"/>II<lb facs="P4_TL00003"/>INTERPRÉTATION</ab>
-                              </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P4_TB00003">
-                                       <lb facs="P4_TL00004"/>Les danseurs ne rendent généralement pas l'œuvre qu'ils dansent, .mais uniquement l'impression<lb facs="P4_TL00005"/>que cette œuvre leur a donnée,<lb facs="P4_TL00006"/>Ceci tient peut-être d'abord à cette erreur fondamentale : danser n'importe quelle musique.<lb facs="P4_TL00007"/>Or toute musique naît avec sa destination propre et c'est toujours la dénaturer que de la transcrire de<lb facs="P4_TL00008"/>quelque façon que ce soit. Ce qui a été conçu pour la voix n'est pas pour l'instrument, ce qui est pour<lb facs="P4_TL00009"/>violon n'est pas pour piano, etc... Or une œuvre à danser plus qu'aucune autre doit être conçue uniquement<lb facs="P4_TL00010"/>en vue de cette exécution et les danseurs n'ont qu'à la traduire intégralement s'ils ne veulent pas la<lb facs="P4_TL00011"/>trahir. Mais ceux-ci s'occupent fort rarement de la pensée de l'auteur, de ses phrases, de ses mots, de<lb facs="P4_TL00012"/>ses rythmes, qu'il ait écrit 5 mesures absolument diverses, le danseur continue son geste gracieux ou<lb facs="P4_TL00013"/>plastique, suivant sa mentalité, sans entendre ou vouloir entendre que des blanches à l'orchestre ont<lb facs="P4_TL00014"/>précédé des croches et suivi des triolets. Les instrumentistes, les chanteurs, n'ontjamais songé à nous faire<lb facs="P4_TL00015"/>entendre la musique que leur inspire la musique qu'ils prétendent exécuter. Ils jouent cette composition<lb facs="P4_TL00016"/>note par note, valeur par valeur, bien ou mal, mais exactement. Les danseurs doivent faire de même et<lb facs="P4_TL00017"/>donner le texte intact. L'œuvre seule dirige, tous les exécutants doivent s'y conformer. De cette transmission<lb facs="P4_TL00018"/>imiMÊÊiÊÊÊÊmÊÊaÊÊiÊmmBÊaBÊKBÊ #<lb facs="P4_TL00019"/>intégrale seule peut naître la cohésion complète qui doit exister entre le compositeur et le danseur; à<lb facs="P4_TL00020"/>cela ce dernier gagnera encore cet essentiel avantage : éviter la monotonie de ses gestes toujours sem<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00021"/>blables, chaque sonorité, chaque rythme lui apporteront une plastique différente, des soubresauts inté<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00022"/>ressants, des gestes imprévus.<lb facs="P4_TL00023"/>La mesure seule importe pour la danse. Les polkas, les valses, sont toutes et toujours à 2 et<lb facs="P4_TL00024"/>3 temps, leur chant peut varier à l'infini, le rythme seul en fera une polka ou une valse.<lb facs="P4_TL00025"/>Le tort de la plupart des danseurs est d'écouter d'abord la danse, de se la faire jouer plusieurs<lb facs="P4_TL00026"/>fois et de combiner ainsi, à froid, les gestes ou pauses qui résulteront de certains accords ou s'enchaî<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00027"/>neront pendant un certain nombre de temps. Pour moi j'ai constaté presque toujours un résultat excellent<lb facs="P4_TL00028"/>chez le danseur qui entendant les premières mesures se laisse emporter, suit et obéit complètement à ce<lb facs="P4_TL00029"/>rythme ; sur cette ébauche il est alors facile de travailler et de préciser.</ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P4_TB00004">
+                           <lb facs="P4_TL00030"/>G. A. B.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="MinorHead">
+                              <ab facs="P4_TB00002">
+                                 <lb facs="P4_TL00002"/>II<lb facs="P4_TL00003"/>INTERPRÉTATION</ab>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P4_TB00003">
+                                    <lb facs="P4_TL00004"/>Les danseurs ne rendent généralement pas l'œuvre qu'ils dansent, .mais uniquement l'impression<lb facs="P4_TL00005"/>que cette œuvre leur a donnée,<lb facs="P4_TL00006"/>Ceci tient peut-être d'abord à cette erreur fondamentale : danser n'importe quelle musique.<lb facs="P4_TL00007"/>Or toute musique naît avec sa destination propre et c'est toujours la dénaturer que de la transcrire de<lb facs="P4_TL00008"/>quelque façon que ce soit. Ce qui a été conçu pour la voix n'est pas pour l'instrument, ce qui est pour<lb facs="P4_TL00009"/>violon n'est pas pour piano, etc... Or une œuvre à danser plus qu'aucune autre doit être conçue uniquement<lb facs="P4_TL00010"/>en vue de cette exécution et les danseurs n'ont qu'à la traduire intégralement s'ils ne veulent pas la<lb facs="P4_TL00011"/>trahir. Mais ceux-ci s'occupent fort rarement de la pensée de l'auteur, de ses phrases, de ses mots, de<lb facs="P4_TL00012"/>ses rythmes, qu'il ait écrit 5 mesures absolument diverses, le danseur continue son geste gracieux ou<lb facs="P4_TL00013"/>plastique, suivant sa mentalité, sans entendre ou vouloir entendre que des blanches à l'orchestre ont<lb facs="P4_TL00014"/>précédé des croches et suivi des triolets. Les instrumentistes, les chanteurs, n'ontjamais songé à nous faire<lb facs="P4_TL00015"/>entendre la musique que leur inspire la musique qu'ils prétendent exécuter. Ils jouent cette composition<lb facs="P4_TL00016"/>note par note, valeur par valeur, bien ou mal, mais exactement. Les danseurs doivent faire de même et<lb facs="P4_TL00017"/>donner le texte intact. L'œuvre seule dirige, tous les exécutants doivent s'y conformer. De cette transmission<lb facs="P4_TL00018"/>imiMÊÊiÊÊÊÊmÊÊaÊÊiÊmmBÊaBÊKBÊ #<lb facs="P4_TL00019"/>intégrale seule peut naître la cohésion complète qui doit exister entre le compositeur et le danseur; à<lb facs="P4_TL00020"/>cela ce dernier gagnera encore cet essentiel avantage : éviter la monotonie de ses gestes toujours sem<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00021"/>blables, chaque sonorité, chaque rythme lui apporteront une plastique différente, des soubresauts inté<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00022"/>ressants, des gestes imprévus.<lb facs="P4_TL00023"/>La mesure seule importe pour la danse. Les polkas, les valses, sont toutes et toujours à 2 et<lb facs="P4_TL00024"/>3 temps, leur chant peut varier à l'infini, le rythme seul en fera une polka ou une valse.<lb facs="P4_TL00025"/>Le tort de la plupart des danseurs est d'écouter d'abord la danse, de se la faire jouer plusieurs<lb facs="P4_TL00026"/>fois et de combiner ainsi, à froid, les gestes ou pauses qui résulteront de certains accords ou s'enchaî<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00027"/>neront pendant un certain nombre de temps. Pour moi j'ai constaté presque toujours un résultat excellent<lb facs="P4_TL00028"/>chez le danseur qui entendant les premières mesures se laisse emporter, suit et obéit complètement à ce<lb facs="P4_TL00029"/>rythme ; sur cette ébauche il est alors facile de travailler et de préciser.</ab>
                               </div>
                            </div>
                         </div>
@@ -3767,22 +3677,20 @@
                         <ab facs="P6_TB00001">
                            <lb facs="P6_TL00001"/>POEME</ab>
                      </div>
-                     <div type="TextContent" corresp="c012">
-                        <div type="Head">
-                           <ab facs="P6_TB00002">
-                              <lb facs="P6_TL00002"/>L'AMIE LE CHEVAL MORT</ab>
-                        </div>
-                        <div type="Byline">
-                           <ab facs="P6_TB00004">
-                              <lb facs="P6_TL00016"/>J. PEREZ-JORBA.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P6_TB00003">
-                                       <lb facs="P6_TL00003"/>J'ai le rez-de-chaussée de l'immeuble dans le bas-fond de mon âme<lb facs="P6_TL00004"/>Elle, l'amie, est partie sans mot dire.<lb facs="P6_TL00005"/>Voilk donc une soirée flamboyante de perdue.<lb facs="P6_TL00006"/>Eh, non la vie.<lb facs="P6_TL00007"/>Sur la chaussée gît un cheval mort<lb facs="P6_TL00008"/>mare de sang<lb facs="P6_TL00009"/>Pourquoi cette marmaille autour de ma pensée ?<lb facs="P6_TL00010"/>« Zézé,regarde, il bouge. »<lb facs="P6_TL00011"/>Et ces yeux de rôdeuse ? l'amie est partie sans mot dire. Et ces<lb facs="P6_TL00012"/>yeux de rôdeuse ?<lb facs="P6_TL00013"/>Une lampe s'éteint sur ma tristesse.<lb facs="P6_TL00014"/>Tant mieux.<lb facs="P6_TL00015"/>J'allume mon cigare et m'enveloppe de fumée.</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P6_TB00002">
+                           <lb facs="P6_TL00002"/>L'AMIE LE CHEVAL MORT</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab facs="P6_TB00004">
+                           <lb facs="P6_TL00016"/>J. PEREZ-JORBA.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P6_TB00003">
+                                    <lb facs="P6_TL00003"/>J'ai le rez-de-chaussée de l'immeuble dans le bas-fond de mon âme<lb facs="P6_TL00004"/>Elle, l'amie, est partie sans mot dire.<lb facs="P6_TL00005"/>Voilk donc une soirée flamboyante de perdue.<lb facs="P6_TL00006"/>Eh, non la vie.<lb facs="P6_TL00007"/>Sur la chaussée gît un cheval mort<lb facs="P6_TL00008"/>mare de sang<lb facs="P6_TL00009"/>Pourquoi cette marmaille autour de ma pensée ?<lb facs="P6_TL00010"/>« Zézé,regarde, il bouge. »<lb facs="P6_TL00011"/>Et ces yeux de rôdeuse ? l'amie est partie sans mot dire. Et ces<lb facs="P6_TL00012"/>yeux de rôdeuse ?<lb facs="P6_TL00013"/>Une lampe s'éteint sur ma tristesse.<lb facs="P6_TL00014"/>Tant mieux.<lb facs="P6_TL00015"/>J'allume mon cigare et m'enveloppe de fumée.</ab>
                               </div>
                            </div>
                         </div>
@@ -3825,28 +3733,26 @@
                         <ab facs="P7_TB00001">
                            <lb facs="P7_TL00001"/>AD LENDEMAIN DES MAMELLES DE TIRÉSIAS</ab>
                      </div>
-                     <div type="TextContent" corresp="c016">
-                        <div type="Head">
-                           <ab facs="P7_TB00002">
-                              <lb facs="P7_TL00002"/>POÈME SUPPLIANT</ab>
-                        </div>
-                        <div type="Byline">
-                           <ab facs="P7_TB00005">
-                              <lb facs="P7_TL00028"/>GEORGES GABORY.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P7_TB00003">
-                                       <lb facs="P7_TL00003"/>L'imbécillité vomie<lb facs="P7_TL00004"/>des fossiles du Romantisme<lb facs="P7_TL00005"/>m'écœurait — nauséeuse<lb facs="P7_TL00006"/>devant ton œuvre<lb facs="P7_TL00007"/>ô Poète<lb facs="P7_TL00008"/>Ils combattaient ta pensée<lb facs="P7_TL00009"/>à coups de gueule —<lb facs="P7_TL00010"/>et criaient leur étonnement de petits bourgeois<lb facs="P7_TL00011"/>devant FArt inconnu<lb facs="P7_TL00012"/>/<lb facs="P7_TL00013"/>et pas consacré<lb facs="P7_TL00014"/>par l'Académie<lb facs="P7_TL00015"/>ou les Annales.</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P7_TB00002">
+                           <lb facs="P7_TL00002"/>POÈME SUPPLIANT</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab facs="P7_TB00005">
+                           <lb facs="P7_TL00028"/>GEORGES GABORY.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P7_TB00003">
+                                    <lb facs="P7_TL00003"/>L'imbécillité vomie<lb facs="P7_TL00004"/>des fossiles du Romantisme<lb facs="P7_TL00005"/>m'écœurait — nauséeuse<lb facs="P7_TL00006"/>devant ton œuvre<lb facs="P7_TL00007"/>ô Poète<lb facs="P7_TL00008"/>Ils combattaient ta pensée<lb facs="P7_TL00009"/>à coups de gueule —<lb facs="P7_TL00010"/>et criaient leur étonnement de petits bourgeois<lb facs="P7_TL00011"/>devant FArt inconnu<lb facs="P7_TL00012"/>/<lb facs="P7_TL00013"/>et pas consacré<lb facs="P7_TL00014"/>par l'Académie<lb facs="P7_TL00015"/>ou les Annales.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P7_TB00004">
-                                       <lb facs="P7_TL00016"/>à Guillaume QApolîinaize<lb facs="P7_TL00017"/>Et ils ne voyaient pas — sous les mots<lb facs="P7_TL00018"/>ta pensée profonde<lb facs="P7_TL00019"/>comme un fossé sous des branchages<lb facs="P7_TL00020"/>Et ils ne voyaient pas que tu voulais sortir<lb facs="P7_TL00021"/>des ornières creusées 1<lb facs="P7_TL00022"/>pour t'élever JriUS ïlclllt<lb facs="P7_TL00023"/>et pour ne pas marcher dans les pas des aînés<lb facs="P7_TL00024"/>Apollinaire<lb facs="P7_TL00025"/>Veux-tu me prendre par la main<lb facs="P7_TL00026"/>et me conduire<lb facs="P7_TL00027"/>dans la maison des beaux poèmes.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P7_TB00004">
+                                    <lb facs="P7_TL00016"/>à Guillaume QApolîinaize<lb facs="P7_TL00017"/>Et ils ne voyaient pas — sous les mots<lb facs="P7_TL00018"/>ta pensée profonde<lb facs="P7_TL00019"/>comme un fossé sous des branchages<lb facs="P7_TL00020"/>Et ils ne voyaient pas que tu voulais sortir<lb facs="P7_TL00021"/>des ornières creusées 1<lb facs="P7_TL00022"/>pour t'élever JriUS ïlclllt<lb facs="P7_TL00023"/>et pour ne pas marcher dans les pas des aînés<lb facs="P7_TL00024"/>Apollinaire<lb facs="P7_TL00025"/>Veux-tu me prendre par la main<lb facs="P7_TL00026"/>et me conduire<lb facs="P7_TL00027"/>dans la maison des beaux poèmes.</ab>
                               </div>
                            </div>
                         </div>

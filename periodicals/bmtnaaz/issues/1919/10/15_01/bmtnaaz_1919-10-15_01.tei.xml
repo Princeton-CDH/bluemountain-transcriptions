@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">4</biblScope>
                         <biblScope unit="issue">49 50</biblScope>
-                        <pubPlace>
-                           <address>
-                            <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                        </address>
-                        </pubPlace>
                         <date when="">15 et 30 Octobre 1919 </date>
                      </imprint>
                   </monogr>
@@ -110,8 +101,7 @@
                   <acquisition> </acquisition>
                </history>
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -129,9 +119,7 @@
                      </pubPlace>
                      <date when=""/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -146,8 +134,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -161,8 +148,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -182,13 +168,17 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">POÈME</seg>
+                           <seg type="main">En pente</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/61551365">Pierre REVERDY</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -197,34 +187,18 @@
                            <biblScope unit="page">382</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c005">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">En pente</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/61551365&#xA;">Pierre REVERDY</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">382</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">POEME</seg>
+                           <seg type="main">Ça change.</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/61551365">Pierre REVERDY</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -233,29 +207,8 @@
                            <biblScope unit="page">383</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c007">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">Ça change.</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/61551365&#xA;">Pierre REVERDY</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">383</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -289,15 +242,14 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c010">
+               </relatedItem><relatedItem type="constituent" xml:id="c010">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">BILAN</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/27072443&#xA;">TRISTAN TZARA</persName>
+                           <persName ref="http://viaf.org/viaf/27072443">TRISTAN TZARA</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -324,15 +276,14 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c012">
+               </relatedItem><relatedItem type="constituent" xml:id="c012">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Monologue</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/45811448&#xA;">Roch GREY</persName>
+                           <persName ref="http://viaf.org/viaf/45811448">Roch GREY</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -344,8 +295,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -361,9 +311,10 @@
                            <classCode scheme="CCS">Illustration</classCode>
                            <biblScope unit="page">387</biblScope>
                         </imprint>
-                     </monogr>ARY JUSTMAN BOIS DE CHANA ORLOFF</biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c014">
+                     </monogr>
+                     <note>ARY JUSTMAN BOIS DE CHANA ORLOFF</note>
+                  </biblStruct>
+               </relatedItem><relatedItem type="constituent" xml:id="c014">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -382,8 +333,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c015">
+               </relatedItem><relatedItem type="constituent" xml:id="c015">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -403,8 +353,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c016">
+               </relatedItem><relatedItem type="constituent" xml:id="c016">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -423,13 +372,16 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c017">
+               </relatedItem><relatedItem type="constituent" xml:id="c017">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">ETC...</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/14765320">P. A–B.</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -438,29 +390,8 @@
                            <biblScope unit="page">393</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c018">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">Untitled Text</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/14765320">P. A–B.</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">393</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c019">
+               </relatedItem><relatedItem type="constituent" xml:id="c019">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -474,8 +405,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c020">
+               </relatedItem><relatedItem type="constituent" xml:id="c020">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -489,8 +419,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c021">
+               </relatedItem><relatedItem type="constituent" xml:id="c021">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -504,8 +433,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c022">
+               </relatedItem><relatedItem type="constituent" xml:id="c022">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -519,8 +447,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c023">
+               </relatedItem><relatedItem type="constituent" xml:id="c023">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -534,14 +461,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="31890" lry="41460">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="31890" lry="550"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="550" lrx="0" lry="40130"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="30290" uly="550" lrx="31890" lry="40130"/>
@@ -750,7 +676,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="26640" lry="38630">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="26640" lry="830"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="830" lrx="2580" lry="38490"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="24360" uly="830" lrx="26640" lry="38490"/>
@@ -933,7 +859,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="26640" lry="38630">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="26640" lry="2890">
             <tei:zone type="TextBlock" xml:id="P3_TB00001" ulx="12780" uly="2570" lrx="13470" lry="2860">
                <tei:zone type="TextLine" xml:id="P3_TL00001" ulx="12780" uly="2570" lrx="13470" lry="2860">
@@ -1110,7 +1036,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="26640" lry="38630">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="26640" lry="2990">
             <tei:zone type="TextBlock" xml:id="P4_TB00001" ulx="13030" uly="2670" lrx="13770" lry="2970">
                <tei:zone type="TextLine" xml:id="P4_TL00001" ulx="13030" uly="2670" lrx="13770" lry="2970">
@@ -1296,7 +1222,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="26640" lry="38630">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="26640" lry="3770">
             <tei:zone type="TextBlock" xml:id="P5_TB00001" ulx="13370" uly="3430" lrx="14090" lry="3740">
                <tei:zone type="TextLine" xml:id="P5_TL00001" ulx="13370" uly="3430" lrx="14090" lry="3740">
@@ -1480,7 +1406,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="26640" lry="38630">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="26640" lry="4480">
             <tei:zone type="TextBlock" xml:id="P6_TB00001" ulx="12000" uly="4150" lrx="12740" lry="4450">
                <tei:zone type="TextLine" xml:id="P6_TL00001" ulx="12000" uly="4150" lrx="12740" lry="4450">
@@ -1580,7 +1506,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="26640" lry="38630">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="26640" lry="2850">
             <tei:zone type="TextBlock" xml:id="P7_TB00001" ulx="12120" uly="2540" lrx="12820" lry="2830">
                <tei:zone type="TextLine" xml:id="P7_TL00001" ulx="12120" uly="2540" lrx="12820" lry="2830">
@@ -1743,7 +1669,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="26640" lry="38630">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="26640" lry="2230">
             <tei:zone type="TextBlock" xml:id="P8_TB00001" ulx="13140" uly="1920" lrx="13860" lry="2200">
                <tei:zone type="TextLine" xml:id="P8_TL00001" ulx="13140" uly="1920" lrx="13860" lry="2200">
@@ -2139,7 +2065,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P9" ulx="0" uly="0" lrx="22370" lry="29550">
-         <tei:graphic url="0009.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0009.jp2"/>
          <tei:zone type="margin" xml:id="P9_TM00001" ulx="0" uly="0" lrx="22370" lry="720">
             <tei:zone type="TextBlock" xml:id="P9_TB00001" ulx="11180" uly="420" lrx="11890" lry="700">
                <tei:zone type="TextLine" xml:id="P9_TL00001" ulx="11180" uly="420" lrx="11890" lry="700">
@@ -2166,7 +2092,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P10" ulx="0" uly="0" lrx="26640" lry="38630">
-         <tei:graphic url="0010.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0010.jp2"/>
          <tei:zone type="margin" xml:id="P10_TM00001" ulx="0" uly="0" lrx="26640" lry="3130">
             <tei:zone type="TextBlock" xml:id="P10_TB00001" ulx="12570" uly="2820" lrx="13290" lry="3110">
                <tei:zone type="TextLine" xml:id="P10_TL00001" ulx="12570" uly="2820" lrx="13290" lry="3110">
@@ -2790,7 +2716,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P11" ulx="0" uly="0" lrx="26640" lry="38630">
-         <tei:graphic url="0011.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0011.jp2"/>
          <tei:zone type="margin" xml:id="P11_TM00001" ulx="0" uly="0" lrx="26640" lry="3360">
             <tei:zone type="TextBlock" xml:id="P11_TB00001" ulx="13000" uly="3040" lrx="13720" lry="3330">
                <tei:zone type="TextLine" xml:id="P11_TL00001" ulx="13000" uly="3040" lrx="13720" lry="3330">
@@ -3340,7 +3266,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P12" ulx="0" uly="0" lrx="26640" lry="38630">
-         <tei:graphic url="0012.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0012.jp2"/>
          <tei:zone type="margin" xml:id="P12_TM00001" ulx="0" uly="0" lrx="26640" lry="4130">
             <tei:zone type="TextBlock" xml:id="P12_TB00001" ulx="13260" uly="3820" lrx="14000" lry="4110">
                <tei:zone type="TextLine" xml:id="P12_TL00001" ulx="13260" uly="3820" lrx="14000" lry="4110">
@@ -4068,7 +3994,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P13" ulx="0" uly="0" lrx="26640" lry="38630">
-         <tei:graphic url="0013.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0013.jp2"/>
          <tei:zone type="margin" xml:id="P13_TM00001" ulx="0" uly="0" lrx="26640" lry="2800">
             <tei:zone type="TextBlock" xml:id="P13_TB00001" ulx="13530" uly="2490" lrx="14170" lry="2770">
                <tei:zone type="TextLine" xml:id="P13_TL00001" ulx="13530" uly="2490" lrx="14170" lry="2770">
@@ -4762,7 +4688,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P14" ulx="0" uly="0" lrx="26640" lry="38630">
-         <tei:graphic url="0014.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0014.jp2"/>
          <tei:zone type="margin" xml:id="P14_TM00001" ulx="0" uly="0" lrx="26640" lry="3050">
             <tei:zone type="TextBlock" xml:id="P14_TB00001" ulx="13120" uly="2740" lrx="13840" lry="3030">
                <tei:zone type="TextLine" xml:id="P14_TL00001" ulx="13120" uly="2740" lrx="13840" lry="3030">
@@ -5180,7 +5106,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P15" ulx="0" uly="0" lrx="26640" lry="38630">
-         <tei:graphic url="0015.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0015.jp2"/>
          <tei:zone type="margin" xml:id="P15_TM00001" ulx="0" uly="0" lrx="26640" lry="3360">
             <tei:zone type="TextBlock" xml:id="P15_TB00001" ulx="12830" uly="3020" lrx="13560" lry="3330">
                <tei:zone type="TextLine" xml:id="P15_TL00001" ulx="12830" uly="3020" lrx="13560" lry="3330">
@@ -5923,7 +5849,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P16" ulx="0" uly="0" lrx="26640" lry="38630">
-         <tei:graphic url="0016.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0016.jp2"/>
          <tei:zone type="margin" xml:id="P16_TM00001" ulx="0" uly="0" lrx="26640" lry="3890">
             <tei:zone type="TextBlock" xml:id="P16_TB00001" ulx="13000" uly="3560" lrx="13760" lry="3870">
                <tei:zone type="TextLine" xml:id="P16_TL00001" ulx="13000" uly="3560" lrx="13760" lry="3870">
@@ -6722,7 +6648,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P17" ulx="0" uly="0" lrx="26640" lry="38630">
-         <tei:graphic url="0017.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0017.jp2"/>
          <tei:zone type="margin" xml:id="P17_TM00001" ulx="0" uly="0" lrx="26640" lry="3820">
             <tei:zone type="TextBlock" xml:id="P17_TB00001" ulx="12890" uly="3490" lrx="13530" lry="3790">
                <tei:zone type="TextLine" xml:id="P17_TL00001" ulx="12890" uly="3490" lrx="13530" lry="3790">
@@ -7629,7 +7555,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P18" ulx="0" uly="0" lrx="26640" lry="38630">
-         <tei:graphic url="0018.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0018.jp2"/>
          <tei:zone type="margin" xml:id="P18_TM00001" ulx="0" uly="0" lrx="26640" lry="3790">
             <tei:zone type="TextBlock" xml:id="P18_TB00001" ulx="13380" uly="3470" lrx="14110" lry="3770">
                <tei:zone type="TextLine" xml:id="P18_TL00001" ulx="13380" uly="3470" lrx="14110" lry="3770">
@@ -8329,7 +8255,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P19" ulx="0" uly="0" lrx="26640" lry="38630">
-         <tei:graphic url="0019.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0019.jp2"/>
          <tei:zone type="margin" xml:id="P19_TM00001" ulx="0" uly="0" lrx="26640" lry="3520"/>
          <tei:zone type="margin" xml:id="P19_LM00001" ulx="0" uly="3520" lrx="2710" lry="32520"/>
          <tei:zone type="margin" xml:id="P19_RM00001" ulx="24750" uly="3520" lrx="26640" lry="32520"/>
@@ -8540,7 +8466,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P20" ulx="0" uly="0" lrx="14180" lry="14510">
-         <tei:graphic url="0020.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1919/10/15_01/delivery/bmtnaaz_1919-10-15_01_0020.jp2"/>
          <tei:zone type="margin" xml:id="P20_TM00001" ulx="0" uly="0" lrx="14180" lry="0"/>
          <tei:zone type="margin" xml:id="P20_LM00001" ulx="0" uly="0" lrx="0" lry="14500"/>
          <tei:zone type="margin" xml:id="P20_RM00001" ulx="14170" uly="0" lrx="14180" lry="14500"/>
@@ -8647,22 +8573,20 @@
                         <ab facs="P4_TB00002">
                            <lb facs="P4_TL00002"/>POÈME</ab>
                      </div>
-                     <div type="TextContent" corresp="c005">
-                        <div type="Head">
-                           <ab facs="P4_TB00003">
-                              <lb facs="P4_TL00003"/>En pente</ab>
-                        </div>
-                        <div type="Byline">
-                           <ab facs="P4_TB00005">
-                              <lb facs="P4_TL00026"/>Pierre REVERDY</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P4_TB00004">
-                                       <lb facs="P4_TL00004"/>Finis Retournés<lb facs="P4_TL00005"/>Bus<lb facs="P4_TL00006"/>Sur la colline et dans la rue<lb facs="P4_TL00007"/>Où l'oiseau change de note à chaque portée<lb facs="P4_TL00008"/>Les têtes seulement dépassent<lb facs="P4_TL00009"/>La troupe s'amoncelle et s'enferme<lb facs="P4_TL00010"/>Les cages sont prises dans le ciel<lb facs="P4_TL00011"/>Les acacias bordent tout ce qu'on voit<lb facs="P4_TL00012"/>Ce serait plus grand si on enlevait la clef<lb facs="P4_TL00013"/>Un paysan dans la marge<lb facs="P4_TL00014"/>Les autres en plein champ<lb facs="P4_TL00015"/>On laboure<lb facs="P4_TL00016"/>La musique s'inscrit<lb facs="P4_TL00017"/>Les animaux suivent derrière lui<lb facs="P4_TL00018"/>Les boules et les branches roulent sur le talus<lb facs="P4_TL00019"/>Ce sont des bras qui les entourent<lb facs="P4_TL00020"/>Tout devient gris<lb facs="P4_TL00021"/>Il ne reste plus rien<lb facs="P4_TL00022"/>En haut<lb facs="P4_TL00023"/>En bas<lb facs="P4_TL00024"/>Rien<lb facs="P4_TL00025"/>Qu'une large tache blanche au niveau du cœur</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P4_TB00003">
+                           <lb facs="P4_TL00003"/>En pente</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab facs="P4_TB00005">
+                           <lb facs="P4_TL00026"/>Pierre REVERDY</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P4_TB00004">
+                                    <lb facs="P4_TL00004"/>Finis Retournés<lb facs="P4_TL00005"/>Bus<lb facs="P4_TL00006"/>Sur la colline et dans la rue<lb facs="P4_TL00007"/>Où l'oiseau change de note à chaque portée<lb facs="P4_TL00008"/>Les têtes seulement dépassent<lb facs="P4_TL00009"/>La troupe s'amoncelle et s'enferme<lb facs="P4_TL00010"/>Les cages sont prises dans le ciel<lb facs="P4_TL00011"/>Les acacias bordent tout ce qu'on voit<lb facs="P4_TL00012"/>Ce serait plus grand si on enlevait la clef<lb facs="P4_TL00013"/>Un paysan dans la marge<lb facs="P4_TL00014"/>Les autres en plein champ<lb facs="P4_TL00015"/>On laboure<lb facs="P4_TL00016"/>La musique s'inscrit<lb facs="P4_TL00017"/>Les animaux suivent derrière lui<lb facs="P4_TL00018"/>Les boules et les branches roulent sur le talus<lb facs="P4_TL00019"/>Ce sont des bras qui les entourent<lb facs="P4_TL00020"/>Tout devient gris<lb facs="P4_TL00021"/>Il ne reste plus rien<lb facs="P4_TL00022"/>En haut<lb facs="P4_TL00023"/>En bas<lb facs="P4_TL00024"/>Rien<lb facs="P4_TL00025"/>Qu'une large tache blanche au niveau du cœur</ab>
                               </div>
                            </div>
                         </div>
@@ -8673,22 +8597,20 @@
                         <ab facs="P5_TB00002">
                            <lb facs="P5_TL00002"/>POEME</ab>
                      </div>
-                     <div type="TextContent" corresp="c007">
-                        <div type="Head">
-                           <ab facs="P5_TB00003">
-                              <lb facs="P5_TL00003"/>Ça change.</ab>
-                        </div>
-                        <div type="Byline">
-                           <ab facs="P5_TB00005">
-                              <lb facs="P5_TL00026"/>Pierre REVERDY</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P5_TB00004">
-                                       <lb facs="P5_TL00004"/>La mort trop grande image<lb facs="P5_TL00005"/>Le mystère s'est soulevé<lb facs="P5_TL00006"/>Un soir<lb facs="P5_TL00007"/>Comme une jupe<lb facs="P5_TL00008"/>La bonne blague qui restait<lb facs="P5_TL00009"/>De son œil horrible<lb facs="P5_TL00010"/>11 regardait<lb facs="P5_TL00011"/>Minuit<lb facs="P5_TL00012"/>Il faisait, noir<lb facs="P5_TL00013"/>Il portait une lumière qui n'éclairait pas<lb facs="P5_TL00014"/>La flamme sortait de ses doigts<lb facs="P5_TL00015"/>Il avait voulu voir<lb facs="P5_TL00016"/>Par derrière<lb facs="P5_TL00017"/>Et il riait<lb facs="P5_TL00018"/>11 l'avait prise à sa manière<lb facs="P5_TL00019"/>Devant c'était d'un grand effet<lb facs="P5_TL00020"/>Trop<lb facs="P5_TL00021"/>pour lui seul<lb facs="P5_TL00022"/>Et il vivait<lb facs="P5_TL00023"/>Eternellement solennel<lb facs="P5_TL00024"/>Comique<lb facs="P5_TL00025"/>Et satisfait</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P5_TB00003">
+                           <lb facs="P5_TL00003"/>Ça change.</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab facs="P5_TB00005">
+                           <lb facs="P5_TL00026"/>Pierre REVERDY</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P5_TB00004">
+                                    <lb facs="P5_TL00004"/>La mort trop grande image<lb facs="P5_TL00005"/>Le mystère s'est soulevé<lb facs="P5_TL00006"/>Un soir<lb facs="P5_TL00007"/>Comme une jupe<lb facs="P5_TL00008"/>La bonne blague qui restait<lb facs="P5_TL00009"/>De son œil horrible<lb facs="P5_TL00010"/>11 regardait<lb facs="P5_TL00011"/>Minuit<lb facs="P5_TL00012"/>Il faisait, noir<lb facs="P5_TL00013"/>Il portait une lumière qui n'éclairait pas<lb facs="P5_TL00014"/>La flamme sortait de ses doigts<lb facs="P5_TL00015"/>Il avait voulu voir<lb facs="P5_TL00016"/>Par derrière<lb facs="P5_TL00017"/>Et il riait<lb facs="P5_TL00018"/>11 l'avait prise à sa manière<lb facs="P5_TL00019"/>Devant c'était d'un grand effet<lb facs="P5_TL00020"/>Trop<lb facs="P5_TL00021"/>pour lui seul<lb facs="P5_TL00022"/>Et il vivait<lb facs="P5_TL00023"/>Eternellement solennel<lb facs="P5_TL00024"/>Comique<lb facs="P5_TL00025"/>Et satisfait</ab>
                               </div>
                            </div>
                         </div>
@@ -8919,311 +8841,309 @@
                         <ab facs="P15_TB00002">
                            <lb facs="P15_TL00002"/>ETC...</ab>
                      </div>
-                     <div type="TextContent" corresp="c018">
-                        <div type="Byline">
-                           <ab facs="P18_TB00018">
-                              <lb facs="P18_TL00046"/>P.A - B.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P15_TB00003">
-                                       <lb facs="P15_TL00003"/>Le chemin des pieds-nus. KER BRANK-HOUX. EX lihris Arisle• —Mr Ker Frank-Houx<lb facs="P15_TL00004"/>est monté tout au haut de sa tour pour entendre chanter le coucou en la compagnie aussi<lb facs="P15_TL00005"/>choisie que silencieuse de ses grands amis aux or atténués, aux polychromes mosaïques,<lb facs="P15_TL00006"/>aux dos ronds solidement bandés, c'est de là qu'il regarde le'monde, sœur Anne ne vois-tu<lb facs="P15_TL00007"/>rien venir. Je vois.une femme nue qui se promène dans les bois avec les loups avec la nuit<lb facs="P15_TL00008"/>avec l'aurore elle a froid, elle a peur et elle prêche aux loups la bonne parole, or celui que<lb facs="P15_TL00009"/>j'aimerai tournera le dos à la route dit-elle et elle dit encore beaucoup d'autres choses dé<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P15_TL00010"/>sagréables qu'une femme n'a pas coutume de dire aux loups dans la forêt, c'est pourquoi<lb facs="P15_TL00011"/>sans doute ils ont grand envie de la battre et peut-être même de la manger au clair de lu<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P15_TL00012"/>ne et la voici qui pénétré plus avant dans la forêt, elle va, elle va, longtemps longtemps<lb facs="P15_TL00013"/>sans lassitude sans crainte et c'est maintenant qu'elle rencontre un faune et qu'elle le cul<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P15_TL00014"/>bute et qu'elle prend sa course vers le vivant sabbat des hommes, loin des ruines glacées,<lb facs="P15_TL00015"/>sous le clair soleil, au grand jour. Je vous salue La Fontaine, Ronsard, Montaigne, Légen<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P15_TL00016"/>de Dorée, Princesse de Glèves, Rabelais, Molière, Brantôme, Heptaméron, Machiavel, Lé<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P15_TL00017"/>gende des Siècles, Platon, Sainte Bible et je prie Mr Ker-Frank-Houx de me rappeler à<lb facs="P15_TL00018"/>votre bon souvenir lui qui s'enferme souvent avec vous, moi j'ai le diable au corps et je<lb facs="P15_TL00019"/>suis toujours dehors *</ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P18_TB00018">
+                           <lb facs="P18_TL00046"/>P.A - B.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P15_TB00003">
+                                    <lb facs="P15_TL00003"/>Le chemin des pieds-nus. KER BRANK-HOUX. EX lihris Arisle• —Mr Ker Frank-Houx<lb facs="P15_TL00004"/>est monté tout au haut de sa tour pour entendre chanter le coucou en la compagnie aussi<lb facs="P15_TL00005"/>choisie que silencieuse de ses grands amis aux or atténués, aux polychromes mosaïques,<lb facs="P15_TL00006"/>aux dos ronds solidement bandés, c'est de là qu'il regarde le'monde, sœur Anne ne vois-tu<lb facs="P15_TL00007"/>rien venir. Je vois.une femme nue qui se promène dans les bois avec les loups avec la nuit<lb facs="P15_TL00008"/>avec l'aurore elle a froid, elle a peur et elle prêche aux loups la bonne parole, or celui que<lb facs="P15_TL00009"/>j'aimerai tournera le dos à la route dit-elle et elle dit encore beaucoup d'autres choses dé<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P15_TL00010"/>sagréables qu'une femme n'a pas coutume de dire aux loups dans la forêt, c'est pourquoi<lb facs="P15_TL00011"/>sans doute ils ont grand envie de la battre et peut-être même de la manger au clair de lu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P15_TL00012"/>ne et la voici qui pénétré plus avant dans la forêt, elle va, elle va, longtemps longtemps<lb facs="P15_TL00013"/>sans lassitude sans crainte et c'est maintenant qu'elle rencontre un faune et qu'elle le cul<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P15_TL00014"/>bute et qu'elle prend sa course vers le vivant sabbat des hommes, loin des ruines glacées,<lb facs="P15_TL00015"/>sous le clair soleil, au grand jour. Je vous salue La Fontaine, Ronsard, Montaigne, Légen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P15_TL00016"/>de Dorée, Princesse de Glèves, Rabelais, Molière, Brantôme, Heptaméron, Machiavel, Lé<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P15_TL00017"/>gende des Siècles, Platon, Sainte Bible et je prie Mr Ker-Frank-Houx de me rappeler à<lb facs="P15_TL00018"/>votre bon souvenir lui qui s'enferme souvent avec vous, moi j'ai le diable au corps et je<lb facs="P15_TL00019"/>suis toujours dehors *</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P15_TB00004">
-                                       <lb facs="P15_TL00020"/>Essai sur le lyrisme. L'initiation à la joie - Sensations.— CARLOS LARRONDE.<lb facs="P15_TL00021"/>Edit. de VAffranchi. Trois brochures. La première est un petit précis d'histoire littéraire<lb facs="P15_TL00022"/>qui conduira sans doute son auteur à faire d'ici une étude sérieuse et am<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P15_TL00023"/>ple de la grande période littéraire dans laquelle nous entrons. La deuxième est une com<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P15_TL00024"/>position française de fin d'année que l'auteur reniera bientôt s'iPa foi en la troisième. Cet<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P15_TL00025"/>te dernière, Sensations, est faite en effet d'une quarantaine de petits poèmes où l'auteur<lb facs="P15_TL00026"/>s'est efforcé de rester presque seul devant le monde, il a repoussé aussi loinque possible les<lb facs="P15_TL00027"/>pédagogues et les souffleurs et il s'est essayé à copier bêtement, car la poésie c'est bête<lb facs="P15_TL00028"/>comme disait Picasso de la peinture. J'adore la photographie, même et surtout stéréosco<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P15_TL00029"/>pique. Et puis après, un petit grain de génie sur la queue et le poème s'envole. Ceux ci<lb facs="P15_TL00030"/>sont encore à peu près parterre mais nous avons le temps. Surtout la moustiquaire, les<lb facs="P15_TL00031"/>pédagogues et les philosophes font des piqûres qui défigurent.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P15_TB00004">
+                                    <lb facs="P15_TL00020"/>Essai sur le lyrisme. L'initiation à la joie - Sensations.— CARLOS LARRONDE.<lb facs="P15_TL00021"/>Edit. de VAffranchi. Trois brochures. La première est un petit précis d'histoire littéraire<lb facs="P15_TL00022"/>qui conduira sans doute son auteur à faire d'ici une étude sérieuse et am<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P15_TL00023"/>ple de la grande période littéraire dans laquelle nous entrons. La deuxième est une com<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P15_TL00024"/>position française de fin d'année que l'auteur reniera bientôt s'iPa foi en la troisième. Cet<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P15_TL00025"/>te dernière, Sensations, est faite en effet d'une quarantaine de petits poèmes où l'auteur<lb facs="P15_TL00026"/>s'est efforcé de rester presque seul devant le monde, il a repoussé aussi loinque possible les<lb facs="P15_TL00027"/>pédagogues et les souffleurs et il s'est essayé à copier bêtement, car la poésie c'est bête<lb facs="P15_TL00028"/>comme disait Picasso de la peinture. J'adore la photographie, même et surtout stéréosco<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P15_TL00029"/>pique. Et puis après, un petit grain de génie sur la queue et le poème s'envole. Ceux ci<lb facs="P15_TL00030"/>sont encore à peu près parterre mais nous avons le temps. Surtout la moustiquaire, les<lb facs="P15_TL00031"/>pédagogues et les philosophes font des piqûres qui défigurent.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P15_TB00005">
-                                       <lb facs="P15_TL00032"/>L'appartement des jeunes filles. ROGER ALLARD. Camille Bloch. édit. Petit traité<lb facs="P15_TL00033"/>où les jeunes gens pourront apprendre poétiquement à se servir de leurs mains et de leur<lb facs="P15_TL00034"/>langues mais pas pour parler. La poésie est partout même sous les jupons des jeunes filles<lb facs="P15_TL00035"/>et l'auteur a vraiment bien employé ses vacances. Tout de même au XVIIIe il y avait autre<lb facs="P15_TL00036"/>chose, ce qui ne veut pas dire qu'ici il n'y ait vraiment rien. Il y a aussi paraît-il des gravu.<lb facs="P15_TL00037"/>res de Laboureur, je n'en dirai rien parce que les exemplaires réservés au service de<lb facs="P15_TL00038"/>presse sont sans gravure: on n'a pas voulu distraire M. M. les critiques.<lb facs="P15_TL00039"/>Sous le masque de Molière. —xx Figuière édit. Un coup de théâtre: Louis XIV <lb facs="P15_TL00040"/>Molière et Molière est Jean-Baptiste Poquelin tapissier-décorateur-cabotin et la preuve<lb facs="P15_TL00041"/>qu'il n'est pas Molière c'est qu'il était tapissier.Toutefois le Misanthrope n'a rien de changé.<lb facs="P15_TL00042"/>Nous l'avons en dormant, Madame, échappé belle.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P15_TB00005">
+                                    <lb facs="P15_TL00032"/>L'appartement des jeunes filles. ROGER ALLARD. Camille Bloch. édit. Petit traité<lb facs="P15_TL00033"/>où les jeunes gens pourront apprendre poétiquement à se servir de leurs mains et de leur<lb facs="P15_TL00034"/>langues mais pas pour parler. La poésie est partout même sous les jupons des jeunes filles<lb facs="P15_TL00035"/>et l'auteur a vraiment bien employé ses vacances. Tout de même au XVIIIe il y avait autre<lb facs="P15_TL00036"/>chose, ce qui ne veut pas dire qu'ici il n'y ait vraiment rien. Il y a aussi paraît-il des gravu.<lb facs="P15_TL00037"/>res de Laboureur, je n'en dirai rien parce que les exemplaires réservés au service de<lb facs="P15_TL00038"/>presse sont sans gravure: on n'a pas voulu distraire M. M. les critiques.<lb facs="P15_TL00039"/>Sous le masque de Molière. —xx Figuière édit. Un coup de théâtre: Louis XIV <lb facs="P15_TL00040"/>Molière et Molière est Jean-Baptiste Poquelin tapissier-décorateur-cabotin et la preuve<lb facs="P15_TL00041"/>qu'il n'est pas Molière c'est qu'il était tapissier.Toutefois le Misanthrope n'a rien de changé.<lb facs="P15_TL00042"/>Nous l'avons en dormant, Madame, échappé belle.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P15_TB00006">
-                                       <lb facs="P15_TL00043"/>Le Jardin sans soleil - - LOUIS BOUMAL. Editions des Cahiers. Ce sont des poèmes<lb facs="P15_TL00044"/>émouvants sans doute pour celle à qui ils sont dédiés, mais ils n'apportent rien aux hom<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P15_TL00045"/>mes. Dura lex sed lex.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P15_TB00006">
+                                    <lb facs="P15_TL00043"/>Le Jardin sans soleil - - LOUIS BOUMAL. Editions des Cahiers. Ce sont des poèmes<lb facs="P15_TL00044"/>émouvants sans doute pour celle à qui ils sont dédiés, mais ils n'apportent rien aux hom<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P15_TL00045"/>mes. Dura lex sed lex.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P16_TB00002">
-                                       <lb facs="P16_TL00002"/>Temps de guerre. GEORGES GILLET. Figuière édit. Il y a 96 pages y compris la<lb facs="P16_TL00003"/>table des matières. C'est rimé Je vous prie de m'excuser.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P16_TB00002">
+                                    <lb facs="P16_TL00002"/>Temps de guerre. GEORGES GILLET. Figuière édit. Il y a 96 pages y compris la<lb facs="P16_TL00003"/>table des matières. C'est rimé Je vous prie de m'excuser.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P16_TB00003">
-                                       <lb facs="P16_TL00004"/>L'abri 56-A-2 JEAN AZAIS - Arts et lettres édit. Ce livre doit être très intéres<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P16_TL00005"/>sant pour celui qui l a éciit.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P16_TB00003">
+                                    <lb facs="P16_TL00004"/>L'abri 56-A-2 JEAN AZAIS - Arts et lettres édit. Ce livre doit être très intéres<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P16_TL00005"/>sant pour celui qui l a éciit.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P16_TB00004">
-                                       <lb facs="P16_TL00006"/>Le Mercure de France. Ils sont trop! Dans le n° du lcp Septembre. Mr Charles Hen<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P16_TL00007"/>ry Hirsch aime les raisons précises, il crie Kssi Kssi àMr Pierre Lasserre qui s'essaie à<lb facs="P16_TL00008"/>envoyer Rimbaud dans l'autre monde. Ces grands critiques sont admirables, ils n'oublient<lb facs="P16_TL00009"/>que Dieu.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P16_TB00004">
+                                    <lb facs="P16_TL00006"/>Le Mercure de France. Ils sont trop! Dans le n° du lcp Septembre. Mr Charles Hen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P16_TL00007"/>ry Hirsch aime les raisons précises, il crie Kssi Kssi àMr Pierre Lasserre qui s'essaie à<lb facs="P16_TL00008"/>envoyer Rimbaud dans l'autre monde. Ces grands critiques sont admirables, ils n'oublient<lb facs="P16_TL00009"/>que Dieu.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P16_TB00005">
-                                       <lb facs="P16_TL00010"/>Les 3 roses. Le dernier n° reçu ici est de Février-Mars. Cette revue vit-elle encore ?<lb facs="P16_TL00011"/>En égard à ce qui se fait actuellement sa ligne est assez bonne, quoi qu'elle soit bien*<lb facs="P16_TL00012"/>souvent brisée.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P16_TB00005">
+                                    <lb facs="P16_TL00010"/>Les 3 roses. Le dernier n° reçu ici est de Février-Mars. Cette revue vit-elle encore ?<lb facs="P16_TL00011"/>En égard à ce qui se fait actuellement sa ligne est assez bonne, quoi qu'elle soit bien*<lb facs="P16_TL00012"/>souvent brisée.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P16_TB00006">
-                                       <lb facs="P16_TL00013"/>L'instant. Barcelone-Paris. L'instant paraît maintenant à Barcelone, cette bonne<lb facs="P16_TL00014"/>revue fondée à Paris par J. Perez-Jorba est devenue plus luxueuse depuis qu'elle a passé<lb facs="P16_TL00015"/>les Pyrénées, c'est un plaisir pour les yeux : belle matière, bon travail, belle ordonnance,<lb facs="P16_TL00016"/>et bon esprit puisque la direction n'a pas changé. Pour nous, en France, nous y avons<lb facs="P16_TL00017"/>peut-être un peu perdu parce qu'on y parle un peu plus catalan que français, enfin nous<lb facs="P16_TL00018"/>apprendrons le catalan puisque vous le voulez mon cher confrère.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P16_TB00006">
+                                    <lb facs="P16_TL00013"/>L'instant. Barcelone-Paris. L'instant paraît maintenant à Barcelone, cette bonne<lb facs="P16_TL00014"/>revue fondée à Paris par J. Perez-Jorba est devenue plus luxueuse depuis qu'elle a passé<lb facs="P16_TL00015"/>les Pyrénées, c'est un plaisir pour les yeux : belle matière, bon travail, belle ordonnance,<lb facs="P16_TL00016"/>et bon esprit puisque la direction n'a pas changé. Pour nous, en France, nous y avons<lb facs="P16_TL00017"/>peut-être un peu perdu parce qu'on y parle un peu plus catalan que français, enfin nous<lb facs="P16_TL00018"/>apprendrons le catalan puisque vous le voulez mon cher confrère.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P16_TB00007">
-                                       <lb facs="P16_TL00019"/>Terramar. Silges. Barcelone. Une nouvelle revue qui nous arrive également de<lb facs="P16_TL00020"/>Catalogne. Les Catalans font très bien les choses, ils font ce qu'on ferait en France si on<lb facs="P16_TL00021"/>pouvait y faire quelque chose. Nous retrouvons ici Perez-Jorba et J. M. Junoy, c'est une<lb facs="P16_TL00022"/>garantie pour Terramar et ces deux têtes là auront fait beaucoup pour qu'il n'y ait plus de<lb facs="P16_TL00023"/>Pyrénées. Et vous savez qu'il y a de bons peintres à Barcelone, témoins les reproduc<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P16_TL00024"/>tions de l'lnstant et de Terramar.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P16_TB00007">
+                                    <lb facs="P16_TL00019"/>Terramar. Silges. Barcelone. Une nouvelle revue qui nous arrive également de<lb facs="P16_TL00020"/>Catalogne. Les Catalans font très bien les choses, ils font ce qu'on ferait en France si on<lb facs="P16_TL00021"/>pouvait y faire quelque chose. Nous retrouvons ici Perez-Jorba et J. M. Junoy, c'est une<lb facs="P16_TL00022"/>garantie pour Terramar et ces deux têtes là auront fait beaucoup pour qu'il n'y ait plus de<lb facs="P16_TL00023"/>Pyrénées. Et vous savez qu'il y a de bons peintres à Barcelone, témoins les reproduc<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P16_TL00024"/>tions de l'lnstant et de Terramar.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P16_TB00008">
-                                       <lb facs="P16_TL00025"/>Atys Rome. - De très grands dessins imprimés en deux couleurs, des textes italiens<lb facs="P16_TL00026"/>anglais et même français. Revue qui a sans doute des intentions très sympathiques, mais<lb facs="P16_TL00027"/>elle me paraît bien indécise. Je la reçois d'ailleurs très irrégulièrement.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P16_TB00008">
+                                    <lb facs="P16_TL00025"/>Atys Rome. - De très grands dessins imprimés en deux couleurs, des textes italiens<lb facs="P16_TL00026"/>anglais et même français. Revue qui a sans doute des intentions très sympathiques, mais<lb facs="P16_TL00027"/>elle me paraît bien indécise. Je la reçois d'ailleurs très irrégulièrement.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P16_TB00009">
-                                       <lb facs="P16_TL00028"/>Le Crapouillot Paris. Nos 10 et 11 Chercher un homme est assez àla mode ces temps<lb facs="P16_TL00029"/>ci, c'est tellement plus facile avec les lanternes électriques de poche, Mr Dominique Braga<lb facs="P16_TL00030"/>vient d'en découvrir un vivant : Daniel de Foë. Dans ce même n° il y a aussi Décalogue,<lb facs="P16_TL00031"/>une quelconque blague de Mr Georges-Armand Masson. M. Jean Bernier voit des différen<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P16_TL00032"/>ces entre la mimique la danse et la musique : moi aussi. Ce qui n'empêche pas Mr Wal<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P16_TL00033"/>dernar Georges, dans le n° suivant, de remettre Isadora sur le trône.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P16_TB00009">
+                                    <lb facs="P16_TL00028"/>Le Crapouillot Paris. Nos 10 et 11 Chercher un homme est assez àla mode ces temps<lb facs="P16_TL00029"/>ci, c'est tellement plus facile avec les lanternes électriques de poche, Mr Dominique Braga<lb facs="P16_TL00030"/>vient d'en découvrir un vivant : Daniel de Foë. Dans ce même n° il y a aussi Décalogue,<lb facs="P16_TL00031"/>une quelconque blague de Mr Georges-Armand Masson. M. Jean Bernier voit des différen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P16_TL00032"/>ces entre la mimique la danse et la musique : moi aussi. Ce qui n'empêche pas Mr Wal<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P16_TL00033"/>dernar Georges, dans le n° suivant, de remettre Isadora sur le trône.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P16_TB00010">
-                                       <lb facs="P16_TL00034"/>La Revista. Barcelone. Revue toujours docte où Théorie l'emporte sur Pratique.<lb facs="P16_TL00035"/>Dans le n° de Septembre Mr J. M. Lopez-Pico a tenu à ne pas me compter au nombre,<lb facs="P16_TL00036"/>des poètes nouveaux î serais-je déjà si classique?</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P16_TB00010">
+                                    <lb facs="P16_TL00034"/>La Revista. Barcelone. Revue toujours docte où Théorie l'emporte sur Pratique.<lb facs="P16_TL00035"/>Dans le n° de Septembre Mr J. M. Lopez-Pico a tenu à ne pas me compter au nombre,<lb facs="P16_TL00036"/>des poètes nouveaux î serais-je déjà si classique?</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P16_TB00011">
-                                       <lb facs="P16_TL00037"/>Vell i nou. Barcelone. Ces temps-ci il me semble que Vell i Nou tendrait à devenir<lb facs="P16_TL00038"/>plus nou que vell, mais nous y perdons, car au mauvais nouveau je préféré le bon ancien</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P16_TB00011">
+                                    <lb facs="P16_TL00037"/>Vell i nou. Barcelone. Ces temps-ci il me semble que Vell i Nou tendrait à devenir<lb facs="P16_TL00038"/>plus nou que vell, mais nous y perdons, car au mauvais nouveau je préféré le bon ancien</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P16_TB00012">
-                                       <lb facs="P16_TL00039"/>La rose rouge. Paris. C'est un bazar où l'on trouve à peu près tous les articles<lb facs="P16_TL00040"/>depuis les articles Un tel quart pompier-pompier de quart jusqu'aux articles Salmon et<lb facs="P16_TL00041"/>Cendras, même dans un rayon on a été jusqu'à mentionné l'article collaborateur de " Sic<lb facs="P16_TL00042"/>il est vrai que c'était pour rire, il y a aussi les titres de six purs chefs-d'œuvre offerts en<lb facs="P16_TL00043"/>prime par Mr de Max. Il y a aussi les lamentation de Mr André Warnod sur la mort<lb facs="P16_TL00044"/>d'Apollinaire, que ne s'est-il aperçu qu'Apollinaire pendant qu'il vivait a écrit " Les ma<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P16_TL00045"/>melles de Tirésias " pièce animée d'un esprit réellement nouveau et représentée par la re<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P16_TL00046"/>vue Sic sans le secours d'aucune société, d'aucun directeur de théâtre, d'aucun éditeur.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P16_TB00012">
+                                    <lb facs="P16_TL00039"/>La rose rouge. Paris. C'est un bazar où l'on trouve à peu près tous les articles<lb facs="P16_TL00040"/>depuis les articles Un tel quart pompier-pompier de quart jusqu'aux articles Salmon et<lb facs="P16_TL00041"/>Cendras, même dans un rayon on a été jusqu'à mentionné l'article collaborateur de " Sic<lb facs="P16_TL00042"/>il est vrai que c'était pour rire, il y a aussi les titres de six purs chefs-d'œuvre offerts en<lb facs="P16_TL00043"/>prime par Mr de Max. Il y a aussi les lamentation de Mr André Warnod sur la mort<lb facs="P16_TL00044"/>d'Apollinaire, que ne s'est-il aperçu qu'Apollinaire pendant qu'il vivait a écrit " Les ma<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P16_TL00045"/>melles de Tirésias " pièce animée d'un esprit réellement nouveau et représentée par la re<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P16_TL00046"/>vue Sic sans le secours d'aucune société, d'aucun directeur de théâtre, d'aucun éditeur.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P16_TB00013">
-                                       <lb facs="P16_TL00047"/>Ariste. Nantes. Je reçois ces cahiers très irrégulièrement, j'ai ici le n° 3 et le n° 6.<lb facs="P16_TL00048"/>Le n° 3 contient " Comment est né Satyre " de Ker Frank-Houx. C'est une petite chose</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P16_TB00013">
+                                    <lb facs="P16_TL00047"/>Ariste. Nantes. Je reçois ces cahiers très irrégulièrement, j'ai ici le n° 3 et le n° 6.<lb facs="P16_TL00048"/>Le n° 3 contient " Comment est né Satyre " de Ker Frank-Houx. C'est une petite chose</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P17_TB00002">
-                                       <lb facs="P17_TL00002"/>charmante que l'auteur a pris grand plaisir à écrire certains soirs en pensant aux caractè<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P17_TL00003"/>res typographiques qu'il emploierait, aux compositions en deux tons, aux lettrines ornées<lb facs="P17_TL00004"/>rubriquées et enluminées au pinceau auxquelles il l'unirait. Je parie que Mr Ker-Frank-<lb facs="P17_TL00005"/>Houx n'a pas l'électricité dans sa maison, je ne veux pourtant pas dire que son conte ait<lb facs="P17_TL00006"/>goût d'huile.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P17_TB00002">
+                                    <lb facs="P17_TL00002"/>charmante que l'auteur a pris grand plaisir à écrire certains soirs en pensant aux caractè<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00003"/>res typographiques qu'il emploierait, aux compositions en deux tons, aux lettrines ornées<lb facs="P17_TL00004"/>rubriquées et enluminées au pinceau auxquelles il l'unirait. Je parie que Mr Ker-Frank-<lb facs="P17_TL00005"/>Houx n'a pas l'électricité dans sa maison, je ne veux pourtant pas dire que son conte ait<lb facs="P17_TL00006"/>goût d'huile.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P17_TB00003">
-                                       <lb facs="P17_TL00007"/>Les cahiers idéalistes. Paris n° 31-3*2. Ce numéro contient la fin de la conférence<lb facs="P17_TL00008"/>de Mr Dujardin : il y est parlé, bien parlé de la Bible, le livre que j'aime, et tant qu'à moi<lb facs="P17_TL00009"/>j'approuve nettement tout ce qui est dit ici, je crois d'ailleurs que " La joie des sept cou<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P17_TL00010"/>leurs " dit un peu déjà ce que je pense à ce sujet, combien ont su le voir ? Qu'importe la<lb facs="P17_TL00011"/>question n'est pas là. Pour le reste je ne crois pas beaucoup aux bons conseils, qu'on en<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P17_TL00012"/>voie les jeunes poètes à la Bible, aux grecs, aux chinois cela ne fera pas un poète de plus,<lb facs="P17_TL00013"/>qu'on les envoie donc au diable et gloire à celui qui en reviendra</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P17_TB00003">
+                                    <lb facs="P17_TL00007"/>Les cahiers idéalistes. Paris n° 31-3*2. Ce numéro contient la fin de la conférence<lb facs="P17_TL00008"/>de Mr Dujardin : il y est parlé, bien parlé de la Bible, le livre que j'aime, et tant qu'à moi<lb facs="P17_TL00009"/>j'approuve nettement tout ce qui est dit ici, je crois d'ailleurs que " La joie des sept cou<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00010"/>leurs " dit un peu déjà ce que je pense à ce sujet, combien ont su le voir ? Qu'importe la<lb facs="P17_TL00011"/>question n'est pas là. Pour le reste je ne crois pas beaucoup aux bons conseils, qu'on en<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00012"/>voie les jeunes poètes à la Bible, aux grecs, aux chinois cela ne fera pas un poète de plus,<lb facs="P17_TL00013"/>qu'on les envoie donc au diable et gloire à celui qui en reviendra</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P17_TB00004">
-                                       <lb facs="P17_TL00014"/>Le nouveau spectateur. Paris. Le n° 5 est le dernier reçu. M. Roger Allard, a jus<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P17_TL00015"/>qu'au 10 juillet, saisi, noté, défini, commenté. Vive Boileau. Amen.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P17_TB00004">
+                                    <lb facs="P17_TL00014"/>Le nouveau spectateur. Paris. Le n° 5 est le dernier reçu. M. Roger Allard, a jus<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00015"/>qu'au 10 juillet, saisi, noté, défini, commenté. Vive Boileau. Amen.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P17_TB00005">
-                                       <lb facs="P17_TL00016"/>Le carnet critique. Paris. n° 13. La première partie d'une étude intéressante de<lb facs="P17_TL00017"/>Mr Paul Blanchart sur le théâtre de Mr Saint-Georges de Bouhélier : et puis tournant les<lb facs="P17_TL00018"/>pages on rencontre Mr G A. Masson qui à propos du dernier livre de Mr Louis Chadour<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P17_TL00019"/>ne saisit, définit, commente et pardonne et aussi Mr Waldemar Georges qui jette à la fa<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P17_TL00020"/>ce de notre temps une honte nouvelle: n'avoir pas pris au sérieux le doux Raymond, l'hom<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P17_TL00021"/>me aux y outils.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P17_TB00005">
+                                    <lb facs="P17_TL00016"/>Le carnet critique. Paris. n° 13. La première partie d'une étude intéressante de<lb facs="P17_TL00017"/>Mr Paul Blanchart sur le théâtre de Mr Saint-Georges de Bouhélier : et puis tournant les<lb facs="P17_TL00018"/>pages on rencontre Mr G A. Masson qui à propos du dernier livre de Mr Louis Chadour<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00019"/>ne saisit, définit, commente et pardonne et aussi Mr Waldemar Georges qui jette à la fa<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00020"/>ce de notre temps une honte nouvelle: n'avoir pas pris au sérieux le doux Raymond, l'hom<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00021"/>me aux y outils.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P17_TB00006">
-                                       <lb facs="P17_TL00022"/>Le Scarabée. Paris. Dans le n° 19 Mr Jean Noury nous affirme en une dizaine de<lb facs="P17_TL00023"/>pages que M. Louis de Royaumont était un excellent homme. Eh oui c'est très probable ...<lb facs="P17_TL00024"/>mais que Balzac serait-il devenu sans Mr de Rayaumont. Dans le n° 20 Mr Etienne Marie<lb facs="P17_TL00025"/>dit je crois qu'il n'aime pas beaucoup les conférences engueulo-contradictoires qui lui<lb facs="P17_TL00026"/>semblent un peu vaines, c'est assez ce que je pensais un jour que sans le faire exprès<lb facs="P17_TL00027"/>j'étais entré à l'lmpérial. Plus loin on a l'occasion de constater que M. Gustave-Louis Tau<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P17_TL00028"/>tain est plus sage que dame Fortune ; il n'aime pas les audacieux. Tout de même M. G. L.<lb facs="P17_TL00029"/>Tautain soyez prudent jusqu'à ne pas être méchant, on vous croira plus fort.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P17_TB00006">
+                                    <lb facs="P17_TL00022"/>Le Scarabée. Paris. Dans le n° 19 Mr Jean Noury nous affirme en une dizaine de<lb facs="P17_TL00023"/>pages que M. Louis de Royaumont était un excellent homme. Eh oui c'est très probable ...<lb facs="P17_TL00024"/>mais que Balzac serait-il devenu sans Mr de Rayaumont. Dans le n° 20 Mr Etienne Marie<lb facs="P17_TL00025"/>dit je crois qu'il n'aime pas beaucoup les conférences engueulo-contradictoires qui lui<lb facs="P17_TL00026"/>semblent un peu vaines, c'est assez ce que je pensais un jour que sans le faire exprès<lb facs="P17_TL00027"/>j'étais entré à l'lmpérial. Plus loin on a l'occasion de constater que M. Gustave-Louis Tau<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00028"/>tain est plus sage que dame Fortune ; il n'aime pas les audacieux. Tout de même M. G. L.<lb facs="P17_TL00029"/>Tautain soyez prudent jusqu'à ne pas être méchant, on vous croira plus fort.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P17_TB00007">
-                                       <lb facs="P17_TL00030"/>Les Humbles. Paris. Dans le n° de Mai Mr Marcel Sauvage retrousse ses manches et<lb facs="P17_TL00031"/>se prépare à embrocher les " pantins et les imbéciles tout d'abord on tendrait àle remer<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P17_TL00032"/>cier de ce geste chevaleresque, mais à la réflexion on se dit qu'il va se donner chaud bien<lb facs="P17_TL00033"/>inutilement, ces pauvres gens sont si peu gênants. Dans le n° suivant (Juin) il y a une col<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P17_TL00034"/>lection de petites histoires qui ne m'intéressent pas, vous non plus n'est-ce pas ? Dans le<lb facs="P17_TL00035"/>n 0 de Juillet une très généreuse " Harangue aux vieillards de ce temps " de Mr Christian.<lb facs="P17_TL00036"/>Dans ce même numéro Madame ou Mademoiselle Renée Dunan se complait à définir aussi<lb facs="P17_TL00037"/>précisément que possible les divers sens du mot " pédéraste</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P17_TB00007">
+                                    <lb facs="P17_TL00030"/>Les Humbles. Paris. Dans le n° de Mai Mr Marcel Sauvage retrousse ses manches et<lb facs="P17_TL00031"/>se prépare à embrocher les " pantins et les imbéciles tout d'abord on tendrait àle remer<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00032"/>cier de ce geste chevaleresque, mais à la réflexion on se dit qu'il va se donner chaud bien<lb facs="P17_TL00033"/>inutilement, ces pauvres gens sont si peu gênants. Dans le n° suivant (Juin) il y a une col<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00034"/>lection de petites histoires qui ne m'intéressent pas, vous non plus n'est-ce pas ? Dans le<lb facs="P17_TL00035"/>n 0 de Juillet une très généreuse " Harangue aux vieillards de ce temps " de Mr Christian.<lb facs="P17_TL00036"/>Dans ce même numéro Madame ou Mademoiselle Renée Dunan se complait à définir aussi<lb facs="P17_TL00037"/>précisément que possible les divers sens du mot " pédéraste</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P17_TB00008">
-                                       <lb facs="P17_TL00038"/>Le Faubourg. Paris. J'en suis au n° 8, deuxième année. Je le préférais quand il était<lb facs="P17_TL00039"/>plus jeune, ah joli mois de Mai quand reviendras-tu?</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P17_TB00008">
+                                    <lb facs="P17_TL00038"/>Le Faubourg. Paris. J'en suis au n° 8, deuxième année. Je le préférais quand il était<lb facs="P17_TL00039"/>plus jeune, ah joli mois de Mai quand reviendras-tu?</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P17_TB00009">
-                                       <lb facs="P17_TL00040"/>Les Pionniers de Normandie. Aunaij. Odon. Calvados. Le dernier n° reçu est de Jan<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P17_TL00041"/>vier-Février 1919. Mr Edouard Dujardin de Mr Paul Morisse, étude très consciencieuse na<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P17_TL00042"/>turellement. 11 y a aussi un " Pionniers ! 0 Pionniers " de Walt Whitman, c'est un petit<lb facs="P17_TL00043"/>lingot de cuivre gros comme une noisette dont on a fait un kilomètre de fil.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P17_TB00009">
+                                    <lb facs="P17_TL00040"/>Les Pionniers de Normandie. Aunaij. Odon. Calvados. Le dernier n° reçu est de Jan<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00041"/>vier-Février 1919. Mr Edouard Dujardin de Mr Paul Morisse, étude très consciencieuse na<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00042"/>turellement. 11 y a aussi un " Pionniers ! 0 Pionniers " de Walt Whitman, c'est un petit<lb facs="P17_TL00043"/>lingot de cuivre gros comme une noisette dont on a fait un kilomètre de fil.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P17_TB00010">
-                                       <lb facs="P17_TL00044"/>Pagina d'Arte. Milan cl Rome. Il n'est question ici que de choses trouvées, j'y re<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P17_TL00045"/>garde les reproductions d'art ancien.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P17_TB00010">
+                                    <lb facs="P17_TL00044"/>Pagina d'Arte. Milan cl Rome. Il n'est question ici que de choses trouvées, j'y re<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00045"/>garde les reproductions d'art ancien.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P17_TB00011">
-                                       <lb facs="P17_TL00046"/>Infinito. Dumfries. En ce qui concerne les lettres françaises on ne me paraît pas très<lb facs="P17_TL00047"/>exactement renseigné là-bas, mais après tout c'est bien excusable, il y a tant de gens ici<lb facs="P17_TL00048"/>même qui jouent à coilin-maillard.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P17_TB00011">
+                                    <lb facs="P17_TL00046"/>Infinito. Dumfries. En ce qui concerne les lettres françaises on ne me paraît pas très<lb facs="P17_TL00047"/>exactement renseigné là-bas, mais après tout c'est bien excusable, il y a tant de gens ici<lb facs="P17_TL00048"/>même qui jouent à coilin-maillard.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P17_TB00012">
-                                       <lb facs="P17_TL00049"/>Les Tablettes. Saint-Raphaël. \ar. Je connais un vieux bonhomme qui a édité pen<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P17_TL00050"/>dant vingt ans une revue mensuelle de 32 page in 4° sur 2 colonnes imprimées en corps 8<lb facs="P17_TL00051"/>contenant uniquement des vers, la collection complète est imposante comme le grand La<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P17_TL00052"/>rousse. Le bonhomme en est très fier et il a la conviction de n'avoir jamais lait de mal à<lb facs="P17_TL00053"/>personne, je crois au fond qu'il a raison.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P17_TB00012">
+                                    <lb facs="P17_TL00049"/>Les Tablettes. Saint-Raphaël. \ar. Je connais un vieux bonhomme qui a édité pen<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00050"/>dant vingt ans une revue mensuelle de 32 page in 4° sur 2 colonnes imprimées en corps 8<lb facs="P17_TL00051"/>contenant uniquement des vers, la collection complète est imposante comme le grand La<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P17_TL00052"/>rousse. Le bonhomme en est très fier et il a la conviction de n'avoir jamais lait de mal à<lb facs="P17_TL00053"/>personne, je crois au fond qu'il a raison.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P18_TB00002">
-                                       <lb facs="P18_TL00002"/>La Tramontane. Perpignan. —A la réflexion c'est un peu déconcertant. Perpignan est<lb facs="P18_TL00003"/>un peu loin de Paris évidemment, mais tout de même on doit bien en entendre parler<lb facs="P18_TL00004"/>quelquefois. Jeunes gens et jeunes filles amusez-vous bien.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P18_TB00002">
+                                    <lb facs="P18_TL00002"/>La Tramontane. Perpignan. —A la réflexion c'est un peu déconcertant. Perpignan est<lb facs="P18_TL00003"/>un peu loin de Paris évidemment, mais tout de même on doit bien en entendre parler<lb facs="P18_TL00004"/>quelquefois. Jeunes gens et jeunes filles amusez-vous bien.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P18_TB00003">
-                                       <lb facs="P18_TL00005"/>Les Mouettes. Rhône. —n° 1. Cette revue n'ayant que 16 pages il lui faudra quarante<lb facs="P18_TL00006"/>ans pour former une collection dans le genre de celle du bonhomme cité glus haut, seule<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P18_TL00007"/>ment elle sera tout de même d'un format un peu moins grand et elle contiendra moins de<lb facs="P18_TL00008"/>vers, puisqu'elle n'est imprimée que sur une colonne.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P18_TB00003">
+                                    <lb facs="P18_TL00005"/>Les Mouettes. Rhône. —n° 1. Cette revue n'ayant que 16 pages il lui faudra quarante<lb facs="P18_TL00006"/>ans pour former une collection dans le genre de celle du bonhomme cité glus haut, seule<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P18_TL00007"/>ment elle sera tout de même d'un format un peu moins grand et elle contiendra moins de<lb facs="P18_TL00008"/>vers, puisqu'elle n'est imprimée que sur une colonne.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P18_TB00004">
-                                       <lb facs="P18_TL00009"/>Les Facettes. Toulon. Idem. Mais il faudra au moins soixante ans et la collection<lb facs="P18_TL00010"/>sera d'un format beaucoup moins imposant.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P18_TB00004">
+                                    <lb facs="P18_TL00009"/>Les Facettes. Toulon. Idem. Mais il faudra au moins soixante ans et la collection<lb facs="P18_TL00010"/>sera d'un format beaucoup moins imposant.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P18_TB00005">
-                                       <lb facs="P18_TL00011"/>Le Divan. Deux-Sèvres. n° 58. Quand on lit cette revue après les cinq ou six qui pré<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P18_TL00012"/>cèdent on la trouve possible, elle fait comme les sages cochers qui ont peur des accidents<lb facs="P18_TL00013"/>et des contraventions : elle tient toujours sa droite et va au pas.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P18_TB00005">
+                                    <lb facs="P18_TL00011"/>Le Divan. Deux-Sèvres. n° 58. Quand on lit cette revue après les cinq ou six qui pré<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P18_TL00012"/>cèdent on la trouve possible, elle fait comme les sages cochers qui ont peur des accidents<lb facs="P18_TL00013"/>et des contraventions : elle tient toujours sa droite et va au pas.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P18_TB00006">
-                                       <lb facs="P18_TL00014"/>Les Feuilles libres. Paris. —n° 8 "Le mensonge de la beauté" Mr Poinsot fait une<lb facs="P18_TL00015"/>découverte sensationnelle.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P18_TB00006">
+                                    <lb facs="P18_TL00014"/>Les Feuilles libres. Paris. —n° 8 "Le mensonge de la beauté" Mr Poinsot fait une<lb facs="P18_TL00015"/>découverte sensationnelle.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P18_TB00007">
-                                       <lb facs="P18_TL00016"/>La Lucarne. Liège. Pour l'encouragement des jeunes poètes et le découragement<lb facs="P18_TL00017"/>des autres.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P18_TB00007">
+                                    <lb facs="P18_TL00016"/>La Lucarne. Liège. Pour l'encouragement des jeunes poètes et le découragement<lb facs="P18_TL00017"/>des autres.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P18_TB00008">
-                                       <lb facs="P18_TL00018"/>Arts et lettres. Paris-Carcassonne. Ta ta ta ta ta ta, ta ta ta ta ta ta.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P18_TB00008">
+                                    <lb facs="P18_TL00018"/>Arts et lettres. Paris-Carcassonne. Ta ta ta ta ta ta, ta ta ta ta ta ta.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P18_TB00009">
-                                       <lb facs="P18_TL00019"/>L'Expansion. Toulouse. Entre amis. Union consacrée. Les jeunes gens embrasse<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P18_TL00020"/>ront les jeunes filles. Mlle Doette Fourgassié déviait laisser là le trésor de la trésorerie et<lb facs="P18_TL00021"/>de l'honorariat et partir faire le tour du diable, peut-être qu'un beau malin, elle ferait un<lb facs="P18_TL00022"/>poème. Partez Mademoiselle, un poète n'ouvre les yeux qu'après avoir été baptisé par le<lb facs="P18_TL00023"/>diable et le diable n'est ni à Toulouse ni à Perpignan.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P18_TB00009">
+                                    <lb facs="P18_TL00019"/>L'Expansion. Toulouse. Entre amis. Union consacrée. Les jeunes gens embrasse<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P18_TL00020"/>ront les jeunes filles. Mlle Doette Fourgassié déviait laisser là le trésor de la trésorerie et<lb facs="P18_TL00021"/>de l'honorariat et partir faire le tour du diable, peut-être qu'un beau malin, elle ferait un<lb facs="P18_TL00022"/>poème. Partez Mademoiselle, un poète n'ouvre les yeux qu'après avoir été baptisé par le<lb facs="P18_TL00023"/>diable et le diable n'est ni à Toulouse ni à Perpignan.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P18_TB00010">
-                                       <lb facs="P18_TL00024"/>L'Encrier. Paris. Je crois que Mr R. Dévigne est très bien intentionné, l'art a besoin<lb facs="P18_TL00025"/>de lui le voici; son devoir est d'écrire, il écrit. Art, Beauté, Amour, délice et orgue.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P18_TB00010">
+                                    <lb facs="P18_TL00024"/>L'Encrier. Paris. Je crois que Mr R. Dévigne est très bien intentionné, l'art a besoin<lb facs="P18_TL00025"/>de lui le voici; son devoir est d'écrire, il écrit. Art, Beauté, Amour, délice et orgue.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P18_TB00011">
-                                       <lb facs="P18_TL00026"/>Artistique revue. Nice. Je n'ai plus reçu cette revue depuis le mois de Mai. Gui<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P18_TL00027"/>gnol mon brave n'oublie pas ceux qui t'aiment.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P18_TB00011">
+                                    <lb facs="P18_TL00026"/>Artistique revue. Nice. Je n'ai plus reçu cette revue depuis le mois de Mai. Gui<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P18_TL00027"/>gnol mon brave n'oublie pas ceux qui t'aiment.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P18_TB00012">
-                                       <lb facs="P18_TL00028"/>Le trait d'union. Paris. Revue qui a une très belle couverture. Je n'ai reçu que le<lb facs="P18_TL00029"/>n° 1, daté d'Avril, est-ce une revue annuelle ?</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P18_TB00012">
+                                    <lb facs="P18_TL00028"/>Le trait d'union. Paris. Revue qui a une très belle couverture. Je n'ai reçu que le<lb facs="P18_TL00029"/>n° 1, daté d'Avril, est-ce une revue annuelle ?</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P18_TB00013">
-                                       <lb facs="P18_TL00030"/>Los estados unidos. Barcelone. New-York. Chicago. Revue qui ne nous intéresse<lb facs="P18_TL00031"/>pas directement, mais elle est bien faite, on s'y occupe de tout une partie de l'activité hu<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P18_TL00032"/>maine et nihil humanum.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P18_TB00013">
+                                    <lb facs="P18_TL00030"/>Los estados unidos. Barcelone. New-York. Chicago. Revue qui ne nous intéresse<lb facs="P18_TL00031"/>pas directement, mais elle est bien faite, on s'y occupe de tout une partie de l'activité hu<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P18_TL00032"/>maine et nihil humanum.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P18_TB00014">
-                                       <lb facs="P18_TL00033"/>Petit messager. Paris. Mr H. Marcel Magne nous apprend des choses très intéres<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P18_TL00034"/>santes au sujet des construction industrielles de guerre, nos ingénieurs et nos architectes<lb facs="P18_TL00035"/>ont fait de grandes choses sans en avoir l'air, n'en est-il pas toujours ainsi, mais il est<lb facs="P18_TL00036"/>bon que quelqu'un le dise.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P18_TB00014">
+                                    <lb facs="P18_TL00033"/>Petit messager. Paris. Mr H. Marcel Magne nous apprend des choses très intéres<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P18_TL00034"/>santes au sujet des construction industrielles de guerre, nos ingénieurs et nos architectes<lb facs="P18_TL00035"/>ont fait de grandes choses sans en avoir l'air, n'en est-il pas toujours ainsi, mais il est<lb facs="P18_TL00036"/>bon que quelqu'un le dise.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P18_TB00015">
-                                       <lb facs="P18_TL00037"/>La nouvelle égalité. Paris. La rubrique " Vie artistique " ne contient guère que<lb facs="P18_TL00038"/>des informations après la lettre ce qui n'est peut-être pas tout à fait le propre de l'infor<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P18_TL00039"/>mation.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P18_TB00015">
+                                    <lb facs="P18_TL00037"/>La nouvelle égalité. Paris. La rubrique " Vie artistique " ne contient guère que<lb facs="P18_TL00038"/>des informations après la lettre ce qui n'est peut-être pas tout à fait le propre de l'infor<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P18_TL00039"/>mation.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P18_TB00016">
-                                       <lb facs="P18_TL00040"/>Lutétia. Paris.—Changement de figure mais non d'esprit. Un de ces numéros est pour<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P18_TL00041"/>tant intéressant puisqu'il contient de Louis de Gonzague Frick, un éloge ( malgré les co<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P18_TL00042"/>quilles) quotidiens.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P18_TB00016">
+                                    <lb facs="P18_TL00040"/>Lutétia. Paris.—Changement de figure mais non d'esprit. Un de ces numéros est pour<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P18_TL00041"/>tant intéressant puisqu'il contient de Louis de Gonzague Frick, un éloge ( malgré les co<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P18_TL00042"/>quilles) quotidiens.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P18_TB00017">
-                                       <lb facs="P18_TL00043"/>La Publicidad. Barcelone. — Un quotidien de 12 pages qui est vendu 5 centimes, c'est<lb facs="P18_TL00044"/>presqu'aussi bien qu'en France, et un quotidien qui consacre une pege presqu'entière-la<lb facs="P18_TL00045"/>matière d'une brochure — aux œuvres du directeur de Sic,</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P18_TB00017">
+                                    <lb facs="P18_TL00043"/>La Publicidad. Barcelone. — Un quotidien de 12 pages qui est vendu 5 centimes, c'est<lb facs="P18_TL00044"/>presqu'aussi bien qu'en France, et un quotidien qui consacre une pege presqu'entière-la<lb facs="P18_TL00045"/>matière d'une brochure — aux œuvres du directeur de Sic,</ab>
                               </div>
                            </div>
                         </div>

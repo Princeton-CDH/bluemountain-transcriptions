@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">3</biblScope>
                         <biblScope unit="issue">33</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace>
                         <date when="1918-11">NOVEMBRE 1918</date>
                      </imprint>
                   </monogr>
@@ -113,8 +104,7 @@
                   <acquisition> </acquisition>
                </history>
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -123,9 +113,7 @@
                      <biblScope unit="issue">33</biblScope>
                      <date when="1918-11"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -139,8 +127,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -155,8 +142,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -176,8 +162,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -198,13 +183,16 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">POÈME</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/68934728">Raymond Radiguet</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -213,36 +201,15 @@
                            <biblScope unit="page">2</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c007">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">Ligne d'horizon</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/68934728">Raymond Radiguet</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">2</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">Photographies animées</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/109453511&#xA;">Philippe SOUPAULT</persName>
+                           <persName ref="http://viaf.org/viaf/109453511">Philippe SOUPAULT</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -254,8 +221,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c009">
+               </relatedItem><relatedItem type="constituent" xml:id="c009">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -275,15 +241,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c011">
+               </relatedItem><relatedItem type="constituent" xml:id="c011">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">SIECLE</seg>
                         </title>
                         <respStmt>
-                           <persName ref="http://viaf.org/viaf/61551365&#xA;">PIERRE REVERDY</persName>
+                           <persName ref="http://viaf.org/viaf/61551365">PIERRE REVERDY</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="fre"/>
@@ -295,8 +260,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c012">
+               </relatedItem><relatedItem type="constituent" xml:id="c012">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -311,8 +275,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -332,14 +295,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="32850" lry="42700">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/11_01/delivery/bmtnaaz_1918-11_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="32850" lry="1240"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="1240" lrx="0" lry="42210"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="30330" uly="1240" lrx="32850" lry="42210"/>
@@ -595,7 +557,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="26110" lry="41220">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/11_01/delivery/bmtnaaz_1918-11_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="26110" lry="3030"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="3030" lrx="1730" lry="37230"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="24160" uly="3030" lrx="26110" lry="37230"/>
@@ -993,7 +955,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="26110" lry="41220">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/11_01/delivery/bmtnaaz_1918-11_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="26110" lry="4490"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="4490" lrx="1840" lry="39300"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="24540" uly="4490" lrx="26110" lry="39300"/>
@@ -1255,7 +1217,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="26110" lry="41220">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/11_01/delivery/bmtnaaz_1918-11_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="26110" lry="2580"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="2580" lrx="5830" lry="35670"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="20250" uly="2580" lrx="26110" lry="35670"/>
@@ -1487,7 +1449,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="26110" lry="41220">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/11_01/delivery/bmtnaaz_1918-11_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="26110" lry="1910"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="1910" lrx="1220" lry="38220"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="23820" uly="1910" lrx="26110" lry="38220"/>
@@ -1770,7 +1732,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="26110" lry="41220">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/11_01/delivery/bmtnaaz_1918-11_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="26110" lry="0"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="0" lrx="0" lry="41210"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="26100" uly="0" lrx="26110" lry="41210"/>
@@ -2157,7 +2119,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="26110" lry="41220">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/11_01/delivery/bmtnaaz_1918-11_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="26110" lry="0"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="0" lrx="0" lry="41210"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="26100" uly="0" lrx="26110" lry="41210"/>
@@ -2614,7 +2576,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="26110" lry="41220">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1918/11_01/delivery/bmtnaaz_1918-11_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="26110" lry="3830"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="3830" lrx="2310" lry="37950"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="24680" uly="3830" lrx="26110" lry="37950"/>
@@ -3194,18 +3156,16 @@
                         <ab facs="P2_TB00005">
                            <lb facs="P2_TL00024"/>POÈME</ab>
                      </div>
-                     <div type="TextContent" corresp="c007">
-                        <div type="Byline">
-                           <ab facs="P2_TB00007">
-                              <lb facs="P2_TL00039"/>Raymond Radiguet</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P2_TB00006">
-                                       <lb facs="P2_TL00025"/>Ligne d'horizon<lb facs="P2_TL00026"/>Morceaux de tête<lb facs="P2_TL00027"/>Dans le roking chair<lb facs="P2_TL00028"/>Murs<lb facs="P2_TL00029"/>L'éphéméride est déjà à après demain<lb facs="P2_TL00030"/>Un camion automobile écrase nos ombres<lb facs="P2_TL00031"/>S.V.P.<lb facs="P2_TL00032"/>On se bouscule aux portes du ciel ou des Grands magasins<lb facs="P2_TL00033"/>Les paroles se cognent<lb facs="P2_TL00034"/>Articles pour voyage mais<lb facs="P2_TL00035"/>Il y a plus de monde au rayon des ustensiles de cuisine 1' é-<lb facs="P2_TL00036"/>Charpe des maires<lb facs="P2_TL00037"/>Au bout des rails<lb facs="P2_TL00038"/>La mer</ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P2_TB00007">
+                           <lb facs="P2_TL00039"/>Raymond Radiguet</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P2_TB00006">
+                                    <lb facs="P2_TL00025"/>Ligne d'horizon<lb facs="P2_TL00026"/>Morceaux de tête<lb facs="P2_TL00027"/>Dans le roking chair<lb facs="P2_TL00028"/>Murs<lb facs="P2_TL00029"/>L'éphéméride est déjà à après demain<lb facs="P2_TL00030"/>Un camion automobile écrase nos ombres<lb facs="P2_TL00031"/>S.V.P.<lb facs="P2_TL00032"/>On se bouscule aux portes du ciel ou des Grands magasins<lb facs="P2_TL00033"/>Les paroles se cognent<lb facs="P2_TL00034"/>Articles pour voyage mais<lb facs="P2_TL00035"/>Il y a plus de monde au rayon des ustensiles de cuisine 1' é-<lb facs="P2_TL00036"/>Charpe des maires<lb facs="P2_TL00037"/>Au bout des rails<lb facs="P2_TL00038"/>La mer</ab>
                               </div>
                            </div>
                         </div>

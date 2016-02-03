@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">2</biblScope>
                         <biblScope unit="issue">24</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace>
                         <date when="1917-12">Décembre 1917</date>
                      </imprint>
                   </monogr>
@@ -110,8 +101,7 @@
                </history>
                
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -120,9 +110,7 @@
                      <biblScope unit="issue">24</biblScope>
                      <date when="1917-12"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -136,8 +124,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -152,8 +139,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -173,12 +159,11 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c004">
+               </relatedItem><relatedItem type="constituent" xml:id="c004">
                   <biblStruct>
                      <analytic>
                         <title level="a">
-                           <seg type="main">E T C...</seg>
+                           <seg type="main">ETC...</seg>
                         </title>
                         <textLang mainLang="fre"/>
                      </analytic>
@@ -188,25 +173,8 @@
                            <biblScope unit="page">2</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c005">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">Untitle text</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">2</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c006">
+               </relatedItem><relatedItem type="constituent" xml:id="c006">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -221,8 +189,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c007">
+               </relatedItem><relatedItem type="constituent" xml:id="c007">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -241,13 +208,16 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">POÈME</seg>
                         </title>
+                        <respStmt>
+                           <persName ref="http://viaf.org/viaf/36935759">GEORGES GABORY</persName>
+                           <resp>cre</resp>
+                        </respStmt>
                         <textLang mainLang="fre"/>
                      </analytic>
                      <monogr>
@@ -256,29 +226,8 @@
                            <biblScope unit="page">6</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c009">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">"Près du réverbère"</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/36935759">GEORGES GABORY</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">6</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c010">
+               </relatedItem><relatedItem type="constituent" xml:id="c010">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -297,8 +246,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c011">
+               </relatedItem><relatedItem type="constituent" xml:id="c011">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -313,14 +261,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="31300" lry="39230">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/12_01/delivery/bmtnaaz_1917-12_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="31300" lry="2960"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="2960" lrx="1630" lry="35010"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="30650" uly="2960" lrx="31300" lry="35010"/>
@@ -509,7 +456,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="28420" lry="38500">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/12_01/delivery/bmtnaaz_1917-12_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="28420" lry="3670"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="3670" lrx="1910" lry="35760"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="25900" uly="3670" lrx="28420" lry="35760"/>
@@ -1003,7 +950,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="28420" lry="38500">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/12_01/delivery/bmtnaaz_1917-12_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="28420" lry="3290"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="3290" lrx="2290" lry="35190"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="26230" uly="3290" lrx="28420" lry="35190"/>
@@ -1908,7 +1855,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="28420" lry="38500">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/12_01/delivery/bmtnaaz_1917-12_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="28420" lry="3310"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="3310" lrx="2080" lry="35310"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="26280" uly="3310" lrx="28420" lry="35310"/>
@@ -2663,7 +2610,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="28420" lry="38500">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/12_01/delivery/bmtnaaz_1917-12_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="28420" lry="6450"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="6450" lrx="4860" lry="32080"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="23380" uly="6450" lrx="28420" lry="32080"/>
@@ -2696,7 +2643,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="28420" lry="38500">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/12_01/delivery/bmtnaaz_1917-12_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="28420" lry="3160"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="3160" lrx="2130" lry="35300"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="26320" uly="3160" lrx="28420" lry="35300"/>
@@ -3435,7 +3382,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="28420" lry="38500">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/12_01/delivery/bmtnaaz_1917-12_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="28420" lry="3450"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="3450" lrx="2410" lry="35050"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="26020" uly="3450" lrx="28420" lry="35050"/>
@@ -4154,7 +4101,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="28420" lry="38500">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/12_01/delivery/bmtnaaz_1917-12_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="28420" lry="3010"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="3010" lrx="2680" lry="36230"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="26020" uly="3010" lrx="28420" lry="36230"/>
@@ -4993,37 +4940,35 @@
                         <ab facs="P2_TB00006">
                            <lb facs="P2_TL00051"/>E T G...</ab>
                      </div>
-                     <div type="TextContent" corresp="c005">
-                        <div type="Byline">
-                           <ab facs="P4_TB00002">
-                              <lb facs="P4_TL00046"/>LOUIS DE GONZAGUE-FRICK.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P2_TB00007">
-                                       <lb facs="P2_TL00052"/>M. Max JACOB et son Cornet à. Dés.<lb facs="P2_TL00053"/>A Madame Germaine Albert-Birot.<lb facs="P2_TL00054"/>Les jolis titres sont trop rares pour que l'on ne félicite point M. Max Jacob d'en avoir choisi<lb facs="P2_TL00055"/>un qui donnât un avant-goût de l'œuvre qu'il offre au public en le saluant, avec toute la courtoisie<lb facs="P2_TL00056"/>qui l'honore, de son chapeau d'astrologue. Le Cornet à Dés n'est-il point le couvre-chef de rechange<lb facs="P2_TL00057"/>du mage.<lb facs="P2_TL00058"/>Et j'ai cru voir la fée au chapeau de clarté<lb facs="P2_TL00059"/>Qui, jadis, sur mes beaux sommeils d'enfant gâté<lb facs="P2_TL00060"/>Passait, laissant toujours de ses mains mal fermées<lb facs="P2_TL00061"/>Neiger de blancs bouquets d'étoiles parfumées.</ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P4_TB00002">
+                           <lb facs="P4_TL00046"/>LOUIS DE GONZAGUE-FRICK.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P2_TB00007">
+                                    <lb facs="P2_TL00052"/>M. Max JACOB et son Cornet à. Dés.<lb facs="P2_TL00053"/>A Madame Germaine Albert-Birot.<lb facs="P2_TL00054"/>Les jolis titres sont trop rares pour que l'on ne félicite point M. Max Jacob d'en avoir choisi<lb facs="P2_TL00055"/>un qui donnât un avant-goût de l'œuvre qu'il offre au public en le saluant, avec toute la courtoisie<lb facs="P2_TL00056"/>qui l'honore, de son chapeau d'astrologue. Le Cornet à Dés n'est-il point le couvre-chef de rechange<lb facs="P2_TL00057"/>du mage.<lb facs="P2_TL00058"/>Et j'ai cru voir la fée au chapeau de clarté<lb facs="P2_TL00059"/>Qui, jadis, sur mes beaux sommeils d'enfant gâté<lb facs="P2_TL00060"/>Passait, laissant toujours de ses mains mal fermées<lb facs="P2_TL00061"/>Neiger de blancs bouquets d'étoiles parfumées.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P3_TB00001">
-                                       <lb facs="P3_TL00001"/>M. Max Jacob est un personnage suggestif et ensorcelant. Il serait malaisé de trouver un esprit<lb facs="P3_TL00002"/>plus délié, plus rompu aux jeux de l'imagination et de l'eutrapélie. Ses souples qualités lui eussent<lb facs="P3_TL00003"/>permis de devenir un journaliste de belle étoffe, mais il eut eu quelque remords à marcher sur la<lb facs="P3_TL00004"/>route du succès facile. Il a préféré suivre le chemin ardu de « l'homme pur », ou si l'on aime mieux<lb facs="P3_TL00005"/>du poëte, soucieux de saisir dans ses doigts lyriques l'essence, « les réverbères célestes » dont la<lb facs="P3_TL00006"/>seule vue sidère « les héros excédés de malaises badins ».<lb facs="P3_TL00007"/>M. Max Jacob n'avait guère publié jusqu'ici que des livres fastueux réservés à quelques ama<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00008"/>teurs farcis de « noailles ». Toutefois, un recueil de chants celtiques qu'il intitula « La Côte » avait<lb facs="P3_TL00009"/>répandu le nom de cet auteur, fleuri d'une grâce inamissible, dans divers milieux et c'est de cette<lb facs="P3_TL00010"/>époque (1911) que date sa notoriété publique, encore qu'il fut célèbre depuis longtemps déjà, dans les<lb facs="P3_TL00011"/>parages du Sacré-Cœur.<lb facs="P3_TL00012"/>M. Max Jacob écrivait maints poèmes en prose et les lisait à quelques amis pour leur plus<lb facs="P3_TL00013"/>grande létification esthétique. Il y avait là les sept couleurs de l'arc-en-ciel et Ton passait sous<lb facs="P3_TL00014"/>cette arche constellée pour respirer les orchidées de l'Impalpable et du Mystère. M. Max Jacob<lb facs="P3_TL00015"/>favorisait ses auditeurs de commentaires qui n'étaient rien de moins que de nouveaux poèmes<lb facs="P3_TL00016"/>en prose.<lb facs="P3_TL00017"/>Le poëme en prose a toujours été un sujet de méditation et d'exégèse pour M. Max Jacob. Aussi<lb facs="P3_TL00018"/>bien, devait-il, plus tard en préciser la physionomie, en analyser tous les ressorts et toutes les<lb facs="P3_TL00019"/>ressources, et nous présenter ce travail ingénieux dans la préface du Cornet à Dès. M. Max Jacob<lb facs="P3_TL00020"/>rédige ses préfaces dans le style des épistoliers du xvn6 siècle, il possède leur naturel et leur<lb facs="P3_TL00021"/>bonheur et cela confère à ses paradoxes un grand air et une précision axiomatique.<lb facs="P3_TL00022"/>Beaucoup d'artistes croient écrire des poëmes en prose alors qu'il s'agit de proses lyriques non<lb facs="P3_TL00023"/>déterminées. Le poëme en prose a ses limites, sa structure et Rimbaud pas plus que Baudelaire,<lb facs="P3_TL00024"/>o triomphateurs du désordre romantique «, ne créèrent de poëmes en prose.<lb facs="P3_TL00025"/>« Rimbaud a élargi le champ de la sensibilité et tous les littérateurs lui doivent de la recon<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00026"/>« naissance, mais les auteurs de poëmes en prose ne peuvent le prendre pour modèle car le poëme<lb facs="P3_TL00027"/>« en prose pour exister doit se soumettre aux lois de tout art qui sent le style ou volonté et la<lb facs="P3_TL00028"/>« situation ou émotion et Rimbaud ne conduit qu'au désordre et à l'exaspération. Le poème en<lb facs="P3_TL00029"/>« prose doit aussi éviter les paraboles baudelairiennes et mallarméennes s'il veut se distinguer de<lb facs="P3_TL00030"/>« la fable. On comprendra que je ne regarde pas comme poëmes en prose les cahiers d'impressions<lb facs="P3_TL00031"/>« plus ou moins curieuses que publient de temps en temps les confrères qui ont de l'excédent,....<lb facs="P3_TL00032"/>« Le poëme en prose est un bijou et non la devanture d'un bijoutier. »<lb facs="P3_TL00033"/>M. Max Jacob, dont nous avons transcrit ces considérations caractéristiques, cite Aloysius Ber<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P3_TL00034"/>trand, Marcel Schwob et Jules Renard comme les réels inventeurs du poëme en prose. C'est là un<lb facs="P3_TL00035"/>jugement que l'on ne saurait valablement révoquer en doute, mais il aurait été bien venu que<lb facs="P3_TL00036"/>M. Max Jacob nous entretînt de M. Léon-Paul Fargue qui nous semble avoir porté ce genre<lb facs="P3_TL00037"/>littéraire à son plus haut période. M. Max Jacob n'ignore pas M. Léon-Paul Fargue. L'on s'étonne<lb facs="P3_TL00038"/>de cette omission, car M. Léon-Paul Fargue réalise bien le poëme en prose tel que le conçoit<lb facs="P3_TL00039"/>M. Max Jacob, c'est-à-dire qu'il lui assigne exactement le cadre qui convient, qu'il le situe dans<lb facs="P3_TL00040"/>son atmosphère propre, en lui donnant une solidité physique, et pour employer le langage même<lb facs="P3_TL00041"/>de M. Max Jacob, l'apparence « d'un bijou ».<lb facs="P3_TL00042"/>Les poëmes en prose du « Cornet à Dés » sont variés, allégoriques, souvent anecdotiques, écrits<lb facs="P3_TL00043"/>dans un style précis, adroit et enjoué, mais ils n'illustrent pas en tout point la théorie de M. Max<lb facs="P3_TL00044"/>Jacob sur le poëme en prose, parce que celle-ci ne fut définitivement constituée qu'après coup. Les<lb facs="P3_TL00045"/>idées esthétiques de M. Max Jacob dansèrent longtemps comme autant de feux-follets. L'auteur du<lb facs="P3_TL00046"/>« Cornet à Dés » ne planta véritablement son arbre qu'une fois que les fruits (mûris par un effet de<lb facs="P3_TL00047"/>magie) s'épanouissaient sous les rayons d'un soleil spirituel. Cela n'empêche pas moins M. Max<lb facs="P3_TL00048"/>Jacob d'être l'un des sept sages de la Colline Montmartroise et d'exercer sur ceux qui l'approchent,<lb facs="P3_TL00049"/>le prestige d'un séducteur inimitable.<lb facs="P3_TL00050"/>Spirales, par M. Paul DERMÉE. — Il est équitable tout d'abord de louer le goût de M. Paul<lb facs="P3_TL00051"/>Dermée qui a présidé à l'édition de son livre. « Spirales » fait songer par l'aspect extérieur aux volume,</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P3_TB00001">
+                                    <lb facs="P3_TL00001"/>M. Max Jacob est un personnage suggestif et ensorcelant. Il serait malaisé de trouver un esprit<lb facs="P3_TL00002"/>plus délié, plus rompu aux jeux de l'imagination et de l'eutrapélie. Ses souples qualités lui eussent<lb facs="P3_TL00003"/>permis de devenir un journaliste de belle étoffe, mais il eut eu quelque remords à marcher sur la<lb facs="P3_TL00004"/>route du succès facile. Il a préféré suivre le chemin ardu de « l'homme pur », ou si l'on aime mieux<lb facs="P3_TL00005"/>du poëte, soucieux de saisir dans ses doigts lyriques l'essence, « les réverbères célestes » dont la<lb facs="P3_TL00006"/>seule vue sidère « les héros excédés de malaises badins ».<lb facs="P3_TL00007"/>M. Max Jacob n'avait guère publié jusqu'ici que des livres fastueux réservés à quelques ama<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00008"/>teurs farcis de « noailles ». Toutefois, un recueil de chants celtiques qu'il intitula « La Côte » avait<lb facs="P3_TL00009"/>répandu le nom de cet auteur, fleuri d'une grâce inamissible, dans divers milieux et c'est de cette<lb facs="P3_TL00010"/>époque (1911) que date sa notoriété publique, encore qu'il fut célèbre depuis longtemps déjà, dans les<lb facs="P3_TL00011"/>parages du Sacré-Cœur.<lb facs="P3_TL00012"/>M. Max Jacob écrivait maints poèmes en prose et les lisait à quelques amis pour leur plus<lb facs="P3_TL00013"/>grande létification esthétique. Il y avait là les sept couleurs de l'arc-en-ciel et Ton passait sous<lb facs="P3_TL00014"/>cette arche constellée pour respirer les orchidées de l'Impalpable et du Mystère. M. Max Jacob<lb facs="P3_TL00015"/>favorisait ses auditeurs de commentaires qui n'étaient rien de moins que de nouveaux poèmes<lb facs="P3_TL00016"/>en prose.<lb facs="P3_TL00017"/>Le poëme en prose a toujours été un sujet de méditation et d'exégèse pour M. Max Jacob. Aussi<lb facs="P3_TL00018"/>bien, devait-il, plus tard en préciser la physionomie, en analyser tous les ressorts et toutes les<lb facs="P3_TL00019"/>ressources, et nous présenter ce travail ingénieux dans la préface du Cornet à Dès. M. Max Jacob<lb facs="P3_TL00020"/>rédige ses préfaces dans le style des épistoliers du xvn6 siècle, il possède leur naturel et leur<lb facs="P3_TL00021"/>bonheur et cela confère à ses paradoxes un grand air et une précision axiomatique.<lb facs="P3_TL00022"/>Beaucoup d'artistes croient écrire des poëmes en prose alors qu'il s'agit de proses lyriques non<lb facs="P3_TL00023"/>déterminées. Le poëme en prose a ses limites, sa structure et Rimbaud pas plus que Baudelaire,<lb facs="P3_TL00024"/>o triomphateurs du désordre romantique «, ne créèrent de poëmes en prose.<lb facs="P3_TL00025"/>« Rimbaud a élargi le champ de la sensibilité et tous les littérateurs lui doivent de la recon<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00026"/>« naissance, mais les auteurs de poëmes en prose ne peuvent le prendre pour modèle car le poëme<lb facs="P3_TL00027"/>« en prose pour exister doit se soumettre aux lois de tout art qui sent le style ou volonté et la<lb facs="P3_TL00028"/>« situation ou émotion et Rimbaud ne conduit qu'au désordre et à l'exaspération. Le poème en<lb facs="P3_TL00029"/>« prose doit aussi éviter les paraboles baudelairiennes et mallarméennes s'il veut se distinguer de<lb facs="P3_TL00030"/>« la fable. On comprendra que je ne regarde pas comme poëmes en prose les cahiers d'impressions<lb facs="P3_TL00031"/>« plus ou moins curieuses que publient de temps en temps les confrères qui ont de l'excédent,....<lb facs="P3_TL00032"/>« Le poëme en prose est un bijou et non la devanture d'un bijoutier. »<lb facs="P3_TL00033"/>M. Max Jacob, dont nous avons transcrit ces considérations caractéristiques, cite Aloysius Ber<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P3_TL00034"/>trand, Marcel Schwob et Jules Renard comme les réels inventeurs du poëme en prose. C'est là un<lb facs="P3_TL00035"/>jugement que l'on ne saurait valablement révoquer en doute, mais il aurait été bien venu que<lb facs="P3_TL00036"/>M. Max Jacob nous entretînt de M. Léon-Paul Fargue qui nous semble avoir porté ce genre<lb facs="P3_TL00037"/>littéraire à son plus haut période. M. Max Jacob n'ignore pas M. Léon-Paul Fargue. L'on s'étonne<lb facs="P3_TL00038"/>de cette omission, car M. Léon-Paul Fargue réalise bien le poëme en prose tel que le conçoit<lb facs="P3_TL00039"/>M. Max Jacob, c'est-à-dire qu'il lui assigne exactement le cadre qui convient, qu'il le situe dans<lb facs="P3_TL00040"/>son atmosphère propre, en lui donnant une solidité physique, et pour employer le langage même<lb facs="P3_TL00041"/>de M. Max Jacob, l'apparence « d'un bijou ».<lb facs="P3_TL00042"/>Les poëmes en prose du « Cornet à Dés » sont variés, allégoriques, souvent anecdotiques, écrits<lb facs="P3_TL00043"/>dans un style précis, adroit et enjoué, mais ils n'illustrent pas en tout point la théorie de M. Max<lb facs="P3_TL00044"/>Jacob sur le poëme en prose, parce que celle-ci ne fut définitivement constituée qu'après coup. Les<lb facs="P3_TL00045"/>idées esthétiques de M. Max Jacob dansèrent longtemps comme autant de feux-follets. L'auteur du<lb facs="P3_TL00046"/>« Cornet à Dés » ne planta véritablement son arbre qu'une fois que les fruits (mûris par un effet de<lb facs="P3_TL00047"/>magie) s'épanouissaient sous les rayons d'un soleil spirituel. Cela n'empêche pas moins M. Max<lb facs="P3_TL00048"/>Jacob d'être l'un des sept sages de la Colline Montmartroise et d'exercer sur ceux qui l'approchent,<lb facs="P3_TL00049"/>le prestige d'un séducteur inimitable.<lb facs="P3_TL00050"/>Spirales, par M. Paul DERMÉE. — Il est équitable tout d'abord de louer le goût de M. Paul<lb facs="P3_TL00051"/>Dermée qui a présidé à l'édition de son livre. « Spirales » fait songer par l'aspect extérieur aux volume,</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P4_TB00001">
-                                       <lb facs="P4_TL00001"/>que présentait à un public d'élite, l'éditeur Bruxellois Deman, avec cette différence que son poétique<lb facs="P4_TL00002"/>auteur témoigne d'un choix plus sobre dans sa somptuosité.<lb facs="P4_TL00003"/>« Un créateur, c'est une âme ardente menée par une tête froide. »<lb facs="P4_TL00004"/>Cette définition de M. Paul Dermée résume assez bien son esthétique, mais elle ne représente<lb facs="P4_TL00005"/>point dans la même mesure l'art où il se complaît. N'est-il pas quelque peu malaisé de concevoir<lb facs="P4_TL00006"/>une tête froide atteignant aux plus hauts sommets du lyrisme, de ce lyrisme intégral dont se<lb facs="P4_TL00007"/>réclame M. Paul Dermée. La tête froide qui est l'intelligence critique ne doit-elle pas intervenir<lb facs="P4_TL00008"/>qu'après l'élaboration du poëme et pour le dépouiller de ses furolles, de ses inutiles ornements,<lb facs="P4_TL00009"/>et de certaines extravagances qu'entraîne quelquefois le lyrisme.<lb facs="P4_TL00010"/>La musicalité et la rime sont tenues pour des moyens accessoires par M. Paul Dermée. Passe<lb facs="P4_TL00011"/>encore pour la rime (bien que cette opinion soit toujours mise en controverse par maints poètes)<lb facs="P4_TL00012"/>mais peut-on croire que la musicalité ne soit pas un élément fondamental et cette musicalité ne se<lb facs="P4_TL00013"/>fond-elle point avec le lyrisme. Car un lyrisme qui ne serait point musical ressortirait à l'élo<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00014"/>quence proprement dite que notre auteur a bien raison de proscrire. Que faut-il demander à un<lb facs="P4_TL00015"/>poète sinon du sentiment, des images, de l'élévation de la musique et de la forme. Mais en réflé<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00016"/>chissant de plus près nous sommes conduits à nous poser cette question : M. Paul Dermée ne<lb facs="P4_TL00017"/>donne-t-il pas une importance secondaire à l'élément musical parce que celui-ci dominait chez les<lb facs="P4_TL00018"/>symbolistes, et que M. Paul Dermée qui est beaucoup plus musical qu'il le voudrait paraître,<lb facs="P4_TL00019"/>craindrait d'être pris pour un symboliste attardé ?<lb facs="P4_TL00020"/>L'auteur de » Spirales » qui a beaucoup étudié le métaphysicien mondonoviste d'Eureka. et le<lb facs="P4_TL00021"/>suprême Stéphane Mallarmé est un esprit fort soucieux de modernisme. Il egt l'un des fondateurs<lb facs="P4_TL00022"/>de « Nord-Sud » encore que soit assez récente sa convertioii au cubisme littéraire, terme qui ne<lb facs="P4_TL00023"/>satisfait point certains des principaux intéressés et notamment M. Pierre Reverdy, poète d'une<lb facs="P4_TL00024"/>gravité tragique lequel se contente du qualificatif de nord-sudiste, en attendant qu'on trouve le<lb facs="P4_TL00025"/>vocable représentattf de cette tendance.<lb facs="P4_TL00026"/>Il ne serait pas difficile de démontrer que M. Paul Dermée conserve un vague parfum roman<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00027"/>tique dans son sein tutélaîre. Une citation y suffira :<lb facs="P4_TL00028"/>« La dernière fille agonise sur le corps du dernier poète. »<lb facs="P4_TL00029"/>Musset ne répondit-il pas dans l'ombre à ce sanglot ?<lb facs="P4_TL00030"/>Et ces vers ne font-ils point de M. Paul Dermée un amoureux de la romance populaire :<lb facs="P4_TL00031"/>Les Demoiselles du Bois Doré<lb facs="P4_TL00032"/>Après avoir beaucoup pleuré<lb facs="P4_TL00033"/>Se sont toutes remariées.<lb facs="P4_TL00034"/>M. Paul Dermée sait être curieusement macabre dans le modernisme :<lb facs="P4_TL00035"/>La mort arrive conduisant son auto soûle.<lb facs="P4_TL00036"/>Mais pourquoi ocrit-il :<lb facs="P4_TL00037"/>La carpe saute au ruisseau d'acier.<lb facs="P4_TL00038"/>Certes, on peut sauter à la corde d'une façon nietzschéenne comme l'auteur de « Spirales », mais<lb facs="P4_TL00039"/>non pas au ruisseau. Ce datif est pour le moins salébreux. Il n'a pas non plus raison d'écrire :<lb facs="P4_TL00040"/>« L'orgie est soûle de sang » car cela constitue un pléonasme d'image.<lb facs="P4_TL00041"/>Si nous avons relevé quelques imperfections clans l'œuvre de M. Paul Dermée c'est pour montrer<lb facs="P4_TL00042"/>précisément le soin que nous avons mis à la lire. Et comme nous le notons dans t Le Carnet-<lb facs="P4_TL00043"/>Critique », M. Paul Dermée est un artiste compréhensif et sensible mais qui a le tort de s'emberli<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P4_TL00044"/>ficoter dans des formules restrictives. Il nous est loisible de conjecturer qu'il s'en évadera pour<lb facs="P4_TL00045"/>n'admettre dans ses spirales lyriques que les stables et lumineuses richesses du cœur d'Alcyone.</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P4_TB00001">
+                                    <lb facs="P4_TL00001"/>que présentait à un public d'élite, l'éditeur Bruxellois Deman, avec cette différence que son poétique<lb facs="P4_TL00002"/>auteur témoigne d'un choix plus sobre dans sa somptuosité.<lb facs="P4_TL00003"/>« Un créateur, c'est une âme ardente menée par une tête froide. »<lb facs="P4_TL00004"/>Cette définition de M. Paul Dermée résume assez bien son esthétique, mais elle ne représente<lb facs="P4_TL00005"/>point dans la même mesure l'art où il se complaît. N'est-il pas quelque peu malaisé de concevoir<lb facs="P4_TL00006"/>une tête froide atteignant aux plus hauts sommets du lyrisme, de ce lyrisme intégral dont se<lb facs="P4_TL00007"/>réclame M. Paul Dermée. La tête froide qui est l'intelligence critique ne doit-elle pas intervenir<lb facs="P4_TL00008"/>qu'après l'élaboration du poëme et pour le dépouiller de ses furolles, de ses inutiles ornements,<lb facs="P4_TL00009"/>et de certaines extravagances qu'entraîne quelquefois le lyrisme.<lb facs="P4_TL00010"/>La musicalité et la rime sont tenues pour des moyens accessoires par M. Paul Dermée. Passe<lb facs="P4_TL00011"/>encore pour la rime (bien que cette opinion soit toujours mise en controverse par maints poètes)<lb facs="P4_TL00012"/>mais peut-on croire que la musicalité ne soit pas un élément fondamental et cette musicalité ne se<lb facs="P4_TL00013"/>fond-elle point avec le lyrisme. Car un lyrisme qui ne serait point musical ressortirait à l'élo<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00014"/>quence proprement dite que notre auteur a bien raison de proscrire. Que faut-il demander à un<lb facs="P4_TL00015"/>poète sinon du sentiment, des images, de l'élévation de la musique et de la forme. Mais en réflé<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00016"/>chissant de plus près nous sommes conduits à nous poser cette question : M. Paul Dermée ne<lb facs="P4_TL00017"/>donne-t-il pas une importance secondaire à l'élément musical parce que celui-ci dominait chez les<lb facs="P4_TL00018"/>symbolistes, et que M. Paul Dermée qui est beaucoup plus musical qu'il le voudrait paraître,<lb facs="P4_TL00019"/>craindrait d'être pris pour un symboliste attardé ?<lb facs="P4_TL00020"/>L'auteur de » Spirales » qui a beaucoup étudié le métaphysicien mondonoviste d'Eureka. et le<lb facs="P4_TL00021"/>suprême Stéphane Mallarmé est un esprit fort soucieux de modernisme. Il egt l'un des fondateurs<lb facs="P4_TL00022"/>de « Nord-Sud » encore que soit assez récente sa convertioii au cubisme littéraire, terme qui ne<lb facs="P4_TL00023"/>satisfait point certains des principaux intéressés et notamment M. Pierre Reverdy, poète d'une<lb facs="P4_TL00024"/>gravité tragique lequel se contente du qualificatif de nord-sudiste, en attendant qu'on trouve le<lb facs="P4_TL00025"/>vocable représentattf de cette tendance.<lb facs="P4_TL00026"/>Il ne serait pas difficile de démontrer que M. Paul Dermée conserve un vague parfum roman<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00027"/>tique dans son sein tutélaîre. Une citation y suffira :<lb facs="P4_TL00028"/>« La dernière fille agonise sur le corps du dernier poète. »<lb facs="P4_TL00029"/>Musset ne répondit-il pas dans l'ombre à ce sanglot ?<lb facs="P4_TL00030"/>Et ces vers ne font-ils point de M. Paul Dermée un amoureux de la romance populaire :<lb facs="P4_TL00031"/>Les Demoiselles du Bois Doré<lb facs="P4_TL00032"/>Après avoir beaucoup pleuré<lb facs="P4_TL00033"/>Se sont toutes remariées.<lb facs="P4_TL00034"/>M. Paul Dermée sait être curieusement macabre dans le modernisme :<lb facs="P4_TL00035"/>La mort arrive conduisant son auto soûle.<lb facs="P4_TL00036"/>Mais pourquoi ocrit-il :<lb facs="P4_TL00037"/>La carpe saute au ruisseau d'acier.<lb facs="P4_TL00038"/>Certes, on peut sauter à la corde d'une façon nietzschéenne comme l'auteur de « Spirales », mais<lb facs="P4_TL00039"/>non pas au ruisseau. Ce datif est pour le moins salébreux. Il n'a pas non plus raison d'écrire :<lb facs="P4_TL00040"/>« L'orgie est soûle de sang » car cela constitue un pléonasme d'image.<lb facs="P4_TL00041"/>Si nous avons relevé quelques imperfections clans l'œuvre de M. Paul Dermée c'est pour montrer<lb facs="P4_TL00042"/>précisément le soin que nous avons mis à la lire. Et comme nous le notons dans t Le Carnet-<lb facs="P4_TL00043"/>Critique », M. Paul Dermée est un artiste compréhensif et sensible mais qui a le tort de s'emberli<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P4_TL00044"/>ficoter dans des formules restrictives. Il nous est loisible de conjecturer qu'il s'en évadera pour<lb facs="P4_TL00045"/>n'admettre dans ses spirales lyriques que les stables et lumineuses richesses du cœur d'Alcyone.</ab>
                               </div>
                            </div>
                         </div>
@@ -5055,18 +5000,16 @@
                         <ab facs="P6_TB00001">
                            <lb facs="P6_TL00001"/>POÈME</ab>
                      </div>
-                     <div type="TextContent" corresp="c009">
-                        <div type="Byline">
-                           <ab facs="P6_TB00003">
-                              <lb facs="P6_TL00011"/>GEORGES GABORY</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P6_TB00002">
-                                       <lb facs="P6_TL00002"/>Près du réverbère<lb facs="P6_TL00003"/>Tourbillon calme<lb facs="P6_TL00004"/>une femme<lb facs="P6_TL00005"/>et là-bas<lb facs="P6_TL00006"/>je passe calfeutré dans mes pensées imperméables<lb facs="P6_TL00007"/>Un appel naît et meurt à travers l'atmosphère métisse<lb facs="P6_TL00008"/>Josier m'ouvrant la porte du lupanar<lb facs="P6_TL00009"/>Silence de mes yeux hautains envers l'offrande obscène<lb facs="P6_TL00010"/>éloignement solitaire et chaste</ab>
-                                 </div>
+                     <div type="Byline">
+                        <ab facs="P6_TB00003">
+                           <lb facs="P6_TL00011"/>GEORGES GABORY</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P6_TB00002">
+                                    <lb facs="P6_TL00002"/>Près du réverbère<lb facs="P6_TL00003"/>Tourbillon calme<lb facs="P6_TL00004"/>une femme<lb facs="P6_TL00005"/>et là-bas<lb facs="P6_TL00006"/>je passe calfeutré dans mes pensées imperméables<lb facs="P6_TL00007"/>Un appel naît et meurt à travers l'atmosphère métisse<lb facs="P6_TL00008"/>Josier m'ouvrant la porte du lupanar<lb facs="P6_TL00009"/>Silence de mes yeux hautains envers l'offrande obscène<lb facs="P6_TL00010"/>éloignement solitaire et chaste</ab>
                               </div>
                            </div>
                         </div>

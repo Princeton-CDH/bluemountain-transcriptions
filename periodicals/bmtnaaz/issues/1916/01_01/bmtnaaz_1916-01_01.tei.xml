@@ -25,8 +25,7 @@
          <seriesStmt>
             <title level="s">The Blue Mountain Project</title>
          </seriesStmt>
-         <sourceDesc>
-         	<msDesc>
+         <sourceDesc><msDesc>
          		<msIdentifier>
          			<institution>Princeton University Library</institution>
          			
@@ -109,8 +108,7 @@
          		</history>
          		
          	</msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">Sic</seg>
                   </title>
@@ -119,9 +117,7 @@
                      <biblScope unit="issue">1</biblScope>
                      <date when="1916-01"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -135,8 +131,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -155,8 +150,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -187,8 +181,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -203,8 +196,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c007">
+               </relatedItem><relatedItem type="constituent" xml:id="c007">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -219,13 +211,14 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="nonSort">UN</seg>
                            <seg type="main">POÈME</seg>
+                           <seg type="nonSort">LA</seg>
+                           <seg type="main">KOUAN INN BLEUE.</seg>
                         </title>
                         <textLang mainLang="fre"/>
                      </analytic>
@@ -235,26 +228,8 @@
                            <biblScope unit="page" from="7" to="8">7-8</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c009">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="nonSort">LA</seg>
-                                 <seg type="main">KOUAN INN BLEUE.</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page" from="7" to="8">7-8</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c010">
+               </relatedItem><relatedItem type="constituent" xml:id="c010">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -268,25 +243,8 @@
                            <biblScope unit="page">9</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c011">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">Untitled text</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">9</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c012">
+               </relatedItem><relatedItem type="constituent" xml:id="c012">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -301,8 +259,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -333,14 +290,13 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="29740" lry="38500">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/01_01/delivery/bmtnaaz_1916-01_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="29740" lry="1680"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="1680" lrx="2910" lry="36870"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="27020" uly="1680" lrx="29740" lry="36870"/>
@@ -477,7 +433,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="29740" lry="38500">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/01_01/delivery/bmtnaaz_1916-01_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="29740" lry="5140"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="5140" lrx="2980" lry="33360"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="27170" uly="5140" lrx="29740" lry="33360"/>
@@ -639,7 +595,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="29740" lry="38500">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/01_01/delivery/bmtnaaz_1916-01_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="29740" lry="2630"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="2630" lrx="3620" lry="35870"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="26230" uly="2630" lrx="29740" lry="35870"/>
@@ -1658,7 +1614,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="29740" lry="38500">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/01_01/delivery/bmtnaaz_1916-01_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="29740" lry="2630"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="2630" lrx="4090" lry="37460"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="28040" uly="2630" lrx="29740" lry="37460"/>
@@ -2718,7 +2674,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="29740" lry="38500">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/01_01/delivery/bmtnaaz_1916-01_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="29740" lry="5720"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="5720" lrx="2730" lry="34680"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="29110" uly="5720" lrx="29740" lry="34680"/>
@@ -2824,7 +2780,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="20450" lry="29330">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/01_01/delivery/bmtnaaz_1916-01_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="20450" lry="0"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="0" lrx="0" lry="29320"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="20440" uly="0" lrx="20450" lry="29320"/>
@@ -2839,7 +2795,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="29740" lry="38500">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/01_01/delivery/bmtnaaz_1916-01_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="29740" lry="6020"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="6020" lrx="3150" lry="33660"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="27230" uly="6020" lrx="29740" lry="33660"/>
@@ -2997,7 +2953,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="29740" lry="38500">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/01_01/delivery/bmtnaaz_1916-01_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="29740" lry="2660"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="2660" lrx="1890" lry="38330"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="26500" uly="2660" lrx="29740" lry="38330"/>
@@ -3127,7 +3083,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P9" ulx="0" uly="0" lrx="29740" lry="38500">
-         <tei:graphic url="0009.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/01_01/delivery/bmtnaaz_1916-01_01_0009.jp2"/>
          <tei:zone type="margin" xml:id="P9_TM00001" ulx="0" uly="0" lrx="29740" lry="2680"/>
          <tei:zone type="margin" xml:id="P9_LM00001" ulx="0" uly="2680" lrx="2040" lry="36960"/>
          <tei:zone type="margin" xml:id="P9_RM00001" ulx="26300" uly="2680" lrx="29740" lry="36960"/>
@@ -3737,7 +3693,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P10" ulx="0" uly="0" lrx="29740" lry="38500">
-         <tei:graphic url="0010.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1916/01_01/delivery/bmtnaaz_1916-01_01_0010.jp2"/>
          <tei:zone type="margin" xml:id="P10_TM00001" ulx="0" uly="0" lrx="29740" lry="2880"/>
          <tei:zone type="margin" xml:id="P10_LM00001" ulx="0" uly="2880" lrx="3610" lry="35360"/>
          <tei:zone type="margin" xml:id="P10_RM00001" ulx="27530" uly="2880" lrx="29740" lry="35360"/>
@@ -4448,26 +4404,24 @@
                         <ab facs="P7_TB00001">
                            <lb facs="P7_TL00001"/>UN POÈME</ab>
                      </div>
-                     <div type="TextContent" corresp="c009">
-                        <div type="Head">
-                           <ab facs="P7_TB00002">
-                              <lb facs="P7_TL00002"/>LA KOUAN INN BLEUE.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P7_TB00003">
-                                       <lb facs="P7_TL00003"/>Assise sur tes talons, que fais-tu petite Kouan'inn bleue?<lb facs="P7_TL00004"/>Comme tu semblés attristée, et quel parfum contient le<lb facs="P7_TL00005"/>vase que tes mains portent?<lb facs="P7_TL00006"/>Peut-être 1 artiste qui fa formée a-t-il voulu mettre sur ton<lb facs="P7_TL00007"/>visage la tristesse humaine.<lb facs="P7_TL00008"/>Peut-être a-t-il voulu que tu sois limage de notre douleur<lb facs="P7_TL00009"/>et 1 Aimée de ceux qui souffrent.<lb facs="P7_TL00010"/>Peut-être dans le vase que tes mains portent a-t-il en<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P7_TL00011"/>fermé le parfum de la consolation.<lb facs="P7_TL00012"/>Non, non, petite Kouan'inn bleue, assise sur tes talons,<lb facs="P7_TL00013"/>\■(i ■ ■ $<lb facs="P7_TL00014"/>Je crois que celui qui t'a faite a cherché et trouvé toute<lb facs="P7_TL00015"/>sa joie dans la splendeur de ton bleu.</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P7_TB00002">
+                           <lb facs="P7_TL00002"/>LA KOUAN INN BLEUE.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P7_TB00003">
+                                    <lb facs="P7_TL00003"/>Assise sur tes talons, que fais-tu petite Kouan'inn bleue?<lb facs="P7_TL00004"/>Comme tu semblés attristée, et quel parfum contient le<lb facs="P7_TL00005"/>vase que tes mains portent?<lb facs="P7_TL00006"/>Peut-être 1 artiste qui fa formée a-t-il voulu mettre sur ton<lb facs="P7_TL00007"/>visage la tristesse humaine.<lb facs="P7_TL00008"/>Peut-être a-t-il voulu que tu sois limage de notre douleur<lb facs="P7_TL00009"/>et 1 Aimée de ceux qui souffrent.<lb facs="P7_TL00010"/>Peut-être dans le vase que tes mains portent a-t-il en<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P7_TL00011"/>fermé le parfum de la consolation.<lb facs="P7_TL00012"/>Non, non, petite Kouan'inn bleue, assise sur tes talons,<lb facs="P7_TL00013"/>\■(i ■ ■ $<lb facs="P7_TL00014"/>Je crois que celui qui t'a faite a cherché et trouvé toute<lb facs="P7_TL00015"/>sa joie dans la splendeur de ton bleu.</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P8_TB00001">
-                                       <lb facs="P8_TL00001"/>IV.<lb facs="P8_TL00002"/>En cour d'assise un savant s'écriait: «De l'ar<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P8_TL00003"/>senic, il y en a partout, j'en trouverais dans<lb facs="P8_TL00004"/>le bras de ce fauteuil!» Comme l'arsenic la<lb facs="P8_TL00005"/>beauté est partout, excepté dans la plupart<lb facs="P8_TL00006"/>des «ŒUVRES D'ART».<lb facs="P8_TL00007"/>V.<lb facs="P8_TL00008"/>La technique en Art me fait un peu l'effet<lb facs="P8_TL00009"/>de la raison dans l'amour.<lb facs="P8_TL00010"/>VI.<lb facs="P8_TL00011"/>Rien n'égale notre orgueil si ce n'est notre<lb facs="P8_TL00012"/>modestie. Nous n'avons d'admiration que<lb facs="P8_TL00013"/>pour ce que les autres ont fait AUTREFOIS.<lb facs="P8_TL00014"/>VII.<lb facs="P8_TL00015"/>La spécialisation pour l'artiste c'est 1 oeillère<lb facs="P8_TL00016"/>pour les chevaux. SUPPRIMONS L'ŒILLÈRE!</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P8_TB00001">
+                                    <lb facs="P8_TL00001"/>IV.<lb facs="P8_TL00002"/>En cour d'assise un savant s'écriait: «De l'ar<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P8_TL00003"/>senic, il y en a partout, j'en trouverais dans<lb facs="P8_TL00004"/>le bras de ce fauteuil!» Comme l'arsenic la<lb facs="P8_TL00005"/>beauté est partout, excepté dans la plupart<lb facs="P8_TL00006"/>des «ŒUVRES D'ART».<lb facs="P8_TL00007"/>V.<lb facs="P8_TL00008"/>La technique en Art me fait un peu l'effet<lb facs="P8_TL00009"/>de la raison dans l'amour.<lb facs="P8_TL00010"/>VI.<lb facs="P8_TL00011"/>Rien n'égale notre orgueil si ce n'est notre<lb facs="P8_TL00012"/>modestie. Nous n'avons d'admiration que<lb facs="P8_TL00013"/>pour ce que les autres ont fait AUTREFOIS.<lb facs="P8_TL00014"/>VII.<lb facs="P8_TL00015"/>La spécialisation pour l'artiste c'est 1 oeillère<lb facs="P8_TL00016"/>pour les chevaux. SUPPRIMONS L'ŒILLÈRE!</ab>
                               </div>
                            </div>
                         </div>
@@ -4478,20 +4432,18 @@
                         <ab facs="P9_TB00001">
                            <lb facs="P9_TL00001"/>ETC...</ab>
                      </div>
-                     <div type="TextContent" corresp="c011">
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P9_TB00002">
-                                       <lb facs="P9_TL00002"/>LETTRES. Oui, nous sommes d'accord, il y a de fort belles choses dans Claudel, malheureusement c'est<lb facs="P9_TL00003"/>bien vieux. Cette inspiration parfois biblique, parfois chrétienne, parfois bondieu s'arde = anachron<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P9_TL00004"/>isme -f- anachronisme -j- anachronisme. Claudel est un beau poète d'avant-hier, nous voudrions<lb facs="P9_TL00005"/>bien faire la connaissance d'un poète d'aujourd'hui.<lb facs="P9_TL00006"/>MUSIQUE. Les Français constituent le seul peuple qui ne puisse vivre en paix s'il n'a au cœur quelque<lb facs="P9_TL00007"/>béguin qui ne soit pas français. En fin de compte cette étrangigite aigûe originelle lui fait <lb facs="P9_TL00008"/>mais bien coupable serait celui qui même par un détour, nous ramènerait au doux italianisme.<lb facs="P9_TL00009"/>THEATRE. Pour avoir quelque chose à dire nous avons bien peur d'être obligé d'attendre la réouver<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P9_TL00010"/>ture du Vieux-Colombier, toutefois nous ne savons pas tout, peut-être que quelque part des ten<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P9_TL00011"/>tatives se font, des œuvres nouvelles s'élaborent, nous ne demandons qu'à pouvoir en parler.<lb facs="P9_TL00012"/>ARCHITECTURE. Ouf! la cathédrale ne sera pas reconstruite, et Reims quand même gardera le sou<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P9_TL00013"/>rire, et pendant des siècles les hommes de la terre viendront voir ce qui n'existe plus; et les<lb facs="P9_TL00014"/>architectes de l'école le reconstitueront...<lb facs="P9_TL00015"/>SCULPTURE. Alerte, Alerte! on dit, j'ai ouï dire, discitur, qu'on a déjà commandé des monuments:<lb facs="P9_TL00016"/>«Aux soldats morts pour la Patrie.&gt; Un socle, le Droit devant, le Devoir derrière, un soldat tom<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P9_TL00017"/>/ bant dans les bras de la France dessus.<lb facs="P9_TL00018"/>Je vous en prie mes amis inconnus croisons la baïonnete, nous ne méritons pas ça et EUX non<lb facs="P9_TL00019"/>plus. Souvenons-nous de 70!<lb facs="P9_TL00020"/>PEINTURE. Y'a bon, y'a bon! nous connaissons un éditeur malin qui s'était dit: Tous ces faiseurs<lb facs="P9_TL00021"/>d'estampes qui ne savent pas dessiner je ne veux pas de ça, il n'y a que la belle gravure qui se<lb facs="P9_TL00022"/>vende. Et il commanda tout une série de tableaux touchants à un hors concours du salon d'hiver<lb facs="P9_TL00023"/>Pauv' type! tout son tirage est empilé chez lui; le public n'a voulu que les estampes mal dessinées*<lb facs="P9_TL00024"/>Pas très fameuses ces estampes, je le sais, mais tout même y'a bon, y'a bon!<lb facs="P9_TL00025"/>MEUBLE &amp; DECORATION. Tout va bien. Regardez autour de vous, cherchez ce que l'on pense, voyez<lb facs="P9_TL00026"/>ce que l'on fait, et vous reconnaîtrez avec joie les indices certains de la fin très prochaine de l'é<pc type="endhypen" pre="false">-</pc>
-                                       <lb facs="P9_TL00027"/>pidémie du «Style * Après la guerre on n'achètera plus une seule salle-à-manger Henri II; et pour<lb facs="P9_TL00028"/>parer à la déconfiture qui pourrait s'en suivre dans le «faubourg Antoine», on dit même qu'un<lb facs="P9_TL00029"/>groupe de philantropes s'occupe de réunir d'importants capitaux afin d'acheter fous les stocks en<lb facs="P9_TL00030"/>magasins que l'Assistance publique distribuerait généreusement l'hiver prochain sous forme de<lb facs="P9_TL00031"/>cotrets, et de bûches. Ce serait l'œuvre de la Bâche de Style.<lb facs="P9_TL00032"/>MODE. Le costume fait nettement partie de la section des arts. Nous étudierons les robes et les<lb facs="P9_TL00033"/>chapeaux en artistes si les couturiers et les modistes veulent bien nous faciliter cette étude.</ab>
-                                 </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P9_TB00002">
+                                    <lb facs="P9_TL00002"/>LETTRES. Oui, nous sommes d'accord, il y a de fort belles choses dans Claudel, malheureusement c'est<lb facs="P9_TL00003"/>bien vieux. Cette inspiration parfois biblique, parfois chrétienne, parfois bondieu s'arde = anachron<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P9_TL00004"/>isme -f- anachronisme -j- anachronisme. Claudel est un beau poète d'avant-hier, nous voudrions<lb facs="P9_TL00005"/>bien faire la connaissance d'un poète d'aujourd'hui.<lb facs="P9_TL00006"/>MUSIQUE. Les Français constituent le seul peuple qui ne puisse vivre en paix s'il n'a au cœur quelque<lb facs="P9_TL00007"/>béguin qui ne soit pas français. En fin de compte cette étrangigite aigûe originelle lui fait <lb facs="P9_TL00008"/>mais bien coupable serait celui qui même par un détour, nous ramènerait au doux italianisme.<lb facs="P9_TL00009"/>THEATRE. Pour avoir quelque chose à dire nous avons bien peur d'être obligé d'attendre la réouver<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P9_TL00010"/>ture du Vieux-Colombier, toutefois nous ne savons pas tout, peut-être que quelque part des ten<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P9_TL00011"/>tatives se font, des œuvres nouvelles s'élaborent, nous ne demandons qu'à pouvoir en parler.<lb facs="P9_TL00012"/>ARCHITECTURE. Ouf! la cathédrale ne sera pas reconstruite, et Reims quand même gardera le sou<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P9_TL00013"/>rire, et pendant des siècles les hommes de la terre viendront voir ce qui n'existe plus; et les<lb facs="P9_TL00014"/>architectes de l'école le reconstitueront...<lb facs="P9_TL00015"/>SCULPTURE. Alerte, Alerte! on dit, j'ai ouï dire, discitur, qu'on a déjà commandé des monuments:<lb facs="P9_TL00016"/>«Aux soldats morts pour la Patrie.&gt; Un socle, le Droit devant, le Devoir derrière, un soldat tom<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P9_TL00017"/>/ bant dans les bras de la France dessus.<lb facs="P9_TL00018"/>Je vous en prie mes amis inconnus croisons la baïonnete, nous ne méritons pas ça et EUX non<lb facs="P9_TL00019"/>plus. Souvenons-nous de 70!<lb facs="P9_TL00020"/>PEINTURE. Y'a bon, y'a bon! nous connaissons un éditeur malin qui s'était dit: Tous ces faiseurs<lb facs="P9_TL00021"/>d'estampes qui ne savent pas dessiner je ne veux pas de ça, il n'y a que la belle gravure qui se<lb facs="P9_TL00022"/>vende. Et il commanda tout une série de tableaux touchants à un hors concours du salon d'hiver<lb facs="P9_TL00023"/>Pauv' type! tout son tirage est empilé chez lui; le public n'a voulu que les estampes mal dessinées*<lb facs="P9_TL00024"/>Pas très fameuses ces estampes, je le sais, mais tout même y'a bon, y'a bon!<lb facs="P9_TL00025"/>MEUBLE &amp; DECORATION. Tout va bien. Regardez autour de vous, cherchez ce que l'on pense, voyez<lb facs="P9_TL00026"/>ce que l'on fait, et vous reconnaîtrez avec joie les indices certains de la fin très prochaine de l'é<pc type="endhypen" pre="false">-</pc>
+                                    <lb facs="P9_TL00027"/>pidémie du «Style * Après la guerre on n'achètera plus une seule salle-à-manger Henri II; et pour<lb facs="P9_TL00028"/>parer à la déconfiture qui pourrait s'en suivre dans le «faubourg Antoine», on dit même qu'un<lb facs="P9_TL00029"/>groupe de philantropes s'occupe de réunir d'importants capitaux afin d'acheter fous les stocks en<lb facs="P9_TL00030"/>magasins que l'Assistance publique distribuerait généreusement l'hiver prochain sous forme de<lb facs="P9_TL00031"/>cotrets, et de bûches. Ce serait l'œuvre de la Bâche de Style.<lb facs="P9_TL00032"/>MODE. Le costume fait nettement partie de la section des arts. Nous étudierons les robes et les<lb facs="P9_TL00033"/>chapeaux en artistes si les couturiers et les modistes veulent bien nous faciliter cette étude.</ab>
                               </div>
                            </div>
                         </div>

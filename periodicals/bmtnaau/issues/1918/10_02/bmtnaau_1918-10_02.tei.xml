@@ -26,8 +26,7 @@
          <seriesStmt>
             <title level="s">The Blue Mountain Project</title>
          </seriesStmt>
-         <sourceDesc>
-            <msDesc>
+         <sourceDesc><msDesc>
                <msIdentifier>
                   <institution>Princeton University Library</institution>
                   
@@ -100,7 +99,7 @@
                <history>
                   <summary>
                      <p>Sold for <measureGrp type="salesprice">
-                        <measure unit="shilling" quantity="0"></measure>
+                        <measure unit="shilling" quantity="0"/>
                      </measureGrp>.</p>
                   </summary>
                   <provenance> </provenance>
@@ -109,8 +108,7 @@
                </history>
                
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="nonSort">The</seg>
                      <seg type="main">Mask</seg>
@@ -120,9 +118,7 @@
                      <biblScope unit="issue">8</biblScope>
                      <date when="1918-10"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaau"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -152,8 +148,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -161,7 +156,7 @@
                            <seg type="main">PLEA FOR TWO THEATRES</seg>
                         </title>
                         <respStmt>
-                           <persName>EDWARD GORDON CRAIG</persName>
+                           <persName ref="https://viaf.org/viaf/100201551">EDWARD GORDON CRAIG</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -188,15 +183,14 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
                            <seg type="main">ASIA AMERICA EUROPE</seg>
                         </title>
                         <respStmt>
-                           <persName>GORDON CRAIG</persName>
+                           <persName ref="https://viaf.org/viaf/100201551">GORDON CRAIG</persName>
                            <resp>cre</resp>
                         </respStmt>
                         <textLang mainLang="eng"/>
@@ -208,14 +202,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="31540" lry="44290">
-         <tei:graphic url="0031.jp2"/>
+         <tei:graphic url="0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="31540" lry="1890"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="1890" lrx="1630" lry="44150"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="29650" uly="1890" lrx="31540" lry="44150"/>
@@ -992,7 +985,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="31540" lry="44290">
-         <tei:graphic url="0032.jp2"/>
+         <tei:graphic url="0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="31540" lry="1810">
             <tei:zone type="TextBlock" xml:id="P2_TB00001" ulx="2300" uly="1360" lrx="2890" lry="1780">
                <tei:zone type="TextLine" xml:id="P2_TL00001" ulx="2300" uly="1360" lrx="2890" lry="1780">
@@ -2725,7 +2718,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="31540" lry="44290">
-         <tei:graphic url="0033.jp2"/>
+         <tei:graphic url="0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="31540" lry="1850">
             <tei:zone type="TextBlock" xml:id="P3_TB00001" ulx="29070" uly="1380" lrx="29560" lry="1820">
                <tei:zone type="TextLine" xml:id="P3_TL00001" ulx="29070" uly="1380" lrx="29560" lry="1820">
@@ -4469,7 +4462,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="31540" lry="44290">
-         <tei:graphic url="0034.jp2"/>
+         <tei:graphic url="0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="31540" lry="1700">
             <tei:zone type="TextBlock" xml:id="P4_TB00001" ulx="2320" uly="1240" lrx="2890" lry="1670">
                <tei:zone type="TextLine" xml:id="P4_TL00001" ulx="2320" uly="1240" lrx="2890" lry="1670">

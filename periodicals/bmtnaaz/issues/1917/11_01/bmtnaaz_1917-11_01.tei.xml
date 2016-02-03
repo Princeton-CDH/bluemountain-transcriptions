@@ -9,18 +9,9 @@
                      <title level="j">
                         <seg type="main">SIC</seg>
                      </title>
-                     <respStmt>
-                        <persName ref="http://viaf.org/viaf/14765320">Pierre Albert-Birot</persName>
-                        <resp>edt</resp>
-                     </respStmt>
                      <imprint>
                         <biblScope unit="vol">2</biblScope>
                         <biblScope unit="issue">23</biblScope>
-                        <pubPlace>
-                           <address>
-                  <addrLine>37, Rue de la Tombe-Issoire – Paris </addrLine>
-                </address>
-                        </pubPlace>
                         <date when="1917-11">Novembre 1917</date>
                      </imprint>
                   </monogr>
@@ -110,8 +101,7 @@
                   <acquisition> </acquisition>
                </history>
             </msDesc>
-            <biblStruct>
-               <monogr>
+            <biblStruct><monogr>
                   <title level="j">
                      <seg type="main">SIC</seg>
                   </title>
@@ -120,9 +110,7 @@
                      <biblScope unit="issue">23</biblScope>
                      <date when="1917-11"/>
                   </imprint>
-               </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/>
-               <relatedItem type="constituent" xml:id="c001">
+               </monogr><relatedItem type="host" target="urn:PUL:bluemountain:bmtnaaz"/><relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -136,8 +124,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c002">
+               </relatedItem><relatedItem type="constituent" xml:id="c002">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -152,8 +139,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c003">
+               </relatedItem><relatedItem type="constituent" xml:id="c003">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -172,29 +158,8 @@
                            <biblScope unit="page">2</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c004">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">Poème didactique</seg>
-                              </title>
-                              <respStmt>
-                                 <persName ref="http://viaf.org/viaf/14765320">P. A. B.</persName>
-                                 <resp>cre</resp>
-                              </respStmt>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">2</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c005">
+               </relatedItem><relatedItem type="constituent" xml:id="c005">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -215,7 +180,7 @@
                                  <seg type="main">ROUTE</seg>
                               </title>
                               <respStmt>
-                                 <persName ref="http://viaf.org/viaf/109453511&#xA;">PHILIPPE SOUPAULT</persName>
+                                 <persName ref="http://viaf.org/viaf/109453511">PHILIPPE SOUPAULT</persName>
                                  <resp>cre</resp>
                               </respStmt>
                               <textLang mainLang="fre"/>
@@ -235,7 +200,7 @@
                                  <seg type="main">MIROIR</seg>
                               </title>
                               <respStmt>
-                                 <persName ref="http://viaf.org/viaf/109453511&#xA;">PHILIPPE SOUPAULT</persName>
+                                 <persName ref="http://viaf.org/viaf/109453511">PHILIPPE SOUPAULT</persName>
                                  <resp>cre</resp>
                               </respStmt>
                               <textLang mainLang="fre"/>
@@ -249,8 +214,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c008">
+               </relatedItem><relatedItem type="constituent" xml:id="c008">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -264,25 +228,8 @@
                            <biblScope unit="page">3</biblScope>
                         </imprint>
                      </monogr>
-                     <relatedItem type="constituent" xml:id="c009">
-                        <biblStruct>
-                           <analytic>
-                              <title level="a">
-                                 <seg type="main">LES LIVRES</seg>
-                              </title>
-                              <textLang mainLang="fre"/>
-                           </analytic>
-                           <monogr>
-                              <imprint>
-                                 <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page">3</biblScope>
-                              </imprint>
-                           </monogr>
-                        </biblStruct>
-                     </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c010">
+               </relatedItem><relatedItem type="constituent" xml:id="c010">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -321,8 +268,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c012">
+               </relatedItem><relatedItem type="constituent" xml:id="c012">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -340,8 +286,7 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c013">
+               </relatedItem><relatedItem type="constituent" xml:id="c013">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -406,8 +351,7 @@
                         </biblStruct>
                      </relatedItem>
                   </biblStruct>
-               </relatedItem>
-               <relatedItem type="constituent" xml:id="c016">
+               </relatedItem><relatedItem type="constituent" xml:id="c016">
                   <biblStruct>
                      <analytic>
                         <title level="a">
@@ -426,14 +370,13 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-               </relatedItem>
-            </biblStruct>
+               </relatedItem></biblStruct>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <facsimile>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P1" ulx="0" uly="0" lrx="31310" lry="38500">
-         <tei:graphic url="0001.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/11_01/delivery/bmtnaaz_1917-11_01_0001.jp2"/>
          <tei:zone type="margin" xml:id="P1_TM00001" ulx="0" uly="0" lrx="31310" lry="2150"/>
          <tei:zone type="margin" xml:id="P1_LM00001" ulx="0" uly="2150" lrx="790" lry="35350"/>
          <tei:zone type="margin" xml:id="P1_RM00001" ulx="29700" uly="2150" lrx="31310" lry="35350"/>
@@ -604,7 +547,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P2" ulx="0" uly="0" lrx="27730" lry="38730">
-         <tei:graphic url="0002.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/11_01/delivery/bmtnaaz_1917-11_01_0002.jp2"/>
          <tei:zone type="margin" xml:id="P2_TM00001" ulx="0" uly="0" lrx="27730" lry="3660"/>
          <tei:zone type="margin" xml:id="P2_LM00001" ulx="0" uly="3660" lrx="1930" lry="34990"/>
          <tei:zone type="margin" xml:id="P2_RM00001" ulx="24820" uly="3660" lrx="27730" lry="34990"/>
@@ -1032,7 +975,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P3" ulx="0" uly="0" lrx="27730" lry="38730">
-         <tei:graphic url="0003.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/11_01/delivery/bmtnaaz_1917-11_01_0003.jp2"/>
          <tei:zone type="margin" xml:id="P3_TM00001" ulx="0" uly="0" lrx="27730" lry="3510"/>
          <tei:zone type="margin" xml:id="P3_LM00001" ulx="0" uly="3510" lrx="1820" lry="34800"/>
          <tei:zone type="margin" xml:id="P3_RM00001" ulx="26120" uly="3510" lrx="27730" lry="34800"/>
@@ -1499,7 +1442,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P4" ulx="0" uly="0" lrx="27730" lry="38730">
-         <tei:graphic url="0004.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/11_01/delivery/bmtnaaz_1917-11_01_0004.jp2"/>
          <tei:zone type="margin" xml:id="P4_TM00001" ulx="0" uly="0" lrx="27730" lry="3370"/>
          <tei:zone type="margin" xml:id="P4_LM00001" ulx="0" uly="3370" lrx="1740" lry="35110"/>
          <tei:zone type="margin" xml:id="P4_RM00001" ulx="25980" uly="3370" lrx="27730" lry="35110"/>
@@ -1637,7 +1580,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P5" ulx="0" uly="0" lrx="27730" lry="38730">
-         <tei:graphic url="0005.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/11_01/delivery/bmtnaaz_1917-11_01_0005.jp2"/>
          <tei:zone type="margin" xml:id="P5_TM00001" ulx="0" uly="0" lrx="27730" lry="0"/>
          <tei:zone type="margin" xml:id="P5_LM00001" ulx="0" uly="0" lrx="0" lry="38720"/>
          <tei:zone type="margin" xml:id="P5_RM00001" ulx="27720" uly="0" lrx="27730" lry="38720"/>
@@ -1658,7 +1601,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P6" ulx="0" uly="0" lrx="27730" lry="38730">
-         <tei:graphic url="0006.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/11_01/delivery/bmtnaaz_1917-11_01_0006.jp2"/>
          <tei:zone type="margin" xml:id="P6_TM00001" ulx="0" uly="0" lrx="27730" lry="3020"/>
          <tei:zone type="margin" xml:id="P6_LM00001" ulx="0" uly="3020" lrx="1800" lry="34640"/>
          <tei:zone type="margin" xml:id="P6_RM00001" ulx="25910" uly="3020" lrx="27730" lry="34640"/>
@@ -2136,7 +2079,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P7" ulx="0" uly="0" lrx="27730" lry="38730">
-         <tei:graphic url="0007.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/11_01/delivery/bmtnaaz_1917-11_01_0007.jp2"/>
          <tei:zone type="margin" xml:id="P7_TM00001" ulx="0" uly="0" lrx="27730" lry="2930"/>
          <tei:zone type="margin" xml:id="P7_LM00001" ulx="0" uly="2930" lrx="1590" lry="34940"/>
          <tei:zone type="margin" xml:id="P7_RM00001" ulx="25660" uly="2930" lrx="27730" lry="34940"/>
@@ -2627,7 +2570,7 @@
          </tei:zone>
       </tei:surface>
       <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0" type="page" xml:id="P8" ulx="0" uly="0" lrx="27730" lry="38730">
-         <tei:graphic url="0008.jp2"/>
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnaaz/issues/1917/11_01/delivery/bmtnaaz_1917-11_01_0008.jp2"/>
          <tei:zone type="margin" xml:id="P8_TM00001" ulx="0" uly="0" lrx="27730" lry="3400"/>
          <tei:zone type="margin" xml:id="P8_LM00001" ulx="0" uly="3400" lrx="1910" lry="34960"/>
          <tei:zone type="margin" xml:id="P8_RM00001" ulx="25910" uly="3400" lrx="27730" lry="34960"/>
@@ -3534,28 +3477,26 @@
                         <ab facs="P2_TB00001">
                            <lb facs="P2_TL00001"/>AUX COMEDIENS</ab>
                      </div>
-                     <div type="TextContent" corresp="c004">
-                        <div type="Head">
-                           <ab facs="P2_TB00002">
-                              <lb facs="P2_TL00002"/>Poème didactique</ab>
-                        </div>
-                        <div type="Byline">
-                           <ab facs="P2_TB00005">
-                              <lb facs="P2_TL00065"/>P.A.B.</ab>
-                        </div>
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P2_TB00003">
-                                       <lb facs="P2_TL00003"/>Un poème<lb facs="P2_TL00004"/>N'est plus poème<lb facs="P2_TL00005"/>Si vous le parlez<lb facs="P2_TL00006"/>Et votre naturel dénature<lb facs="P2_TL00007"/>L'art<lb facs="P2_TL00008"/>Qui n'est pas la nature<lb facs="P2_TL00009"/>Nous vous donnons de la substance<lb facs="P2_TL00010"/>N'en faites pas de la matière<lb facs="P2_TL00011"/>Et ne soyez pas nos interprètes<lb facs="P2_TL00012"/>Les poètes<lb facs="P2_TL00013"/>Ne veulent pas être traduits<lb facs="P2_TL00014"/>Trahis<lb facs="P2_TL00015"/>Et ne peuvent<lb facs="P2_TL00016"/>Donnez-les comme ils sont<lb facs="P2_TL00017"/>C'est ici tout votre art<lb facs="P2_TL00018"/>Et c'est là croyez-moi<lb facs="P2_TL00019"/>De quoi suffire à votre gloire<lb facs="P2_TL00020"/>Ce rythme auquel le poète obéi<lb facs="P2_TL00021"/>N'allez pas croire<lb facs="P2_TL00022"/>Que pour montrer votre tempérament<lb facs="P2_TL00023"/>Il soit bon de l'escamoter carrément<lb facs="P2_TL00024"/>Et ce vers<lb facs="P2_TL00025"/>Que je coupe<lb facs="P2_TL00026"/>Ici<lb facs="P2_TL00027"/>N'allez pas de peur de paraître un enfant<lb facs="P2_TL00028"/>A l'école<lb facs="P2_TL00029"/>Le relier au suivant<lb facs="P2_TL00030"/>Car lorsque je m'exprime<lb facs="P2_TL00031"/>En trois vers<lb facs="P2_TL00032"/>Ce n'est pas me servir<lb facs="P2_TL00033"/>Que de les fondre en un<lb facs="P2_TL00034"/>C'est l'enfant qui fait bien</ab>
-                                 </div>
+                     <div type="Head">
+                        <ab facs="P2_TB00002">
+                           <lb facs="P2_TL00002"/>Poème didactique</ab>
+                     </div>
+                     <div type="Byline">
+                        <ab facs="P2_TB00005">
+                           <lb facs="P2_TL00065"/>P.A.B.</ab>
+                     </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P2_TB00003">
+                                    <lb facs="P2_TL00003"/>Un poème<lb facs="P2_TL00004"/>N'est plus poème<lb facs="P2_TL00005"/>Si vous le parlez<lb facs="P2_TL00006"/>Et votre naturel dénature<lb facs="P2_TL00007"/>L'art<lb facs="P2_TL00008"/>Qui n'est pas la nature<lb facs="P2_TL00009"/>Nous vous donnons de la substance<lb facs="P2_TL00010"/>N'en faites pas de la matière<lb facs="P2_TL00011"/>Et ne soyez pas nos interprètes<lb facs="P2_TL00012"/>Les poètes<lb facs="P2_TL00013"/>Ne veulent pas être traduits<lb facs="P2_TL00014"/>Trahis<lb facs="P2_TL00015"/>Et ne peuvent<lb facs="P2_TL00016"/>Donnez-les comme ils sont<lb facs="P2_TL00017"/>C'est ici tout votre art<lb facs="P2_TL00018"/>Et c'est là croyez-moi<lb facs="P2_TL00019"/>De quoi suffire à votre gloire<lb facs="P2_TL00020"/>Ce rythme auquel le poète obéi<lb facs="P2_TL00021"/>N'allez pas croire<lb facs="P2_TL00022"/>Que pour montrer votre tempérament<lb facs="P2_TL00023"/>Il soit bon de l'escamoter carrément<lb facs="P2_TL00024"/>Et ce vers<lb facs="P2_TL00025"/>Que je coupe<lb facs="P2_TL00026"/>Ici<lb facs="P2_TL00027"/>N'allez pas de peur de paraître un enfant<lb facs="P2_TL00028"/>A l'école<lb facs="P2_TL00029"/>Le relier au suivant<lb facs="P2_TL00030"/>Car lorsque je m'exprime<lb facs="P2_TL00031"/>En trois vers<lb facs="P2_TL00032"/>Ce n'est pas me servir<lb facs="P2_TL00033"/>Que de les fondre en un<lb facs="P2_TL00034"/>C'est l'enfant qui fait bien</ab>
                               </div>
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P2_TB00004">
-                                       <lb facs="P2_TL00035"/>Votre « science » a tort<lb facs="P2_TL00036"/>N'ajoutez rien<lb facs="P2_TL00037"/>Pas un soupir et pas un temps<lb facs="P2_TL00038"/>Mais transmettez lettre à lettre<lb facs="P2_TL00039"/>Tout ce que le poète a su mettre<lb facs="P2_TL00040"/>Et ne vous pressez pas<lb facs="P2_TL00041"/>Un bon prêtre ne dit pas la messe en courant<lb facs="P2_TL00042"/>Un poème est une prière<lb facs="P2_TL00043"/>Et quand on se met à prier<lb facs="P2_TL00044"/>On doit se plaire<lb facs="P2_TL00045"/>En sa prière<lb facs="P2_TL00046"/>Et ne point désirer<lb facs="P2_TL00047"/>En venir à la fin<lb facs="P2_TL00048"/>Ne soyez pas une vieille dévote<lb facs="P2_TL00049"/>Soyez un saint<lb facs="P2_TL00050"/>Mais quand je vous parle<lb facs="P2_TL00051"/>De messe et de prière<lb facs="P2_TL00052"/>Ne pensez pas à nos religions<lb facs="P2_TL00053"/>De tristesse et de mort<lb facs="P2_TL00054"/>Qui parlent bas dans une crypte sombre<lb facs="P2_TL00055"/>Mais à quelqu'un<lb facs="P2_TL00056"/>De ces cultes païens<lb facs="P2_TL00057"/>Qui aiment le Soleil<lb facs="P2_TL00058"/>Surtout n'oubliez pas que poème est<lb facs="P2_TL00059"/>Vérité<lb facs="P2_TL00060"/>Mes chers amis ne mentez pas<lb facs="P2_TL00061"/>En jouant vrai<lb facs="P2_TL00062"/>Et puis<lb facs="P2_TL00063"/>Perfection<lb facs="P2_TL00064"/>N'est pas dans le milieu</ab>
-                                 </div>
+                           </div>
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P2_TB00004">
+                                    <lb facs="P2_TL00035"/>Votre « science » a tort<lb facs="P2_TL00036"/>N'ajoutez rien<lb facs="P2_TL00037"/>Pas un soupir et pas un temps<lb facs="P2_TL00038"/>Mais transmettez lettre à lettre<lb facs="P2_TL00039"/>Tout ce que le poète a su mettre<lb facs="P2_TL00040"/>Et ne vous pressez pas<lb facs="P2_TL00041"/>Un bon prêtre ne dit pas la messe en courant<lb facs="P2_TL00042"/>Un poème est une prière<lb facs="P2_TL00043"/>Et quand on se met à prier<lb facs="P2_TL00044"/>On doit se plaire<lb facs="P2_TL00045"/>En sa prière<lb facs="P2_TL00046"/>Et ne point désirer<lb facs="P2_TL00047"/>En venir à la fin<lb facs="P2_TL00048"/>Ne soyez pas une vieille dévote<lb facs="P2_TL00049"/>Soyez un saint<lb facs="P2_TL00050"/>Mais quand je vous parle<lb facs="P2_TL00051"/>De messe et de prière<lb facs="P2_TL00052"/>Ne pensez pas à nos religions<lb facs="P2_TL00053"/>De tristesse et de mort<lb facs="P2_TL00054"/>Qui parlent bas dans une crypte sombre<lb facs="P2_TL00055"/>Mais à quelqu'un<lb facs="P2_TL00056"/>De ces cultes païens<lb facs="P2_TL00057"/>Qui aiment le Soleil<lb facs="P2_TL00058"/>Surtout n'oubliez pas que poème est<lb facs="P2_TL00059"/>Vérité<lb facs="P2_TL00060"/>Mes chers amis ne mentez pas<lb facs="P2_TL00061"/>En jouant vrai<lb facs="P2_TL00062"/>Et puis<lb facs="P2_TL00063"/>Perfection<lb facs="P2_TL00064"/>N'est pas dans le milieu</ab>
                               </div>
                            </div>
                         </div>
@@ -3616,14 +3557,12 @@
                         <ab facs="P3_TB00009">
                            <lb facs="P3_TL00016"/>E T c...</ab>
                      </div>
-                     <div type="TextContent" corresp="c009">
-                        <div type="Copy">
-                           <div type="BodyContent">
-                              <div type="Paragraph">
-                                 <div type="Text">
-                                    <ab facs="P3_TB00010">
-                                       <lb facs="P3_TL00017"/>LES LIVRES. — Le Voleur de Talan. Roman, Pierre Reverdy,<lb facs="P3_TL00018"/>« Qui ceste estoire en romanz mist,... »En langage roman.<lb facs="P3_TL00019"/>Les œuvres de nos premiers poètes écrites en « patois de France » furent des romans. « Ceux<lb facs="P3_TL00020"/>qui s'amusaient d'escrire les faits héroïques de nos chevaliers, premièrement en vers, puis en prose,<lb facs="P3_TL00021"/>appelleront leurs œuvres romans,.. »<lb facs="P3_TL00022"/>Môme au xvn* siècle, quoique le roman ait déjà depuis longtemps changé de peau (comme la<lb facs="P3_TL00023"/>boulangère; Boileau dit encore : «Je montrerai qu'il y a des genres le poésies, où non seulement les<lb facs="P3_TL00024"/>Latins ne nous ont pas surpassés, mais qu'ils n'ont pas même connus comme par exemple, ces poèmes<lb facs="P3_TL00025"/>en prose que nous appelons romans. »<lb facs="P3_TL00026"/>P ; Les poésies du moyen âge ayant surtout un caractère narratif, cette caractéristique est<lb facs="P3_TL00027"/>devenue rapidement la dominante et le roman a bifurqué.<lb facs="P3_TL00028"/>r ; Pourtant Villemain voulait encore voir dans le roman le poème épique des nations modernes.<lb facs="P3_TL00029"/>Or nous savons ce qu il est devenu. Mais qu'importe, le roman était un poème, Pierre Reverdy a<lb facs="P3_TL00030"/>gratté jusqu'à ce qu'il ait retrouvé l'or qui était si bien recouvert d'épaisses couches de matières<lb facs="P3_TL00031"/>hétéroclites que l'on se trouvait tenté volontiers de mettre au rebut cette vieille ferraille.<lb facs="P3_TL00032"/>Mais comme nous sommes des créateurs et non des alexandrins, Pierre Reverdy n'a point fait<lb facs="P3_TL00033"/>un roman du xne siècle mais du xxe et animé du plus ardent désir de pureté, il l'a conçu comme<lb facs="P3_TL00034"/>nous concevons nos poèmes, à base d'ultra réalisme.<lb facs="P3_TL00035"/>Des « détails », en voici :<lb facs="P3_TL00036"/>Les années passent vite dans la<lb facs="P3_TL00037"/>tête obscure d'un enfant<lb facs="P3_TL00038"/>Au fond de soi il y a toujours un pauvre<lb facs="P3_TL00039"/>enfant qui pleure</ab>
-                                 </div>
+                     <div type="Copy">
+                        <div type="BodyContent">
+                           <div type="Paragraph">
+                              <div type="Text">
+                                 <ab facs="P3_TB00010">
+                                    <lb facs="P3_TL00017"/>LES LIVRES. — Le Voleur de Talan. Roman, Pierre Reverdy,<lb facs="P3_TL00018"/>« Qui ceste estoire en romanz mist,... »En langage roman.<lb facs="P3_TL00019"/>Les œuvres de nos premiers poètes écrites en « patois de France » furent des romans. « Ceux<lb facs="P3_TL00020"/>qui s'amusaient d'escrire les faits héroïques de nos chevaliers, premièrement en vers, puis en prose,<lb facs="P3_TL00021"/>appelleront leurs œuvres romans,.. »<lb facs="P3_TL00022"/>Môme au xvn* siècle, quoique le roman ait déjà depuis longtemps changé de peau (comme la<lb facs="P3_TL00023"/>boulangère; Boileau dit encore : «Je montrerai qu'il y a des genres le poésies, où non seulement les<lb facs="P3_TL00024"/>Latins ne nous ont pas surpassés, mais qu'ils n'ont pas même connus comme par exemple, ces poèmes<lb facs="P3_TL00025"/>en prose que nous appelons romans. »<lb facs="P3_TL00026"/>P ; Les poésies du moyen âge ayant surtout un caractère narratif, cette caractéristique est<lb facs="P3_TL00027"/>devenue rapidement la dominante et le roman a bifurqué.<lb facs="P3_TL00028"/>r ; Pourtant Villemain voulait encore voir dans le roman le poème épique des nations modernes.<lb facs="P3_TL00029"/>Or nous savons ce qu il est devenu. Mais qu'importe, le roman était un poème, Pierre Reverdy a<lb facs="P3_TL00030"/>gratté jusqu'à ce qu'il ait retrouvé l'or qui était si bien recouvert d'épaisses couches de matières<lb facs="P3_TL00031"/>hétéroclites que l'on se trouvait tenté volontiers de mettre au rebut cette vieille ferraille.<lb facs="P3_TL00032"/>Mais comme nous sommes des créateurs et non des alexandrins, Pierre Reverdy n'a point fait<lb facs="P3_TL00033"/>un roman du xne siècle mais du xxe et animé du plus ardent désir de pureté, il l'a conçu comme<lb facs="P3_TL00034"/>nous concevons nos poèmes, à base d'ultra réalisme.<lb facs="P3_TL00035"/>Des « détails », en voici :<lb facs="P3_TL00036"/>Les années passent vite dans la<lb facs="P3_TL00037"/>tête obscure d'un enfant<lb facs="P3_TL00038"/>Au fond de soi il y a toujours un pauvre<lb facs="P3_TL00039"/>enfant qui pleure</ab>
                               </div>
                            </div>
                         </div>
