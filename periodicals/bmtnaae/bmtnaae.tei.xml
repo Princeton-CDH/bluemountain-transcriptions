@@ -1,77 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>An Introduction to 
-              <biblStruct>
-                  <monogr>
-                     <title level="j">
-                        <seg type="main">Dada</seg>
-                     </title>
-                     <imprint>
-                        <date from="1917" to="1921">1917-1921</date>
-                     </imprint>
-                  </monogr>
-               </biblStruct>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An Introduction to 
+        <biblStruct>
+          <monogr>
+            <title level="j">
+              <seg type="main">Dada</seg>
             </title>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Princeton University</publisher>
-            <idno type="bmtnid">urn:PUL:bluemountain:bmtnaae</idno>
-         </publicationStmt>
-         <seriesStmt>
-            <title level="s">The Blue Mountain Project</title>
-         </seriesStmt>
-	 <sourceDesc>
-	   <p>Born digital.</p>
-	 </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-     <body>
-       <div xml:id="abstract">
-	 <head>Abstract</head>
-	 <p>Edited by <persName ref="#tzar_tri">Tristan Tzara</persName>,
-	 <bibl><title>Dada</title></bibl> was the premier publication
-	 of international <rs>Dadaism</rs>, following the movement
-	 from <placeName>Zürich</placeName> to
-	 <placeName>Paris</placeName> before dissolving with Tzara's
-	 split with <persName ref="#bret_and">André Breton</persName> and the
-	 emergence of <rs>Surrealism</rs>.</p>
-       </div>
+            <imprint>
+              <date from="1917" to="1921">1917-1921</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Princeton University</publisher>
+        <idno type="bmtnid">bmtnaae</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Blue Mountain Project</title>
+      </seriesStmt>
+      <sourceDesc>
+	<biblStruct>
+	  <monogr>
+	    <title level="j">
+	      <seg type="main">Dada</seg>
+	    </title>
+	    <respStmt>
+	      <persName key="http://viaf.org/viaf/27072443">
+		<forename>Tristan</forename>
+		<surname>Tzara</surname>
+	      </persName>
+	      <resp>edt</resp>
+	    </respStmt>
+	    <imprint>
+	      <date from="1917" to="1921">1917-1921</date>
+	    </imprint>
+	  </monogr>
+	</biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<classCode scheme="http://vocab.getty.edu/aat/">300215389</classCode>
+      </textClass>
+      <langUsage>
+	<language ident="fr">French</language>
+      </langUsage>
+    </profileDesc>
 
-       <div xml:id="furtherReading">
-	 <head>Further Reading</head>
-	 <listBibl>
-	   <bibl>
-	     <editor>
-	       <persName><surname>Kuenzli</surname>, <forename>Rudolph</forename></persName>, ed.
-	     </editor>
-	     <title level="m">Dada</title>.
-	     <series>Themes and Movements</series>.
-	     <pubPlace>London</pubPlace>: <publisher>Phaidon Press Ltd</publisher>
-	     <date>2006</date>.
-	   </bibl>
-	 </listBibl>
-       </div>
-     </body>
-     <back>
-       <listPerson>
-	 <head>Persons Mentioned</head>
-	 <person xml:id="tzar_tri">
-	   <persName>
-	     <surname>Tzara</surname>
-	     <forename>Tristan</forename>
-	   </persName>
-	 </person>
-	 <person xml:id="bret_and">
-	   <persName>
-	     <surname>Breton</surname>
-	     <forename>André</forename>
-	   </persName>
-	 </person>
-       </listPerson>
-     </back>
-   </text>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="abstract">
+	<head>Abstract</head>
+	<p>Edited by <persName ref="#tzar_tri">Tristan Tzara</persName>,
+	<bibl><title>Dada</title></bibl> was the premier publication
+	of international <rs>Dadaism</rs>, following the movement
+	from <placeName>Zürich</placeName> to
+	<placeName>Paris</placeName> before dissolving with Tzara's
+	split with <persName ref="#bret_and">André Breton</persName> and the
+	emergence of <rs>Surrealism</rs>.</p>
+      </div>
+
+      <div xml:id="furtherReading">
+	<head>Further Reading</head>
+	<listBibl>
+	  <bibl>
+	    <editor>
+	      <persName><surname>Kuenzli</surname>, <forename>Rudolph</forename></persName>, ed.
+	    </editor>
+	    <title level="m">Dada</title>.
+	    <series>Themes and Movements</series>.
+	    <pubPlace>London</pubPlace>: <publisher>Phaidon Press Ltd</publisher>
+	    <date>2006</date>.
+	  </bibl>
+	</listBibl>
+      </div>
+    </body>
+    <back>
+      <listPerson>
+	<head>Persons Mentioned</head>
+	<person xml:id="tzar_tri">
+	  <persName>
+	    <surname>Tzara</surname>
+	    <forename>Tristan</forename>
+	  </persName>
+	</person>
+	<person xml:id="bret_and">
+	  <persName>
+	    <surname>Breton</surname>
+	    <forename>André</forename>
+	  </persName>
+	</person>
+      </listPerson>
+    </back>
+  </text>
 </TEI>
