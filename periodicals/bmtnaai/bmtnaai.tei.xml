@@ -1,46 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:mods="http://www.loc.gov/mods/v3">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>
-        Transcription of
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          Transcription of <title level="j">Poesia</title>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Princeton University</publisher>
+        <idno type="bmtnid">bmtnaai</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Blue Mountain Project</title>
+      </seriesStmt>
+      <sourceDesc>
         <biblStruct>
-                  <monogr>
-                     <title level="j">
-                        <seg type="main">PoesiaPoesia</seg>
-                     </title>
-                     <imprint>
-                        <date when="">1905</date>
-                     </imprint>
-                  </monogr>
-               </biblStruct>
+          <monogr>
+            <title level="j">
+              <seg type="main">Poesia</seg>
+	      <seg type="sub">rassegna internazionale</seg>
             </title>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Princeton University</publisher>
-            <idno type="bmtnid">urn:PUL:bluemountain:bmtnaai</idno>
-         </publicationStmt>
-         <seriesStmt>
-            <title level="s">The Blue Mountain Project</title>
-         </seriesStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title level="j">
-                     <seg type="main">PoesiaPoesia</seg>
-                  </title>
-                  <imprint>
-                     <date when=""/>
-                  </imprint>
-               </monogr>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body/>
-   </text>
+	    <respStmt>
+	      <persName type="viaf" ref="http://viaf.org/viaf/59397266">
+		<forename>Sem</forename>
+		<surname>Benelli</surname>
+	      </persName>
+	      <resp>edt</resp>
+	    </respStmt>
+	    <respStmt>
+	      <persName type="viaf" ref="http://viaf.org/viaf/4933263">
+		<forename>Filippo</forename>
+		<forename>Tommaso</forename>
+		<surname>Marinetti</surname>
+	      </persName>
+	      <resp>edt</resp>
+	    </respStmt>
+	    <respStmt>
+	      <persName type="viaf" ref="http://viaf.org/viaf/42153306">
+		<forename>Vitaliano</forename>
+		<surname>Ponti</surname>
+	      </persName>
+	      <resp>edt</resp>
+	    </respStmt>
+	    <respStmt>
+	      <persName type="viaf" ref="http://viaf.org/viaf/32822906">
+		<forename>Mario</forename>
+		<surname>Dessy</surname>
+	      </persName>
+	      <resp>edt</resp>
+	    </respStmt>
+            <imprint>
+              <date from="1905" to="1920">1905-1920</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<classCode scheme="http://vocab.getty.edu/aat/">300215389</classCode>
+      </textClass>
+      <langUsage>
+	<language ident="it">Italian</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>Poesia, published first by Marinetti and then reprised in
+      1920 by Mario Dessy, marked the transition from Italy's
+      engagement with an international Symbolist movement to an
+      increasingly nationalistic Futurism.</p>
+
+      <p>Selected Contributors: F.T. Marinetti, Mario Dessy, Alfred
+      Jarry, James Joyce, Corrado Govoni, Paolo Buzzi, Enrico
+      Cavacchioli, W.B. Yeats, Fortunato Depero, Luigi Russolo, Emilio
+      Notte.</p>
+    </body>
+  </text>
 </TEI>

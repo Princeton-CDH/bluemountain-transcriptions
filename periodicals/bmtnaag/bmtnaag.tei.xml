@@ -1,44 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>
-        Transcription of
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          Transcription of <title level="j">Klingen</title>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Princeton University</publisher>
+        <idno type="bmtnid">bmtnaag</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Blue Mountain Project</title>
+      </seriesStmt>
+      <sourceDesc>
         <biblStruct>
-                  <monogr>
-                     <title level="j">
-                        <seg type="main">Klingen</seg>
-                     </title>
-                     <imprint>
-                        <date when="">1917</date>
-                     </imprint>
-                  </monogr>
-               </biblStruct>
+          <monogr>
+            <title level="j">
+              <seg type="main">Klingen</seg>
             </title>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Princeton University</publisher>
-            <idno type="bmtnid">urn:PUL:bluemountain:bmtnaag</idno>
-         </publicationStmt>
-         <seriesStmt>
-            <title level="s">The Blue Mountain Project</title>
-         </seriesStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title level="j">
-                     <seg type="main">Klingen</seg>
-                  </title>
-                  <imprint>
-                     <date when=""/>
-                  </imprint>
-               </monogr>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body/>
-   </text>
+            <imprint>
+              <date from="1917" to="1942">1917-1942</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<classCode scheme="http://vocab.getty.edu/aat/">300215389</classCode>
+      </textClass>
+      <langUsage>
+	<language ident="dan">Danish</language>
+      </langUsage>
+    </profileDesc>
+
+  </teiHeader>
+  <text>
+    <body>
+      <p>The first avant-garde magazine issued in Denmark after World
+      War I, Klingen is credited with a wave of Danish Modernism that
+      followed. Klingen, which translates as "blade," adopted a
+      militant tone but most of its contributors were influenced more
+      by the French avant-garde, especially Cubism, rather than the
+      more violent agenda of Italian Futurism. Selected Contributors:
+      Axel Salto, Poul Uttenreiter, Otto Gelsted, Tom Kristensen, Emil
+      Bønnelycke, Gabriele Münter, Harald Giersing, Albert Naur, Per
+      Krohg, Vilhelm Lundstrøm.</p>
+    </body>
+  </text>
 </TEI>
