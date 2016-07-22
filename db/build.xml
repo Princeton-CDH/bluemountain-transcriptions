@@ -2,7 +2,6 @@
 <project basedir="." xmlns:xdb="http://exist-db.org/ant">
   <description>Blue Mountain transcriptions ant tasks</description>
   
-<!--  <property name="eXist_home" value="/opt/local/exist" /> -->
   <property name="eXist_home" value="/opt/local/exist" />
   
   <typedef resource="org/exist/ant/antlib.xml" uri="http://exist-db.org/ant">
@@ -16,13 +15,17 @@
   </typedef>
   
   
+  <!-- Change the following to match your system -->
   <property name="xmldb.host" value="localhost" />
   <property name="xmldb.port" value="8080" />
   <property name="xmldb.user" value="admin" />
   <property name="xmldb.passwd" value="admin" />
+
+  <!-- You probably don't want to change these -->
   <property name="xmldb.url" value="xmldb:exist://${xmldb.host}:${xmldb.port}/exist/xmlrpc/db" />
   <property name="xmldb.approot" value="${xmldb.url}/bmtn-data/transcriptions/periodicals" />
 
+  <!-- Change this to the location of your repository in your filesystem -->
   <property name="approot" value="/Users/cwulfman/repos/github/cwulfman/bluemountain-transcriptions/periodicals" />
   
   <target name="load-conf" description="load the Blue Mountain collection.xconf record">
