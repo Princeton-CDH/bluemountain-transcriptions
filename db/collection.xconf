@@ -11,15 +11,18 @@
     <lucene>
       <!-- TEI indexes -->
       <text qname="tei:body"/>
+      <text qname="tei:div" />
       <text qname="tei:ab"/>
       <text qname="tei:idno"/>
       <text qname="tei:persName"/>
       <text qname="tei:title" />
-
+      <text qname="tei:relatedItem" />
     </lucene>
 
     <!-- Range Indexes -->
-    <create qname="tei:idno" type="xs:string"/>
-    <create qname="@type" type="xs:string"/>
+    <range>
+      <create qname="tei:idno" type="xs:string"/>
+      <create qname="@type" type="xs:string"/>
+    </range>
   </index>
 </collection>
