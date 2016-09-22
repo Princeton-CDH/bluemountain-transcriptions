@@ -1,44 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>
-        Transcription of
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          Transcription of
+          <biblStruct>
+            <monogr>
+              <title level="j">
+                <seg type="main">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</seg>
+              </title>
+              <imprint>
+                <date from="1853" to="1867">1853-1857</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Princeton University</publisher>
+        <idno type="bmtnid">bmtnabi</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Blue Mountain Project</title>
+      </seriesStmt>
+      <sourceDesc>
         <biblStruct>
-                  <monogr>
-                     <title level="j">
-                        <seg type="main">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</seg>
-                     </title>
-                     <imprint>
-                        <date when="">1853</date>
-                     </imprint>
-                  </monogr>
-               </biblStruct>
+          <monogr>
+            <title level="j">
+              <seg type="main">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</seg>
             </title>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Princeton University</publisher>
-            <idno type="bmtnid">urn:PUL:bluemountain:bmtnabi</idno>
-         </publicationStmt>
-         <seriesStmt>
-            <title level="s">The Blue Mountain Project</title>
-         </seriesStmt>
-         <sourceDesc>
-            <biblStruct>
-               <monogr>
-                  <title level="j">
-                     <seg type="main">Niederrheinische Musik-Zeitung für Kunstfreunde und Künstler</seg>
-                  </title>
-                  <imprint>
-                     <date when=""/>
-                  </imprint>
-               </monogr>
-            </biblStruct>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
-   <text>
-      <body/>
-   </text>
+            <imprint>
+              <date from="1853" to="1867">1853-1857</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+	<classCode scheme="http://vocab.getty.edu/aat/">300215389</classCode>
+      </textClass>
+      <langUsage>
+	<language ident="ger">German</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>By publishing essays on musical history and philosophy, in
+      addition to poetry, fiction, and reviews of concert and theater
+      performances, Niederrheinische Musik-Zeitung tracked the slow
+      transition from Germany's musical conservatism to the modernism
+      of Wagner and others. </p>
+
+      <p> Selected Contributors: Ludwig Bischoff.</p>
+    </body>
+  </text>
 </TEI>

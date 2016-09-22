@@ -11,7 +11,7 @@
                         <seg type="main">Ultra</seg>
                      </title>
                      <imprint>
-                        <date when="">1922</date>
+                        <date when="1922">1922</date>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -19,7 +19,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Princeton University</publisher>
-            <idno type="bmtnid">urn:PUL:bluemountain:bmtnabn</idno>
+            <idno type="bmtnid">bmtnabn</idno>
          </publicationStmt>
          <seriesStmt>
             <title level="s">The Blue Mountain Project</title>
@@ -32,14 +32,28 @@
                      <seg type="sub">kirjallistaiteellinen aikakauslehti = tidskrift för ny konst och litteratur</seg>
                   </title>
                   <imprint>
-                     <date when=""/>
+                    <date when="1922">1922</date>
                   </imprint>
                </monogr>
             </biblStruct>
          </sourceDesc>
       </fileDesc>
+          <profileDesc>
+      <textClass>
+	<classCode scheme="http://vocab.getty.edu/aat/">300215389</classCode>
+      </textClass>
+      <langUsage>
+	<language>Finnish and Swedish</language>
+      </langUsage>
+    </profileDesc>
    </teiHeader>
    <text>
-      <body/>
+      <body>
+	<p>One of the most important avant-garde magazines in
+	Scandinavia, Ultra published essays on literature, music,
+	theater, and art.</p>
+	<p>Selected Contributors: Lauri Haarla, Hagar Olsson, Raoul af
+	Hällström, Ludwig Meidner, Käthe Kollwitz, Ester Helenius.</p>
+      </body>
    </text>
 </TEI>

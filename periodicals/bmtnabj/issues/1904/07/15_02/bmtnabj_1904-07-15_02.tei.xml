@@ -13,7 +13,7 @@
                      <imprint>
                         <biblScope unit="vol">4</biblScope>
                         <biblScope unit="issue">supplement</biblScope>
-                        <date when="">15 Juillet 1904</date>
+                        <date when="1904-07-15">15 Juillet 1904</date>
                      </imprint>
                   </monogr>
                </biblStruct>
@@ -21,7 +21,7 @@
          </titleStmt>
          <publicationStmt>
             <publisher>Princeton University</publisher>
-            <idno type="bmtnid">urn:PUL:bluemountain:bmtnabj_1904-07-15_02</idno>
+            <idno type="bmtnid">bmtnabj_1904-07-15_02</idno>
          </publicationStmt>
          <seriesStmt>
             <title level="s">The Blue Mountain Project</title>
@@ -36,10 +36,10 @@
                   <imprint>
                      <biblScope unit="vol">4</biblScope>
                      <biblScope unit="issue">supplement</biblScope>
-                     <date when=""/>
+                     <date when="1904-07-15"/>
                   </imprint>
                </monogr>
-               <relatedItem type="host" target="urn:PUL:bluemountain:bmtnabj"/>
+               <relatedItem type="host" target="bmtnabj"/>
                <relatedItem type="constituent" xml:id="c001">
                   <biblStruct>
                      <analytic>
@@ -55,7 +55,7 @@
                      <monogr>
                         <imprint>
                            <classCode scheme="CCS">TextContent</classCode>
-                           <biblScope unit="page" from="1" to="4">1-4</biblScope>
+                           <biblScope unit="page">1-4</biblScope>
                         </imprint>
                      </monogr>
                      <relatedItem type="constituent" xml:id="c002">
@@ -69,7 +69,7 @@
                            <monogr>
                               <imprint>
                                  <classCode scheme="CCS">TextContent</classCode>
-                                 <biblScope unit="page" from="1" to="4">1-4</biblScope>
+                                 <biblScope unit="page">1-4</biblScope>
                               </imprint>
                            </monogr>
                            <relatedItem type="constituent" xml:id="c003">
@@ -77,6 +77,8 @@
                                  <analytic>
                                     <title level="a">
                                        <seg type="main">L'orthographe d'après la partition manuscrite de.Lulli et Ph.Quinaut,est exactement conservée.</seg>
+                                    </title>
+                                    <title level="a">
                                        <seg type="main">Ce prologue d'une grâce charmante a pour objet, de célébrer le retour du grand Roi qui revient de Hollande.</seg>
                                     </title>
                                  </analytic>
@@ -140,55 +142,712 @@
             </biblStruct>
          </sourceDesc>
       </fileDesc>
-<profileDesc>
-            <textClass>
-                <classCode scheme="http://vocab.getty.edu/aat/">300312349</classCode>        
-            </textClass>
-        </profileDesc>
    </teiHeader>
+   <facsimile>
+      <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0"
+                   type="page"
+                   xml:id="P1"
+                   ulx="0"
+                   uly="0"
+                   lrx="27760"
+                   lry="44240">
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnabj/issues/1904/07/15_02/delivery/bmtnabj_1904-07-15_02_0001.jp2"/>
+         <tei:zone type="margin"
+                   xml:id="P1_TM00001"
+                   ulx="0"
+                   uly="0"
+                   lrx="27760"
+                   lry="1100"/>
+         <tei:zone type="margin"
+                   xml:id="P1_LM00001"
+                   ulx="0"
+                   uly="1100"
+                   lrx="1040"
+                   lry="42330"/>
+         <tei:zone type="margin"
+                   xml:id="P1_RM00001"
+                   ulx="26700"
+                   uly="1100"
+                   lrx="27760"
+                   lry="42330"/>
+         <tei:zone type="margin"
+                   xml:id="P1_BM00001"
+                   ulx="0"
+                   uly="42330"
+                   lrx="27760"
+                   lry="44240">
+            <tei:zone type="TextBlock"
+                      xml:id="P1_TB00001"
+                      ulx="13820"
+                      uly="42350"
+                      lrx="14480"
+                      lry="42710">
+               <tei:zone type="TextLine"
+                         xml:id="P1_TL00001"
+                         ulx="13820"
+                         uly="42350"
+                         lrx="14480"
+                         lry="42710">
+                  <tei:zone type="String"
+                            xml:id="P1_ST00001"
+                            ulx="13820"
+                            uly="42350"
+                            lrx="14480"
+                            lry="42710">113</tei:zone>
+               </tei:zone>
+            </tei:zone>
+         </tei:zone>
+         <tei:zone type="margin"
+                   xml:id="P1_PS00001"
+                   ulx="1040"
+                   uly="1100"
+                   lrx="26700"
+                   lry="42330">
+            <tei:zone type="TextBlock"
+                      xml:id="P1_TB00002"
+                      ulx="5360"
+                      uly="1100"
+                      lrx="22420"
+                      lry="1910">
+               <tei:zone type="TextLine"
+                         xml:id="P1_TL00002"
+                         ulx="5370"
+                         uly="1110"
+                         lrx="22420"
+                         lry="1900">
+                  <tei:zone type="String"
+                            xml:id="P1_ST00002"
+                            ulx="5370"
+                            uly="1110"
+                            lrx="8960"
+                            lry="1900">Supplément</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00003"
+                            ulx="9390"
+                            uly="1230"
+                            lrx="9720"
+                            lry="1680">à</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00004"
+                            ulx="10040"
+                            uly="1160"
+                            lrx="10600"
+                            lry="1670">lu</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00005"
+                            ulx="10970"
+                            uly="1180"
+                            lrx="11360"
+                            lry="1470">(&lt;</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00006"
+                            ulx="11500"
+                            uly="1200"
+                            lrx="13370"
+                            lry="1670">Revue</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00007"
+                            ulx="13760"
+                            uly="1180"
+                            lrx="16590"
+                            lry="1680">Musicale</tei:zone>
+                  <tei:zone type="String"
+                            xml:id="P1_ST00008"
+                            ulx="17390"
+                            uly="1310"
+                            lrx="17980"
+                            lry="1670">du</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00009"
+                            ulx="18220"
+                            uly="1240"
+                            lrx="18750"
+                            lry="1700">15</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00010"
+                            ulx="19030"
+                            uly="1290"
+                            lrx="20550"
+                            lry="1680">Juillet</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00011"
+                            ulx="20910"
+                            uly="1300"
+                            lrx="22420"
+                            lry="1720">tuo4.</tei:zone>
+               </tei:zone>
+            </tei:zone>
+            <tei:zone type="TextBlock"
+                      xml:id="P1_TB00003"
+                      ulx="10550"
+                      uly="2900"
+                      lrx="17300"
+                      lry="5230">
+               <tei:zone type="TextLine"
+                         xml:id="P1_TL00003"
+                         ulx="12370"
+                         uly="2900"
+                         lrx="15640"
+                         lry="3490">
+                  <tei:zone type="String"
+                            xml:id="P1_ST00012"
+                            ulx="12370"
+                            uly="2900"
+                            lrx="15640"
+                            lry="3490">Alceste</tei:zone>
+               </tei:zone>
+               <tei:zone type="TextLine"
+                         xml:id="P1_TL00004"
+                         ulx="10760"
+                         uly="3870"
+                         lrx="17200"
+                         lry="4570">
+                  <tei:zone type="String"
+                            xml:id="P1_ST00013"
+                            ulx="10760"
+                            uly="3870"
+                            lrx="12520"
+                            lry="4570">Opéra</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00014"
+                            ulx="12880"
+                            uly="3920"
+                            lrx="13460"
+                            lry="4390">de</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00015"
+                            ulx="13770"
+                            uly="3910"
+                            lrx="17200"
+                            lry="4400">J.B.LFLLI</tei:zone>
+               </tei:zone>
+               <tei:zone type="TextLine"
+                         xml:id="P1_TL00005"
+                         ulx="10570"
+                         uly="4760"
+                         lrx="17280"
+                         lry="5230">
+                  <tei:zone type="String"
+                            xml:id="P1_ST00016"
+                            ulx="10570"
+                            uly="4760"
+                            lrx="12750"
+                            lry="5230">Représenlé</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00017"
+                            ulx="12970"
+                            uly="4790"
+                            lrx="13310"
+                            lry="5090">le</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00018"
+                            ulx="13570"
+                            uly="4790"
+                            lrx="14010"
+                            lry="5090">19</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00019"
+                            ulx="14260"
+                            uly="4760"
+                            lrx="15760"
+                            lry="5110">Janvier</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00020"
+                            ulx="16100"
+                            uly="4790"
+                            lrx="17280"
+                            lry="5090">1674.</tei:zone>
+               </tei:zone>
+            </tei:zone>
+            <tei:zone type="TextBlock"
+                      xml:id="P1_TB00004"
+                      ulx="1490"
+                      uly="5330"
+                      lrx="10720"
+                      lry="6340">
+               <tei:zone type="TextLine"
+                         xml:id="P1_TL00006"
+                         ulx="1730"
+                         uly="5360"
+                         lrx="10630"
+                         lry="5870">
+                  <tei:zone type="String"
+                            xml:id="P1_ST00021"
+                            ulx="1730"
+                            uly="5400"
+                            lrx="4360"
+                            lry="5870">L'orthographe</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00022"
+                            ulx="4670"
+                            uly="5360"
+                            lrx="5960"
+                            lry="5820">d'après</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00023"
+                            ulx="6200"
+                            uly="5380"
+                            lrx="6490"
+                            lry="5700">la</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00024"
+                            ulx="6740"
+                            uly="5370"
+                            lrx="8360"
+                            lry="5810">partition</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00025"
+                            ulx="8560"
+                            uly="5370"
+                            lrx="10630"
+                            lry="5700">manuscrite</tei:zone>
+               </tei:zone>
+               <tei:zone type="TextLine"
+                         xml:id="P1_TL00007"
+                         ulx="1500"
+                         uly="5860"
+                         lrx="10700"
+                         lry="6320">
+                  <tei:zone type="String"
+                            xml:id="P1_ST00026"
+                            ulx="1500"
+                            uly="5950"
+                            lrx="2810"
+                            lry="6300">de.Lulli</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00027"
+                            ulx="3020"
+                            uly="5970"
+                            lrx="3340"
+                            lry="6250">et</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00028"
+                            ulx="3610"
+                            uly="5920"
+                            lrx="6400"
+                            lry="6320">Ph.Quinaut,est</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00029"
+                            ulx="6570"
+                            uly="5920"
+                            lrx="8640"
+                            lry="6220">exactement</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00030"
+                            ulx="8750"
+                            uly="5860"
+                            lrx="10700"
+                            lry="6220">conservée.</tei:zone>
+               </tei:zone>
+            </tei:zone>
+            <tei:zone type="TextBlock"
+                      xml:id="P1_TB00005"
+                      ulx="19980"
+                      uly="5280"
+                      lrx="24450"
+                      lry="6400">
+               <tei:zone type="TextLine"
+                         xml:id="P1_TL00008"
+                         ulx="20170"
+                         uly="5290"
+                         lrx="24180"
+                         lry="5820">
+                  <tei:zone type="String"
+                            xml:id="P1_ST00031"
+                            ulx="20170"
+                            uly="5290"
+                            lrx="24180"
+                            lry="5820">Transcriptionde</tei:zone>
+               </tei:zone>
+               <tei:zone type="TextLine"
+                         xml:id="P1_TL00009"
+                         ulx="20020"
+                         uly="5950"
+                         lrx="24450"
+                         lry="6380">
+                  <tei:zone type="String"
+                            xml:id="P1_ST00032"
+                            ulx="20020"
+                            uly="6000"
+                            lrx="20580"
+                            lry="6380">F.</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00033"
+                            ulx="20870"
+                            uly="5950"
+                            lrx="24450"
+                            lry="6370">TESTARD.</tei:zone>
+               </tei:zone>
+            </tei:zone>
+            <tei:zone type="TextBlock"
+                      xml:id="P1_TB00006"
+                      ulx="12400"
+                      uly="5770"
+                      lrx="15630"
+                      lry="6550">
+               <tei:zone type="TextLine"
+                         xml:id="P1_TL00010"
+                         ulx="12440"
+                         uly="5790"
+                         lrx="15630"
+                         lry="6530">
+                  <tei:zone type="String"
+                            xml:id="P1_ST00034"
+                            ulx="12440"
+                            uly="5790"
+                            lrx="15630"
+                            lry="6530">Prologue</tei:zone>
+               </tei:zone>
+            </tei:zone>
+            <tei:zone type="TextBlock"
+                      xml:id="P1_TB00007"
+                      ulx="6990"
+                      uly="6630"
+                      lrx="22850"
+                      lry="7800">
+               <tei:zone type="TextLine"
+                         xml:id="P1_TL00011"
+                         ulx="7010"
+                         uly="6650"
+                         lrx="21050"
+                         lry="7180">
+                  <tei:zone type="String"
+                            xml:id="P1_ST00035"
+                            ulx="7010"
+                            uly="6710"
+                            lrx="7560"
+                            lry="7080">Ce</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00036"
+                            ulx="7830"
+                            uly="6690"
+                            lrx="10060"
+                            lry="7180">prologue</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00037"
+                            ulx="10450"
+                            uly="6650"
+                            lrx="11690"
+                            lry="7060">d'une</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00038"
+                            ulx="12030"
+                            uly="6660"
+                            lrx="13430"
+                            lry="7170">grâce</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00039"
+                            ulx="13780"
+                            uly="6690"
+                            lrx="16390"
+                            lry="7070">charmante</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00040"
+                            ulx="16780"
+                            uly="6790"
+                            lrx="17040"
+                            lry="7040">a</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00041"
+                            ulx="17390"
+                            uly="6770"
+                            lrx="18480"
+                            lry="7140">pour</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00042"
+                            ulx="18890"
+                            uly="6650"
+                            lrx="20320"
+                            lry="7160">objet,</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00043"
+                            ulx="20540"
+                            uly="6650"
+                            lrx="21050"
+                            lry="7020">de</tei:zone>
+               </tei:zone>
+               <tei:zone type="TextLine"
+                         xml:id="P1_TL00012"
+                         ulx="7040"
+                         uly="7280"
+                         lrx="21140"
+                         lry="7790">
+                  <tei:zone type="String"
+                            xml:id="P1_ST00044"
+                            ulx="7040"
+                            uly="7290"
+                            lrx="9070"
+                            lry="7700">célébrer</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00045"
+                            ulx="9360"
+                            uly="7310"
+                            lrx="9780"
+                            lry="7680">le</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00046"
+                            ulx="10040"
+                            uly="7330"
+                            lrx="11580"
+                            lry="7680">retour</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00047"
+                            ulx="11870"
+                            uly="7310"
+                            lrx="12390"
+                            lry="7670">du</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00048"
+                            ulx="12670"
+                            uly="7310"
+                            lrx="13990"
+                            lry="7770">grand</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00049"
+                            ulx="14270"
+                            uly="7300"
+                            lrx="15010"
+                            lry="7680">Roi</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00050"
+                            ulx="15320"
+                            uly="7300"
+                            lrx="16000"
+                            lry="7790">qui</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00051"
+                            ulx="16270"
+                            uly="7300"
+                            lrx="17970"
+                            lry="7660">revient</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00052"
+                            ulx="18200"
+                            uly="7300"
+                            lrx="18700"
+                            lry="7660">de</tei:zone> 
+                  <tei:zone type="String"
+                            xml:id="P1_ST00053"
+                            ulx="18920"
+                            uly="7280"
+                            lrx="21140"
+                            lry="7680">Hollande.</tei:zone>
+               </tei:zone>
+            </tei:zone>
+         </tei:zone>
+      </tei:surface>
+      <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0"
+                   type="page"
+                   xml:id="P2"
+                   ulx="0"
+                   uly="0"
+                   lrx="28270"
+                   lry="44230">
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnabj/issues/1904/07/15_02/delivery/bmtnabj_1904-07-15_02_0002.jp2"/>
+         <tei:zone type="margin"
+                   xml:id="P2_TM00001"
+                   ulx="0"
+                   uly="0"
+                   lrx="28270"
+                   lry="2260"/>
+         <tei:zone type="margin"
+                   xml:id="P2_LM00001"
+                   ulx="0"
+                   uly="2260"
+                   lrx="1100"
+                   lry="42150"/>
+         <tei:zone type="margin"
+                   xml:id="P2_RM00001"
+                   ulx="27090"
+                   uly="2260"
+                   lrx="28270"
+                   lry="42150"/>
+         <tei:zone type="margin"
+                   xml:id="P2_BM00001"
+                   ulx="0"
+                   uly="42150"
+                   lrx="28270"
+                   lry="44230">
+            <tei:zone type="TextBlock"
+                      xml:id="P2_TB00001"
+                      ulx="14140"
+                      uly="42180"
+                      lrx="14800"
+                      lry="42580">
+               <tei:zone type="TextLine"
+                         xml:id="P2_TL00001"
+                         ulx="14140"
+                         uly="42180"
+                         lrx="14800"
+                         lry="42580">
+                  <tei:zone type="String"
+                            xml:id="P2_ST00001"
+                            ulx="14140"
+                            uly="42180"
+                            lrx="14800"
+                            lry="42580">114</tei:zone>
+               </tei:zone>
+            </tei:zone>
+         </tei:zone>
+         <tei:zone type="margin"
+                   xml:id="P2_PS00001"
+                   ulx="1100"
+                   uly="2260"
+                   lrx="27090"
+                   lry="42150"/>
+      </tei:surface>
+      <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0"
+                   type="page"
+                   xml:id="P3"
+                   ulx="0"
+                   uly="0"
+                   lrx="27750"
+                   lry="43740">
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnabj/issues/1904/07/15_02/delivery/bmtnabj_1904-07-15_02_0003.jp2"/>
+         <tei:zone type="margin"
+                   xml:id="P3_TM00001"
+                   ulx="0"
+                   uly="0"
+                   lrx="27750"
+                   lry="0"/>
+         <tei:zone type="margin"
+                   xml:id="P3_LM00001"
+                   ulx="0"
+                   uly="0"
+                   lrx="0"
+                   lry="41520"/>
+         <tei:zone type="margin"
+                   xml:id="P3_RM00001"
+                   ulx="27740"
+                   uly="0"
+                   lrx="27750"
+                   lry="41520"/>
+         <tei:zone type="margin"
+                   xml:id="P3_BM00001"
+                   ulx="0"
+                   uly="41520"
+                   lrx="27750"
+                   lry="43740">
+            <tei:zone type="TextBlock"
+                      xml:id="P3_TB00001"
+                      ulx="13180"
+                      uly="41540"
+                      lrx="13760"
+                      lry="41870">
+               <tei:zone type="TextLine"
+                         xml:id="P3_TL00001"
+                         ulx="13180"
+                         uly="41540"
+                         lrx="13760"
+                         lry="41870">
+                  <tei:zone type="String"
+                            xml:id="P3_ST00001"
+                            ulx="13180"
+                            uly="41540"
+                            lrx="13760"
+                            lry="41870">115</tei:zone>
+               </tei:zone>
+            </tei:zone>
+         </tei:zone>
+         <tei:zone type="margin"
+                   xml:id="P3_PS00001"
+                   ulx="0"
+                   uly="0"
+                   lrx="27740"
+                   lry="41520"/>
+      </tei:surface>
+      <tei:surface xmlns:tei="http://www.tei-c.org/ns/1.0"
+                   type="page"
+                   xml:id="P4"
+                   ulx="0"
+                   uly="0"
+                   lrx="28100"
+                   lry="44250">
+         <tei:graphic url="file:///usr/share/BlueMountain/astore/periodicals/bmtnabj/issues/1904/07/15_02/delivery/bmtnabj_1904-07-15_02_0004.jp2"/>
+         <tei:zone type="margin"
+                   xml:id="P4_TM00001"
+                   ulx="0"
+                   uly="0"
+                   lrx="28100"
+                   lry="0"/>
+         <tei:zone type="margin"
+                   xml:id="P4_LM00001"
+                   ulx="0"
+                   uly="0"
+                   lrx="0"
+                   lry="42460"/>
+         <tei:zone type="margin"
+                   xml:id="P4_RM00001"
+                   ulx="28090"
+                   uly="0"
+                   lrx="28100"
+                   lry="42460"/>
+         <tei:zone type="margin"
+                   xml:id="P4_BM00001"
+                   ulx="0"
+                   uly="42460"
+                   lrx="28100"
+                   lry="44250">
+            <tei:zone type="TextBlock"
+                      xml:id="P4_TB00001"
+                      ulx="14340"
+                      uly="42480"
+                      lrx="15010"
+                      lry="42810">
+               <tei:zone type="TextLine"
+                         xml:id="P4_TL00001"
+                         ulx="14340"
+                         uly="42480"
+                         lrx="15010"
+                         lry="42810">
+                  <tei:zone type="String"
+                            xml:id="P4_ST00001"
+                            ulx="14340"
+                            uly="42480"
+                            lrx="15010"
+                            lry="42810">116</tei:zone>
+               </tei:zone>
+            </tei:zone>
+         </tei:zone>
+         <tei:zone type="margin"
+                   xml:id="P4_PS00001"
+                   ulx="0"
+                   uly="0"
+                   lrx="28090"
+                   lry="42460"/>
+      </tei:surface>
+   </facsimile>
    <text>
       <body>
          <div type="Magazine">
             <div type="Issue">
                <div type="PublicationInfo">
                   <div type="GenericPubInfo">
-                     <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                         xmlns:mods="http://www.loc.gov/mods/v3"
-                         facs="P1_TB00002">
+                     <ab facs="P1_TB00002">
                         <lb facs="P1_TL00002"/>Supplément à lu (&lt; Revue Musicaledu 15 Juillet tuo4.</ab>
                   </div>
                </div>
                <div type="EditorialContent">
                   <div type="TextContent" corresp="c001">
                      <div type="Head">
-                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                            xmlns:mods="http://www.loc.gov/mods/v3"
-                            facs="P1_TB00003">
+                        <ab facs="P1_TB00003">
                            <lb facs="P1_TL00003"/>Alceste<lb facs="P1_TL00004"/>Opéra de J.B.LFLLI<lb facs="P1_TL00005"/>Représenlé le 19 Janvier 1674.</ab>
                      </div>
                      <div type="Byline">
-                        <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                            xmlns:mods="http://www.loc.gov/mods/v3"
-                            facs="P1_TB00005">
+                        <ab facs="P1_TB00005">
                            <lb facs="P1_TL00008"/>Transcriptionde<lb facs="P1_TL00009"/>F. TESTARD.</ab>
                      </div>
                      <div type="TextContent" corresp="c002">
                         <div type="Head">
-                           <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                               xmlns:mods="http://www.loc.gov/mods/v3"
-                               facs="P1_TB00006">
+                           <ab facs="P1_TB00006">
                               <lb facs="P1_TL00010"/>Prologue</ab>
                         </div>
                         <div type="Music" corresp="c003">
                            <div type="Image"/>
                            <div type="Caption">
-                              <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                                  xmlns:mods="http://www.loc.gov/mods/v3"
-                                  facs="P1_TB00004">
+                              <ab facs="P1_TB00004">
                                  <lb facs="P1_TL00006"/>L'orthographe d'après la partition manuscrite<lb facs="P1_TL00007"/>de.Lulli et Ph.Quinaut,est exactement conservée.</ab>
-                              <ab xmlns:tei="http://www.tei-c.org/ns/1.0"
-                                  xmlns:mods="http://www.loc.gov/mods/v3"
-                                  facs="P1_TB00007">
+                              <ab facs="P1_TB00007">
                                  <lb facs="P1_TL00011"/>Ce prologue d'une grâce charmante a pour objet, de<lb facs="P1_TL00012"/>célébrer le retour du grand Roi qui revient de Hollande.</ab>
                            </div>
                         </div>
