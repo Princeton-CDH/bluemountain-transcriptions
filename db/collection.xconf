@@ -23,6 +23,7 @@
     <range>
       <create qname="tei:idno" type="xs:string"/>
       <create qname="@type" type="xs:string"/>
+      <create qname="@target" type="xs:string"/>
     </range>
   </index>
 </collection>
