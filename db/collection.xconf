@@ -17,11 +17,13 @@
       <text qname="tei:persName"/>
       <text qname="tei:title" />
       <text qname="tei:relatedItem" />
+      <text qname="tei:tei:classCode"/>
     </lucene>
 
     <!-- Range Indexes -->
     <range>
       <create qname="tei:idno" type="xs:string"/>
+      <create qname="tei:classCode" type="xs:string"/>
       <create qname="@type" type="xs:string"/>
       <create qname="@target" type="xs:string"/>
     </range>
